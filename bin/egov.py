@@ -45,7 +45,7 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
             href = link.get('href')
             matched = re.search(r"H_FILE_NAME=(\w+)&", href)
             filename = matched and matched.group(1) or "UNKNOWN"
-            print "%s: %s" % (filename, content)
+            print ("%s: %s" % (filename, content)).encode('utf-8')
 
     def do_get(self, line):
         """ get a document by document id """
@@ -117,8 +117,13 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         print "usage: list <category_key>\n"
         for (key, val) in self.categories:
             separator = key % 5 == 0 and "\n" or ' ' * (15 - len(val) * 2)
-            print '%02s: %s%s' % (key, val, separator),
+            print ('%02s: %s%s' % (key, val, separator)).encode('utf-8'),
 
 
 if __name__ == '__main__':
-    Egov().cmdloop()
+    import sys
+    if len(sys.argv) > 1:
+        # print ' '.join(sys.argv[1:])
+        Egov().onecmd(' '.join(sys.argv[1:]))
+    else:
+        Egov().cmdloop()
