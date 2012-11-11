@@ -5,6 +5,14 @@
 日本の法令を github で管理するプロジェクトです。
 総務省の公開している `e-Gov <http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi>`_ から法令情報を fetch して Sphinx 文書へ整形し、readthedocs で公開することを中間目標としています。
 
+------------------
+コンパイル済み文書
+------------------
+
+Readthedocs で公開しています。
+
+* http://japanese-laws.readthedocs.org/
+
 ----------------
 ディレクトリ構成
 ----------------
