@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 import re
 import cmd
+import os
+import os.path
 import lxml.html
 
 class Egov(cmd.Cmd):
     """ Interactive command line interface for e-gov. """
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     base_list_url = "http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi?H_CTG_%d=foo&H_CTG_GUN=2&H_NO_GENGO=H&H_NO_TYPE=2&H_RYAKU=1&H_YOMI_GUN=1"
     base_doc_url = "http://law.e-gov.go.jp/htmldata/%s/%s.html"
     categories = [
@@ -56,6 +59,50 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         print "get: %s" % url
         print lxml.html.tostring(doc.body, encoding='utf-8')
 
+    def do_fetch(self, line):
+        """ fetch documents from e-gov by category key and save it to raw directory.
+        usage:  fetch <category_key> """
+        try:
+            key = int(line.strip())
+            if key not in dict(self.categories).keys():
+                print "usage: fetch <category_key>"
+        except ValueError:
+            print "usage: fetch <category_key>"
+            return False
+
+        url = self.base_list_url % key
+        doc = lxml.html.parse(url).getroot()
+        for link in doc.xpath('//ol/li/p/a'):
+            content = link.text_content()
+            href = link.get('href')
+            matched = re.search(r"H_FILE_NAME=(\w+)&", href)
+            if matched:
+                document_id = matched.group(1)
+                self.do_fetchdoc(document_id)
+            else:
+                print "unexpected document: %s" % href
+
+    def do_fetchdoc(self, line):
+        """ fetch documents from e-gov by document id and save it to raw directory.
+        usage:  fetchdoc <document_id> """
+        if not line.strip():
+            print "usage: fetchdoc <document_id>\n"
+
+        key = line.strip()
+        url = self.base_doc_url % (key[:3], key)
+
+        print "fetchdoc: %s" % url
+        doc = lxml.html.parse(url).getroot()
+        content = lxml.html.tostring(doc, encoding='utf-8')
+
+        filedir = os.path.join(self.root_dir, "raw", key[:3])
+        if not os.path.exists(filedir):
+            os.makedirs(filedir)
+        filepath = os.path.join(filedir, "%s.html" % key)
+
+        f_out = open(filepath, 'w')
+        f_out.write(content)
+        f_out.close()
 
     def do_EOF(self, line):
         """ exit shell """
