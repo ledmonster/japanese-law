@@ -28,6 +28,9 @@ This is an interactive commandline interface for e-gov.
 http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
     prompt = 'egov> '
 
+    def emptyline(self):
+        self.do_help(None)
+
     def do_list(self, line):
         """ get a list of documents for category. """
         try:
