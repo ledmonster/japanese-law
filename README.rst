@@ -50,3 +50,6 @@ fetch <category_key>
 
 fetchdoc <document_id>
   指定した doc_id の文書を e-Gov から取得して、raw ディレクトリに格納します。
+
+mklist <category_key>
+  e-Gov を元にカテゴリ文書一覧用 rst ファイルを生成します。

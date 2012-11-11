@@ -33,8 +33,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         try:
             key = int(line.strip())
             if key not in dict(self.categories).keys():
+                print "usage: list <category_key>\n"
                 self._show_categories()
         except ValueError:
+            print "usage: list <category_key>\n"
             self._show_categories()
             return False
 
@@ -46,6 +48,48 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
             matched = re.search(r"H_FILE_NAME=(\w+)&", href)
             filename = matched and matched.group(1) or "UNKNOWN"
             print ("%s: %s" % (filename, content)).encode('utf-8')
+
+    def do_mklist(self, line):
+        """ make category index rst from e-gov """
+        try:
+            key = int(line.strip())
+            if key not in dict(self.categories).keys():
+                print "usage: mklist <category_key>\n"
+                self._show_categories()
+        except ValueError:
+            print "usage: mklist <category_key>\n"
+            self._show_categories()
+            return False
+
+        # lines for category rst
+        lines = list()
+
+        # title
+        title = dict(self.categories)[key]
+        lines.append("=" * (len(title) * 2))
+        lines.append(title)
+        lines.append("=" * (len(title) * 2))
+        lines.append("")
+
+        # documents
+        url = self.base_list_url % key
+        doc = lxml.html.parse(url).getroot()
+
+        for link in doc.xpath('//ol/li/p/a'):
+            doc_title = link.text_content()
+            href = link.get('href')
+            matched = re.search(r"H_FILE_NAME=(\w+)&", href)
+            if matched:
+                doc_id = matched.group(1)
+                lines.append("* :doc:`%s <../doc/%s/%s>`" % (doc_title, doc_id[:3], doc_id))
+
+        # last line
+        lines.append("")
+
+        # write to file
+        cat_dir = os.path.join(self.root_dir, "cat")
+        f = open(os.path.join(cat_dir, "%d.rst" % key), 'w')
+        f.write("\n".join(lines).encode('utf-8'))
 
     def do_get(self, line):
         """ get a document by document id """
@@ -114,7 +158,6 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
 
     def _show_categories(self):
         """ show a list of categories and their keys """
-        print "usage: list <category_key>\n"
         for (key, val) in self.categories:
             separator = key % 5 == 0 and "\n" or ' ' * (15 - len(val) * 2)
             print ('%02s: %s%s' % (key, val, separator)).encode('utf-8'),
