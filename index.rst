@@ -3,20 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 日本の法令's documentation!
-=================================
+==========
+日本の法令
+==========
 
-Contents:
+----------
+事項別分類
+----------
 
 .. toctree::
-   :maxdepth: 2
+   :glob:
 
+   cat/*
 
+-------
+License
+-------
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+* Public Domain
+* 法令の生データは `e-Gov <http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi>`_ より取得しています。
+* 本スクリプトやデータに伴って発生した不利益や問題について、何ら責任を負いません。
