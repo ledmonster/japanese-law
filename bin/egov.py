@@ -32,7 +32,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         self.do_help(None)
 
     def do_list(self, line):
-        """ get a list of documents for category. """
+        """
+        get a list of documents for category.
+        usage: list <category_key>
+        """
         try:
             key = int(line.strip())
             if key not in dict(self.categories).keys():
@@ -53,7 +56,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
             print ("%s: %s" % (filename, content)).encode('utf-8')
 
     def do_mklist(self, line):
-        """ make category index rst from e-gov """
+        """
+        make category index rst from e-gov
+        usage: mklist <category_key>
+        """
         try:
             key = int(line.strip())
             if key not in dict(self.categories).keys():
@@ -95,7 +101,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         f.write("\n".join(lines).encode('utf-8'))
 
     def do_get(self, line):
-        """ get a document by document id """
+        """
+        get a document by document id
+        usage: get <document_id>
+        """
         if not line.strip():
             print "usage: get <document_id>\n"
 
@@ -107,8 +116,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         print lxml.html.tostring(doc.body, encoding='utf-8')
 
     def do_fetch(self, line):
-        """ fetch documents from e-gov by category key and save it to raw directory.
-        usage:  fetch <category_key> """
+        """
+        fetch documents from e-gov by category key and save it to raw directory.
+        usage:  fetch <category_key>
+        """
         try:
             key = int(line.strip())
             if key not in dict(self.categories).keys():
@@ -130,8 +141,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
                 print "unexpected document: %s" % href
 
     def do_fetchdoc(self, line):
-        """ fetch documents from e-gov by document id and save it to raw directory.
-        usage:  fetchdoc <document_id> """
+        """
+        fetch documents from e-gov by document id and save it to raw directory.
+        usage:  fetchdoc <document_id>
+        """
         if not line.strip():
             print "usage: fetchdoc <document_id>\n"
 
