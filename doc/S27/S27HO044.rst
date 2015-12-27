@@ -8,7 +8,8 @@
     
     
     <b>在外公館等借入金の返済の実施に関する法律<br>
-    （昭和二十七年三月三十一日法律第四十四号）</b><br><br><div align="right">最終改正：平成一一年一二月二二日法律第一六〇号</div><br><p>
+    （昭和二十七年三月三十一日法律第四十四号）</b><br><br><div align="right">最終改正：平成一一年一二月二二日法律第一六〇号</div><br>
+    <p>
     </p><div class="arttitle"><a name="1000000000000000000000000000000000000000000000000100000000000000000000000000000">（この法律の趣旨）</a>
     </div><div class="item"><b>第一条</b>
     <a name="1000000000000000000000000000000000000000000000000100000000001000000000000000000"></a>
@@ -66,25 +67,31 @@
     
     <br><a name="5000000000000000000000000000000000000000000000000000000000000000000000000000000"></a>
     　　　<a name="5000000001000000000000000000000000000000000000000000000000000000000000000000000"><b>附　則　抄</b></a>
-    <br><p></p><div class="item"><b>１</b>
+    <br>
+    <p></p><div class="item"><b>１</b>
     　この法律は、公布の日から施行する。
     </div>
     
     <br>　　　<a name="5000000002000000000000000000000000000000000000000000000000000000000000000000000"><b>附　則　（昭和四一年六月三〇日法律第九八号）　抄</b></a>
-    <br><p></p><div class="arttitle">（施行期日）</div>
+    <br>
+    <p></p><div class="arttitle">（施行期日）</div>
     <div class="item"><b>１</b>
     　この法律は、昭和四十一年七月一日から施行する。
     </div>
     
     <br>　　　<a name="5000000003000000000000000000000000000000000000000000000000000000000000000000000"><b>附　則　（平成一一年一二月二二日法律第一六〇号）　抄</b></a>
-    <br><p>
+    <br>
+    <p>
     </p><div class="arttitle">（施行期日）</div>
     <div class="item"><b>第一条</b>
     　この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。
     </div>
     
     <br><br><a name="3000000001000000000000000000000000000000000000000000000000000000000000000000000">別表　</a>
-    <br><br>　　在外公館等借入金換算率表<br><table border><tr valign="top"><td>
+    <br>
+    <br>　　在外公館等借入金換算率表<br>
+    <table border><tr valign="top">
+    <td>
     借入金堤供地域</td>
     <td>
     現地通貨</td>
@@ -92,7 +99,10 @@
     借入金提供時期</td>
     <td>
     換算率（本邦通貨一円に対する現地通貨表示による金額）</td>
-    </tr><tr valign="top"><td rowspan="2">
+    </tr>
+    
+    <tr valign="top">
+    <td rowspan="2">
     朝鮮</td>
     <td>
     朝鮮銀行券</td>
@@ -100,13 +110,19 @@
     　</td>
     <td>
     １．５０円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     日本銀行券</td>
     <td>
     　</td>
     <td>
     １．５０円</td>
-    </tr><tr valign="top"><td rowspan="8">
+    </tr>
+    
+    <tr valign="top">
+    <td rowspan="8">
     満洲・関東州</td>
     <td>
     朝鮮銀行券</td>
@@ -114,49 +130,73 @@
     昭和２２年３月３１日以前</td>
     <td>
     １．６０円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     　</td>
     <td>
     昭和２２年４月１日以降</td>
     <td>
     １０．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     満洲中央銀行券</td>
     <td>
     昭和２２年３月３１日以前</td>
     <td>
     １．６０円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     　</td>
     <td>
     昭和２２年４月１日以降</td>
     <td>
     １０．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     東北九省流通券</td>
     <td>
     昭和２２年３月３１日以前</td>
     <td>
     １．６０円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     　</td>
     <td>
     昭和２２年４月１日以降</td>
     <td>
     １０．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     ソ連軍票</td>
     <td>
     昭和２２年３月３１日以前</td>
     <td>
     １．６０円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     　</td>
     <td>
     昭和２２年４月１日以降</td>
     <td>
     １０．００円</td>
-    </tr><tr valign="top"><td rowspan="3">
+    </tr>
+    
+    <tr valign="top">
+    <td rowspan="3">
     華北</td>
     <td>
     中国連合準備銀行券</td>
@@ -164,19 +204,28 @@
     　</td>
     <td>
     １００．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     法幣</td>
     <td>
     　</td>
     <td>
     ２０．００元</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     関金券</td>
     <td>
     　</td>
     <td>
     １．００元</td>
-    </tr><tr valign="top"><td rowspan="6">
+    </tr>
+    
+    <tr valign="top">
+    <td rowspan="6">
     華中・華　南</td>
     <td>
     中国中央儲備銀行券</td>
@@ -184,19 +233,55 @@
     　</td>
     <td>
     ２，４００．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
+    法幣</td>
+    <td>
+    　</td>
+    <td>
+    １２．００元</td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
+    関金券</td>
+    <td>
+    　</td>
+    <td>
+    ０．６０元</td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
+    アメリカ合衆国ドル</td>
+    <td>
+    　</td>
+    <td>
+    ０．０１ドル</td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     中国連合準備銀行券</td>
     <td>
     　</td>
     <td>
     １００．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     昭和十二年軍用手票</td>
     <td>
     　</td>
     <td>
     １０．００円</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     タイ国</td>
     <td>
     タイ国通貨</td>
@@ -204,7 +289,10 @@
     　</td>
     <td>
     １．００バート</td>
-    </tr><tr valign="top"><td>
+    </tr>
+    
+    <tr valign="top">
+    <td>
     仏領印度支那</td>
     <td>
     仏領印度支那通貨</td>
@@ -212,4 +300,10 @@
     　</td>
     <td>
     １．００ピアストル</td>
-    </tr></table><br><br>
+    </tr>
+    
+    </table>
+    <br>
+    <br>
+    
+    
