@@ -9,9 +9,9 @@
 コンパイル済み文書
 ------------------
 
-Readthedocs で公開しています。
+GitHub Pages で公開しています。
 
-* http://japanese-laws.readthedocs.org/
+* http://ledmonster.github.io/japanese-law/
 
 ----------------
 ディレクトリ構成
