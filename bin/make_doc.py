@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Script for creating rst files for each raw documents.
-"""
+""" Script for creating rst files for each raw documents. """
 
 import re
 import glob
@@ -48,7 +45,7 @@ def main():
         rst_lines.append('')
         rst_lines.append('.. raw:: html')
         rst_lines.append(re.sub("^", "    ", body, 0, re.MULTILINE))
-        rst_lines = filter(lambda x: x != '    ', rst_lines)
+        rst_lines = [x for x in rst_lines if x != '    ']
         rst_content = "\n".join(rst_lines).encode('utf-8')
         rst_content += '\n'
 
@@ -59,7 +56,7 @@ def main():
         rst = open(os.path.join(rst_dir, rst_file), 'w')
         rst.write(rst_content)
         rst.close()
-        print "Created %s" % os.path.join(rst_dir, rst_file)
+        print("Created %s" % os.path.join(rst_dir, rst_file))
 
 if __name__ == '__main__':
     main()

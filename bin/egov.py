@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import re
 import cmd
 import os
@@ -11,16 +10,16 @@ class Egov(cmd.Cmd):
     base_list_url = "http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi?H_CTG_%d=foo&H_CTG_GUN=2&H_NO_GENGO=H&H_NO_TYPE=2&H_RYAKU=1&H_YOMI_GUN=1"
     base_doc_url = "http://law.e-gov.go.jp/htmldata/%s/%s.html"
     categories = [
-        (1, u"憲　法"), (2, u"国　会"), (3, u"行政組織"), (4, u"国家公務員"), (5, u"行政手続"),
-        (6, u"統　計"), (7, u"地方自治"), (8, u"地方財政"), (9, u"司　法"), (10, u"民　事"),
-        (11, u"刑　事"), (12, u"警　察"), (13, u"消　防"), (14, u"国土開発"), (15, u"土　地"),
-        (16, u"都市計画"), (17, u"道　路"), (18, u"河　川"), (19, u"災害対策"), (20, u"建築・住宅"),
-        (21, u"財務通則"), (22, u"国有財産"), (23, u"国　税"), (24, u"事　業"), (25, u"国　債"),
-        (26, u"教　育"), (27, u"文　化"), (28, u"産業通則"), (29, u"農　業"), (30, u"林　業"),
-        (31, u"水産業"), (32, u"鉱　業"), (33, u"工　業"), (34, u"商　業"), (35, u"金融・保険"),
-        (36, u"外国為替・貿易"), (37, u"陸　運"), (38, u"海　運"), (39, u"航　空"), (40, u"貨物運送"),
-        (41, u"観　光"), (42, u"郵　務"), (43, u"電気通信"), (44, u"労　働"), (45, u"環境保全"),
-        (46, u"厚　生"), (47, u"社会福祉"), (48, u"社会保険"), (49, u"防　衛"), (50, u"外　事"),
+        (1, "憲　法"), (2, "国　会"), (3, "行政組織"), (4, "国家公務員"), (5, "行政手続"),
+        (6, "統　計"), (7, "地方自治"), (8, "地方財政"), (9, "司　法"), (10, "民　事"),
+        (11, "刑　事"), (12, "警　察"), (13, "消　防"), (14, "国土開発"), (15, "土　地"),
+        (16, "都市計画"), (17, "道　路"), (18, "河　川"), (19, "災害対策"), (20, "建築・住宅"),
+        (21, "財務通則"), (22, "国有財産"), (23, "国　税"), (24, "事　業"), (25, "国　債"),
+        (26, "教　育"), (27, "文　化"), (28, "産業通則"), (29, "農　業"), (30, "林　業"),
+        (31, "水産業"), (32, "鉱　業"), (33, "工　業"), (34, "商　業"), (35, "金融・保険"),
+        (36, "外国為替・貿易"), (37, "陸　運"), (38, "海　運"), (39, "航　空"), (40, "貨物運送"),
+        (41, "観　光"), (42, "郵　務"), (43, "電気通信"), (44, "労　働"), (45, "環境保全"),
+        (46, "厚　生"), (47, "社会福祉"), (48, "社会保険"), (49, "防　衛"), (50, "外　事"),
         ]
 
     intro = '''\
@@ -38,11 +37,11 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         """
         try:
             key = int(line.strip())
-            if key not in dict(self.categories).keys():
-                print "usage: list <category_key>\n"
+            if key not in list(dict(self.categories).keys()):
+                print("usage: list <category_key>\n")
                 self._show_categories()
         except ValueError:
-            print "usage: list <category_key>\n"
+            print("usage: list <category_key>\n")
             self._show_categories()
             return False
 
@@ -53,7 +52,7 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
             href = link.get('href')
             matched = re.search(r"H_FILE_NAME=(\w+)&", href)
             filename = matched and matched.group(1) or "UNKNOWN"
-            print ("%s: %s" % (filename, content)).encode('utf-8')
+            print(("%s: %s" % (filename, content)))
 
     def do_mklist(self, line):
         """
@@ -62,11 +61,11 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         """
         try:
             key = int(line.strip())
-            if key not in dict(self.categories).keys():
-                print "usage: mklist <category_key>\n"
+            if key not in list(dict(self.categories).keys()):
+                print("usage: mklist <category_key>\n")
                 self._show_categories()
         except ValueError:
-            print "usage: mklist <category_key>\n"
+            print("usage: mklist <category_key>\n")
             self._show_categories()
             return False
 
@@ -98,7 +97,7 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         # write to file
         cat_dir = os.path.join(self.root_dir, "cat")
         f = open(os.path.join(cat_dir, "%d.rst" % key), 'w')
-        f.write("\n".join(lines).encode('utf-8'))
+        f.write("\n".join(lines))
 
     def do_get(self, line):
         """
@@ -106,14 +105,14 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         usage: get <document_id>
         """
         if not line.strip():
-            print "usage: get <document_id>\n"
+            print("usage: get <document_id>\n")
 
         key = line.strip()
         url = self.base_doc_url % (key[:3], key)
         doc = lxml.html.parse(url).getroot()
 
-        print "get: %s" % url
-        print lxml.html.tostring(doc.body, encoding='utf-8')
+        print("get: %s" % url)
+        print(lxml.html.tostring(doc.body, encoding='utf-8'))
 
     def do_fetch(self, line):
         """
@@ -122,10 +121,10 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         """
         try:
             key = int(line.strip())
-            if key not in dict(self.categories).keys():
-                print "usage: fetch <category_key>"
+            if key not in list(dict(self.categories).keys()):
+                print("usage: fetch <category_key>")
         except ValueError:
-            print "usage: fetch <category_key>"
+            print("usage: fetch <category_key>")
             return False
 
         url = self.base_list_url % key
@@ -138,7 +137,7 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
                 document_id = matched.group(1)
                 self.do_fetchdoc(document_id)
             else:
-                print "unexpected document: %s" % href
+                print("unexpected document: %s" % href)
 
     def do_fetchdoc(self, line):
         """
@@ -146,12 +145,12 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         usage:  fetchdoc <document_id>
         """
         if not line.strip():
-            print "usage: fetchdoc <document_id>\n"
+            print("usage: fetchdoc <document_id>\n")
 
         key = line.strip()
         url = self.base_doc_url % (key[:3], key)
 
-        print "fetchdoc: %s" % url
+        print("fetchdoc: %s" % url)
         doc = lxml.html.parse(url).getroot()
         content = lxml.html.tostring(doc, encoding='utf-8')
 
@@ -176,7 +175,7 @@ http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi '''
         """ show a list of categories and their keys """
         for (key, val) in self.categories:
             separator = key % 5 == 0 and "\n" or ' ' * (15 - len(val) * 2)
-            print ('%02s: %s%s' % (key, val, separator)).encode('utf-8'),
+            print(('%02s: %s%s' % (key, val, separator)), end=' ')
 
 
 if __name__ == '__main__':
