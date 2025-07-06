@@ -1,0 +1,432 @@
+.. _417M60001000009_20240401_506M60001000006:
+
+:orphan:
+
+========================================================================================================
+環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則
+========================================================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十七年環境省令第九号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律（平成十六年法律第百四十九号）第三条第一項、第四条第一項及び第六条第一項並びに民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行令（平成十七年政令第八号）第二条第一項の規定に基づき、並びに同法及び環境省の所管する関係法令を実施するため、環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（趣旨）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">民間事業者等が、環境省の所管する法令に係る保存等を、電磁的記録を使用して行う場合については、他の法律及び法律に基づく命令（告示を含む。）に特別の定めのある場合を除くほか、この規則の定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この規則において使用する用語は、特別の定めのある場合を除くほか、民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律（以下「法」という。）において使用する用語の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第三条第一項の主務省令で定める保存）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第三条第一項の主務省令で定める保存は、別表第一の上欄に掲げる法令の同表の下欄に掲げる規定に基づく書面の保存とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的記録による保存）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">民間事業者等が、法第三条第一項の規定に基づき、別表第一の上欄に掲げる法令の同表の下欄に掲げる規定に基づく書面の保存に代えて当該書面に係る電磁的記録の保存を行う場合は、次に掲げる方法のいずれかにより行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">作成された電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下同じ。）をもって調製するファイルにより保存する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">書面に記載されている事項をスキャナ（これに準ずる画像読取装置を含む。）により読み取ってできた電磁的記録を民間事業者等の使用に係る電子計算機に備えられたファイル又は電磁的記録媒体をもって調製するファイルにより保存する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">民間事業者等が、前項各号の規定に基づく電磁的記録の保存を行う場合は、必要に応じ電磁的記録に記録された事項を出力することにより、直ちに整然とした形式及び明瞭な状態で使用に係る電子計算機その他の機器に表示及び書面を作成できなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">別表第一の上欄に掲げる法令の同表の下欄に掲げる規定に基づき、同一内容の書面を二以上の事務所等（書面又は電磁的記録の保存が義務付けられている場所をいう。以下同じ。）に保存をしなければならないとされている民間事業者等が、第一項の規定に基づき、当該二以上の事務所等のうち、一の事務所等に当該書面に係る電磁的記録の保存を行うとともに、当該電磁的記録に記録されている事項を他の事務所等に備え付けた電子計算機の映像面に表示及び書面を作成できる措置を講じた場合は、当該他の事務所等に当該書面の保存が行われたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第四条第一項の主務省令で定める作成）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第四条第一項の主務省令で定める作成は、別表第二の上欄に掲げる法令の同表の下欄に掲げる規定に基づく書面の作成とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的記録による作成）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">民間事業者等が、法第四条第一項の規定に基づき、別表第二の上欄に掲げる法令の同表の下欄に掲げる規定に基づく書面の作成に代えて当該書面に係る電磁的記録の作成を行う場合は、当該民間事業者等の使用に係る電子計算機に備えられたファイルに記録する方法又は電磁的記録媒体をもって調製する方法により作成を行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第五条第一項の主務省令で定める縦覧等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第五条第一項の主務省令で定める縦覧等は、廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）第八条の四、第九条の十第八項、第十五条の二の四及び第十五条の四の四第三項、土壌汚染対策法（平成十四年法律第五十三号）第二十二条第八項並びに汚染土壌処理業に関する省令（平成二十一年環境省令第十号）第六条の規定に基づく縦覧等とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的記録による縦覧等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">民間事業者等が、法第五条第一項の規定に基づき、前条に規定する書面の縦覧等に代えて当該書面に係る電磁的記録に記録されている事項の縦覧等を行う場合は、当該縦覧等に係る事項をインターネットを利用する方法、当該民間事業者等の事務所に備え置く電子計算機の映像面に表示する方法又は電磁的記録に記録されている事項を記載した書面による方法により行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第六条第一項の主務省令で定める交付等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法第六条第一項の主務省令で定める交付等は、大気汚染防止法（昭和四十三年法律第九十七号）第十八条の十五第一項、廃棄物の処理及び清掃に関する法律第十二条第九項、第十二条の二第十項、第十四条第十三項、第十四条の二第四項、第十四条の三の二第三項（第十四条の六において準用する場合を含む。）、第十四条の四第十三項及び第十四条の五第四項、土壌汚染対策法第二十条第一項（同条第二項及び第九項において準用する場合並びに汚染土壌処理業に関する省令第五条第二十三号及び第十三条第一項第一号の規定によりその例によるものとされる場合を含む。）、第三項（同条第九項において準用する場合を含む。）及び第四項（同条第九項において準用する場合及び汚染土壌処理業に関する省令第五条第二十四号の規定によりその例によるものとされる場合を含む。）並びに廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号）第六条の十二第二号（第六条の十五第二号において、その規定の例によることとされる場合を含む。）、廃棄物の処理及び清掃に関する法律施行規則（昭和四十六年厚生省令第三十五号）第八条の四の六及び第八条の十七の三並びに土壌汚染対策法施行規則（平成十四年環境省令第二十九号）第六十五条第十四号、第六十六条第一号（第七十六条の二において準用する場合を含む。）及び第二号（第七十六条の二において準用する場合を含む。）の規定に基づく書面の交付等とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的記録による交付等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">民間事業者等が、法第六条第一項の規定に基づき、前条に規定する書面の交付等に代えて当該書面に係る電磁的記録に記録されている事項の交付等を行う場合は、次に掲げる方法により行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">電子情報処理組織を使用する方法のうちイ又はロに掲げるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">民間事業者等の使用に係る電子計算機と交付等の相手方の使用に係る電子計算機とを接続する電気通信回線を通じて送信し、受信者の使用に係る電子計算機に備えられたファイルに記録する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">民間事業者等の使用に係る電子計算機に備えられたファイルに記録された書面に記載すべき事項を電気通信回線を通じて交付等の相手方の閲覧に供し、当該相手方の使用に係る電子計算機に備えられたファイルに当該事項を記録する方法（法第六条第一項に規定する方法による交付等を受ける旨の承諾又は受けない旨の申出をする場合にあっては、民間事業者等の使用に係る電子計算機に備えられたファイルにその旨を記録する方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">電磁的記録媒体をもって調製するファイルに書面に記載すべき事項を記録したものを交付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に掲げる方法は、交付等の相手方がファイルへの記録を出力することによる書面を作成することができるものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的方法による承諾）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行令第二条第一項の規定により示すべき方法の種類及び内容は、次に掲げる事項とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">前条第一項に規定する方法のうち民間事業者等が使用するもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">ファイルへの記録の方式</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則は平成十七年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この規則の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一八年一二月二〇日環境省令第三八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成十九年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年九月二八日環境省令第二六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成十九年九月三十日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年一二月一日環境省令第一六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成二十年十二月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部改正に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">一般社団法人及び一般財団法人に関する法律及び公益社団法人及び公益財団法人の認定等に関する法律の施行に伴う関係法律の整備等に関する法律（平成十八年法律第五十号）第九十五条の規定により業務の監督についてなお従前の例によることとされた同法第四十二条第二項に規定する特例民法法人に係る環境大臣の所管に属する公益法人の設立及び監督に関する省令第九条に基づく書面の保存に代えて行われる当該書面に係る電磁的記録の保存については、第七条の規定による改正後の環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則別表第一の規定にかかわらず、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年一月二八日環境省令第一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成二十三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年三月六日環境省令第五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、使用済小型電子機器等の再資源化の促進に関する法律施行令（平成二十五年政令第四十五号）の施行の日（平成二十五年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年一二月二七日環境省令第三二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、土壌汚染対策法の一部を改正する法律（平成二十九年法律第三十三号）附則第一条第二号に掲げる規定の施行の日（平成三十年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年二月二二日環境省令第二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成三十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年八月一六日環境省令第一七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年一〇月一五日環境省令第二五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、大気汚染防止法の一部を改正する法律（次条において「改正法」という。）の施行の日（令和三年四月一日）から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第二条及び第六条の規定</span>　<span data-xpath="">令和四年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第三条及び第七条の規定</span>　<span data-xpath="">令和五年十月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年一二月二八日環境省令第三二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年一月一九日環境省令第一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、法の施行の日（令和四年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年二月二〇日環境省令第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><span data-xpath="">ただし、第二条の規定は、令和六年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別表第一（第三条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">大気汚染防止法（昭和四十三年法律第九十七号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十八条の十五第三項及び第十八条の二十三第一項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第七条第十五項及び第十六項（第九条の八第五項（第十五条の四の二第三項において準用する場合を含む。）、第九条の九第五項（第十五条の四の三第三項において準用する場合を含む。）及び第九条の十第五項（第十五条の四の四第三項において準用する場合を含む。）においてみなして適用する場合を含み、第十二条第十三項、第十二条の二第十四項、第十四条第十七項及び第十四条の四第十八項において準用する場合を含む。）、第十三条の八、第十四条第十四項、第十四条の二第五項（第十四条の三の二第四項（第十四条の六において準用する場合を含む。）及び第十四条の五第五項において準用する場合を含む。）並びに第十四条の四第十四項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">浄化槽法（昭和五十八年法律第四十三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四十条、第四十六条の二において準用する第四十三条の九及び第四十三条の二十二</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">土壌汚染対策法（平成十四年法律第五十三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二十条第五項、第七項及び第八項（いずれも同条第九項において準用する場合を含む。）、第二十二条第八項並びに第三十八条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一号ニ（第六条第一項第一号及び第六条の五第一項第一号においてその規定の例によることとする場合を含む。）、第六条第一項第一号イ（第六条の五第一項第一号においてその規定の例によることとする場合を含む。）、第六条の二第四号及び第五号（第六条の六第二号、第六条の十二第四号及び第六条の十五第二号において、それらの規定の例によることとする場合を含む。）並びに第六条の二第六号（第六条の六第二号においてその規定の例によることとする場合を含む。）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">使用済小型電子機器等の再資源化の促進に関する法律施行令（平成二十五年政令第四十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四条第二号及び第三号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">プラスチックに係る資源循環の促進等に関する法律施行令（令和四年政令第二十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十四条第二号及び第三号並びに第二十条第二号及び第三号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">水質汚濁防止法施行規則（昭和四十六年総理府・通商産業省令第二号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第九条第九号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">大気汚染防止法施行規則（昭和四十六年厚生省・通商産業省令第一号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十六条の八第二項、第十六条の十六第二項及び第十六条の十七</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律施行規則（昭和四十六年厚生省令第三十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六条の十九第二項、第十条の七第一号ニ及びヘ並びに第十三条の十二第一項から第三項まで</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">公害健康被害の補償等に関する法律施行規程（昭和四十九年総理府・通商産業省令第四号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十九条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">環境大臣の所管に属する公益信託の引受けの許可及び監督に関する省令（平成十二年総理府令第九十八号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二十八条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">土壌汚染対策法施行規則（平成十四年環境省令第二十九号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六十五条第四号及び第六十六条第三号（第七十六条の二の規定により読み替えて適用する場合を含む。）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">環境省関係石綿による健康被害の救済に関する法律施行規則（平成十八年環境省令第三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三十九条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">汚染土壌処理業に関する省令（平成二十一年環境省令第十号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法施行規則（平成二十三年環境省令第三十三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二十三条第一項第四号ハ及び第五十七条第二号</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別表第二（第五条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第七条第十五項（第九条の八第五項（第十五条の四の二第三項において準用する場合を含む。）、第九条の九第五項（第十五条の四の三第三項において準用する場合を含む。）及び第九条の十第五項（第十五条の四の四第三項において準用する場合を含む。）においてみなして適用する場合を含み、第十二条第十三項、第十二条の二第十四項、第十四条第十七項及び第十四条の四第十八項において準用する場合を含む。）、第十二条第九項、第十二条の二第十項、第十三条の八及び第二十一条の三第三項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">浄化槽法（昭和五十八年法律第四十三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四十条</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">土壌汚染対策法（平成十四年法律第五十三号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二十条第一項（同条第二項及び第九項において準用する場合並びに汚染土壌処理業に関する省令（平成二十一年環境省令第十号）第五条第二十三号及び第十三条第一項第一号の規定によりその例によるものとされる場合を含む。）、第三項（同条第九項において準用する場合を含む。）及び第四項（同条第九項において準用する場合及び汚染土壌処理業に関する省令第五条第二十四号の規定によりその例によるものとされる場合を含む。）並びに第二十二条第八項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六条の二第四号（第六条の六第二号、第六条の十二第四号及び第六条の十五第二号においてその規定の例によることとする場合を含む。）、第六条の二第六号（第六条の六第二号においてその規定の例によることとする場合を含む。）並びに第六条の十二第一号及び第二号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">使用済小型電子機器等の再資源化の促進に関する法律施行令（平成二十五年政令第四十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四条第一号及び第二号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">プラスチックに係る資源循環の促進等に関する法律施行令（令和四年政令第二十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十四条第一号及び第二号並びに第二十条第一号及び第二号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">廃棄物の処理及び清掃に関する法律施行規則（昭和四十六年厚生省令第三十五号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条の四の六、第八条の十七の三、第十条の七第一号ハ及びホ並びに第十三条の十二第一項及び第二項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">土壌汚染対策法施行規則（平成十四年環境省令第二十九号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六十五条第十三号及び第十四号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一般廃棄物収集運搬業、産業廃棄物収集運搬業及び特別管理産業廃棄物収集運搬業の許可を要しない者並びに産業廃棄物管理票の交付を要しない場合に関する廃棄物の処理及び清掃に関する法律施行規則の特例を定める省令（平成二十七年環境省令第四号）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二条第二号ロ及び第三号ハ、第四条第二号ロ及び第三号ハ並びに第五条第二号ロ及び第三号ハ</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

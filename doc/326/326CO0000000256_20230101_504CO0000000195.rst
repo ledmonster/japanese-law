@@ -1,0 +1,1332 @@
+.. _326CO0000000256_20230101_504CO0000000195:
+
+:orphan:
+
+============
+自動車登録令
+============
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和二十六年政令第二百五十六号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">自動車登録令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">内閣は、道路運送車両法（昭和二十六年法律第百八十五号）第二十三条及び第三十九条第一項並びに自動車抵当法（昭和二十六年法律第百八十七号）第五条第二項の規定に基き、並びにこれらの法律を実施するため、この政令を制定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+    <span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条―第五条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　自動車登録ファイル及び電子情報処理組織<span data-xpath="">（第六条―第八条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第三章　登録等の手続</div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［1］／SectionTitle［1］">第一節　通則<span data-xpath="">（第九条―第三十八条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［2］／SectionTitle［1］">第二節　自動車の登録等<span data-xpath="">（第三十九条―第四十八条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［3］／SectionTitle［1］">第三節　抵当権の登録<span data-xpath="">（第四十九条―第六十条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［4］／SectionTitle［1］">第四節　信託に関する登録<span data-xpath="">（第六十一条―第六十九条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+    <span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第一章　総則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（目的）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、道路運送車両法（昭和二十六年法律第百八十五号）による自動車の登録等及び自動車抵当法（昭和二十六年法律第百八十七号）による自動車の抵当権の登録に関する事項を定めることを目的とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（付記登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">次に掲げる登録は、付記登録とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">登録名義人の表示の変更の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">一部が抹消された登録の回復の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">自動車の変更登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">抵当権の移転の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">信託による抵当権の変更の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">自動車抵当法第十九条の二第二項において準用する民法（明治二十九年法律第八十九号）第三百九十八条の八第一項又は第二項の合意の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">次に掲げる登録は、登録上利害関係を有する第三者がないとき、又は登録上利害関係を有する第三者の承諾書若しくはこれに対抗することができる裁判の謄本が提出されたときに限り、付記登録とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">更正の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">抵当権の変更の登録（信託による抵当権の変更の登録を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（順位）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">附記登録の順位は、主登録の順位により、附記登録間の順位は、その前後による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録の欠缺を主張できない者）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">詐欺又は強迫によつて登録の申請を妨げた第三者は、その登録の欠缺を主張することができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">他人のため登録を申請する義務がある者は、その登録の欠缺を主張することができない。</span><span data-xpath="">但し、その登録の原因が自己の登録の原因の後に発生したときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章　自動車登録ファイル及び電子情報処理組織</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（自動車登録ファイル等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">自動車登録ファイルは、現在記録ファイル及び保存記録ファイルとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">現在記録ファイルには、自動車に関する登録に係る登録事項で現に効力を有すべきもの及び道路運送車両法第十五条の二第一項ただし書の届出に関する事項その他の国土交通省令で定める事項を記録する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">保存記録ファイルには、現在記録ファイルに記録した自動車に関する登録に係る登録事項で抹消したもの並びに道路運送車両法第十六条第二項及び第四項の届出に関する事項その他の国土交通省令で定める事項を記録する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">国土交通大臣は、自動車登録ファイルに記録した事項と同一の事項を記録する副自動車登録ファイルを調製しておくものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">道路運送車両法第六条第一項の電子情報処理組織（次項において単に「電子情報処理組織」という。）により自動車登録ファイルにする登録等（登録並びに前条第二項及び第三項の国土交通省令で定める事項の記録その他の自動車登録ファイルの正確な記録を確保するための措置をいう。以下同じ。）に関する事務の処理は、オンライン・リアルタイム処理方式による。</span><span data-xpath="">ただし、同法第二十二条第一項の規定による登録事項等証明書の交付に関する事務で国土交通省令で定めるものの処理については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">自動車登録ファイルにする登録等に関する事務の処理のための電子情報処理組織への入力はＯＣＲ（光学的文字読取装置をいう。）を用い又は電気通信回線を通じて行い、その出力は印字又は電磁的方法（電子的方法、磁気的方法その他人の知覚によつて認識することができない方法をいう。）により行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録等事項の略号化）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条の二</span>　<span data-xpath="">自動車登録ファイルの登録等に関する事項（以下「登録等事項」という。）の一部は、国土交通省令で定めるところにより、略号にして記録することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録等事項の表示に用いる文字等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">自動車登録ファイルの登録等事項は、漢字、平仮名、片仮名、アラビア数字、ローマ字及び国土交通省令で定める記号により表示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章　登録等の手続</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Sectiot"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第一節　通則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録を行う場合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">登録は、法令に別段の定がある場合を除く外、申請又は嘱託（通知を含む。）がなければ、これをしてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">申請による登録に関する規定は、法令に別段の定がある場合を除く外、嘱託（通知を含む。）による登録の手続に準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（共同申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">登録は、登録権利者及び登録義務者又はこれらの者の代理人が運輸監理部又は運輸支局に出頭して申請しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（単独申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">判決による登録、相続その他の一般承継による登録並びに自動車の新規登録、永久抹消登録、輸出抹消仮登録及び一時抹消登録は、登録権利者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">自動車の変更登録は、登録名義人だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">自動車の抵当権の登録名義人の表示の変更又は自動車の抵当権の登録名義人と自動車の登録名義人とが同一人となつた場合の抵当権の<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消の登録は、登録名義人だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（申請手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">登録の申請をする者（以下「申請人」という。）は、申請書に次に掲げる書面を添えて提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">登録の原因を証する書面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">登録の原因について第三者の許可、同意又は承諾を要するときは、これを証する書面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">代理人により登録の申請をするときは、その権限を証する書面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項第一号の書面が執行力のある判決であるときは、同項第二号の書面を提出しなくてもよい。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">申請人は、道路運送車両法第三十三条第四項の規定により譲渡証明書に記載すべき事項が登録情報処理機関に提供されたときは、国土交通省令で定めるところにより、第一項の申請書にその旨を記載することをもつて同項第一号の書面（譲渡証明書に限る。）の提出に代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前項の規定により譲渡証明書に記載すべき事項が登録情報処理機関に提供されたことが第一項の申請書に記載されたときは、国土交通大臣は、登録情報処理機関に対し、国土交通省令で定めるところにより、必要な事項を照会するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（申請書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">申請書には、申請人の氏名又は名称その他の国土交通省令で定める事項を記載し、申請人がこれに押印しなければならない。</span><span data-xpath="">ただし、自動車の変更登録又は更正の登録の申請書にあつては申請人が、抹消した登録の回復又は抵当権の登録の申請書にあつては登録権利者である申請人が、押印することを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">申請書の様式及び記載方法は、国土交通省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（印鑑に関する証明書の添付）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">前条第一項の規定により押印した申請書には、やむを得ない場合を除き、申請人及びその第三者（第十四条第一項第二号の書面を提出する場合に限る。）の印鑑に関する証明書（住所地の市町村長（特別区の区長を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあつては、市長又は区長若しくは総合区長とする。）又は登記官が作成するものに限る。以下同じ。）を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定は、申請人又はその第三者が国又は地方公共団体である場合には、適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の印鑑に関する証明書は、作成後三月以内のものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（同意書等の省略）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十七条</span>　<span data-xpath="">申請書に第三者の許可、同意又は承諾を証する書面を添えて提出することを要する場合において、申請書にその第三者が記名押印したときは、その書面を提出することを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する場合においては、やむを得ない場合を除き、その申請書に、その第三者の印鑑に関する証明書を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の規定は、その第三者が国又は地方公共団体である場合には、適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第二項の印鑑に関する証明書は、作成後三月以内のものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（戸籍謄本等の提出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十八条</span>　<span data-xpath="">次に掲げる場合には、申請書にその事実を証する戸籍の謄本若しくは抄本若しくは登記事項証明書又はこれを証するに足るその他の書面を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">登録の原因が相続その他の一般承継であるとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">申請人が登録権利者又は登録義務者の相続人その他の一般承継人であるとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">登録名義人の表示の変更の登録の申請をするとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（債権者の代位）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十九条</span>　<span data-xpath="">債権者は、民法第四百二十三条第一項又は第四百二十三条の七の規定により債務者に代位して登録の申請をする場合には、申請書に債権者及び債務者の氏名又は名称及び住所並びに代位の原因を記載し、かつ、これに代位の原因を証する書面を添えて提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（申請の受理をしない場合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録の申請が次に掲げる場合に該当するときは、その申請を受理してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">使用の本拠の所在地がその管轄に属しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">登録の申請をした事項が登録をすべきものでないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合を除くほか、当事者が出頭しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">申請が方式に適合しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">道路運送車両法第七条第六項又は同法第十二条第二項（同法第十三条第三項において準用する場合を含む。）の規定に違反するとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">申請書に記載した抵当権の表示が登録されている事項と符合しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">第十八条第二号に規定する場合を除くほか、申請書に記載した登録義務者又は登録名義人の表示が登録されている事項と符合しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">その他申請書に記載した事項のうち国土交通省令で定める事項が登録されている事項と符合しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">登録の手数料又は登録免許税を納付しないとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録の申請を受理する前に、その申請が道路運送車両法第八条（同法第十二条第三項において準用する場合を含む。）、同法第十三条第二項又は次条第一項の規定により登録すべきものでないと認めるときは、これを受理しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録の申請を受理しないときは、申請人に対し、その理由を示さなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録をしない場合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、新規登録、変更登録及び移転登録以外の登録の申請を受理した場合において、その申請について道路運送車両法第八条第四号に掲げる事由があるときは、これを登録しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録の申請を受理した場合において、その申請について道路運送車両法第八条第四号に掲げる事由の有無を審査するときは、次に掲げる事項について審査しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">申請書に記載した事項が登録の原因を証する書面と符合するかどうか。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">申請書及び添付書類に記載した事項が真正なものであると認められるかどうか。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">提示された自動車の車台番号又は原動機の型式の打刻が真正なものであると認められるかどうか。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録の申請を受理した場合において、その登録をしないこととしたときは、その理由を示して、その旨を申請人に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録の順序）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">一の運輸監理部又は運輸支局において一の自動車に関し二以上の登録の申請があつたときは、これらの登録は、これらの申請を受理した順序に従つてしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（行政区画の名称等の変更）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">行政区画又は土地の名称の変更があつたときは、当該行政区画又は土地の名称に係る登録等は、変更後の行政区画又は土地の名称に変更されたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（更正登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録を完了した後、その登録について錯誤又は脱落があることを発見した場合において、錯誤又は脱落が運輸監理部長又は運輸支局長の過誤に基づくものであるときは、更正の登録をし、その旨を登録権利者及び登録義務者又は登録名義人に通知しなければならない。</span><span data-xpath="">ただし、登録上利害関係を有する第三者がある場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、前項の更正の登録（道路運送車両法第七条第一項第一号、第二号、第三号若しくは第五号に掲げる事項又は自動車登録番号に係るものを除く。）をしようとするときは、あらかじめ、地方運輸局長の許可を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、前条の規定により更正の登録をする場合を除くほか、登録を完了した後、その登録について錯誤又は脱落があることを発見したときは、その旨を登録権利者及び登録義務者又は登録名義人に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十七条</span>　<span data-xpath="">前二条の通知は、登録が第十九条の規定による申請に係るものであるときは、債権者にも、これをしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十八条</span>　<span data-xpath="">登録について錯誤又は脱落がある場合には、当該登録の申請人は、運輸監理部長又は運輸支局長に対し、更正の登録を申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録の抹消）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十九条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、登録を完了した後、その登録が第二十一条第一項第一号若しくは第二号又は道路運送車両法第八条第一号に掲げる事由に該当することを発見したときは、登録権利者、登録義務者、登録名義人及び登録上利害関係を有する第三者に対し、一箇月以内の期間を定め、その期間内に異議を述べないときは、その登録を抹消すべき旨を通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">通知を受けるべき者の住所又は居所が不明のときは、前項の通知に代えて、官報で公告をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、官報のほか相当と認める新聞紙に同一の公告を掲載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十条</span>　<span data-xpath="">前条の規定により異議を述べる者があつたときは、運輸監理部長又は運輸支局長は、その異議について決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十一条</span>　<span data-xpath="">異議を述べる者がないとき、又は異議を却下したときは、運輸監理部長又は運輸支局長は、第二十九条第一項に規定する登録を抹消しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十二条</span>　<span data-xpath="">登録の<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消の申請をする場合において、その<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消について登録上利害関係を有する第三者があるときは、申請書に添えてその者の承諾書又はこれに対抗することができる裁判の謄本を添附しなければならない。</span><span data-xpath="">但し、道路運送車両法第十五条第一項第一号に規定する自動車の滅失により申請をする場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十二条の二</span>　<span data-xpath="">登録自動車の所有権について民事保全法（平成元年法律第九十一号）第五十四条において準用する同法第五十三条第一項の規定による仮処分の登録（同法第五十四条において準用する同法第五十三条第二項の規定による仮処分による仮登録（以下「保全仮登録」という。）とともにしたものを除く。以下この条及び次条において同じ。）をした後、その仮処分の債権者がその仮処分の債務者を登録義務者として自動車の登録を申請する場合においては、その債権者だけでその仮処分の登録に後れる登録の抹消を申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により登録の抹消を申請する場合には、申請書に民事保全法第六十一条において準用する同法第五十九条第一項の規定による通知をしたことを証する書面を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、第一項の規定により仮処分の登録に後れる登録を抹消したときは、その仮処分の登録を抹消しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十二条の三</span>　<span data-xpath="">前条第一項及び第二項の規定は、登録自動車の抵当権について民事保全法第五十四条において準用する同法第五十三条第一項の規定による仮処分の登録をした後、その仮処分の債権者がその仮処分の債務者を登録義務者として抵当権の移転又は消滅の登録を申請する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前条第三項の規定は、前項において準用する同条第一項の規定により仮処分の登録に後れる登録を抹消した場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十二条の四</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、保全仮登録をした後、本登録をしたときは、その保全仮登録及びこれとともにした処分禁止の登録を抹消しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消した登録の回復）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十三条</span>　<span data-xpath=""><ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消した登録の回復の申請をする場合において、登録上利害関係を有する第三者があるときは、申請書に添えて、その者の承諾書又はこれに対抗することができる裁判の謄本を提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（予告登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十四条</span>　<span data-xpath="">予告登録は、登録自動車に係る登録の原因の無効又は取消による登録の<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消又は回復について訴の提起があつた場合にするものとする。</span><span data-xpath="">但し、登録の原因の取消による訴については、その取消をもつて善意の第三者に対抗することができる場合に限る。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（予告登録の嘱託）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十五条</span>　<span data-xpath="">裁判所書記官は、前条に規定する訴えの提起があつたときは、職権で、嘱託書に訴状の謄本又は抄本を添付して、予告登録を運輸監理部長又は運輸支局長に嘱託しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（予告登録の抹消）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十六条</span>　<span data-xpath="">第一審裁判所の裁判所書記官は、第三十四条の訴えを却下した裁判若しくはこれを提起した者に対して敗訴を言い渡した裁判が確定したとき、訴えの取下げがあつたとき、請求の放棄があつたとき、又は請求の目的について和解があつたときは、職権で、嘱託書に裁判の謄本若しくは抄本又は訴えの取下げ、請求の放棄若しくは和解を証する書面を添付して、予告登録の抹消を運輸監理部長又は運輸支局長に嘱託しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（自動車登録ファイルの登録等の回復）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十六条の二</span>　<span data-xpath="">国土交通大臣は、自動車登録ファイルの登録等事項の記録の全部又は一部が滅失したときは、副自動車登録ファイルの記録により登録等の回復をする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">国土交通大臣は、副自動車登録ファイルの記録がないため前項の規定により登録等の回復をすることができないときは、記録の滅失した自動車の範囲及び登録等の回復の申請をすることができる期間（三月を下らない期間とする。）を告示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の規定により告示された範囲の自動車に係る登録名義人（一時抹消登録を受けた自動車にあつては、当該一時抹消登録の申請が行われた時における当該自動車の所有者又は道路運送車両法第十八条第三項の規定により当該自動車の新所有者として記録を受けた者）は、同項の規定により告示された期間内に、運輸監理部長又は運輸支局長に対し、登録等の回復の申請をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、前項の申請に基づき、登録等の回復をする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">回復された登録の順位は、滅失前の登録の順位による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第一項の規定により登録等の回復をするまでの間における自動車に関する登録等は、副自動車登録ファイルに行う。</span><span data-xpath="">この場合においては、副自動車登録ファイルを自動車登録ファイルとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（申請書等の記載）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十七条</span>　<span data-xpath="">申請書その他登録等の申請又は届出に関する書面を作成する場合には、文字、記号等を明確に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する場合（申請書を作成する場合を除く。）において、文字を改め、加え、又は削つたときは、その字数を国土交通省令で定める箇所に記載しなければならない。</span><span data-xpath="">その削除に係る文字は、なお読むことができるように字体を残さなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の場合において、第十四条第一項第二号の書面及び同項第三号の書面（第十五条第一項ただし書に規定する申請人の代理人に係るものを除く。）については、その字数を記載した箇所に押印しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国土交通省令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十八条</span>　<span data-xpath="">この政令に定めるもののほか、自動車に関する登録等の実施及び登録等の回復に関して必要な事項は、国土交通省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第二節　自動車の登録等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十九条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（変更登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十条</span>　<span data-xpath="">自動車の変更登録を申請する場合において、型式、車台番号又は原動機の型式の変更が登録の原因であるときは、当該自動車を提示しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十一条及び第四十二条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（自動車登録番号の変更）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十三条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、道路運送車両法第十一条第二項において準用する同条第一項の規定により自動車登録番号標の交付を受けようとする自動車の所有者から申請があつたときは、自動車登録番号を変更することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">道路運送車両法第九条及び第十条の規定は、前項の規定により自動車登録番号を変更する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十四条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、道路運送車両法第十四条第一項又は前条第一項の規定により自動車登録番号を変更したときは、遅滞なく、その旨を登録上利害関係を有する第三者に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（公売処分による移転登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十五条</span>　<span data-xpath="">登録自動車の公売処分をした者は、国税徴収法（昭和三十四年法律第百四十七号）その他の法令に別段の定めがある場合を除き、登録権利者の請求により、嘱託書に登録の原因を証する書面を添付して、自動車の移転登録を運輸監理部長又は運輸支局長に嘱託しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（解体報告記録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十六条</span>　<span data-xpath="">道路運送車両法第十五条第一項の政令で定める記録は、使用済自動車の再資源化等に関する法律（平成十四年法律第八十七号）第八十一条第九項の規定により解体業者（同法による解体業者をいう。以下同じ。）が解体自動車全部利用者（同法による解体自動車全部利用者をいう。以下同じ。）に解体自動車（同法による解体自動車をいう。以下同じ。）を引き渡したとき（当該解体自動車全部利用者に当該解体自動車を引き渡すために行う運搬を他人に委託する場合にあつては、当該解体自動車の運搬を受託した者に当該解体自動車を引き渡したとき）、又は同条第十項の規定により破砕業者（同法による破砕業者をいう。）が解体業者から解体自動車を引き取つたときにおける情報管理センターに対する報告の記録とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（抵当自動車の輸出抹消仮登録等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十七条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、抵当自動車について輸出抹消仮登録又は一時抹消登録の申請を受理した場合において、自動車抵当法第十六条後段の規定により通知をしたときは、その旨の登録をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、自動車抵当法第十七条第二項の規定により抵当権の実行の手続をすることができる期間内に競売の申立てがなかつたときは、輸出抹消仮登録又は一時抹消登録をし、その旨を登録権利者に通知する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、自動車抵当法第十七条第二項の規定により抵当権の実行の手続をすることができる期間内に競売に係る差押えの登録の嘱託があり、これに基づきその登録をした場合において、競売申立ての取下げ又は競売手続の取消決定によるその登録の抹消の嘱託があり、これに基づきその登録を抹消したときは、その期間経過後輸出抹消仮登録又は一時抹消登録をし、その旨を登録権利者に通知する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、自動車抵当法第十七条第四項の規定により輸出抹消仮登録又は一時抹消登録の申請がなかつたものとみなされた自動車について、競売に係る代金納付による移転登録の嘱託があり、これに基づきその登録をするときは、併せて、第一項の登録を抹消しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（一時抹消登録後の所有者の変更に係る記録の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十八条</span>　<span data-xpath="">道路運送車両法第十八条第三項の規定により所有者の変更について自動車登録ファイルに記録を受けようとする新所有者は、申請書に、当該自動車の所有権を証明するに足る書面その他の国土交通省令で定める書面を添えて提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書の様式及び記載方法は、国土交通省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第三節　抵当権の登録</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（設定の登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十九条</span>　<span data-xpath="">抵当権の設定の登録の申請をする場合には、申請書にその債権の額を記載し、且つ、登録の原因に利息に関する定があるとき、その債権に条件を附したとき、又は自動車抵当法第六条但書の定があるときは、これを記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">自動車抵当法第十九条の二第一項の抵当権（以下「根抵当権」という。）の設定の登録の申請をする場合には、前項の規定にかかわらず、申請書に、担保すべき債権の範囲及び極度額を記載し、かつ、同法第六条ただし書の定めがあるとき、又は担保すべき元本の確定すべき期日の定めがあるときは、これを記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十条</span>　<span data-xpath="">抵当権の設定の登録の申請をする場合において、抵当権の設定者が債務者でないときは、申請書にその債務者の氏名又は名称及び住所を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十一条</span>　<span data-xpath="">一定の金額を目的としない債権の担保たる抵当権の設定登録の申請をする場合には、申請書にその債権の価格を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（共同抵当）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十二条</span>　<span data-xpath="">同一の債権を担保するため二両以上の自動車を目的とする抵当権の設定の登録の申請をする場合には、それぞれの自動車に係る申請書に他の自動車についての国土交通省令で定める事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十三条</span>　<span data-xpath="">自動車の抵当権の設定の登録をした後、同一の債権を担保するため他の自動車について抵当権の設定の登録を申請する場合には、申請書に前の登録を表示するに足る事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（根抵当権当事者の相続に関する合意の登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十四条</span>　<span data-xpath="">自動車抵当法第十九条の二第二項において準用する民法第三百九十八条の八第一項又は第二項の合意の登録は、相続による根抵当権の移転又は債務者の変更の登録をした後でなければすることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（移転の登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十五条</span>　<span data-xpath="">抵当権（元本の確定前の根抵当権を除く。）の移転の登録の申請をする場合には、申請書に添えて債権の移転を証する書面を提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十六条</span>　<span data-xpath="">債権の一部の譲渡又は代位弁済による抵当権の移転の登録の申請をする場合には、申請書に譲渡又は代位弁済の目的たる債権の額を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十七条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（登録の抹消）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十八条</span>　<span data-xpath="">登録権利者は、登録義務者の所在が不分明であるため抵当権の登録の抹消の申請をすることができないときは、非訟事件手続法（平成二十三年法律第五十一号）第九十九条に規定する公示催告の申立てをすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、非訟事件手続法第百六条第一項に規定する除権決定があつたときは、申請書にその謄本を添付して、登録権利者だけで抵当権の登録の抹消の申請をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">登録義務者の所在が不分明であるため根抵当権以外の抵当権について登録の抹消の申請をすることができない場合において、申請書に添付して、債権証書、債権の受取証書並びに自動車抵当法第十二条の規定により抵当権を行使することができる定期金及び損害賠償の受取証書を提出したときは、登録権利者だけで抵当権の登録の抹消の申請をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十九条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、第四十五条の規定による公売処分による自動車の移転登録の嘱託があつた場合において、当該自動車について抵当権の登録があるときは、その登録を抹消しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保全仮登録に基づく本登録の順位）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十条</span>　<span data-xpath="">保全仮登録に基づく本登録の順位は、保全仮登録の順位による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第四節　信託に関する登録</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（信託の登録の申請書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十一条</span>　<span data-xpath="">信託の登録の申請書には、次に掲げる事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">委託者、受託者及び受益者の氏名又は名称及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">受益者の指定に関する条件又は受益者を定める方法の定めがあるときは、その定め</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">信託管理人があるときは、その氏名又は名称及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">受益者代理人があるときは、その氏名又は名称及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">信託法（平成十八年法律第百八号）第百八十五条第三項に規定する受益証券発行信託であるときは、その旨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">信託法第二百五十八条第一項に規定する受益者の定めのない信託であるときは、その旨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">公益信託ニ関スル法律（大正十一年法律第六十二号）第一条に規定する公益信託であるときは、その旨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">信託の目的</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">信託財産の管理方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">信託の終了の事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">その他の信託の条項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書に同項第二号から第六号までに掲げる事項のいずれかを記載したときは、同項第一号の受益者（同項第四号に掲げる事項を記載した場合にあつては、当該受益者代理人が代理する受益者に限る。）の氏名又は名称及び住所を記載することを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、第一項各号に掲げる事項を明らかにするため、国土交通省令で定めるところにより、信託目録を作成することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（信託の登録の申請方法等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十二条</span>　<span data-xpath="">信託の登録の申請は、当該信託に係る自動車に関する権利の設定、移転又は変更の登録の申請と同時にしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">自動車に関する権利の信託の登録は、受託者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">信託法第三条第三号に掲げる方法によつてされた信託による権利の変更の登録は、受託者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（代位による信託の登録の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十三条</span>　<span data-xpath="">受益者又は委託者は、受託者に代位して信託の登録を申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第十九条の規定は、前項の規定による申請について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（受託者の変更による登録等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十四条</span>　<span data-xpath="">受託者の任務が死亡、後見開始若しくは保佐開始の審判、破産手続開始の決定、法人の合併以外の理由による解散又は裁判所若しくは主務官庁（その権限の委任を受けた国に所属する行政庁及びその権限に属する事務を処理する都道府県の執行機関を含む。第六十六条第二項において同じ。）の解任命令により終了し、新たに受託者が選任されたときは、信託財産に属する自動車についてする受託者の変更による権利の移転の登録は、第十条の規定にかかわらず、新たに選任された当該受託者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">受託者が二人以上ある場合において、その一部の受託者の任務が前項に規定する事由により終了したときは、信託財産に属する自動車についてする当該受託者の任務の終了による権利の変更の登録は、第十条の規定にかかわらず、他の受託者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（職権による信託の変更の登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十五条</span>　<span data-xpath="">運輸監理部長又は運輸支局長は、信託財産に属する自動車について次に掲げる登録をするときは、職権で、信託の変更の登録をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">信託法第七十五条第一項又は第二項の規定による権利の移転の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">信託法第八十六条第四項本文の規定による権利の変更の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">受託者である登録名義人の氏名若しくは名称又は住所についての変更の登録又は更正の登録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（嘱託による信託の変更の登録）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十六条</span>　<span data-xpath="">裁判所書記官は、受託者の解任の裁判があつたとき、信託管理人若しくは受益者代理人の選任若しくは解任の裁判があつたとき、又は信託の変更を命ずる裁判があつたときは、職権で、遅滞なく、信託の変更の登録を運輸監理部長又は運輸支局長に嘱託しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">主務官庁は、受託者を解任したとき、信託管理人若しくは受益者代理人を選任し、若しくは解任したとき、又は信託の変更を命じたときは、遅滞なく、信託の変更の登録を運輸監理部長又は運輸支局長に嘱託しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（信託の変更の登録の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十七条</span>　<span data-xpath="">前二条に規定するもののほか、第六十一条第一項各号に掲げる事項について変更があつたときは、受託者は、遅滞なく、信託の変更の登録を申請しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">受益者又は委託者は、受託者に代位して前項の規定による申請をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第十九条の規定は、前項の規定による申請について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（信託の登録の抹消）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十八条</span>　<span data-xpath="">信託財産に属する自動車に関する権利が移転、変更又は消滅により信託財産に属しないこととなつた場合における信託の登録の抹消の申請は、自動車に関する権利の移転若しくは変更の登録又は当該権利の登録の抹消の申請と同時にしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">信託の登録の抹消は、受託者だけで申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（権利の変更の登録等の特則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十九条</span>　<span data-xpath="">信託の併合又は分割により自動車に関する権利が一の信託の信託財産に属する財産から他の信託の信託財産に属する財産となつた場合における当該権利に係る当該一の信託についての信託の登録の抹消及び当該他の信託についての信託の登録の申請は、信託の併合又は分割による権利の変更の登録の申請と同時にしなければならない。</span><span data-xpath="">信託の併合又は分割以外の事由により自動車に関する権利が一の信託の信託財産に属する財産から受託者を同一とする他の信託の信託財産に属する財産となつた場合も、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">信託財産に属する自動車についてする次の表の上欄に掲げる場合における権利の変更の登録（第六十二条第三項の登録を除く。）については、同表の中欄に掲げる者を登録権利者とし、同表の下欄に掲げる者を登録義務者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　自動車に関する権利が固有財産に属する財産から信託財産に属する財産となつた場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">受益者（信託管理人がある場合にあつては、信託管理人。以下この表において同じ。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">受託者</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　自動車に関する権利が信託財産に属する財産から固有財産に属する財産となつた場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">受託者</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">受益者</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三　自動車に関する権利が一の信託の信託財産に属する財産から他の信託の信託財産に属する財産となつた場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該他の信託の受益者及び受託者</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該一の信託の受益者及び受託者</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、昭和二十六年七月一日から施行する。</span><span data-xpath="">但し、第三条から第五条まで、第七条第二項、第十条（抵当権の登録に関する部分に限る。）、第十二条第二項、第三十四条から第三十七条まで、第四十一条及び第四十五条から第五十九条までの規定は、昭和二十七年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">自動車抵当法施行法（昭和二十六年法律第百八十八号）第七条の規定による質権の登録の申請は、登録権利者が自動車を呈示して行う場合に限り、その者だけで行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の質権の登録を申請する場合において、登録権利者である質権者が質権の目的たる自動車を転質とした場合には、当該質権者は、転質権者の承諾書の添附を同項の自動車の呈示に代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">転質権者は、質権の設定の登録がされていないときでも、附則第二項の規定により転質の登録を申請することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">都道府県知事は、前項の申請により転質の登録をするときは、職権により、質権の設定の登録をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">質権の設定又は転質の登録を申請する場合には、申請書に債権の額を記載し、且つ、登録の原因に存続期間若しくは弁済期の定があるとき、違約金若しくは賠償額の定があるとき、その債権に条件を附したとき又は民法第三百四十六条但書の定があるときは、これを記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">前六項に定めるものの外、附則第二項の質権の登録については、自動車の抵当権の登録に関する規定を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和二七年四月一日政令第九七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和二七年四月二八日政令第一一六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三〇年九月二八日政令第二六三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、昭和三十年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この政令の施行の際現に自動車登録原簿に自動車の所有権の登録以外の登録がある自動車については、第十五条、第四十条及び第四十一条の改正規定にかかわらず、当該自動車に係る所有権の登録以外の登録が<ruby class="law-ruby">ま<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>消されるまでの間は、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三四年一二月二六日政令第三八三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、国税徴収法の施行の日（昭和三十五年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三八年九月一三日政令第三二五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和三十八年十月十五日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三九年三月一七日政令第二五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和三十九年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四二年六月三〇日政令第一六二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、昭和四十二年八月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四四年一二月一九日政令第三〇八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令中、第一条から第三条までの規定は、昭和四十五年一月一日から、第四条から第六条までの規定は、同年三月一日から、第七条の規定は、同年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四七年三月二八日政令第三九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、昭和四十七年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">民法の一部を改正する法律（昭和四十六年法律第九十九号）附則第二十三条及び第二十五条の規定によりその例によるものとされた同法附則第二条ただし書の規定により効力を有する事項の登録については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五五年八月三〇日政令第二三一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、民事執行法の施行の日（昭和五十五年十月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五九年六月六日政令第一七六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、昭和五十九年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この政令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この政令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">北海海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">北海道運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東北運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">新潟運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">関東海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">関東運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東海海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">中部運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">近畿海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">近畿運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">中国海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">中国運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四国海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四国運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">九州海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">九州運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">神戸海運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">神戸海運監理部長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">札幌陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">北海道運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">仙台陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東北運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">新潟陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">新潟運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">東京陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">関東運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">名古屋陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">中部運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">大阪陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">近畿運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">広島陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">中国運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">高松陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四国運輸局長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">福岡陸運局長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">九州運輸局長</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五九年一一月二四日政令第三三一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、道路運送法等の一部を改正する法律の施行の日（昭和六十年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和六二年八月一一日政令第二八〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和六十三年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二年九月二七日政令第二八五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、民事保全法の施行の日（平成三年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成六年九月一九日政令第三〇三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、行政手続法の施行の日（平成六年十月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成九年一一月一九日政令第三三三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、民事訴訟法の施行の日（平成十年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年六月七日政令第三一二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一四年六月七日政令第二〇〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十四年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年六月一八日政令第二六〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成十六年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年一二月一〇日政令第四九五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、道路運送車両法の一部を改正する法律附則第一条本文の規定の施行の日（平成十七年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年一二月二五日政令第五四五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、仲裁法の施行の日（平成十六年三月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一六年一二月二七日政令第四一九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、民事関係手続の改善のための民事訴訟法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（除権判決に関する経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">改正法の施行前にされた改正法附則第二条の規定による廃止前の公示催告手続ニ関スル法律（明治二十三年法律第二十九号。以下「旧公示催告手続法」という。）の規定による除権判決又は改正法の施行後に改正法附則第六条第一項の規定によりなお従前の例によることとされる同項の公示催告手続においてされた旧公示催告手続法の規定による除権判決は、改正法第二条の規定による改正後の非訟事件手続法（明治三十一年法律第十四号）の規定による除権決定とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年二月一八日政令第二四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年三月九日政令第三七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、民法の一部を改正する法律の施行の日（平成十七年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年五月二七日政令第一八七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、自動車関係手続における電子情報処理組織の活用のための道路運送車両法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年十二月二十六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年七月一三日政令第二〇七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、信託法の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年三月二八日政令第八二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、道路運送法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成二十年十一月四日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年七月一九日政令第一九七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、新非訟事件手続法の施行の日（平成二十五年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年一月三〇日政令第三〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、地方自治法の一部を改正する法律（次条において「改正法」という。）の施行の日（平成二十八年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年六月六日政令第一八三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、民法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年六月二八日政令第四四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年一二月一三日政令第一八三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和元年十二月十六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年一二月二三日政令第三六三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和三年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年五月二〇日政令第一九五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、道路運送車両法の一部を改正する法律附則第一条第六号に掲げる規定の施行の日（令和五年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

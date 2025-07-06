@@ -1,0 +1,549 @@
+.. _358M50000008002_20190701_501M60000008019:
+
+:orphan:
+
+======================================
+流水検知装置の技術上の規格を定める省令
+======================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和五十八年自治省令第二号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">流水検知装置の技術上の規格を定める省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">消防法（昭和二十三年法律第百八十六号）第二十一条の二第二項の規定に基づき、流水検知装置の技術上の規格を定める省令（昭和五十年自治省令第十八号）の全部を改正する省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（趣旨）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、スプリンクラー設備、水噴霧消火設備又は泡消火設備に使用する流水検知装置（以下「流水検知装置」という。）の技術上の規格を定めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（用語の意義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令において次の各号に掲げる用語の意義は、当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">流水検知装置</span>　<span data-xpath="">湿式流水検知装置、乾式流水検知装置及び予作動式流水検知装置をいい、本体内の流水現象を自動的に検知して、信号又は警報を発する装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">湿式流水検知装置</span>　<span data-xpath="">一次側（本体への流入側で弁体までの部分をいう。以下同じ。）及び二次側（本体からの流出側で弁体からの部分をいう。以下同じ。）に加圧水又は加圧泡水溶液（以下「加圧水等」という。）を満たした状態にあり、閉鎖型スプリンクラーヘッド又は一斉開放弁その他の弁（次号において「閉鎖型スプリンクラーヘッド等」という。）が開放した場合、二次側の圧力低下により弁体が開き、加圧水等が二次側へ流出する装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">乾式流水検知装置</span>　<span data-xpath="">一次側に加圧水等を、二次側に加圧空気を満たした状態にあり、閉鎖型スプリンクラーヘッド等が開放した場合、二次側の圧力低下により弁体が開き、加圧水等が二次側へ流出する装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">予作動式流水検知装置</span>　<span data-xpath="">一次側に加圧水等を、二次側に空気を満たした状態にあり、火災報知設備の感知器、火災感知用ヘッドその他の感知のための機器（以下「感知部」という。）が作動した場合、弁体が開き、加圧水等が二次側へ流出する装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">使用圧力範囲</span>　<span data-xpath="">流水検知装置の機能に支障を生じない一次側の圧力の範囲をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">圧力設定値</span>　<span data-xpath="">二次側に圧力の設定を必要とする流水検知装置において、使用圧力範囲における一次側の圧力に対応する二次側の圧力の設定値をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（構造）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">湿式流水検知装置の構造は、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">加圧送水装置を起動させるものにあつては、逆止弁構造を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath=""><ruby class="law-ruby">堆<rt class="law-ruby">たい</rt></ruby>積物により機能に支障を生じないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">管との接続部は、管と容易に接続できること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">加圧水等の通過する部分は、滑らかに仕上げられていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">本体及びその部品は、保守点検及び取替えが容易にできること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">弁座面は、機能に有害な影響を及ぼすきずがないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">スイッチ類は、防滴のための有効な措置が講じられていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">感度調整装置は、露出して設けられていないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">乾式流水検知装置の構造は、前項各号（第一号を除く。）の規定の例によるほか、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開放した弁体は、作動圧力比（弁体の開放直前の一次側の圧力を二次側の圧力で除した値をいう。）が一・五以下のものを除き、水撃、逆流等により再閉止しない装置を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">二次側に加圧空気を補充できること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">弁体を開放することなく信号又は警報の機能を点検できる装置を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">一次側と二次側とが中間室で分離されているものにあつては、中間室に<ruby class="law-ruby">溜<rt class="law-ruby">たま</rt></ruby>る水を外部に自動的に排水する装置を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">二次側に予備水を必要とするものにあつては、予備水の必要水位を確保する装置を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">二次側に予備水を必要としないものにあつては、二次側に<ruby class="law-ruby">溜<rt class="law-ruby">たま</rt></ruby>る水を外部に排水する装置を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">予作動式流水検知装置の構造は、第一項各号（第一号を除く。）及び前項各号（第二号を除く。）の規定の例によるほか、二次側に圧力の設定を必要とするものにあつては、加圧空気を補充できるものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（材質）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">流水検知装置の材質は、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">本体の主要部分はＪＩＳ（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項の日本産業規格をいう。以下この号において同じ。）Ｇ五五〇一、ＪＩＳＧ五一五一、ＪＩＳＨ五一二〇若しくはＪＩＳＨ五一二一に適合し、又はこれらと同等以上の強度及び耐食性を有すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">さびの発生するおそれのある部分は、有効な防<ruby class="law-ruby">錆<rt class="law-ruby">せい</rt></ruby>処理を施すこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">ゴム、合成樹脂等は、容易に変質しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（最高使用圧力の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">流水検知装置の最高使用圧力は、次の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力の範囲内でなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">呼び</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">圧力（メガパスカル）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十Ｋ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・〇以上一・四以下</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十六Ｋ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・六以上二・二以下</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（耐圧力）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">湿式流水検知装置の弁箱は、次の表の上欄に掲げる呼びの区分に応じて同表の下欄に掲げる圧力を二分間加えた場合、漏水、変形、損傷又は破壊を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">呼び</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">圧力（メガパスカル）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十Ｋ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二・〇</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十六Ｋ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三・二</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">乾式流水検知装置及び予作動式流水検知装置の弁箱は、最高使用圧力に対応する圧力設定値の三倍又は前項の表の上欄に掲げる呼びの区分に応じた同表の下欄に掲げる圧力のいずれか大きい値の圧力を二分間加えた場合、漏水、変形、損傷又は破壊を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">乾式流水検知装置及び予作動式流水検知装置は、一次側の使用圧力に対応する圧力設定値の圧力を二次側に、当該使用圧力の一・一倍の圧力を一次側に二分間加えた場合、弁座からの漏水を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（機能）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">湿式流水検知装置の機能は、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">使用圧力範囲内の圧力及び検知流量定数（流水現象として検知し、信号又は警報の作動を制御するための流量をいう。以下同じ。）に応じて、次に掲げる流水量で流水開始後一分以内に連続して信号又は警報を発し、かつ、流水停止の場合に信号又は警報が停止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">検知流量定数八十のもの及び検知流量定数五十のものにあつては、次の式により求めた流水量。</span><span data-xpath="">ただし、圧力が〇・五メガパスカル以下の場合には、検知流量定数八十のものにあつては毎分八十リットル、検知流量定数五十のものにあつては毎分五十リットルとする。</span><div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">Ｑ＝０．７５×Ｋ√（１０Ｐ）</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｑ</span>　<span data-xpath="">流水量（リットル毎分）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｋ</span>　<span data-xpath="">検知流量定数</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｐ</span>　<span data-xpath="">圧力（メガパスカル）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">検知流量定数六十のものにあつては、使用圧力範囲内の圧力において毎分六十リットル</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">流速毎秒四・五メートルの加圧水等を流水した場合に連続して信号又は警報を発し、かつ、流水停止の場合に信号又は警報が停止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">最低使用圧力における不作動水量（信号又は警報を発しない本体内の最大の流水量として定められたものをいう。以下同じ。）で流水開始しても信号又は警報を発しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">一次側に瞬間的な圧力変動が生じた場合に連続して信号又は警報を発しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">乾式流水検知装置の機能は、前項第四号の規定の例によるほか、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">呼称十五の閉鎖型スプリンクラーヘッドから加圧空気を放出した場合、次の表の上欄に掲げる内径に応じて同表の下欄に掲げる二次側の配管容積において、三十秒以内に弁体が開き、かつ、一分以内に連続して信号又は警報を発すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">内径（ミリメートル）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二次側の配管容積（リットル）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">五十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">七十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">六十五</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">八十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">七百五十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百二十五</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">千二百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百五十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二千八百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二百</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二千八百</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">流速毎秒四・五メートルの加圧水等を流水した場合に連続して信号又は警報を発すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">予作動式流水検知装置の機能は、第一項第四号及び前項第二号の規定の例によるほか、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">感知部が作動した場合、前項第一号の表の上欄に掲げる内径に応じて同表の下欄に掲げる二次側の配管容積において、三十秒以内に弁体が開き、かつ、一分以内に連続して信号又は警報を発すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">感知部の作動の停止によつて弁体の再閉止を行うものにあつては、感知部の作動が停止した場合に信号又は警報が停止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（耐久）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">流水検知装置は、流速毎秒四・五メートルの加圧水等を三十分間流水した場合、機能に支障を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">乾式流水検知装置及び予作動式流水検知装置は、前条第二項第一号の表の上欄に掲げる内径に応じて同表の下欄に掲げる二次側の配管容積において、最高使用圧力で作動させた後、一次側の圧力を大気圧にした場合、機能に支障を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（構成部品の機能）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">圧力スイッチは、その定格電圧及び定格電流において零メガパスカルから最高使用圧力（当該圧力スイッチに加わる最高圧力が最高使用圧力より低い場合はその圧力）までの圧力変動を通電時間一秒となるように繰り返して二千回加えた場合、機能に支障を生じないものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">ウォーター・モーター・ゴングは、次に定めるところによらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">三時間連続して鳴動させた場合、機能に支障を生じないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">三メートル離れた位置で、九十デシベル以上の音量があること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（圧力損失）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">湿式流水検知装置の圧力損失は、次の表の上欄に掲げる内径に応じて同表の下欄に掲げる流水量で流水を行つた場合、〇・〇五メガパスカル以内でなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">内径（ミリメートル）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">流水量（リットル毎分）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二十五</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百三十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三十二</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三百五十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">五十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">五百五十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">六十五</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">九百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">八十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">千三百五十</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二千百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百二十五</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三千三百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">百五十</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四千八百</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二百</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">八千五百</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（表示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">流水検知装置には、次に掲げる事項を見やすい箇所に容易に消えないように表示しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">湿式、乾式又は予作動式の別</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">種別及び型式番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">製造者名又は商標</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">製造年</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">製造番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">内径、呼び及び使用圧力範囲</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">直管に相当する長さで表した圧力損失値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">二次側に圧力の設定を必要とするものにあつては、圧力設定値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">湿式流水検知装置にあつては、最低使用圧力における不作動水量</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">流水方向を示す矢印</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">取付け方向</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十二</span>　<span data-xpath="">構成部品の組合せ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十三</span>　<span data-xpath="">検知流量定数五十のものにあつては「五十」、検知流量定数六十のものにあつては「六十」</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（基準の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">新たな技術開発に係る流水検知装置について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、昭和五十八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令の施行の際、現に日本消防検定協会の行う消防用機械器具等についての試験を申請している流水検知装置に係る試験については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和六二年三月一八日自治省令第七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成七年九月一三日自治省令第三〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、平成七年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令の施行の際、現に型式承認を受けている流水検知装置に係る型式承認は、改正後の流水検知装置の技術上の規格を定める省令の規格による型式承認とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一〇年九月二八日自治省令第三七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成十一年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令の施行の際、現に日本消防検定協会の行う検定対象機械器具等についての試験を申請をしている消火器、消火薬剤、閉鎖型スプリンクラーヘッド、消防用ホース、一斉開放弁、<ruby class="law-ruby">泡<rt class="law-ruby">あわ</rt></ruby>消火薬剤、感知器及び発信機、流水検知装置、差込式結合金具並びにねじ式結合金具に係る試験については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">９</span>　<span data-xpath="">この省令の施行の際、現に型式承認を受けている流水検知装置に係る型式承認及び第一項の規定により従前の例によることとされた試験の結果に基づいて型式承認を受けた流水検知装置に係る型式承認は、第八条の規定による改正後の流水検知装置の技術上の規格を定める省令の規格による型式承認とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年九月一四日自治省令第四四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年六月二八日総務省令第一九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

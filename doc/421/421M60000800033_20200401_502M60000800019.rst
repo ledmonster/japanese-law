@@ -1,0 +1,278 @@
+.. _421M60000800033_20200401_502M60000800019:
+
+:orphan:
+
+==============================
+道路の修繕に関する法律施行規則
+==============================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十一年国土交通省令第三十三号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">道路の修繕に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">道路の修繕に関する法律の施行に関する政令（昭和二十四年政令第六十一号）第一条第一項の規定に基づき、道路の修繕に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（令第一条第一項の国土交通省令で定めるところにより算定した割合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">令第一条第一項の国土交通省令で定めるところにより算定した割合は、次の表の上欄に掲げる事業の区分に応じ、それぞれ同表の下欄に定める割合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">事業の区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">国の補助の割合</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（一）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕（（二）から（六）まで、次項及び第三項に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の五・五に調整指数を乗じて得た割合（調整指数が一以下である場合にあっては十分の五・五）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（二）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕（同項第二号に該当するものに限る。）で、道路の構造、交通の状況等を勘案して地域における道路の交通の安全の確保とその円滑化を図るとともに、生活環境の改善に資するため特に必要と認められるもの以外のもの（（三）から（六）まで、次項及び第三項に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二分の一に調整指数を乗じて得た割合（調整指数が一以下である場合にあっては二分の一）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（三）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で、地方交付税法（昭和二十五年法律第二百十一号）第十条第一項の規定による普通交付税の交付を受けていない都道府県等（都道府県又は地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の市をいう。）により行われるもの（（四）から（六）まで、次項及び第三項に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二分の一</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（四）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で道の区域内において行われるもの（次項並びに第三項の表（二）及び（三）に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の五・五に調整指数を乗じて得た割合（調整指数が一・〇九以下である場合にあっては十分の六）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（五）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で沖縄県の区域内において行われるもの</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の八</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（六）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島の区域内において行われるもの</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の七</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で離島振興法（昭和二十八年法律第七十二号）第二条第一項の規定により指定された離島振興対策実施地域（以下単に「離島振興対策実施地域」という。）内において行われるもの（次項の表（三）に規定するものを除く。）に要する費用について令第一条第一項の国土交通省令で定めるところにより算定した割合は、次の表の上欄に掲げる調整指数に応じ、それぞれ同表の下欄に定める割合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">調整指数</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">国の補助の割合</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・〇一以上一・一六以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六に当該調整指数を乗じて得た割合</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一七以上一・二五以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六に当該調整指数を乗じて得た割合（市町村が行う場合にあっては十分の七）</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で特別会計に関する法律（平成十九年法律第二十三号）第二条第一項第十八号に規定する東日本大震災復興特別会計において経理される同法第二百二十二条第二項に規定する復興事業に該当するものに要する費用について令第一条第一項の国土交通省令で定めるところにより算定した割合は、次の表の上欄に掲げる事業の区分ごとに、それぞれ、同表の中欄に掲げる調整指数に応じ、同表の下欄に定める割合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">事業の区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">調整指数</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">国の補助の割合</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（一）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="3"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕（（二）及び（三）並びに第一項の表（三）及び（四）に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の五・五</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・〇一以上一・〇九以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一〇以上一・一八以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六・五</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一九以上一・二五以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の七</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（二）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="3"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で道の区域内において行われるもの（（三）に規定するものを除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・〇九以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一〇以上一・一八以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六・五</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一九以上一・二五以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の七</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（三）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="3"><div><span data-xpath="">令第一条第一項に規定する都道府県道等の修繕で離島振興対策実施地域内において行われるもの</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・〇一以上一・〇九以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の六・五</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一〇以上一・一八以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の七</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一・一九以上一・二五以下である場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">十分の七・五（市町村が行う場合にあっては十分の七）</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前三項の規定において「調整指数」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める式により算定した数値（小数点以下二位未満は、切り上げるものとする。）をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該都道府県道等の修繕を行う地方公共団体が都道府県である場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">１＋０．２５×（（０．４６－当該都道府県道等の修繕を行う都道府県の財政力指数）／（０．４６－財政力指数が最小である都道府県の当該財政力指数））</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該都道府県道等の修繕を行う地方公共団体が市町村である場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">１＋０．２５×（（０．４６－当該都道府県道等の修繕を行う市町村の財政力指数）／（０．４６－財政力指数が最小である市町村の当該財政力指数））</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">前項各号の式において「財政力指数」とは、後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律（昭和三十六年法律第百十二号）第二条第一項に規定する財政力指数をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（令第一条第一項第三号の国土交通省令で定める施設又は工作物）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">令第一条第一項第三号の国土交通省令で定める施設又は工作物は、損傷、腐食その他の劣化により道路の構造に支障を及ぼすおそれが特に大きいと認められる橋、トンネル、<ruby class="law-ruby">法<rt class="law-ruby">のり</rt></ruby>面、横断歩道橋、防護施設、道路を横断して設ける道路標識その他これらに類するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年三月三一日国土交通省令第一八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成二十九年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令による改正後の規定は、平成二十九年度以降の年度の予算に係る国の負担又は補助（平成二十八年度以前の年度の国庫債務負担行為に基づき平成二十九年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）について適用し、平成二十八年度以前の年度の予算に係る国の負担又は補助で平成二十九年度以降の年度に繰り越されたもの及び平成二十八年度以前の年度の国庫債務負担行為に基づき平成二十九年度以降の年度に支出すべきものとされた国の負担又は補助については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年三月三一日国土交通省令第三七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、平成三十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令による改正後の規定は、平成三十年度以降の年度の予算に係る国の負担又は補助（平成二十九年度以前の年度の国庫債務負担行為に基づき平成三十年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）について適用し、平成二十九年度以前の年度の予算に係る国の負担又は補助で平成三十年度以降の年度に繰り越されたもの及び平成二十九年度以前の年度の国庫債務負担行為に基づき平成三十年度以降の年度に支出すべきものとされた国の負担又は補助については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年三月三〇日国土交通省令第一九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、道路法施行令及び道路整備事業に係る国の財政上の特別措置に関する法律施行令の一部を改正する政令の施行の日（令和二年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令による改正後の規定は、令和二年度以降の年度の予算に係る国の負担又は補助（令和元年度以前の年度の国庫債務負担行為に基づき令和二年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）について適用し、令和元年度以前の年度の予算に係る国の負担又は補助で令和二年度以降の年度に繰り越されたもの及び令和元年度以前の年度の国庫債務負担行為に基づき令和二年度以降の年度に支出すべきものとされた国の負担又は補助については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

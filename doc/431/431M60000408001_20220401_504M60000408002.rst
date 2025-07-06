@@ -1,0 +1,393 @@
+.. _431M60000408001_20220401_504M60000408002:
+
+:orphan:
+
+====================
+経済構造実態調査規則
+====================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成三十一年総務省・経済産業省令第一号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">経済構造実態調査規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">統計法（平成十九年法律第五十三号）第十八条及び行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定に基づき、並びに統計法を実施するため、経済構造実態調査規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（趣旨）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">統計法（以下「法」という。）第二条第四項に規定する基幹統計である経済構造統計を作成するための調査のうち経済センサス活動調査規則（平成二十三年総務省・経済産業省令第一号）第一条に規定するもの（以下「経済センサス活動調査」という。）の実施中間年（経済センサス活動調査を実施する年以外の年をいう。以下同じ。）における経済構造統計を作成するための調査のうち全ての産業の付加価値等の構造を明らかにする調査（以下「経済構造実態調査」という。）の実施に関しては、この省令の定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査の目的）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">経済構造実態調査は、全ての産業の付加価値等の構造を明らかにし、経済センサス活動調査の実施中間年における経済構造統計を作成することを目的とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">事業所</span>　<span data-xpath="">物の生産又はサービスの提供が事業として行われている一定の場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">企業</span>　<span data-xpath="">法人（国、地方公共団体及び外国の法人を除く。以下同じ。）及び事業を経営する個人</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">経済構造実態調査は、経済センサス活動調査の実施中間年の毎年六月一日（以下「調査日」という。）現在によって行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査の種類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">経済構造実態調査は、産業横断調査及び製造業事業所調査とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査の対象）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">産業横断調査は、事業を経営する個人及び法第二条第九項に規定する統計基準である日本標準産業分類に掲げる産業のうち次の各号に掲げるものに属する法人を除いた企業であって、日本標準産業分類における大分類、中分類又は小分類ごとに、各分類に属する法人の売上高を上位から累積し、当該分類における売上高総額の八割を達成する範囲に含まれるもの（以下「産業横断調査企業」という。）について行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">大分類Ｎ―生活関連サービス業、娯楽業のうち、中分類七九―その他の生活関連サービス業（小分類七九二―家事サービス業に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">大分類Ｒ―サービス業（他に分類されないもの）のうち、中分類九三―政治・経済・文化団体、中分類九四―宗教及び中分類九六―外国公務</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">大分類Ｓ―公務（他に分類されるものを除く）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">製造業事業所調査は、日本標準産業分類に掲げる「大分類Ｅ―製造業」に属する事業所（国及び地方公共団体に属する事業所、個人経営の事業所並びに法人以外の団体の事業所を除く。）のうち、日本標準産業分類における大分類、中分類、小分類又は細分類ごとに、各分類に属する事業所の売上高を上位から累積し、当該分類における売上高総額の九割を達成する範囲に含まれるもの（以下「製造業事業所調査事業所」という。）について行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査事項等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">経済構造実態調査は、総務大臣及び経済産業大臣が定める様式による調査票により、産業横断調査の場合には第一号に掲げる事項のうち産業横断調査企業の属性に応じて必要となるものを、製造業事業所調査の場合には第二号に掲げる事項のうち製造業事業所調査事業所の属性に応じて必要となるものを調査する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">産業横断調査企業に関する事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">名称、電話番号及び法人番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">所在地</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">経営組織及び資本金等の額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">消費税の税込記入・税抜記入の別</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">売上（収入）金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヘ</span>　<span data-xpath="">費用総額及び費用の主要項目別金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ト</span>　<span data-xpath="">主な事業の内容</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">チ</span>　<span data-xpath="">事業活動及び生産物の種類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">リ</span>　<span data-xpath="">事業活動及び生産物の種類別の売上（収入）金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヌ</span>　<span data-xpath="">年間商品販売額及び商品売上原価</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ル</span>　<span data-xpath="">年初及び年末商品手持額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヲ</span>　<span data-xpath="">事業区分別の費用割合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ワ</span>　<span data-xpath="">一事業区分に係る費用の項目別金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">産業横断調査企業に属する事業所の名称及び所在地</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヨ</span>　<span data-xpath="">産業横断調査企業に属する事業所の電話番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">タ</span>　<span data-xpath="">産業横断調査企業に属する事業所の主な事業活動</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">レ</span>　<span data-xpath="">産業横断調査企業に属する事業所の従業者数</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ソ</span>　<span data-xpath="">産業横断調査企業に属する事業所の売上（収入）金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ツ</span>　<span data-xpath="">産業横断調査企業に属する事業所の年間商品販売額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ネ</span>　<span data-xpath="">産業横断調査企業に属する新設事業所の開設時期</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">製造業事業所調査事業所に関する事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">事業所の名称、所在地及び法人番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">経営組織</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">資本金額又は出資金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">従業者数</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">消費税の税込記入・税抜記入の別</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヘ</span>　<span data-xpath="">人件費及び人材派遣会社への支払額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ト</span>　<span data-xpath="">原材料、燃料及び電力の使用額、委託生産費、製造等に関連する外注費並びに転売した商品の仕入額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">チ</span>　<span data-xpath="">有形固定資産</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">リ</span>　<span data-xpath="">製造品在庫額、半製品及び仕掛品の価額並びに原材料及び燃料の在庫額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヌ</span>　<span data-xpath="">製造品出荷額、在庫額等</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ル</span>　<span data-xpath="">品目別製造品出荷額、加工賃収入額及びその他収入額の合計金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヲ</span>　<span data-xpath="">製造品出荷額等に占める直接輸出額の割合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ワ</span>　<span data-xpath="">主要原材料名</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">工業用地及び工業用水</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヨ</span>　<span data-xpath="">作業工程</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">総務大臣及び経済産業大臣は、前項の様式を定めたときは告示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（報告の義務）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">産業横断調査企業及び製造業事業所調査事業所が属する企業を代表する者又は製造業事業所調査事業所の管理責任者は、前条第一項第一号及び第二号に掲げる事項（以下「調査事項」という。）に係る情報（以下「調査事項情報」という。）についてそれぞれ報告しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査の方法及び期間）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">産業横断調査は、総務大臣及び経済産業大臣が調査票を産業横断調査企業ごとに送付し、回収することにより行う。</span><span data-xpath="">製造業事業所調査は、総務大臣及び経済産業大臣が調査票を製造業事業所調査事業所が属する企業又は製造業事業所調査事業所ごとに送付し、回収することにより行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定による調査は、調査日の属する年の五月十五日から六月三十日までの間において行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（期間の変更）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">総務大臣及び経済産業大臣は、前条の規定により行う調査に関し天災その他避けることのできない事故のため同条第二項に規定する期間（以下この条において「調査の期間」という。）により難いときは、対象となる地域を指定して、調査の期間を変更することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">総務大臣及び経済産業大臣は、前項の規定により調査の期間を変更したときは、直ちに、対象となる地域及び変更後の調査の期間を告示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（立入検査等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">調査の事務に従事する者は、法第十五条第一項の規定により、第七条第一項第一号又は第二号に規定する調査事項について、資料の提出を求め、又は必要な場所に立ち入り、帳簿、書類その他の物件を検査し、若しくは関係者に質問することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">総務大臣及び経済産業大臣は、前項の規定により立入検査を行う者に対し、法第十五条第二項の証明書を交付する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的記録媒体による調査票の送付又は回収の手続等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">第九条第一項の規定による調査票の送付又は回収の手続は、調査票に代えて電磁的記録媒体（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られた記録をいう。以下同じ。）に係る記録媒体をいう。以下同じ。）を使用して行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、第八条の規定に基づき報告を行う者は、総務大臣及び経済産業大臣の定めるところにより、当該電磁的記録媒体に、調査事項情報を記録する方法により、報告しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前二項の規定により行われた手続については、調査票により行われたものとみなして、第八条及び第九条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織による調査票の送付又は回収の手続等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">第九条の規定による調査票の送付又は回収の手続は、情報通信技術を活用した行政の推進等に関する法律第六条第一項の規定により、同項に規定する電子情報処理組織を使用する方法により行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、第八条の規定に基づき報告を行う者は、総務大臣及び経済産業大臣の定めるところにより、総務大臣及び経済産業大臣の指定する電子計算機（入出力装置を含む。以下この項において同じ。）に備えられたファイルに、調査事項情報を当該手続をする者の使用に係る電子計算機から入力する方法により、報告しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（結果の公表等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">総務大臣及び経済産業大臣は、調査事項情報の審査及び集計を行い、その結果を速やかに公表するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調査票等の保存）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">総務省統計局長は、産業横断調査に係る調査票を三年間、経済産業大臣は、製造業事業所調査に係る調査票を三年間、総務省統計局長及び経済産業大臣は、調査事項情報が転写されている電磁的記録及び結果原表が転写されている電磁的記録を永年保存するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（工業統計調査の対象となるものについて行う調査の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">甲調査企業のうち工業統計調査（工業統計調査規則（昭和二十六年通商産業省令第八十一号）第一条に規定するものをいう。ただし、経済構造実態調査を実施する年と同一の年に実施するものに限る。）の対象となるものについて行う調査は、総務大臣及び経済産業大臣が、工業統計調査規則第二十一条の規定により経済産業大臣が保存している調査票の内容を記録した電磁的記録から経済構造実態調査規則第七条第一項第一号に掲げる調査事項に係る内容を電磁的記録に転写することにより行う。</span><span data-xpath="">この場合においては、第七条から第十条までの規定は適用せず、当該電磁的記録を第八条の規定により報告された調査事項情報とみなして、第十三条及び第十四条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年一二月一三日総務省・経済産業省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年四月一日総務省・経済産業省令第二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（工業統計調査規則の廃止）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">工業統計調査規則（昭和二十六年通商産業省令第八十一号）は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（製造業事業所調査の対象となるものについて行う調査の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">産業横断調査企業のうち製造業事業所調査の対象となるものについて行う調査は、総務大臣及び経済産業大臣が、第十五条の規定により総務省統計局長及び経済産業大臣が保存している調査事項情報が転写されている電磁的記録から第七条第一項第一号に掲げる調査事項に係る内容を電磁的記録に転写することにより行う。</span><span data-xpath="">この場合においては、第七条から第十条までの規定は適用せず、当該電磁的記録を第八条の規定により報告された調査事項情報とみなして、第十四条及び第十五条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

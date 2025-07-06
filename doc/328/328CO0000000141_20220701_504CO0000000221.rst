@@ -1,0 +1,918 @@
+.. _328CO0000000141_20220701_504CO0000000221:
+
+:orphan:
+
+================
+貿易保険法施行令
+================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和二十八年政令第百四十一号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">貿易保険法施行令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">内閣は、輸出保険法（昭和二十五年法律第六十七号）第一条の二第一項、第一条の四、第三条、第五条第一項、第五条の二第二項、第五条の三第二項、第六条第二項及び第十三条第二項の規定に基き、この政令を制定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令において、「輸出契約」、「輸出者」、「仲介貿易契約」、「仲介貿易者」、「技術提供契約」、「外国政府等」、「技術提供者」、「出資外国法人等」、「前払購入契約」、「前払購入者」、「海外投資」、「株式等」、「不動産に関する権利等」、「海外事業資金貸付」、「海外事業資金貸付金債権等」、「仲介貿易貨物」、「出資外国法人等販売貨物」、「出資外国法人等仲介貿易貨物」、「貸付金等」、「前払金」又は「関係外国法人」とは、それぞれ貿易保険法（昭和二十五年法律第六十七号。以下「法」という。）第二条第一項から第六項まで、第九項若しくは第十五項から第十八項まで、第四十三条第一号、第四十八条第二項第一号、第五十一条第二項、第六十六条第二項又は第六十九条第二項第一号に規定する輸出契約、輸出者、仲介貿易契約、仲介貿易者、技術提供契約、外国政府等、技術提供者、出資外国法人等、前払購入契約、前払購入者、海外投資、株式等、不動産に関する権利等、海外事業資金貸付、海外事業資金貸付金債権等、仲介貿易貨物、出資外国法人等販売貨物、出資外国法人等仲介貿易貨物、貸付金等、前払金又は関係外国法人をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（輸出契約等の定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第二条第一項の事項は、貨物の名称、型又は銘柄及び数量、仕向国、船積時期並びに取引の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二条第三項の事項は、貨物の名称、型又は銘柄及び数量、船積国、仕向国、船積時期並びに販売又は賃貸の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第二条第五項の事項は、技術又は労務の内容、提供が行われる国、仕向国、提供の時期及び方法並びに提供の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第二条第十項の事項は、貨物の名称、型又は銘柄及び数量、出資外国法人等の本店又は主たる事務所が所在する国、仕向国、船積時期（出資外国法人等が、当該貨物をその本店又は主たる事務所が所在する外国の地域に販売し、又は賃貸する場合にあつては、引渡しの時期）並びに販売又は賃貸の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第二条第十一項の事項は、貨物の名称、型又は銘柄及び数量、出資外国法人等の本店又は主たる事務所が所在する国、船積国、仕向国、船積時期並びに販売又は賃貸の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">法第二条第十二項の事項は、技術又は労務の内容、出資外国法人等の本店又は主たる事務所が所在する国、提供が行われる国、仕向国、提供の時期及び方法並びに提供の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">法第二条第十四項の事項は、保証の対象とされる債務に係る入札、輸出契約又は技術提供契約を特定する事項、当該債務と保証債務との関係、保証債務の終期又は消滅事由及び保証の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">法第二条第十五項の事項は、貨物の名称、型又は銘柄及び数量、船積国、仕向国、船積時期並びに貨物の船積期日前に支払う貨物の代金又は賃借料の額、支払の時期及び返還の条件とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">９</span>　<span data-xpath="">法第二条第十九項の政令で定める者は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">長期信用銀行（長期信用銀行法（昭和二十七年法律第百八十七号）第二条に規定する長期信用銀行をいう。第十七条第一号及び第十八条第一号において同じ。）、信用金庫、信用金庫連合会、労働金庫、労働金庫連合会、信用協同組合及び信用協同組合連合会（中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の九第一項第一号の事業を行う協同組合連合会をいう。第十七条第一号及び第十八条第一号において同じ。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">農業協同組合法（昭和二十二年法律第百三十二号）第十条第一項第三号の事業を行う農業協同組合及び農業協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">農林中央金庫及び株式会社商工組合中央金庫</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">外国の法令に準拠して外国において銀行法（昭和五十六年法律第五十九号）第二条第二項に規定する銀行業を営む者（同法第四条第五項に規定する銀行等を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（株式会社日本貿易保険が本邦法人を相手方として再保険を引き受ける保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第十二条第二項第二号の保険は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">輸出者が保険契約の締結後生じた次のいずれかに該当する事由によつて輸出契約に基づいて貨物を輸出することができなくなつたこと（イからホまで又はヌのいずれかに該当する事由が生じたため当該貨物の輸出が著しく困難となつたと認められる場合において、輸出契約で定める船積期日から保険契約で定める期間を経過した日まで当該貨物を輸出することができなかつたことを含む。）により受ける損失（輸出貨物について生じた損失を除く。）又は仲介貿易者が保険契約の締結後生じた次のいずれかに該当する事由によつて仲介貿易契約に基づいて貨物を販売し、若しくは賃貸することができなくなつたこと（イからホまで又はヌのいずれかに該当する事由が生じたため当該貨物の販売又は賃貸が著しく困難となつたと認められる場合において、仲介貿易契約で定める船積期日から保険契約で定める期間を経過した日まで当該貨物を販売し、又は賃貸することができなかつたことを含む。）により受ける損失（仲介貿易貨物について生じた損失を除く。）を保険契約で定める一定額を限度として塡補する保険</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">仕向国において実施される輸入の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">外国における戦争、革命又は内乱による為替取引の途絶</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">仕向国における戦争、革命又は内乱によりその国に輸入することができないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">本邦外において生じた事由による仕向国への輸送の途絶</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヘ</span>　<span data-xpath="">イからホまでに掲げるもののほか、本邦外において生じた事由であつて、輸出契約又は仲介貿易契約の当事者の責めに帰することができないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ト</span>　<span data-xpath="">外国為替及び外国貿易法（昭和二十四年法律第二百二十八号）による輸出又は仲介貿易貨物の販売若しくは賃貸の制限又は禁止（同法第二十五条の二又は第五十三条の規定による禁止を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">チ</span>　<span data-xpath="">輸出契約又は仲介貿易契約の相手方が外国政府等である場合において、当該相手方が当該輸出契約若しくは仲介貿易契約を一方的に破棄したこと又は当該相手方の責めに帰すべき相当の事由により輸出者若しくは仲介貿易者が当該輸出契約若しくは仲介貿易契約を解除したこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">リ</span>　<span data-xpath="">輸出契約又は仲介貿易契約の相手方についての破産手続開始の決定その他これに準ずる事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヌ</span>　<span data-xpath="">輸出契約又は仲介貿易契約の相手方の保険契約で定める期間以上の債務の履行遅滞（当該輸出契約又は仲介貿易契約に基づく債務以外の輸出者又は仲介貿易者に対する債務に係るものを含み、輸出者又は仲介貿易者の責めに帰することができないものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">輸出者が輸出契約に基づいて貨物を輸出した場合に次のいずれかに該当する事由によつて当該貨物の代金若しくは賃貸料を回収することができないことにより受ける損失（仕向国における戦争、革命又は内乱により輸出貨物について生じた損失以外の輸出貨物について生じた損失を除く。）、仲介貿易者が仲介貿易契約に基づいて貨物を販売し、若しくは賃貸した場合に次のいずれかに該当する事由によつて当該貨物の代金若しくは賃貸料を回収することができないことにより受ける損失（仕向国における戦争、革命又は内乱により仲介貿易貨物について生じた損失以外の仲介貿易貨物について生じた損失を除く。）又は技術提供者が技術提供契約に基づいて技術の提供若しくはこれに伴う労務の提供をした場合に次のいずれかに該当する事由によつて当該技術若しくは労務の提供の対価を回収することができないことにより受ける損失を保険契約で定める一定額を限度として塡補する保険</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">外国における戦争、革命又は内乱</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">イ及びロに掲げるもののほか、本邦外において生じた事由であつて、輸出契約、仲介貿易契約又は技術提供契約の当事者の責めに帰することができないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">輸出契約、仲介貿易契約又は技術提供契約の相手方についての破産手続開始の決定その他これに準ずる事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">輸出契約、仲介貿易契約又は技術提供契約の相手方の保険契約で定める期間以上の債務の履行遅滞（輸出者、仲介貿易者又は技術提供者の責めに帰することができないものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前払購入者が前払購入契約に基づいて貨物の引渡しを受けることができなくなつた場合に次のいずれかに該当する事由によつて前払金の返還を受けることができないことにより受ける損失を保険契約で定める一定額を限度として塡補する保険</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">外国における戦争、革命又は内乱</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">イ及びロに掲げるもののほか、本邦外において生じた事由であつて、前払購入契約の当事者の責めに帰することができないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">前払購入契約の相手方についての破産手続開始の決定その他これに準ずる事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">前払購入契約の相手方の前払金に係る債務の保険契約で定める期間以上の履行遅滞（前払購入者の責めに帰することができないものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">海外投資を行つた者が次のいずれかに該当する事由により受ける損失を保険契約で定める一定額を限度として塡補する保険であつて、保険期間が三十年を超えないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">株式等（関係外国法人の株式等を含む。以下このイ及びニにおいて同じ。）の元本（ニにおいて「元本」という。）、株式等に対する配当金の支払請求権又は不動産に関する権利等を外国政府等により奪われたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">法第二条第十七項第一号に掲げる海外投資の相手方（関係外国法人を含む。以下このロ及びホにおいて同じ。）が戦争、革命、内乱、暴動、騒乱その他本邦外において生じた事由であつて海外投資を行つた者若しくはその相手方の責めに帰することができないものにより損害を受け、又は不動産、設備、原材料その他の物に関する権利、鉱業権、工業所有権その他の権利若しくは利益であつて事業の遂行上特に重要なものを外国政府等によつて侵害されたことにより損害を受けて当該海外投資の相手方の事業の継続の不能又は第二十一条各号に掲げる事由が生じたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">戦争、革命、内乱、暴動、騒乱その他本邦外において生じた事由であつて海外投資を行つた者の責めに帰することができないものにより不動産に関する権利等について損害を受けて当該不動産に関する権利等を事業の用に供することができなくなつたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">元本の喪失（イ、ロ又はホに掲げる事由によるものを除く。）に伴い支払われた金額、株式等に対する配当金又は不動産に関する権利等の喪失（イ又はハに掲げる事由によるものを除く。）に伴い支払われた金額（以下このニにおいて「支払金等」という。）を次のいずれかに該当する事由により二月以上の期間にわたつて本邦（出資外国法人等が行つた海外投資に係る支払金等（関係外国法人に係るものを除く。）にあつてはその本店又は主たる事務所が所在する外国の地域、関係外国法人に係る支払金等にあつては保険契約で定める地域）に送金することができなかつたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">外国における戦争、革命又は内乱による為替取引の途絶</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">外国政府等による当該支払金等の管理</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（４）</span>　<span data-xpath="">当該支払金等の送金の許可の取消し又は外国政府等がその許可をすべきことをあらかじめ約していた場合においてその許可をしなかつたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（５）</span>　<span data-xpath="">（１）から（４）までに掲げる事由の発生後における外国政府等による支払金等の没収</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">法第二条第十七項第一号に掲げる海外投資について、海外投資の相手方についての破産手続開始の決定（ロに掲げるものを除き、海外投資を行つた者の責めに帰することができないものに限る。）その他これに準ずる事由が生じたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">海外事業資金貸付を行つた者が次のいずれかに該当する事由により海外事業資金貸付金債権等の貸付金等を回収することができないことにより受ける損失又はイからニまでのいずれかに該当する事由により保証債務に係る主たる債務者の債務の不履行が生じたことによつて保証債務を履行したことにより受ける損失若しくは保証債務に係る主たる債務者の債務の不履行（イからニまでのいずれかに該当する事由によるものを除く。）が生じたことによつて保証債務を履行したことにより取得した求償権に基づき取得し得べき金額の回収ができないこと（保証債務を負担した者の責めに帰することができず、かつ、その状態が求償権の取得の日から保険契約で定める期間を経過する日までの期間にわたるものに限る。）により受ける損失を保険契約で定める一定額を限度として塡補する保険</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">外国における戦争、革命又は内乱</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">イ及びロに掲げるもののほか、本邦外において生じた事由であつて、海外事業資金貸付（保証債務の負担を除く。ニ及びホにおいて同じ。）を行つた者若しくはその相手方又は保証債務を負担した者若しくは保証債務に係る主たる債務者若しくは債権者の責めに帰することができないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">海外事業資金貸付の相手方又は保証債務に係る主たる債務者についての破産手続開始の決定その他これに準ずる事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">海外事業資金貸付の相手方の保険契約で定める期間以上の債務の履行遅滞（海外事業資金貸付を行つた者の責めに帰することができないものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第二十四条第二項の代わり社債券の発行）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">株式会社日本貿易保険（以下「会社」という。）は、社債券を失つた者に交付するために法第二十四条第二項の代わり社債券を発行する場合には、会社が適当と認める者に当該失われた社債券の番号を確認させ、かつ、当該社債券を失つた者に失つたことの証拠を提出させなければならない。</span><span data-xpath="">この場合において、必要があるときは、会社は、当該失われた社債券について償還をし、若しくは消却のための買入れをし、又は当該失われた社債券に附属する利札について利子の支払をしたときは会社及びその保証人が適当と認める者がその償還金額若しくは買入価額又は利子の支払金額に相当する金額を会社（会社の保証人が当該償還若しくは買入れ又は利子の支払をしたときは、当該保証人）に対し補塡することとなることが確実と認められる保証状を徴するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第二十六条第二項の代わり社債券等の発行）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">会社は、社債券又はその利札を失つた者に交付するために法第二十六条第二項の代わり社債券又は代わり利札を発行する場合には、会社が適当と認める者に当該失われた社債券又は利札の番号を確認させ、かつ、当該社債券又は利札を失つた者に失つたことの証拠を提出させなければならない。</span><span data-xpath="">この場合において、必要があるときは、会社は、当該失われた社債券について償還をし、若しくは消却のための買入れをし、又は当該失われた社債券に附属する利札若しくは当該失われた利札について利子の支払をしたときは会社及びその保証人たる政府が適当と認める者がその償還金額若しくは買入価額又は利子の支払金額に相当する金額を会社（会社の保証人たる政府が当該償還若しくは買入れ又は利子の支払をしたときは、当該保証人たる政府）に対し補塡することとなることが確実と認められる保証状を徴するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法人税に係る課税の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">会社が各事業年度（法人税法（昭和四十年法律第三十四号）第十三条及び第十四条に規定する事業年度をいう。）終了の時において法第三十七条第五項に規定する財務省令で定める金銭債権を有する場合における法人税法第五十二条の規定の適用については、同条第一項中「もの（当該」とあるのは「もの及び貿易保険法（昭和二十五年法律第六十七号）第三十七条第五項（法人税に係る課税の特例）に規定する財務省令で定める金銭債権（これらの」と、「その損失」とあるのは「貸倒れその他これに類する事由による損失」と、「（第五項」とあるのは「（当該財務省令で定める金銭債権にあつては、当該金銭債権の額（当該金銭債権の額のうち、当該金銭債権に係る債務者から受け入れた金額があるため実質的に債権とみられない部分の金額及び保証債務の履行その他により取立て又は弁済の見込みがあると認められる部分の金額を除く。）の百分の五十に相当する金額。第五項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（普通貿易保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第四十四条第二項第三号の貨物は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">設備（航空機、船舶及び車両を含む。）並びにその部分品及び附属品</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号の貨物以外の貨物のうち、特定の仕向地への輸出を目的として生産されたもので、当該仕向地以外の仕向地への輸出又は本邦内における販売が著しく困難であると認められるものであつて、経済産業大臣が定めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">法第四十四条第二項第四号の費用は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">輸出貨物又は仲介貿易貨物の運賃</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">輸出貨物又は仲介貿易貨物の保管又は維持に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">輸出貨物又は仲介貿易貨物を積載している船舶の停泊料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">輸出貨物又は仲介貿易貨物を輸送することを内容とする契約の解除に伴う賠償金又は違約金の支払に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">輸出貨物又は仲介貿易貨物の輸送に係る保険料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者の人件費</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者を、当該技術の提供若しくはこれに伴う労務の提供の地から退避させ、又はその業務を再開する目的で当該地へ赴任させるために要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者の安全の確保に関し必要な施設又は設備の設置又は改修に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供のために使用する施設又は建設機械の賃借料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（出資外国法人等貿易保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法第四十八条第二項第一号トの政令で定める者は、日本国の政府及び地方公共団体とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">法第四十八条第二項第二号の貨物は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">設備（航空機及び船舶を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">石油、可燃性天然ガス、石炭及び金属鉱物</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第四十八条第二項第三号の費用は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">出資外国法人等販売貨物又は出資外国法人等仲介貿易貨物の運賃</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">出資外国法人等販売貨物又は出資外国法人等仲介貿易貨物の保管又は維持に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">出資外国法人等販売貨物又は出資外国法人等仲介貿易貨物を積載している船舶の停泊料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">出資外国法人等販売貨物又は出資外国法人等仲介貿易貨物を輸送することを内容とする契約の解除に伴う賠償金又は違約金の支払に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">出資外国法人等販売貨物又は出資外国法人等仲介貿易貨物の輸送に係る保険料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者の人件費</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者を、当該技術の提供若しくはこれに伴う労務の提供の地から退避させ、又はその業務を再開する目的で当該地へ赴任させるために要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供に関する業務に従事する者の安全の確保に関し必要な施設又は設備の設置又は改修に要する費用</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">技術の提供又はこれに伴う労務の提供のために使用する施設又は建設機械の賃借料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貿易代金貸付保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">法第五十一条第二項の附帯の債権は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">利子</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">遅延損害金</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（為替変動保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">法第五十四条第二項の貨物は、設備（航空機、船舶及び車両を含む。）並びにその部分品及び附属品とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">法第五十四条第二項の外国通貨は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">アメリカ合衆国通貨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">英国通貨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">欧州経済通貨統合参加国通貨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">スイス連邦通貨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">法第五十四条第二項の期間は、短期については二年、長期については十五年とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">法第五十五条の割合は、百分の十七とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（輸出手形保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十七条</span>　<span data-xpath="">法第五十七条第一項の政令で定める者は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">長期信用銀行、信用金庫、信用金庫連合会、労働金庫、労働金庫連合会、信用協同組合及び信用協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">農業協同組合法第十条第一項第三号の事業を行う農業協同組合及び農業協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">農林中央金庫及び株式会社商工組合中央金庫</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（輸出保証保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十八条</span>　<span data-xpath="">法第六十二条第二項の政令で定める者は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">長期信用銀行、信用金庫、信用金庫連合会、労働金庫、労働金庫連合会、信用協同組合及び信用協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">農業協同組合法第十条第一項第三号の事業を行う農業協同組合及び農業協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">農林中央金庫、株式会社商工組合中央金庫及び株式会社日本政策投資銀行</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">損害保険会社（保険業法（平成七年法律第百五号）第二条第九項に規定する外国損害保険会社等を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十九条</span>　<span data-xpath="">法第六十二条第二項の貨物は、一の機能を営む総合体を構成する設備とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十条</span>　<span data-xpath="">法第六十二条第二項の技術の提供又はこれに伴う労務の提供は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">設備の建設及び土木建築に関する調査、企画、立案、助言、設計、監督及び検査（以下「調査等」という。）並びにこれに伴う設備の建設工事及び土木建築工事</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">設備（航空機、船舶及び車両を含む。）の製造及び利用に関する調査等</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（海外投資保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">法第六十九条第二項第二号の事由は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">破産手続開始の決定その他これに準ずる事由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">銀行による取引の停止その他これに準ずる事由（著しい債務超過となつている場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">一月以上の事業の休止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">事業の遂行上重大な支障の発生（一月以上の期間継続している場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">法第六十九条第二項第四号の期間は、二月とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">法第六十九条第三項の期間は、三十年とする。</span><span data-xpath="">ただし、当該外国法人がその事業の全部を開始するまでに相当の期間を要すると認められるときは、三十年にその事業の全部を開始するまでに要する期間以内において経済産業大臣が定める期間を加えた期間とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">法第七十条第五項第二号の期間は、二月とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">法第七十条第五項第三号の事由は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">外国において実施される為替取引の制限又は禁止（二月以上の期間継続して行われたものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">外国における戦争、革命又は内乱による為替取引の途絶（二月以上の期間継続したものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">法第六十九条第二項第一号から第三号までのいずれかに該当する事由の発生により取得した金額が譲渡を禁止された国債、公債その他これらに準ずる有価証券で取得したものである場合において、戦争、革命、内乱又は外国政府等の行為により当該有価証券の償還が行われなくなつたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">前号に規定する場合を除くほか、戦争、革命、内乱又は外国政府等の行為により法第六十九条第二項第一号から第三号まで又は第五号のいずれかに該当する事由の発生により取得した金額（金銭で取得したものを除く。）又は取得し得べき金額を金銭で取得することができなくなつたこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（スワップ取引保険）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">法第七十四条第二項の債権は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">スワップ取引（金融商品取引法（昭和二十三年法律第二十五号）第二条第二十二項第五号に掲げる取引をいう。次号において同じ。）の解約に伴う清算金</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">スワップ取引に基づき支払を受けるべき金銭</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、昭和二十八年八月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">輸出信用保険法施行令（昭和二十五年政令第百四十六号）は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三一年四月一六日政令第九八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三二年五月二日政令第九五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三三年七月三〇日政令第二三五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和三十三年八月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三三年一二月一〇日政令第三二六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三七年六月四日政令第二三八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三七年一一月一日政令第四二四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和三九年六月二二日政令第一九三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和三十九年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四〇年三月三〇日政令第六四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和四十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四〇年八月三一日政令第二九七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和四十年九月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四五年五月一五日政令第一二四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四七年一月二〇日政令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和四九年一一月二八日政令第三七七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、輸出保険法の一部を改正する法律（昭和四十九年法律第六十一号）の施行の日（昭和四十九年十一月二十九日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（設備等輸出為替損失補償法施行令の廃止）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">設備等輸出為替損失補償法施行令（昭和二十七年政令第百六十五号）は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五〇年六月一三日政令第一八二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五二年九月二四日政令第二八二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、輸出保険法の一部を改正する法律の施行の日（昭和五十二年十月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五六年九月二六日政令第二九〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和五十六年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五九年五月一八日政令第一五一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和五九年一一月一三日政令第三二五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、輸出保険法及び輸出保険特別会計法の一部を改正する法律の一部の施行の日（昭和五十九年十一月十七日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和六二年三月三〇日政令第八〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和六十二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和六二年九月二六日政令第三一六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、昭和六十二年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（昭和六三年三月二五日政令第五四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、昭和六十三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成五年六月二三日政令第二一四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、貿易保険法の一部を改正する法律の施行の日（平成五年八月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成七年一二月二二日政令第四二六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、保険業法の施行の日（平成八年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成九年一二月二五日政令第三八七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年六月七日政令第三一一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年六月七日政令第三三三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令（第一条を除く。）は、平成十三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一四年一二月六日政令第三六三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十五年一月六日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年三月三一日政令第一二五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成十五年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一六年九月一〇日政令第二七〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一六年一〇月二〇日政令第三一八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、破産法の施行の日（平成十七年一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年一二月一四日政令第三六九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十年一月四日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年五月二一日政令第一八〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年七月四日政令第二一九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年七月二五日政令第二三七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二六年九月二五日政令第三一二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、貿易保険法の一部を改正する法律の施行の日（平成二十六年十月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年一月五日政令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年一月二〇日政令第四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十九年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年七月一二日政令第五六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年六月二六日政令第二〇七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、令和四年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年六月一七日政令第二二一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、貿易保険法の一部を改正する法律（令和四年法律第二十五号）の施行の日（令和四年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

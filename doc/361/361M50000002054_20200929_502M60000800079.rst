@@ -1,0 +1,1581 @@
+.. _361M50000002054_20200929_502M60000800079:
+
+:orphan:
+
+========================
+地籍図の様式を定める省令
+========================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和六十一年総理府令第五十四号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">地籍図の様式を定める省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">国土調査法施行令（昭和二十七年政令第五十九号）第二条第二項の規定に基づき、地籍図の様式を定める総理府令（昭和二十九年総理府令第六号）の全部を改正する総理府令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">国土調査法施行令第二条第二項の国土交通省令で定める地籍図の様式は、別記のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、昭和六十二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年八月一四日総理府令第一〇三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一四年二月二〇日国土交通省令第一〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、測量法及び水路業務法の一部を改正する法律（平成十三年法律第五十三号）の施行の日（平成十四年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令の施行の際現に地籍調査を実施中の者に限り、地籍図の様式については、なお従前の例によることができる。</span><span data-xpath="">ただし、この場合においては、世界測地系に基づく図郭線の座標値について、地籍図の左下図郭線外に、次の各号に掲げる事項を図例で示す方法によって表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">表の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">修正年月</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">世界測地系に基づく図郭線四隅の座標値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">図郭左下の旧座標値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">地籍図の縮尺</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">座標系記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">世界測地系の座標値を求めるために用いた座標変換の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="" class="_div_FigStructTitle _shokanBoxParent">（図例）<div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183428.jpg" alt="" class="Fig"></div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二二年一〇月一二日国土交通省令第四九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年九月二九日国土交通省令第七九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地籍簿の様式を定める省令等の廃止）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">次に掲げる省令は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">地籍図の様式を定める省令（昭和六十一年総理府令第五十四号）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地籍簿の様式を定める省令等の廃止に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">前条の規定による廃止前の同条第一号から第三号まで、第五号及び第六号に掲げる省令の規定に基づいて作成した地図及び簿冊は、第一条の規定による改正後の国土調査法施行規則の相当する規定に基づいて作成したものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別記<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">地籍図様式</span></div></td></tr>
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">目次</span></div></td></tr>
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第１部</span>　<span data-xpath="">記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">基準点及び境界標等の表示</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">一筆地調査事項の表示</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">土地利用及び工作物の現況の表示</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">注記の表示</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">表示についての注意事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第２部</span>　<span data-xpath="">整飾</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第３部</span>　<span data-xpath="">略字及び用語</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div></td></tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第１部</span>　<span data-xpath="">記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">基準点及び境界標等の表示</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" colspan="3"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">記号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" colspan="2"><div><span data-xpath="">記号の表示の方法又は図例</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">形状及び大きさ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">線幅及び線色</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">基本三角点基準点（補助基準点を除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183435.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">０．２、１．０、３．５等の数字は、それぞれ０．２ｍｍ、１．０ｍｍ、３．５ｍｍ等を表示するものとする（以下同じ。）。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">電子基準点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183436.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">基本多角点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183437.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">補助基準点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183438.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地籍図根三角点（地籍図根三角点に相当する標定点を含む。以下同じ。）</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183439.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地籍図根多角点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183440.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">航測図根点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183442.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">細部図根点</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183443.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div>
+    <span data-xpath="">基本水準点</span><br><span data-xpath="">基準水準点</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183445.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">市町村境界標</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183447.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">永久的な標識を設置したものを表示するものとする。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">筆界基準杭</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183449.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">筆界点の中心に円の中心を合わせて表示するものとする。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">特定の記号が他の事項を兼ねて表示する場合の付加記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">主体となつている記号の右下に当該付加記号を表示する。ただし、筆界その他重要な図形と重複する場合には、指摘を誤らない範囲で適宜の場所に表示することができる。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">（１）　市町村境界標又は筆界基準杭が地籍図根多角点、航測図根点又は細部図根点を兼ねて表示する場合</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183450.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183451.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（筆界基準杭が地籍図根多角点を兼ねる場合の例）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">（２）　地籍図根三角点等が市町村境界標を兼ねて表示する場合</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183452.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">赤</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183453.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（基本三角点が市町村境界標を兼ねる場合の例）</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">一筆地調査事項の表示</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" colspan="3"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">記号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" colspan="2"><div><span data-xpath="">記号の表示の方法又は図例</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">形状及び大きさ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">線幅及び線色</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地番区域界</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="4"><div><span data-xpath=""><img src="/./pict/2JH00000183455.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="4"><div><span data-xpath="">黒</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="4" colspan="2"><div><span data-xpath="">地番区域界の記号は、地番区域界である筆界の線上に当該筆界の一辺ごとに、そのおおむね中央に表示するものとする。ただし、おおむね５ｃｍ以上の長さの辺にあつては、おおむね５ｃｍごとに表示するものとする。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">市町村の境界である場合</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">大字の境界である場合</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183457.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">黒</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">地番区域の境界が市町村、大字又は字の境界以外の境界である場合には、字の境界である場合の記号で表示するものとする。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">字の境界である場合</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183458.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">黒</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="3" colspan="2"><div>
+    <span data-xpath="">筆界の長さが短いため、地番区域界の記号を筆界の記号の線上に表示することができない場合には、次の要領によつて当該地番区域界を表示することができる。</span><br><span data-xpath="">（１）　指摘を誤らない範囲で当該記号を構成する各点の間隔を短縮する。</span><br><span data-xpath="">（２）　地番区域界特示記号を付加する。</span><br><span data-xpath="">（３）　筆界の当該辺の長さが５ｍｍ未満の場合には、当該筆界の記号の線上に直径が０．３ｍｍの大きさの１個の円点を表示する。</span><br><span data-xpath="">（大字の境界である場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183459.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">筆界</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">―</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">地籍図上の真位置に表示するものとする。</span><br><span data-xpath="">筆界未定地がある場合には、次の要領によつて表示するものとする。</span><br><span data-xpath="">（１）　筆界未定地が一地籍図の区域内に存する場合には、当該関係地が一括表示された地籍図の図形の上部適宜の箇所（将来図面修正等の場合において支障がないと認められる箇所）に当該関係土地の地番を各地番の間に「＋」印を付して列記し、これに括弧を付する。</span><br><span data-xpath="">（地番が２番、３番及び４番の土地相互の筆界が未定である場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183460.jpg" alt="" style="margin-left:1em;" class="Fig"></span><br><span data-xpath="">（２）　筆界未定地が数個の地籍図の区域にまたがる場合には、それぞれの地籍図に（１）による表示をなし、かつ、これに地番分属記号を付する。</span><br><span data-xpath="">（地番が５番と６番の土地相互の筆界が未定で、二つの地籍図にまたがる場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183461.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183462.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">（３）　長狭物との筆界が未定である場合には、（１）による表示をなし、かつ、長狭物との境界を現況により鎖線で表示する。</span><br><span data-xpath="">（地番が４２番の土地と道の相互の筆界が未定である場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183463.jpg" alt="" style="margin-left:1em;" class="Fig"></span><br><span data-xpath="">地籍図の図郭外における筆界等の表示は、おおむね３ｍｍを標準とする。ただし、必要がある場合には、３ｃｍ以内の延伸により表示することができる。</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地番</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">アラビア数字</span><br><span data-xpath="">横書</span><br><span data-xpath="">ゴシック体</span><br><span data-xpath="">字高２．０～３．０</span><br><span data-xpath="">字隔２．０～３．０</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地番数字接続記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183465.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183466.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">（地番が１２３番の４である場合の例）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地番分属記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183467.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">分数の分母は分属する地籍図の総数を、分子は分属の順序を表示するものとする。一地籍図の区域内に同一の地番分属記号が二以上ある場合には、ローマ字大文字をＡから順次添えて表示するものとする。</span><br><span data-xpath="">（一地籍図の区域内に同一の地番分属記号が二以上ある場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183468.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地籍明細図存在記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183469.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">（地番が１２３番の土地に地籍明細図がある場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183470.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">地番区域界特示記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183471.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">記号の線の虚部の中央に地番区域界を表示する線を直角に挟むものとする。ただし、必要がある場合には、相対する矢印のうちのいずれか一方のみを表示することができる。</span><br><span data-xpath="">（図例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183472.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">隣接区域縮尺表示記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">アラビア数字及びコロン</span><br><span data-xpath="">横書</span><br><span data-xpath="">ゴシック体</span><br><span data-xpath="">字高５．０～６．０</span><br><span data-xpath="">字隔４．０～６．０</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div>
+    <span data-xpath="">当該隣接区域内のほぼ中央に表示するものとする。</span><br><span data-xpath="">（縮尺が１／１，０００の場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183473.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="3"><div><span data-xpath="">調査除外区域表示記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">横書又は縦書</span><br><span data-xpath="">正方形直立等線体</span><br><span data-xpath="">字高５．０～６．０</span><br><span data-xpath="">字隔１０．０～１５．０</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．２</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">当該調査除外区域内のほぼ中央に国有林、湖沼、土地改良事業、土地区画整理事業その他の除外理由を表示するものとする。</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">土地利用及び工作物の現況の表示</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">記号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">記号の表示の方法又は図例</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">形状及び大きさ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">線幅及び線色</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">長狭物</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">正方形直立等線体</span><br><span data-xpath="">字大３．０～５．０</span><br><span data-xpath="">字隔２．５以上</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">長狭物内の中辺部に表示するものとする。ただし、長狭物内の表示が困難である場合には、長狭物外に表示し、矢印により当該長狭物との関係を示すものとする。この場合において、矢印と筆界線は交ささせないものとする。</span><br><span data-xpath="">（長狭物内の表示が困難である場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183474.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">公衆用道路</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">道</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">国道の場合は、「国道（○号）」とする。</span><br><span data-xpath="">都道府県道の場合は、「都道」等とする。</span><br><span data-xpath="">市町村道の場合は、「市道」等とする。</span><br><span data-xpath="">その他の公衆用道路は、「道」とする。</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">運河用地</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">運</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">用悪水路</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">水</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">堤</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">堤</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">井溝</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">溝</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">鉄道用地</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">鉄</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">軌道用地</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">軌</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">河川</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">川</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">名称のある場合はその固有名称を表示する。</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">注記の表示</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">記号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">記号の表示の方法又は図例</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">形状及び大きさ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">線幅及び線色</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">辺長の数値</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">アラビア数字</span><br><span data-xpath="">横書</span><br><span data-xpath="">ゴシック体</span><br><span data-xpath="">字高１．０</span><br><span data-xpath="">字隔１．０</span><br><span data-xpath="">小数点を入れる間隔は１．５</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">メートル単位で必要に応じて表示するものとする。</span><br><span data-xpath="">表示しようとする辺長のおおむね中央に、当該線から０．５ｍｍ離れて、これに平行な字列で表示するものとする。この場合において、数字は、図郭の下辺に倒立しないようにするものとする。</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">幅の数値</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">アラビア数字</span><br><span data-xpath="">横書</span><br><span data-xpath="">ゴシック体</span><br><span data-xpath="">字高１．０</span><br><span data-xpath="">字隔１．０</span><br><span data-xpath="">小数点を入れる間隔は１．５</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">メートル単位で小数第１位まで必要に応じて表示するものとする。ただし、特に必要がある場合には、小数第２位まで表示することができる。表示しようとするものから０．５ｍｍ離れて、そのものに平行の字列で表示する。この場合において数字は、図郭の下辺に倒立しないようにするものとする。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一線で表示されているものの幅の数値</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><img src="/./pict/2JH00000183475.jpg" alt="" style="margin-left:1em;" class="Fig"></span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">０．１</span><br><span data-xpath="">黒</span>
+    </div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">（幅が０．２ｍである場合の例）</span><br><span data-xpath=""><img src="/./pict/2JH00000183476.jpg" alt="" style="margin-left:1em;" class="Fig"></span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">表示についての注意事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">基準点又は境界標の記号の表示についての注意事項</span><br><span data-xpath="">基準点又は境界標の記号は、当該記号の中心点を地籍図上の真位置に表示するものとする。ただし、付加記号については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">競合する二つ以上の記号の表示についての注意事項</span><br><span data-xpath="">二つ以上の記号が近接するためこれらが重複又は接着する場合には、記号の種類の混同を生ぜしめない範囲内において、記号の大きさを縮め又は記号の一部を欠いて表示することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">筆界と競合する線の表示についての注意事項</span><br><span data-xpath="">筆界の記号とその他の線である記号とが競合する場合には、筆界の記号のみを表示してその他の線である記号は、表示しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（４）</span>　<span data-xpath="">地番の記号の表示についての注意事項</span><br><span data-xpath="">地番の記号は、一筆地が表示されている区域のおおむね中央に表示するものとする。ただし、当該地籍図上において表示されている一筆地の形状が小さいか又は長狭であるために、当該図形の内部に表示することが困難である場合には、次の要領で表示することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">地番の記号の大きさを、誤解を生じない範囲内において縮小して表示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">やむを得ない場合には、字列の方向を図郭の下辺と斜め又は多少弧状にすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">当該一筆地の図形の内部には、片仮名のイロハ順の記号を表示しておき、このイロハ順の記号を図郭外に表示し、これに地番の記号を表示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">当該地籍図上に表示されている一筆地の形状が極めて小さいか又は極めて狭いために、当該筆の区域内に前号によるイロハ順の記号を表示することができない場合には、引出線をつけて地番又はイロハ順の記号を表示するものとする。この場合において、引出線は、幅０．１ｍｍの黒線とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第２部</span>　<span data-xpath="">整飾</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">地籍図に表示する整飾事項は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">図郭線</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">図郭線の数値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">地籍図の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">座標系記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">測地系の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">地番区域見出図（地番区域の名称を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">整理表題</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">精度区分見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">隣接図郭番号見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">整飾事項を表示する位置は、おおむね次に掲げる図例によるものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183477.jpg" alt="" class="Fig"></div></div></td></tr>
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">①図郭線</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">②図郭線の座標値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">③地籍図の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">④座標系記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑤測地系の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑥地番区域見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑦左上整理表題</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑧右下整理表題</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑨精度区分見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">⑩隣接図郭番号見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div></td></tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">各整飾事項の表示の方法、表示についての注意事項及び図例は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">図郭線</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">図郭線は、幅０．１ｍｍの赤線で表示する。ただし、四隅の部分の縦線及び横線をそれぞれ３．０ｍｍ突出させるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">図形が図郭外に表示される場合には、当該図形の表示に関係する図郭線をそれぞれ延長して表示するのを原則とする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183478.jpg" alt="" class="Fig"></div></div></td></tr>
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">（左上隅の例）</span></div></td></tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">図郭線の座標値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">アラビア数字及び正負の符号で次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ゴシック体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字高</span>　<span data-xpath="">整数位３．０ｍｍ小数位２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">３．０ｍｍとする。ただし、小数点を入れる間隔は４．０ｍｍとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">赤字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">図郭線の横線の座標値は、図郭線を延長した仮想の線が整数位の字列の中心線であるようにし、かつ、図郭線の端から３．０ｍｍを離して字列の最初の符号又は最後の数字の中心があるよう表示するものとする。図郭線の縦線の座標値は、図郭線の横線と字列が平行であり、図郭線の横線から整数位の字列の中心線が６．０ｍｍ離れるようにし、かつ、字列の左辺が図郭の左辺の延長上又は字列の右辺が図郭の右辺の延長上にあるよう表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">整数位の数字の下辺と小数位の数字の下辺とは、同一直線上にあるように表示する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">左下隅及び右上隅における縦線及び横線にそれぞれ表示するものとする。ただし、必要がある場合には、左上隅又は右下隅の縦線又は横線に表示することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">表示する数字は、図郭の下辺に対して倒立しないように表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">座標値は、キロメートルを単位として表示するものとする。この場合において、縮尺が１／１，０００又は１／５，０００の場合にあつては小数第２位まで、縮尺が１／５００又は１／２，５００の場合にあつては小数第３位まで、縮尺が１／２５０の場合にあつては小数第４位まで表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">キ</span>　<span data-xpath="">小数点は、整数の１位の数字と小数第１位の数字との中間であつて、かつ、整数位の字列の中心線上に０．３ｍｍの円点で表示するものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">（図郭左下隅の場合）</span></div></td></tr>
+    <tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183479.jpg" alt="" class="Fig"></div></div></td></tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">地籍図の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">漢字及び仮名文字で次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">正方形直立等線体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字大</span>　<span data-xpath="">４．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">字列は、図郭の上辺に平行であり、字列の下辺が図郭の上辺から４．０ｍｍ離れるようにし、かつ、最左側文字の左辺が図郭の左辺の延長線から５０．０ｍｍ右に離れるように表示するものとする。ただし、図形の表示の関係でこの位置に表示することが困難である場合には、表示する位置を変更することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">地籍図の名称は、市町村（特別区を含む。）の名称の末尾に「地籍図」の文字を添えたものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183480.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（４）</span>　<span data-xpath="">座標系記号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">ローマ数字で次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ゴシック体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字高</span>　<span data-xpath="">４．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">４．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">字列は、図郭の上辺に平行であり、字列の下辺が図郭の上辺から４．０ｍｍ離れるようにし、かつ、字列の中心が、図郭の左辺の延長線から１０．０ｍｍ左に離れるように表示するものとする。ただし、図形の表示の関係でこの位置に表示することが困難である場合には、表示する位置を変更することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">座標系記号であるローマ数字は、国土調査法施行令別表第一に掲げる座標系の区分の記号によるものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183481.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（５）</span>　<span data-xpath="">測地系の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">「（世界測地系）」と次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">正方形直立等線体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字大</span>　<span data-xpath="">４．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">字列は、図郭の上辺に平行であり、字列の下辺が図郭の上辺から４．０ｍｍ離れるようにし、かつ、最左側の文字の左辺が図郭の左辺の延長上にあるように表示するものとする。ただし、図形の表示の関係でこの位置に表示することが困難である場合には、表示する位置を変更することができる。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183482.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（６）</span>　<span data-xpath="">地番区域見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">地番区域見出図の区画は、縦１５．０ｍｍ、横２１．０ｍｍの長方形とし、幅０．１ｍｍの黒線で表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">地番区域見出図の区画内には、地番区域界及び地番区域の名称を表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">地番区域界の表示については、第１部における地番区域界の表示の方法を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">地番区域の名称は、地番区域見出図における当該地番区域の区域内に、次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書（やむを得ない場合には、縦書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">正方形直立等線体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字大</span>　<span data-xpath="">２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">２．０ｍｍ（やむを得ない場合には、１．０ｍｍ又は０．５ｍｍ）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">地番区域見出図の区画は、その左側が図郭の右辺に平行であり、かつ、区画の左上隅が図郭の右辺から右に７．０ｍｍ、図郭の上辺の延長線から下に１０．０ｍｍ離れるように表示するものとする。ただし、図形の関係でやむを得ない場合には、その位置を平行に移動することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">地番区域の境界で囲まれた区域又は地番区域の境界と区画の一部とで囲まれた区域に地番区域の名称の表示が困難である場合には、地番区域の名称の代わりに、ローマ字大文字をＡから順次に用いることができる。この場合においては、地番区域見出図区画下方に次に掲げる図例で示す方法によつて、その地番区域の名称を表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">キ</span>　<span data-xpath="">地籍図の名称として表示した市区町村以外の区域が、地番区域見出図に表示される場合には、当該市区町村の名称を地番区域の名称と同様の方法で表示するものとする。この場合において必要がある場合には、当該市区町村の名称とあわせて当該市区町村の地番区域の名称を表示することができる。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183483.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（７）</span>　<span data-xpath="">左上整理表題</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">左上整理表題の区画は、縦６．０ｍｍ、横３０．０ｍｍの長方形とし、幅０．１ｍｍの黒線で表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">左上整理表題の区画内には、当該地籍図の図郭番号を表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">左上整理表題の区画内の表示は、次によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">（ア）</span>　<span data-xpath="">文字は、漢字、ローマ字、アラビア数字及びハイフンを用い、黒で表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（イ）</span>　<span data-xpath="">漢字は、次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">正方形直立等線体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字大</span>　<span data-xpath="">３．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">３．０ｍｍ（字数が多い場合には、２．０ｍｍ又は１．０ｍｍ）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（ウ）</span>　<span data-xpath="">ローマ字又はアラビア数字（以下「ローマ字等」という。）は、次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ゴシック体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字高</span>　<span data-xpath="">３．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">３．０ｍｍ（字数が多い場合には、２．０ｍｍ）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 7em; text-indent: -1em;" class="_div_Subitem5Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ハイフンの長さ</span>　<span data-xpath="">２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">（エ）</span>　<span data-xpath="">漢字とローマ字等との間隔は、３．０ｍｍとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">左上整理表題の区画は、その下辺が図郭の上辺に平行であり、かつ、区画の右下隅が図郭の上辺から上に１０．０ｍｍ離れ、図郭の左辺の延長線上にあるように表示するものとする。ただし、図形の表示の関係でやむを得ない場合には、その位置を平行に移動することができる。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183484.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">左上整理表題の区画内の文字は、おおむね中央に表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">図郭番号は、次の各号に掲げる略称及び番号を（ア）、（イ）、（ウ）の順に左から右に列記して付するものとする。ただし、縮尺が１／５，０００の場合には、市区町村内区画を細分する番号を列記しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">（ア）</span>　<span data-xpath="">市区町村名の略称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">（イ）</span>　<span data-xpath="">市区町村内区画の番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">（ウ）</span>　<span data-xpath="">市区町村内区画を細分する番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">キ</span>　<span data-xpath="">市区町村名の略称は、当該市区町村名から適当な１字又は２字以上を選んで定めるものとする。この場合において略称は、隣接市区町村名の略称と区別できるものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ク</span>　<span data-xpath="">市区町村内区画の番号は、市区町村の区域ごとにその区域内において、上の横列から下の横列内においては、左から右に順次に、大文字でアルファベット順にＡ、Ｂ、Ｃ……Ｚを、Ｚの次にはＡ<sup style="vertical-align: super; font-size: 50%;" class="Sup">１</sup>、Ｂ<sup style="vertical-align: super; font-size: 50%;" class="Sup">１</sup>、Ｃ<sup style="vertical-align: super; font-size: 50%;" class="Sup">１</sup>……Ｚ<sup style="vertical-align: super; font-size: 50%;" class="Sup">１</sup>を、Ｚ<sup style="vertical-align: super; font-size: 50%;" class="Sup">１</sup>の次にはＡ<sup style="vertical-align: super; font-size: 50%;" class="Sup">２</sup>、Ｂ<sup style="vertical-align: super; font-size: 50%;" class="Sup">２</sup>、Ｃ<sup style="vertical-align: super; font-size: 50%;" class="Sup">２</sup>……Ｚ<sup style="vertical-align: super; font-size: 50%;" class="Sup">２</sup>を、Ｚ<sup style="vertical-align: super; font-size: 50%;" class="Sup">２</sup>の次にはＡ<sup style="vertical-align: super; font-size: 50%;" class="Sup">３</sup>、Ｂ<sup style="vertical-align: super; font-size: 50%;" class="Sup">３</sup>、Ｃ<sup style="vertical-align: super; font-size: 50%;" class="Sup">３</sup>……Ｚ<sup style="vertical-align: super; font-size: 50%;" class="Sup">３</sup>等をそれぞれ付するものとする。ただし、Ｉ、Ｏ、Ｘ、Ｙは、用いないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ケ</span>　<span data-xpath="">市区町村内区画は、当該市区町村の区域について座標系原点から座標系のＸ軸の方向に１．２５ｋｍ、座標系のＹ軸の方向に１．７５ｋｍごとに区画したものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">コ</span>　<span data-xpath="">市区町村内区画は、縮尺１／２，５００の場合にあつては、４等分（縦及び横をそれぞれ２等分することをいう。以下同じ。）に細分し、縮尺１／１，０００の場合にあつては、２５等分（縦及び横をそれぞれ５等分することをいう。）に細分し、縮尺１／５００の場合にあつては、縮尺１／１，０００の場合において細分した区画を更に４等分に細分し、縮尺１／２５０の場合にあつては、縮尺１／５００の場合において細分した区画を更に４等分に細分するものとする。この場合において細分された区域については、次のサに定めるところに従つて、アラビア数字で番号を付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">サ</span>　<span data-xpath="">市区町村内区画を細分する番号は、図郭の区域ごとに上の横列から下の横列に、横列内においては左から右に、順次にアラビア数字を用いて付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（ア）</span>　<span data-xpath="">縮尺が１／２，５００である場合</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１０</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２０</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３０</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４０</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_RemarksLabel _shokanBoxParent">
+    <span data-xpath="">備考</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <span data-xpath="">太線は、縮尺が１／５，０００である場合の区画とし、細線は、縮尺が１／２，５００である場合の区画とする。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（イ）</span>　<span data-xpath="">縮尺が１／１，０００である場合</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１２</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１４</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２２</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２４</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３２</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３４</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４２</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４４</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">５１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">５２</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">５３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">５４</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">５５</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_RemarksLabel _shokanBoxParent">
+    <span data-xpath="">備考</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <span data-xpath="">太線は、縮尺が１／５，０００である場合の区画とし、細線は、縮尺が１／１，０００である場合の区画とする。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（ウ）</span>　<span data-xpath="">縮尺が１／５００である場合</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_RemarksLabel _shokanBoxParent">
+    <span data-xpath="">備考</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">縮尺が１／１，０００である場合の番号に更に付加する番号とする。この場合において、付加する番号の前にハイフンを付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">太線は、縮尺が１／１，０００である場合の区画とし、細線は、縮尺が１／５００である場合の区画とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（エ）</span>　<span data-xpath="">縮尺が１／２５０である場合</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">１</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">２</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">３</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">４</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_RemarksLabel _shokanBoxParent">
+    <span data-xpath="">備考</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">縮尺が１／５００である場合の番号に更に付加する番号とする。この場合において、付加する番号の前にハイフンを付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">太線は、縮尺が１／５００である場合の区画とし、細線は、縮尺が１／２５０である場合の区画とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（８）</span>　<span data-xpath="">右下整理表題</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">右下整理表題の区画は、縦１０．０ｍｍ、横６０．０ｍｍの長方形とし、幅０．１ｍｍの黒線で表示するものとする。この場合において、当該区画の左右の縦線のそれぞれ中点を結ぶ横線で上下の二欄に分割し、更に縦線により相等しい左右に２等分するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">右下整理表題の各欄各半部には、次の事項を表示するものとする。</span><div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">上欄左半部……当該地籍図の図郭番号</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">上欄右半部……一筆地調査の終了年月</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">下欄左半部……地籍図の縮尺</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">下欄右半部……一筆地の測量を行つた年月</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">右下整理表題の区画内の表示については、左上整理表題の区画内の表示の規定を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">右下整理表題の区画は、その上辺が図郭の下辺に平行であり、かつ、区画の右上隅が、図郭の下辺から下に５．０ｍｍ、図郭の右辺の延長線から右に２５．０ｍｍ離れるように表示するものとする。ただし、図形の表示の関係でやむを得ない場合には、その位置を平行に移動することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">上欄右半部の「一筆地調査の終了年月」は、当該一筆地調査の終了年月の次に「調査」の文字を添えて表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">下欄左半部の「地籍図の縮尺」は、次のように表示するものとする。</span><div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">縮尺が１／５，０００の場合</span>　<span data-xpath="">１：５，０００</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">縮尺が１／２，５００の場合</span>　<span data-xpath="">１：２，５００</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">縮尺が１／１，０００の場合</span>　<span data-xpath="">１：１，０００</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">縮尺が１／５００の場合</span>　<span data-xpath="">１：５００</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">縮尺が１／２５０の場合</span>　<span data-xpath="">１：２５０</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">キ</span>　<span data-xpath="">下欄右半部の「一筆地の測量を行つた年月」は、当該一筆地の測量を行つた年月の次に「測図」の文字を添えて表示するものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183485.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（９）</span>　<span data-xpath="">精度区分見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">精度区分見出図の区画は、縦１５．０ｍｍ、横２１．０ｍｍの長方形とし、幅０．１ｍｍの黒線で表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">精度区分見出図の区画は、その左側が図郭の右辺に平行であり、かつ、区画の左上隅が図郭の右辺から右に７．０ｍｍ、図郭の上辺の延長線から下に４０．０ｍｍ離れるように表示するものとする。ただし、図形の関係でやむを得ない場合には、その位置を平行に移動することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">精度区分見出図の区画内には、精度区分界、当該地籍測量の精度区分の名称及びカに規定する地籍測量の方式を表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">精度区分界は、幅０．１ｍｍの黒線で表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">精度区分の名称は、精度区分見出図における当該精度区分の区域内に、次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書（やむを得ない場合には縦書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">正方形直立等線体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字大</span>　<span data-xpath="">２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">２．０ｍｍ（やむを得ない場合には１．０ｍｍ又は０．５ｍｍ）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">カ</span>　<span data-xpath="">地籍測量の方式は、オに掲げる規格により、数値法であることを表す「Ｎ」の文字を精度区分の名称の次に記して表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">キ</span>　<span data-xpath="">精度区分界で囲まれた区域又は精度区分界と区画の一部とで囲まれた区域に精度区分の名称及び地籍測量の方式（以下「精度区分の名称等」という。）を表示することが困難である場合には、精度区分の名称等の代わりにローマ字大文字をＡから順次に用いることができる。この場合においては、精度区分見出図区画下方に次に掲げる図例で示す方法によつて、その精度区分の名称等を表示するものとする。</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183486.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１０）</span>　<span data-xpath="">隣接図郭番号見出図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ア</span>　<span data-xpath="">隣接図郭番号見出図の区画は、縦１８．０ｍｍ、横２４．０ｍｍの長方形とし、幅０．１ｍｍの黒線で表示するものとする。この場合において、当該区画の縦線及び横線のそれぞれ３分の１の点を結ぶ縦線及び横線で分割するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">隣接図郭番号見出図の区画は、その左側が図郭の右辺に平行であり、かつ、区画の左上隅が図郭の右辺から右に５．０ｍｍ、図郭の上辺の延長線から下に７０．０ｍｍ離れるように表示するものとする。ただし、図形の関係でやむを得ない場合には、その位置を平行に移動することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ウ</span>　<span data-xpath="">隣接図郭番号見出図には、中心の分割区画に当該図郭を斜線により表示し、その他の分割区画には隣接の図郭番号（市区町村名の略称を除く。以下同じ。）を表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">エ</span>　<span data-xpath="">斜線は、幅０．１ｍｍの黒線で、右上がりの傾斜角が区画の下辺に対しおおむね４５度、各斜線間隔を０．８ｍｍとするものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">オ</span>　<span data-xpath="">図郭番号は、次により表示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">横書（やむを得ない場合には二列横書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ゴシック体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字高</span>　<span data-xpath="">２．０～３．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">字隔</span>　<span data-xpath="">０．４～２．０ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">ハイフンの長さ</span>　<span data-xpath="">０．５ｍｍ</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 6em; text-indent: -1em;" class="_div_Subitem4Sentence _shokanBoxParent">
+    <span style="font-weight: bold;"></span>　<span data-xpath="">黒字</span><div class="_div_TableStructTitle _shokanBoxParent">（図例）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-nopad"><div><div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/2JH00000183487.jpg" alt="" class="Fig"></div></div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">第３部</span>　<span data-xpath="">略字及び用語</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">略字</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">略字の意義</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ｋｍ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">キロメートル</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ｍ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">メートル</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ｃｍ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">センチメートル</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ｍｍ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ミリメートル</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">用語</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">用語の意義</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">正方形体</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">正方形の字形をいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">直立体</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">文字の縦線が字列の方向に対して、横書の場合には、垂直であり、縦書の場合には、平行である文字の形をいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">等線体</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">文字を構成する各線の太さが等しい書体をいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">直立等線体</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">直立体であり、かつ、等線体であるものをいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">字大</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">文字の大きさをいい、正方形体の文字にあつては、字形の一辺の長さで表示する。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">字高</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">文字の縦の長さをいい、正方形体以外の文字の大きさを表示するのに用いる。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">字隔</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">漢字又は仮名文字にあつては、文字の字形とこれに隣る文字の字形との間隔をいい、アラビア数字の場合及びローマ数字の場合には、文字中心線の間隔をいい、ローマ字にあつては、相隣る文字間の最も狭い間隔をいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">地番数字接続記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">地番が本番号と枝番号からなる場合において、本番号である数字と枝番号である数字とを結ぶ記号をいう。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">地番分属記号</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一筆地の区域の全部が一の地籍図に表示されていないで、二以上の地籍図にまたがつて表示されている場合において、当該一筆地の部分がそれぞれ表示されている地籍図における地番に、それぞれ付加して表示する記号をいう。</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    
