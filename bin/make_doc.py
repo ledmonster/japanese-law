@@ -25,16 +25,15 @@ def main():
         rst_dir = os.path.join(doc_dir, sub_dir)
 
         # open raw file and get dom
-        fp = open(fpath)
-        html = fp.read().decode('utf-8')
-        fp.close()
+        with open(fpath, encoding='utf-8') as fp:
+            html = fp.read()
         doc = lxml.html.fromstring(html)
 
         # get elements
         title = doc.xpath('//title')[0].text_content()
         body = lxml.html.tostring(doc.xpath('/html/body')[0], encoding='utf-8').decode('utf-8')
-        body = re.sub('^\W*<body>', '', body)
-        body = re.sub('</body>\W*$', '', body)
+        body = re.sub(r'^\W*<body>', '', body)
+        body = re.sub(r'</body>\W*$', '', body)
 
         # rst lines and content
         rst_lines = list()
@@ -47,19 +46,18 @@ def main():
         rst_lines.append("=" * (len(title) * 2))
         rst_lines.append('')
         rst_lines.append('.. raw:: html')
-        rst_lines.append(re.sub("^", "    ", body, 0, re.MULTILINE))
-        rst_lines = filter(lambda x: x != '    ', rst_lines)
-        rst_content = "\n".join(rst_lines).encode('utf-8')
+        rst_lines.append(re.sub(r"^", "    ", body, 0, re.MULTILINE))
+        rst_lines = [x for x in rst_lines if x != '    ']
+        rst_content = "\n".join(rst_lines)
         rst_content += '\n'
 
         # write to rst file
         if not os.path.exists(rst_dir):
             os.makedirs(rst_dir)
 
-        rst = open(os.path.join(rst_dir, rst_file), 'w')
-        rst.write(rst_content)
-        rst.close()
-        print "Created %s" % os.path.join(rst_dir, rst_file)
+        with open(os.path.join(rst_dir, rst_file), 'w', encoding='utf-8') as rst:
+            rst.write(rst_content)
+        print("Created %s" % os.path.join(rst_dir, rst_file))
 
 if __name__ == '__main__':
     main()
