@@ -1,0 +1,2267 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+
+<title>歯科医師法</title>
+
+
+
+<style type="text/css">
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+
+  header h1 {
+    width: 260px;
+    height: 37px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      text-decoration: none;
+      color: #000;
+      line-height: 37px;
+      display: block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+        
+        
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 20px;
+          vertical-align: middle; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 10px;
+			background: url(../img/arrow_gray_link.png) left 10px no-repeat;
+			display: block;
+			color: #000;
+			text-decoration: none;
+            
+            }
+
+
+@media screen and (max-width: 1024px) {
+        }
+
+@media screen and (max-width: 769px) {
+}
+
+@media screen and (max-width: 359px) {
+  header h1 span {
+    display: none; } }
+    
+    
+header  button#btnHamburgerMenu {
+	width: 37px;
+	height: 37px;
+	background: url("../img/icon/icon_menu_black.png") center center no-repeat;
+	display: none;
+	text-indent: -9999px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+	
+	
+	
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #subLink .helpLink {
+        padding: 8px 5px 8px 25px;
+        background: url(../img/icon/icon_faq.png) left 10px no-repeat;
+        display: block;
+        color: #000;
+        text-decoration: none; }
+
+
+  button.moreList {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #636974;
+    text-align: center;}
+    button.moreList:hover {
+      background: #C2CEE7; }
+    button.moreList::after {
+      width: 18px;
+      height: 10px;
+      content: '';
+      background: url(../img/arrow_gray_down.png) left top no-repeat;
+      background-size: contain;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/arrow_gray_up.png) left top no-repeat; }
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  height: 67px;
+  background: #fff;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 500; }
+
+@media screen and (max-width: 1024px) {
+  header {
+    min-width: auto;
+    height: 52px; } }
+
+nav#pNavi {
+  padding-bottom: 25px;
+  text-align: left; }
+  nav#pNavi section#outlineGraph {
+    margin: 0 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineGraph.active {
+      display: block; }
+  nav#pNavi section#outlineList {
+    margin: 0 12px;
+    padding: 25px 12px 12px 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineList.active {
+      display: block; }
+    nav#pNavi section#outlineList p {
+      padding-bottom: 12px; }
+      nav#pNavi section#outlineList p.label {
+        font-size: 0.75rem;
+        text-align: right; }
+    nav#pNavi section#outlineList ul li {
+      padding-left: 12px;
+      font-size: 0.875rem; }
+      nav#pNavi section#outlineList ul li:nth-child(odd) {
+        background: url(../img/icon/icon_outline_list.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li.active {
+        background: url(../img/icon/icon_outline_point.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li ul {
+        margin-bottom: 12px; }
+        nav#pNavi section#outlineList ul li ul li {
+          margin-bottom: 0;
+          padding-left: 0;
+          font-size: 0.75rem; }
+          nav#pNavi section#outlineList ul li ul li:first-child {
+            background: none; }
+  nav#pNavi ul#tocCheckbox, nav#pNavi ul#pOutline {
+    width: 220px;
+    margin: 0 auto;
+    font-size: 0; }
+    nav#pNavi ul#tocCheckbox li, nav#pNavi ul#pOutline li {
+      font-size: 0.875rem;
+      display: inline-block; }
+      nav#pNavi ul#tocCheckbox li button, nav#pNavi ul#pOutline li button {
+        width: 100px;
+        margin: 0 5px;
+        display: inline-block; }
+        nav#pNavi ul#tocCheckbox li button:hover, nav#pNavi ul#pOutline li button:hover {
+          background: #C2CEE7; }
+  nav#pNavi ul#tocCheckbox {
+    margin-bottom: 25px; }
+    nav#pNavi ul#tocCheckbox li button {
+      padding: 8px;
+      border: 1px solid #D7D7D7; }
+  nav#pNavi ul#pOutline {
+    height: 40px;
+    padding: 0;
+    position: relative;
+    line-height: 0.875rem; }
+    nav#pNavi ul#pOutline li button {
+      padding: 8px;
+      border-top: 1px solid #D7D7D7;
+      border-left: 1px solid #D7D7D7;
+      border-right: 1px solid #D7D7D7;
+      position: absolute;
+      top: 0; }
+      nav#pNavi ul#pOutline li button.list {
+        left: 0; }
+      nav#pNavi ul#pOutline li button.outline {
+        right: 0; }
+      nav#pNavi ul#pOutline li button.active {
+        background: #1042A4;
+        color: #fff;
+        border-top: none; }
+      nav#pNavi div.tableOfContents2 a {
+        text-decoration: none;
+        color: #636974; }
+        nav#pNavi div.tableOfContents2 a[href] {
+          color: #000; }
+          nav#pNavi div.tableOfContents2 a[href]:hover {
+            color: #CA241E; }
+
+footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #707070;
+  font-size: 0.75rem; }
+
+#popuUpPage.document footer {
+  margin-left: 310px; }
+  #popuUpPage.document footer.allwidth {
+    margin-left: 0; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage.document footer {
+    margin-left: 0; } }
+
+@media print {
+  #contentsLaw {
+    width: 100% !important;
+    border: none !important; }
+  #innerDocument {
+    width: 100% !important; }
+  #toTop {
+    display: none; }
+  .document #leftNaviSide,
+  .document #relationLinkSide,
+  .document .lawDownload,
+  .document header,
+  .document nav,
+  .document footer,
+  .document button {
+    display: none !important; } }
+
+nav#spDocument {
+  display: none; }
+
+@media screen and (max-width: 1024px) {
+  nav#spDocument {
+    width: 100%;
+    padding: 12px 0;
+    background: #F5F6F8;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 500;
+    display: block; }
+    nav#spDocument #fDownloadFileSet {
+      margin: 0 12px 25px 12px;
+      padding: 12px;
+      text-align: left;
+      background: #fff;
+      display: none; }
+      nav#spDocument #fDownloadFileSet.active {
+        display: block; }
+      nav#spDocument #fDownloadFileSet ul li {
+        margin-bottom: 25px; }
+      nav#spDocument #fDownloadFileSet #fDownloadClose {
+        width: 30px;
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px; }
+    nav#spDocument div#spaceOfdocumentBtn {
+      width: 80px;
+      position: relative;
+      margin-left: 3%;
+      display: inline-block; }
+    nav#spDocument button.footNav {
+      width: 46px;
+      height: 46px;
+      margin-left: 3%;
+      text-indent: -9999px;
+      vertical-align: bottom; }
+    nav#spDocument #fDownloadBtn {
+      background: url(../img/icon/spnav/sp_menu04_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fDownloadBtn.active {
+        background: url(../img/icon/spnav/sp_menu04_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fTocOutlineBtn {
+      background: url(../img/icon/spnav/sp_menu02_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fTocOutlineBtn.active {
+        background: url(../img/icon/spnav/sp_menu02_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fDocumentBtn {
+      width: 80px;
+      height: 80px;
+      background: #F5F6F8 url(../img/icon/spnav/sp_menu01_off.png) center center no-repeat;
+      background-size: 60px auto;
+      position: absolute;
+      bottom: -17px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 50%; }
+      nav#spDocument #fDocumentBtn.active {
+        background: #F5F6F8 url(../img/icon/spnav/sp_menu01_on.png) center center no-repeat;
+        background-size: 60px auto; }
+    nav#spDocument #fRelationLinkBtn {
+      background: url(../img/icon/spnav/sp_menu03_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fRelationLinkBtn.active {
+        background: url(../img/icon/spnav/sp_menu03_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fSearchBtn {
+      background: url(../img/icon/spnav/sp_menu05_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fSearchBtn.active {
+        background: url(../img/icon/spnav/sp_menu05_on.png) center center no-repeat;
+        background-size: 46px auto; } }
+
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500; }
+
+h2:not(.popuUpPage) {
+  background-color: #fff;
+  border-top: 1px solid #D7D7D7;
+  border-bottom: 1px solid #D7D7D7;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 2rem; }
+  h2:not(.popuUpPage) span, h2:not(.popuUpPage) a {
+    padding: 25px 80px 20px 80px;
+    text-decoration: none;
+    color: #323232;
+    display: block; }
+    h2:not(.popuUpPage) span:hover, h2:not(.popuUpPage) a:hover {
+      color: #323232; }
+
+a {
+  color: #1042A4; }
+  a:hover {
+    color: #CA241E; }
+
+img {
+  vertical-align: bottom; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  font-size: 1rem; }
+  button:focus {
+    outline-color: #3b99fc;
+    outline-offset: 0px;
+    outline-style: auto;
+    outline-width: 5px; }
+
+_:-ms-lang(x):focus, button:focus {
+  outline: thin dotted invert; }
+
+label {
+  cursor: pointer; }
+
+#contentsWrap {
+  min-width: 1200px;
+  margin: 25px 0 40px 30px;
+  display: flex;
+  position: relative; }
+
+@media screen and (max-width: 1024px) {
+  #contentsWrap {
+    margin: 20px 0; } }
+
+#popuUpPage #contentsWrap {
+  min-width: auto;
+  margin: 0;
+  border-top: 1px solid #D7D7D7; }
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: calc(100% - 310px);
+    float: none;
+    padding: 25px 50px 25px 70px;
+    border-right: 1px solid #D7D7D7;
+    position: relative; }
+    #popuUpPage #contentsWrap #contentsLaw.allOpen {
+      width: calc(100% - 620px); }
+    #popuUpPage #contentsWrap #contentsLaw.allClosed {
+      width: 100%; }
+    #popuUpPage #contentsWrap #contentsLaw ul.lawDownload {
+      position: fixed;
+      top: 160px;
+      right: 311px; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload.openBtn {
+        right: 0; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload li {
+        margin-bottom: 12px; }
+    #popuUpPage #contentsWrap #contentsLaw button.openClose {
+      width: 40px;
+      height: 40px;
+      border-top: 1px solid #D7D7D7;
+      border-bottom: 1px solid #D7D7D7;
+      position: fixed;
+      top: 100px; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_left.png) 12px 13px no-repeat;
+        border-right: 1px solid #D7D7D7;
+        border-radius: 0 5px 5px 0;
+        left: 310px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_toc.png) 3px 7px no-repeat;
+          left: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_toc.png) 3px 7px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_left.png) 12px 13px no-repeat; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_right.png) 12px 13px no-repeat;
+        border-left: 1px solid #D7D7D7;
+        border-radius: 5px 0 0 5px;
+        right: 311px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_relation.png) 3px 6px no-repeat;
+          right: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_relation.png) 3px 6px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_right.png) 12px 13px no-repeat; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: 100%;
+    border-right: none;
+    padding: 25px 5px 25px 25px;
+    display: none; }
+    #popuUpPage #contentsWrap #contentsLaw.active {
+      width: 100%;
+      display: block; } }
+
+#leftNaviSide {
+  width: 310px;
+  padding-top: 25px;
+  background: #fff;
+  text-align: center;
+  border-right: 1px solid #D7D7D7;
+  display: none; }
+  #leftNaviSide.active {
+    display: block; }
+  #leftNaviSide #tocOutlineWrap {
+    width: 309px;
+    height: calc(100% - 70px);
+    background: #fff;
+    overflow: auto;
+    padding-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-overflow-scrolling: touch !important; }
+  #leftNaviSide ul {
+    font-size: 0; }
+    #leftNaviSide ul li {
+      font-size: 1rem;
+      text-align: left; }
+    #leftNaviSide ul#dayOfPromulgation {
+      margin: 0 0 10px 12px; }
+      #leftNaviSide ul#dayOfPromulgation li {
+        font-size: 0.75rem;
+        text-align: left; }
+    #leftNaviSide .labelLaw {
+      width: 120px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      margin-left: 12px; }
+      #leftNaviSide .labelLaw h3 {
+        padding: 1px 8px;
+        text-align: left;
+        width: 120px;
+        height: 23px;
+        border: 1px solid #1042A4;
+        background: #FFFFFF;
+        color: #000000;
+        display: inline-block; 
+        border-left-width: 15px; }
+        #leftNaviSide .labelLaw h3.authFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #A44210;
+          font-size: 85%; }
+        #leftNaviSide .labelLaw h3.enforcementFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #4F71B3; }
+    #leftNaviSide ul#tocTab {
+      margin: 15px 25px 25px 25px;
+      border-bottom: 1px solid #D7D7D7; }
+      #leftNaviSide ul#tocTab li {
+        font-size: 0.875rem;
+        display: inline-block; }
+        #leftNaviSide ul#tocTab li button {
+          width: 100px;
+          margin: 0 5px;
+          line-height: 37px;
+          display: inline-block;
+          border-radius: 5px 5px 0 0; }
+          #leftNaviSide ul#tocTab li button#tableOfContents {
+            background: #F5F6F8 url(../img/icon/icon_tabe_of_contents.png) 12px 10px no-repeat; }
+          #leftNaviSide ul#tocTab li button#outline {
+            background: #F5F6F8 url(../img/icon/icon_outline.png) 12px 8px no-repeat; }
+          #leftNaviSide ul#tocTab li button.active#tableOfContents {
+            background: #1042A4 url(../img/icon/icon_tabe_of_contents_ov.png) 12px 10px no-repeat;
+            color: #fff; }
+          #leftNaviSide ul#tocTab li button.active#outline {
+            background: #1042A4 url(../img/icon/icon_outline_ov.png) 12px 8px no-repeat;
+            color: #fff; }
+
+#relationLinkSide {
+  margin-right: 1px;
+  height: calc(100% - 200px);
+  width: 310px;
+  overflow: auto;
+  padding: 20px 25px 12px 25px;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  display: none; }
+  #relationLinkSide.active {
+    display: block; }
+  #relationLinkSide h3 {
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #F5F6F8; }
+  #relationLinkSide ul li {
+    padding-bottom: 25px; }
+    #relationLinkSide ul li a {
+      font-size: 1.125rem; }
+      #relationLinkSide ul li a span {
+        font-size: 0.75rem; }
+
+@media screen and (max-width: 1024px) {
+  #leftNaviSide {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    display: none; }
+    #leftNaviSide.active {
+      display: block; }
+  #leftNaviSide #tocOutlineWrap,
+  #relationLinkSide {
+    padding-top: 50px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #D7D7D7;
+    position: static !important; }
+  #leftNaviSide #tocOutlineWrap {
+    height: auto !important;
+    overflow: visible;
+    border: none; }
+    #leftNaviSide #tocOutlineWrap #searchKeyword {
+      display: none; }
+  #relationLinkSide {
+    margin-top: 20px;
+    border: none;
+    display: none; }
+    #relationLinkSide.active {
+      display: block; } }
+
+table {
+/*  width: 100%; */
+  border-collapse: collapse; }
+  table tr th {
+    text-align: left;
+    font-weight: normal; }
+
+#sNavi {
+  padding: 15px 0 25px 0;
+  text-align: right; }
+  #sNavi ul li {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 20px;
+    display: inline-block; }
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 30px auto; }
+    #sNavi ul li a {
+      color: #1042A4; }
+      #sNavi ul li a:hover {
+        color: #CA241E; }
+
+@media screen and (max-width: 1024px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+#innerDocument {
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  
+  }
+
+@media screen and (max-width: 1024px) {
+  #innerDocument {
+    display: none; }
+    #innerDocument.active {
+      padding-top: 10px;
+      display: block; } }
+
+#innerDocument section {
+  padding-bottom: 10px;
+  display: none; }
+  #innerDocument section.active {
+    display: block; }
+  #innerDocument section h3, #innerDocument section h4, #innerDocument section dt {
+    font-weight: 600; }
+  #innerDocument section.table {
+    padding-bottom: 25px; }
+    #innerDocument section.table h3 {
+/*      margin-left: -1rem;*/
+      margin-bottom: 5px;
+      padding-right: 2rem; }
+    #innerDocument section.table table {
+      width: auto;
+      border-collapse: collapse;
+      border-right: 1px solid #636974;
+      border-top: 1px solid #636974; }
+      #innerDocument section.table table tr th {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+      #innerDocument section.table table tr td {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+        #innerDocument section.table table tr td p {
+          padding: 0; }
+  #innerDocument section h4 {
+    text-indent: 2rem; }
+  #innerDocument section ol, #innerDocument section ul {
+    /*margin-left: -1rem; */}
+    #innerDocument section ol li, #innerDocument section ul li {
+      padding-left: 1rem;
+      /*text-indent: -1rem; */}
+      #innerDocument section ol li ol, #innerDocument section ol li ul, #innerDocument section ul li ol, #innerDocument section ul li ul {
+        margin-left: 0; }
+      #innerDocument section ol li .number, #innerDocument section ul li .number {
+        padding-right: 1rem;
+        font-weight: 600; }
+  #innerDocument section dl {
+    margin-bottom: 5px;
+    display: none; }
+    #innerDocument section dl.active {
+      display: block; }
+    #innerDocument section dl dt {
+      /*margin-left: -1rem;*/
+      padding-right: 2rem;
+      display: inline-block;
+      float: left; }
+    #innerDocument section dl dd {
+      display: inline; }
+
+#toTop _:-ms-lang(x), #toTop button {
+  color: #fff; }
+  #toTop _:-ms-lang(x):focus, #toTop button:focus {
+    outline: thin dotted #000; }
+
+.circleBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 100;
+  display: inline-block; }
+  .circleBtn#toTop {
+    right: 20px;
+    background: #636974; }
+  .circleBtn:hover {
+    opacity: 1; }
+  .circleBtn button {
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    color: #fff; }
+    .circleBtn button:hover {
+      color: #fff; }
+
+@media screen and (max-width: 1024px) {
+  .circleBtn {
+    width: 60px;
+    height: 60px;
+    bottom: 75px; }
+    .circleBtn#toTop {
+      right: 5px; }
+      .circleBtn#toTop.active {
+        display: none; }
+    .circleBtn button {
+      width: 60px;
+      height: 60px; }
+      .circleBtn button img {
+        width: 50%;
+        height: auto; } }
+
+#searchKeyword2 {
+  width: 100%;
+  padding: 12px !important;
+  position: absolute;
+  left: 0;
+  bottom: 45px;
+  z-index: 500;
+  display: none; }
+  #searchKeyword2.active {
+    display: block; }
+  #searchKeyword2 h2 {
+    text-align: left; }
+  #searchKeyword2 #searchKeywordBtn2 button {
+    width: auto !important;
+    height: auto !important;
+    margin: 5px 10px 5px 20px !important;
+    text-indent: 0 !important; }
+  #searchKeyword2 #delInfoBtn2 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 550; }
+
+#searchKeyword,
+#searchKeyword2 {
+  margin-bottom: 25px;
+  padding: 12px 5px;
+  background: #e9f0f7; }
+  #searchKeyword h2,
+  #searchKeyword2 h2 {
+    margin-bottom: 12px;
+    background: none;
+    font-size: 0.875rem;
+    color: #1F72DB;
+    line-height: 1.125rem;
+    border-top: none;
+    border-bottom: none; }
+    #searchKeyword h2:before,
+    #searchKeyword2 h2:before {
+      content: url(../img/icon/icon_hilight.png);
+      display: inline-block;
+      width: 16px;
+      height: 18px; }
+  #searchKeyword ul,
+  #searchKeyword2 ul {
+    margin-bottom: 12px;
+    text-align: left; }
+    #searchKeyword ul li,
+    #searchKeyword2 ul li {
+      display: inline-block; }
+  #searchKeyword #searchKeywordBtn,
+  #searchKeyword2 #searchKeywordBtn2 {
+    font-size: 0; }
+    #searchKeyword #searchKeywordBtn button,
+    #searchKeyword2 #searchKeywordBtn2 button {
+      margin: 5px;
+      min-height: 26px;
+      background: #1F72DB;
+      font-size: 0.75rem;
+      color: #fff;
+      border-radius: 13px; }
+      #searchKeyword #searchKeywordBtn button#prev,
+      #searchKeyword2 #searchKeywordBtn2 button#prev {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_left.png);
+        background-repeat: no-repeat;
+        background-position: 10px 8px; }
+      #searchKeyword #searchKeywordBtn button#next,
+      #searchKeyword2 #searchKeywordBtn2 button#next {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_right.png);
+        background-repeat: no-repeat;
+        background-position: right 10px top 8px; }
+      #searchKeyword #searchKeywordBtn button:hover,
+      #searchKeyword2 #searchKeywordBtn2 button:hover {
+        background: #36aae7; }
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table; }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  zoom: 1; }
+
+.attention {
+  color: #CA241E !important; }
+
+.annotation {
+  font-size: 0.75rem !important;
+  line-height: 1rem !important;
+  text-indent: -1em;
+  margin-left: 1em; }
+
+.searchLabel {
+  background: #C2CEE7; }
+
+.searchLabel.active {
+  background: #1042A4;
+  color: #fff; }
+
+.mBottom {
+  margin-bottom: 25px; }
+
+#innerDocument section.active.SupplProvision div._div_SupplProvisionLabel {
+	margin-bottom: 10px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+
+#innerDocument section.active table.Table {
+	margin-left: 1em;
+}
+#innerDocument section.active div._div_ArticleTitle table.Table {
+	margin-left: 0em;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<main id="contentsLaw" class="active">
+<div id="innerDocument" class="active">
+
+
+
+
+<div style="margin-bottom: 12px;">
+<div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和二十三年法律第二百二号<div class="_shokanBox"></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+<span data-xpath="">歯科医師法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+</div><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+<span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　免許<span data-xpath="">（第二条―第八条）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第三章　試験<span data-xpath="">（第九条―第十六条）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／ChapterTitle［1］">第三章の二　臨床研修<span data-xpath="">（第十六条の二―第十六条の六）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［5］／ChapterTitle［1］">第四章　業務<span data-xpath="">（第十七条―第二十三条の二）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［6］／ChapterTitle［1］">第五章　歯科医師試験委員<span data-xpath="">（第二十四条―第二十八条）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［7］／ChapterTitle［1］">第五章の二　雑則<span data-xpath="">（第二十八条の二・第二十八条の三）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+<div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［8］／ChapterTitle［1］">第六章　罰則<span data-xpath="">（第二十九条―第三十一条の四）</span>
+</div>
+<div class="_shokanBox"><div class="_inyoBox"></div></div>
+</div>
+<div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+<span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第一章　総則</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">歯科医師は、歯科医療及び保健指導を掌ることによつて、公衆衛生の向上及び増進に寄与し、もつて国民の健康な生活を確保するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第二章　免許</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">歯科医師になろうとする者は、歯科医師国家試験に合格し、厚生労働大臣の免許を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">未成年者には、免許を与えない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">次の各号のいずれかに該当する者には、免許を与えないことがある。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">心身の障害により歯科医師の業務を適正に行うことができない者として厚生労働省令で定めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">麻薬、大麻又はあへんの中毒者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">罰金以上の刑に処せられた者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">前号に該当する者を除くほか、医事に関し犯罪又は不正の行為のあつた者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">厚生労働省に歯科医籍を備え、登録年月日、第七条第一項の規定による処分に関する事項その他の歯科医師免許に関する事項を登録する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">免許は、歯科医師国家試験に合格した者の申請により、歯科医籍に登録することによつて行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、免許を与えたときは、歯科医師免許証を交付する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">歯科医師は、厚生労働省令で定める二年ごとの年の十二月三十一日現在における氏名、住所（歯科医業に従事する者については、更にその場所）その他厚生労働省令で定める事項を、当該年の翌年一月十五日までに、その住所地の都道府県知事を経由して厚生労働大臣に届け出なければならない。</span><span data-xpath="">ただし、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により当該届出を同項に規定する電子情報処理組織を使用して行うときは、都道府県知事を経由することを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条の二</span>　<span data-xpath="">厚生労働大臣は、歯科医師免許を申請した者について、第四条第一号に掲げる者に該当すると認め、同条の規定により免許を与えないこととするときは、あらかじめ、当該申請者にその旨を通知し、その求めがあつたときは、厚生労働大臣の指定する職員にその意見を聴取させなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">歯科医師が第四条各号のいずれかに該当し、又は歯科医師としての品位を損するような行為のあつたときは、厚生労働大臣は、次に掲げる処分をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">戒告</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">三年以内の歯科医業の停止</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">免許の取消し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定による取消処分を受けた者（第四条第三号若しくは第四号に該当し、又は歯科医師としての品位を損するような行為のあつた者として同項の規定による取消処分を受けた者にあつては、その処分の日から起算して五年を経過しない者を除く。）であつても、その者がその取消しの理由となつた事項に該当しなくなつたときその他その後の事情により再び免許を与えるのが適当であると認められるに至つたときは、再免許を与えることができる。</span><span data-xpath="">この場合においては、第六条第一項及び第二項の規定を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">厚生労働大臣は、前二項に規定する処分をするに当たつては、あらかじめ医道審議会の意見を聴かなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">厚生労働大臣は、第一項の規定による免許の取消処分をしようとするときは、都道府県知事に対し、当該処分に係る者に対する意見の聴取を行うことを求め、当該意見の聴取をもつて、厚生労働大臣による聴聞に代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">行政手続法（平成五年法律第八十八号）第三章第二節（第二十五条、第二十六条及び第二十八条を除く。）の規定は、都道府県知事が前項の規定により意見の聴取を行う場合について準用する。</span><span data-xpath="">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項中「行政庁」とあるのは「都道府県知事」と、同条第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁は」とあるのは「都道府県知事は」と、「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">６</span>　<span data-xpath="">厚生労働大臣は、都道府県知事から当該処分の原因となる事実を証する書類その他意見の聴取を行う上で必要となる書類を求められた場合には、速やかにそれらを当該都道府県知事あて送付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">７</span>　<span data-xpath="">都道府県知事は、第四項の規定により意見の聴取を行う場合において、第五項において読み替えて準用する行政手続法第二十四条第三項の規定により同条第一項の調書及び同条第三項の報告書の提出を受けたときは、これらを保存するとともに、当該調書及び報告書の写しを厚生労働大臣に提出しなければならない。</span><span data-xpath="">この場合において、当該処分の決定についての意見があるときは、当該写しのほか当該意見を記載した意見書を提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">８</span>　<span data-xpath="">厚生労働大臣は、意見の聴取の終結後に生じた事情に鑑み必要があると認めるときは、都道府県知事に対し、前項前段の規定により提出された調書及び報告書の写し並びに同項後段の規定により提出された意見書を返戻して主宰者に意見の聴取の再開を命ずるよう求めることができる。</span><span data-xpath="">行政手続法第二十二条第二項本文及び第三項の規定は、この場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">９</span>　<span data-xpath="">厚生労働大臣は、当該処分の決定をするときは、第七項の規定により提出された意見書並びに調書及び報告書の写しの内容を十分参酌してこれをしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１０</span>　<span data-xpath="">厚生労働大臣は、第一項の規定による歯科医業の停止の命令をしようとするときは、都道府県知事に対し、当該処分に係る者に対する弁明の聴取を行うことを求め、当該弁明の聴取をもつて、厚生労働大臣による弁明の機会の付与に代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１１</span>　<span data-xpath="">前項の規定により弁明の聴取を行う場合において、都道府県知事は、弁明の聴取を行うべき日時までに相当な期間をおいて、当該処分に係る者に対し、次に掲げる事項を書面により通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第一項の規定を根拠として当該処分をしようとする旨及びその内容</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該処分の原因となる事実</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">弁明の聴取の日時及び場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１２</span>　<span data-xpath="">厚生労働大臣は、第十項に規定する場合のほか、厚生労働大臣による弁明の機会の付与に代えて、医道審議会の委員に、当該処分に係る者に対する弁明の聴取を行わせることができる。</span><span data-xpath="">この場合においては、前項中「前項」とあるのは「次項」と、「都道府県知事」とあるのは「厚生労働大臣」と読み替えて、同項の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１３</span>　<span data-xpath="">第十一項（前項後段の規定により読み替えて適用する場合を含む。）の通知を受けた者は、代理人を出頭させ、かつ、証拠書類又は証拠物を提出することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１４</span>　<span data-xpath="">都道府県知事又は医道審議会の委員は、第十項又は第十二項前段の規定により弁明の聴取を行つたときは、聴取書を作り、これを保存するとともに、報告書を作成し、厚生労働大臣に提出しなければならない。</span><span data-xpath="">この場合において、当該処分の決定についての意見があるときは、当該意見を報告書に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１５</span>　<span data-xpath="">厚生労働大臣は、第四項又は第十項の規定により都道府県知事が意見の聴取又は弁明の聴取を行う場合においては、都道府県知事に対し、あらかじめ、次に掲げる事項を通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該処分に係る者の氏名及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該処分の内容及び根拠となる条項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該処分の原因となる事実</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１６</span>　<span data-xpath="">第四項の規定により意見の聴取を行う場合における第五項において読み替えて準用する行政手続法第十五条第一項の通知又は第十項の規定により弁明の聴取を行う場合における第十一項の通知は、それぞれ、前項の規定により通知された内容に基づいたものでなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１７</span>　<span data-xpath="">第四項若しくは第十項の規定により都道府県知事が意見の聴取若しくは弁明の聴取を行う場合又は第十二項前段の規定により医道審議会の委員が弁明の聴取を行う場合における当該処分については、行政手続法第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条の二</span>　<span data-xpath="">厚生労働大臣は、前条第一項第一号若しくは第二号に掲げる処分を受けた歯科医師又は同条第二項の規定により再免許を受けようとする者に対し、歯科医師としての倫理の保持又は歯科医師として具有すべき知識及び技能に関する研修として厚生労働省令で定めるもの（以下「再教育研修」という。）を受けるよう命ずることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項の規定による再教育研修を修了した者について、その申請により、再教育研修を修了した旨を歯科医籍に登録する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">厚生労働大臣は、前項の登録をしたときは、再教育研修修了登録証を交付する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">第二項の登録を受けようとする者及び再教育研修修了登録証の書換交付又は再交付を受けようとする者は、実費を勘案して政令で定める額の手数料を納めなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">前条第十項から第十七項まで（第十二項を除く。）の規定は、第一項の規定による命令をしようとする場合について準用する。</span><span data-xpath="">この場合において、必要な技術的読替えは、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条の三</span>　<span data-xpath="">厚生労働大臣は、歯科医師について第七条第一項の規定による処分をすべきか否かを調査する必要があると認めるときは、当該事案に関係する者若しくは参考人から意見若しくは報告を徴し、診療録その他の物件の所有者に対し、当該物件の提出を命じ、又は当該職員をして当該事案に関係のある病院その他の場所に立ち入り、診療録その他の物件を検査させることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により立入検査をしようとする職員は、その身分を示す証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第八条</span>　<span data-xpath="">この章に規定するもののほか、免許の申請、歯科医籍の登録、訂正及び抹消、免許証の交付、書換交付、再交付、返納及び提出並びに住所の届出に関して必要な事項は政令で、第七条第一項の処分、第七条の二第一項の再教育研修の実施、同条第二項の歯科医籍の登録並びに同条第三項の再教育研修修了登録証の交付、書換交付及び再交付に関して必要な事項は厚生労働省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第三章　試験</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">歯科医師国家試験は、臨床上必要な歯科医学及び口<ruby class="law-ruby">く<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">う<rt class="law-ruby">ヽ</rt></ruby>衛生に関して、歯科医師として具有すべき知識及び技能について、これを行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">歯科医師国家試験及び歯科医師国家試験予備試験は、毎年少くとも一回、厚生労働大臣が、これを行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、歯科医師国家試験又は歯科医師国家試験予備試験の科目又は実施若しくは合格者の決定の方法を定めようとするときは、あらかじめ、医道審議会の意見を聴かなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">歯科医師国家試験は、次の各号のいずれかに該当する者でなければ、これを受けることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">学校教育法（昭和二十二年法律第二十六号）に基づく大学（第十六条の二第一項及び第十七条の二第一項において単に「大学」という。）において、歯学の正規の課程を修めて卒業した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">歯科医師国家試験予備試験に合格した者で、合格した後一年以上の診療及び口<ruby class="law-ruby">腔<rt class="law-ruby">くう</rt></ruby>衛生に関する実地修練を経たもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">外国の歯科医学校を卒業し、又は外国で歯科医師免許を得た者で、厚生労働大臣が前二号に掲げる者と同等以上の学力及び技能を有し、かつ、適当と認定したもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">歯科医師国家試験予備試験は、外国の歯科医学校を卒業し、又は外国で歯科医師免許を得た者のうち、前条第三号に該当しない者であつて、厚生労働大臣が適当と認定したものでなければ、これを受けることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条及び第十四条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">歯科医師国家試験又は歯科医師国家試験予備試験に関して不正の行為があつた場合には、当該不正行為に関係のある者について、その受験を停止させ、又はその試験を無効とすることができる。</span><span data-xpath="">この場合においては、なお、その者について、期間を定めて試験を受けることを許さないことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条</span>　<span data-xpath="">この章に規定するものの外、試験の科目、受験手続その他試験に関して必要な事項及び実地修練に関して必要な事項は、厚生労働省令でこれを定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第三章の二　臨床研修</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条の二</span>　<span data-xpath="">診療に従事しようとする歯科医師は、一年以上、歯学若しくは医学を履修する課程を置く大学に附属する病院（歯科医業を行わないものを除く。）又は厚生労働大臣の指定する病院若しくは診療所において、臨床研修を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項の規定により指定した病院又は診療所が臨床研修を行うについて不適当であると認めるに至つたときは、その指定を取り消すことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">厚生労働大臣は、第一項の指定又は前項の指定の取消しをしようとするときは、あらかじめ、医道審議会の意見を聴かなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">第一項の規定の適用については、外国の病院又は診療所で、厚生労働大臣が適当と認めたものは、同項の厚生労働大臣の指定する病院又は診療所とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条の三</span>　<span data-xpath="">臨床研修を受けている歯科医師は、臨床研修に専念し、その資質の向上を図るように努めなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条の四</span>　<span data-xpath="">厚生労働大臣は、第十六条の二第一項の規定による臨床研修を修了した者について、その申請により、臨床研修を修了した旨を歯科医籍に登録する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項の登録をしたときは、臨床研修修了登録証を交付する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条の五</span>　<span data-xpath="">前条第一項の登録を受けようとする者及び臨床研修修了登録証の書換交付又は再交付を受けようとする者は、実費を勘案して政令で定める額の手数料を納めなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条の六</span>　<span data-xpath="">この章に規定するもののほか、第十六条の二第一項の指定、第十六条の四第一項の歯科医籍の登録並びに同条第二項の臨床研修修了登録証の交付、書換交付及び再交付に関して必要な事項は、厚生労働省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第四章　業務</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条</span>　<span data-xpath="">歯科医師でなければ、歯科医業をなしてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条の二</span>　<span data-xpath="">大学において歯学を専攻する学生であつて、当該学生が臨床実習を開始する前に修得すべき知識及び技能を具有しているかどうかを評価するために大学が共用する試験として厚生労働省令で定めるものに合格したものは、前条の規定にかかわらず、当該大学が行う臨床実習において、歯科医師の指導監督の下に、歯科医師として具有すべき知識及び技能の修得のために歯科医業（政令で定めるものを除く。次条において同じ。）をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項の厚生労働省令の制定又は改正の立案をしようとするときは、医道審議会の意見を聴かなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条の三</span>　<span data-xpath="">前条第一項の規定により歯科医業をする者は、正当な理由がある場合を除き、その業務上知り得た人の秘密を他に漏らしてはならない。</span><span data-xpath="">同項の規定により歯科医業をする者でなくなつた後においても、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十八条</span>　<span data-xpath="">歯科医師でなければ、歯科医師又はこれに紛らわしい名称を用いてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十九条</span>　<span data-xpath="">診療に従事する歯科医師は、診察治療の求があつた場合には、正当な事由がなければ、これを拒んではならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">診療をなした歯科医師は、診断書の交付の求があつた場合は、正当な事由がなければ、これを拒んではならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十条</span>　<span data-xpath="">歯科医師は、自ら診察しないで治療をし、又は診断書若しくは処方<ruby class="law-ruby">せ<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">ん<rt class="law-ruby">ヽ</rt></ruby>を交付してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">歯科医師は、患者に対し治療上薬剤を調剤して投与する必要があると認めた場合には、患者又は現にその看護に当たつている者に対して処方箋を交付しなければならない。</span><span data-xpath="">ただし、患者又は現にその看護に当たつている者が処方箋の交付を必要としない旨を申し出た場合及び次の各号のいずれかに該当する場合においては、その限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">暗示的効果を期待する場合において、処方箋を交付することがその目的の達成を妨げるおそれがある場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">処方箋を交付することが診療又は疾病の予後について患者に不安を与え、その疾病の治療を困難にするおそれがある場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">病状の短時間ごとの変化に即応して薬剤を投与する場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">診断又は治療方法の決定していない場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">治療上必要な応急の措置として薬剤を投与する場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">安静を要する患者以外に薬剤の交付を受けることができる者がいない場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">薬剤師が乗り組んでいない船舶内において、薬剤を投与する場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">歯科医師は、地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）第十二条の二第一項の規定により処方箋を提供した場合は、前項の患者又は現にその看護に当たつている者に対して処方箋を交付したものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">歯科医師は、診療をしたときは、本人又はその保護者に対し、療養の方法その他保健の向上に必要な事項の指導をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">歯科医師は、診療をしたときは、遅滞なく診療に関する事項を診療録に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の診療録であつて、病院又は診療所に勤務する歯科医師のした診療に関するものは、その病院又は診療所の管理者において、その他の診療に関するものは、その歯科医師において、五年間これを保存しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条の二</span>　<span data-xpath="">厚生労働大臣は、公衆衛生上重大な危害を生ずる虞がある場合において、その危害を防止するため特に必要があると認めるときは、歯科医師に対して、歯科医療又は保健指導に関し必要な指示をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項の規定による指示をするに当つては、あらかじめ医道審議会の意見を聴かなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第五章　歯科医師試験委員</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">歯科医師国家試験及び歯科医師国家試験予備試験に関する事務をつかさどらせるため、厚生労働省に歯科医師試験委員を置く。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">歯科医師試験委員に関し必要な事項は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十五条から第二十七条まで</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十八条</span>　<span data-xpath="">歯科医師試験委員その他歯科医師国家試験又は歯科医師国家試験予備試験に関する事務をつかさどる者は、その事務の施行に当たつて厳正を保持し、不正の行為のないようにしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第五章の二　雑則</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十八条の二</span>　<span data-xpath="">厚生労働大臣は、歯科医療を受ける者その他国民による歯科医師の資格の確認及び歯科医療に関する適切な選択に資するよう、歯科医師の氏名その他の政令で定める事項を公表するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十八条の三</span>　<span data-xpath="">第六条第三項、第七条第四項及び第八項前段、同条第十項及び第十一項（これらの規定を第七条の二第五項において準用する場合を含む。）、第七条第五項において準用する行政手続法第十五条第一項及び第三項（同法第二十二条第三項において準用する場合を含む。）、第十六条第四項、第十八条第一項及び第三項、第十九条第一項、第二十条第六項並びに第二十四条第三項並びに第七条第八項後段において準用する同法第二十二条第三項において準用する同法第十五条第三項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+<div class="ChapterTitle">第六章　罰則</div>
+<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十九条</span>　<span data-xpath="">次の各号のいずれかに該当する者は、三年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第十七条の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">虚偽又は不正の事実に基づいて歯科医師免許を受けた者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項第一号の罪を犯した者が、歯科医師又はこれに類似した名称を用いたものであるときは、三年以下の拘禁刑若しくは二百万円以下の罰金に処し、又はこれを併科する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十条</span>　<span data-xpath="">第七条第一項の規定により歯科医業の停止を命ぜられた者で、当該停止を命ぜられた期間中に、歯科医業を行つたものは、一年以下の拘禁刑若しくは五十万円以下の罰金に処し、又はこれを併科する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条</span>　<span data-xpath="">第二十八条の規定に違反して故意若しくは重大な過失により事前に試験問題を漏らし、又は故意に不正の採点をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条の二</span>　<span data-xpath="">第十七条の三の規定に違反して、業務上知り得た人の秘密を漏らした者は、六月以下の拘禁刑又は十万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の罪は、告訴がなければ公訴を提起することができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条の三</span>　<span data-xpath="">次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第六条第三項、第十八条、第二十条、第二十一条第一項又は第二十三条の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第七条の二第一項の規定による命令に違反して再教育研修を受けなかつた者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第七条の三第一項の規定による陳述をせず、報告をせず、若しくは虚偽の陳述若しくは報告をし、物件を提出せず、又は検査を拒み、妨げ、若しくは忌避した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条の四</span>　<span data-xpath="">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して前条第三号の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても同条の罰金刑を科する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十二条</span>　<span data-xpath="">この法律は、医師法（昭和二十三年法律第二百一号）施行の日から、これを施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十三条</span>　<span data-xpath="">国民医療法（昭和十七年法律第七十号、以下旧法という。）又は歯科医師法（明治三十九年法律第四十八号、以下旧歯科医師法という。）によつて歯科医師免許を受けた者は、これをこの法律によつて歯科医師免許を受けた者とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">旧歯科医師法施行前歯科医術開業免状を得た者のする歯科医業については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">昭和二十年八月十五日以前に、朝鮮総督、台湾総督、樺太庁長官、南洋庁長官若しくは満洲国駐<ruby class="law-ruby">さ<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>特命全権大使又は満洲国の歯科医師免許を受けた日本国民に対する歯科医師免許及び試験については、この法律施行の日から五年間は、なお従前の例によることができる。</span><span data-xpath=""></span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">前項に規定する者の外、昭和二十年八月十五日以前に、外国でその地の法令によつて歯科医師免許若しくは歯科医業免許を受け、又は中華民国（満洲及び蒙彊を含む。）において領事官の歯科医業免許を受けた日本国民に対する歯科医師免許及び試験については、昭和三十年十二月三十一日まで、前項の例によることができる。</span><span data-xpath=""></span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十四条</span>　<span data-xpath="">旧法第八条第二項の規定により許可を受け、又は国民医療法施行規則（昭和十七年厚生省令第四十八号）第七十二条の規定により許可を受けた者とみなされ歯科医業中充<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">ん<rt class="law-ruby">ヽ</rt></ruby>、補<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>及び矯正の技術に属する行為をなすことができる医師のする歯科医業については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する医師は、第六条第三項、第七条第一項（免許の取消しに関する事項を除く。）、第十七条及び第十九条から第二十三条までの規定の適用については、これを歯科医師とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十五条</span>　<span data-xpath="">旧法第八条第二項の規定により許可を受け歯科専門を標ぼうすることのできる医師は、この法律施行の後も、なお従前の例により歯科専門を標ぼうすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十六条</span>　<span data-xpath="">この法律施行の際、歯学の課程を設ける学校において二年以上専ら歯学を修業し、又は現に修業中である医師は、この法律施行の後も、なお従前の例により厚生労働大臣の許可を受けて歯科専門を標ぼうし、又は歯科医業中充<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">ん<rt class="law-ruby">ヽ</rt></ruby>、補<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>及び矯正の技術に属する行為をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により厚生労働大臣の許可を受けて歯科医業中充<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">ん<rt class="law-ruby">ヽ</rt></ruby>、補<ruby class="law-ruby">て<rt class="law-ruby">ヽ</rt></ruby><ruby class="law-ruby">つ<rt class="law-ruby">ヽ</rt></ruby>及び矯正の技術に属する行為をすることができる医師については、第三十四条第二項の規定を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十七条</span>　<span data-xpath="">旧法又は旧歯科医師法による歯科医籍の登録は、これをこの法律による歯科医籍の登録とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十八条</span>　<span data-xpath="">旧法又は旧歯科医師法によつてした歯科医師免許の取消の処分又は歯科医業の停止の処分は、これをこの法律の相当規定によつてしたものとみなす。</span><span data-xpath="">この場合において停止の期間は、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十九条</span>　<span data-xpath="">旧歯科医師法若しくはこれに基いて発する命令に違反した者又は右の命令に基いてした処分に違反した者の処罰については、なお旧歯科医師法による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十条</span>　<span data-xpath="">旧法の規定により作成された歯科医師又は第三十四条第一項に規定する者の診療録は、これを第二十三条の診療録とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十一条</span>　<span data-xpath="">この法律施行の際従前の規定によつて歯科医師国家試験予備試験の受験資格を有する者は、第十二条の規定にかかわらず、歯科医師国家試験予備試験を受けることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十二条</span>　<span data-xpath="">国民医療法施行令の一部を改正する勅令（昭和二十一年勅令第四百二号）附則第二項の規定に該当する者は、第二条の規定にかかわらず、歯科医師免許を受けることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十三条</span>　<span data-xpath="">国民医療法施行令の一部を改正する勅令（昭和二十二年勅令第百三十七号）附則第二項の規定に該当する者は、第十一条の規定にかかわらず、歯科医師国家試験を受けることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十四条</span>　<span data-xpath="">学校教育法附則第三条の規定により大学令（大正七年勅令第三百八十八号）による大学又は専門学校令（明治三十六年勅令第六十一号）による専門学校として、その存続を認められた大学又は専門学校は、第十一条第一号の大学とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十五条</span>　<span data-xpath="">国は、当分の間、都道府県に対し、第十六条の二第一項に規定する病院又は診療所に附属する施設のうち臨床研修を行うために必要なものの整備で日本電信電話株式会社の株式の売払収入の活用による社会資本の整備の促進に関する特別措置法（昭和六十二年法律第八十六号）第二条第一項第二号に該当するものにつき、当該都道府県が自ら行う場合にあつてはその要する費用に充てる資金の一部を、都道府県以外の病院又は診療所の開設者が行う場合にあつては当該開設者に対し当該都道府県が補助する費用に充てる資金の一部を、予算の範囲内において、無利子で貸し付けることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の国の貸付金の償還期間は、五年（二年以内の据置期間を含む。）以内で政令で定める期間とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">前項に定めるもののほか、第一項の規定による貸付金の償還方法、償還期限の繰上げその他償還に関し必要な事項は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">国は、第一項の規定により都道府県に対し貸付けを行つた場合には、当該貸付けの対象である施設の整備について、当該貸付金に相当する金額の補助を行うものとし、当該補助については、当該貸付金の償還時において、当該貸付金の償還金に相当する金額を交付することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">都道府県が、第一項の規定による貸付けを受けた無利子貸付金について、第二項及び第三項の規定に基づき定められる償還期限を繰り上げて償還を行つた場合（政令で定める場合を除く。）における前項の規定の適用については、当該償還は、当該償還期限の到来時に行われたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二四年五月一四日法律第六六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二五年三月三一日法律第三四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この法律は、昭和二十五年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二六年六月一四日法律第二三六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二八年八月一〇日法律第一九三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二八年八月一五日法律第二一三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、昭和二十八年九月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律施行前従前の法令の規定によりなされた許可、認可その他の処分又は申請、届出その他の手続は、それぞれ改正後の相当規定に基いてなされた処分又は手続とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二九年四月二二日法律第七一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、昭和二十九年五月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和三〇年八月八日法律第一四五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四四年六月二五日法律第五一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この法律は、公布の日から施行する。</span><span data-xpath="">ただし、第一条中厚生省設置法第二十九条第一項の表薬剤師試験審議会の項を削る改正規定並びに第十条及び第十一条の規定は昭和四十四年九月一日から、第一条中厚生省設置法第二十九条第一項の表栄養審議会の項の改正規定、同表中医師試験研修審議会の項を改める改正規定並びに同表歯科医師試験審議会、保健婦助産婦看護婦審議会及び理学療法士作業療法士審議会の項を削る改正規定並びに同法第三十六条の七第三号にただし書を加える改正規定及び同法第三十六条の八に一号を加える改正規定並びに第二条から第九条までの規定は昭和四十四年十一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和五六年五月二五日法律第五一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和五七年七月二三日法律第六九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日等）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">９</span>　<span data-xpath="">この法律（附則第一項第四号及び第五号に掲げる規定については、当該各規定）の施行前にした行為並びに附則第三項第一号の規定により従前の例によることとされる届出に係るこの法律の施行後にした行為及び同項第二号の規定により従前の例によることとされるトランプ類税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成五年一一月一二日法律第八九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（諮問等がされた不利益処分に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（歯科医師法の一部改正に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">第九十七条の規定の施行前に、同条の規定による改正前の歯科医師法第七条第五項後段の規定による通知がされた場合においては、当該通知に係る免許の取消し及び歯科医業の停止の手続に関しては、第九十七条の規定による改正後の同法の規定にかかわらず、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（聴聞に関する規定の整理に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成八年六月二一日法律第九二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して六十日を経過した日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この法律の施行前に歯科医師免許を受けた者については、この法律による改正後の歯科医師法第三章の二の規定は適用しない。</span><span data-xpath="">この法律の施行前に行われた歯科医師国家試験に合格した者又は国民医療法施行令の一部を改正する勅令（昭和二十一年勅令第四百二号）附則第二項の規定に該当する者であって、この法律の施行後歯科医師免許を受けたものについても、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一一年七月一六日法律第八七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、平成十二年四月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第一条中地方自治法第二百五十条の次に五条、節名並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法附則第九項及び第十項の改正規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（農業改良助長法第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに附則第七条、第十条、第十二条、第五十九条ただし書、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国等の事務）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百五十九条</span>　<span data-xpath="">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（処分、申請等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（不服申立てに関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十一条</span>　<span data-xpath="">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</span><span data-xpath="">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（手数料に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十二条</span>　<span data-xpath="">施行日前においてこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定により納付すべきであった手数料については、この法律及びこれに基づく政令に別段の定めがあるもののほか、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十三条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十四条</span>　<span data-xpath="">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二百五十条</span>　<span data-xpath="">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二百五十一条</span>　<span data-xpath="">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一一年一二月八日法律第一五一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、平成十二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">民法の一部を改正する法律（平成十一年法律第百四十九号）附則第三条第三項の規定により従前の例によることとされる準禁治産者及びその保佐人に関するこの法律による改正規定の適用については、次に掲げる改正規定を除き、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一から二十五まで</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一一年一二月二二日法律第一六〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一二年一二月六日法律第一四一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第三条、第五条並びに附則第十一条から第十三条まで及び第二十四条の規定</span>　<span data-xpath="">平成十八年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（臨床研修修了歯科医師の登録に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">附則第一条第二号に掲げる規定の施行の際現に歯科医師免許を受けている者及び当該規定の施行前に歯科医師免許の申請を行った者であって当該規定の施行後に歯科医師免許を受けたものは、第三条の規定による改正後の医療法及び第五条の規定による改正後の歯科医師法の適用については、同法第十六条の四第一項の規定による登録を受けた者とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（指定病院等に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">附則第一条第二号に掲げる規定の施行の際現に第五条の規定による改正前の歯科医師法第十六条の二第一項の規定による指定を受けている病院又は診療所は、第五条の規定による改正後の歯科医師法第十六条の二第一項の規定による指定を受けている病院又は診療所とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（診療所の開設の届出に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">附則第一条第二号に掲げる規定の施行前に第三条の規定による改正前の医療法第八条の規定による届出をした歯科医師は、第三条の規定による改正後の医療法第八条の規定による届出をしたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">附則第二条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一三年六月二九日法律第八七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律における障害者に係る欠格事由の在り方について、当該欠格事由に関する規定の施行の状況を勘案して検討を加え、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（再免許に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">この法律による改正前のそれぞれの法律に規定する免許の取消事由により免許を取り消された者に係る当該取消事由がこの法律による改正後のそれぞれの法律により再免許を与えることができる取消事由（以下この条において「再免許が与えられる免許の取消事由」という。）に相当するものであるときは、その者を再免許が与えられる免許の取消事由により免許が取り消された者とみなして、この法律による改正後のそれぞれの法律の再免許に関する規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一四年二月八日法律第一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一八年六月二一日法律第八四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、平成十九年四月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">附則第十六条の規定、附則第三十一条の規定及び附則第三十二条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">政府は、この法律の施行後五年を目途として、この法律の施行の状況等を勘案し、この法律により改正された医療法等の規定に基づく規制の在り方について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（再免許の交付に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath=""></span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">施行日前に第五条の規定による改正前の歯科医師法第七条第二項の規定による取消処分を受けた者に係る第五条の規定による改正後の歯科医師法第七条第三項の規定の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則の適用に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為及びこの附則の規定によりなお効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十二条</span>　<span data-xpath="">附則第三条から第十六条まで及び前条に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一九年六月二七日法律第九六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二五年六月一四日法律第四四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二六年六月一三日法律第六九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置の原則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（訴訟に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和元年六月一四日法律第三七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して三月を経過した日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</span>　<span data-xpath="">公布の日から起算して六月を経過した日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（行政庁の行為等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和三年五月二八日法律第四九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、令和六年四月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第一条中医療法第百四条の改正規定及び第十四条の規定並びに次条並びに附則第三条、第十三条第二項、第十四条第二項、第十五条第二項及び第十八条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第九条から第十二条までの規定並びに附則第十三条第一項及び第三項、第十四条第一項及び第三項、第十五条第一項及び第三項、第十六条、第十七条、第二十二条並びに第二十三条の規定</span>　<span data-xpath="">令和三年十月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四から七まで</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">八</span>　<span data-xpath="">第三条中医療法第三十五条第一項第二号の改正規定（前号に掲げる改正規定を除く。）及び第八条の規定並びに附則第十二条の規定</span>　<span data-xpath="">令和八年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十八条</span>　<span data-xpath="">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和四年五月二〇日法律第四四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して三月を経過した日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第三条及び第七条から第九条までの規定並びに次条及び附則第六条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和四年五月二〇日法律第四七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><span data-xpath="">ただし、第一条中医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第一条の五第二項の改正規定及び第二条から第四条までの規定並びに附則第四条から第六条までの規定は、令和五年二月一日までの間において政令で定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この法律の施行に関し必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和四年六月一七日法律第六八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、刑法等一部改正法施行日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第五百九条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section>
+
+
+
+
+
+</div>
+</main>
+
+</body>
+</html>

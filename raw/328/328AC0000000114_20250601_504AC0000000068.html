@@ -1,0 +1,2028 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+
+<title>と畜場法</title>
+
+
+
+<style type="text/css">
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+
+  header h1 {
+    width: 260px;
+    height: 37px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      text-decoration: none;
+      color: #000;
+      line-height: 37px;
+      display: block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+        
+        
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 20px;
+          vertical-align: middle; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 10px;
+			background: url(../img/arrow_gray_link.png) left 10px no-repeat;
+			display: block;
+			color: #000;
+			text-decoration: none;
+            
+            }
+
+
+@media screen and (max-width: 1024px) {
+        }
+
+@media screen and (max-width: 769px) {
+}
+
+@media screen and (max-width: 359px) {
+  header h1 span {
+    display: none; } }
+    
+    
+header  button#btnHamburgerMenu {
+	width: 37px;
+	height: 37px;
+	background: url("../img/icon/icon_menu_black.png") center center no-repeat;
+	display: none;
+	text-indent: -9999px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+	
+	
+	
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #subLink .helpLink {
+        padding: 8px 5px 8px 25px;
+        background: url(../img/icon/icon_faq.png) left 10px no-repeat;
+        display: block;
+        color: #000;
+        text-decoration: none; }
+
+
+  button.moreList {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #636974;
+    text-align: center;}
+    button.moreList:hover {
+      background: #C2CEE7; }
+    button.moreList::after {
+      width: 18px;
+      height: 10px;
+      content: '';
+      background: url(../img/arrow_gray_down.png) left top no-repeat;
+      background-size: contain;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/arrow_gray_up.png) left top no-repeat; }
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  height: 67px;
+  background: #fff;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 500; }
+
+@media screen and (max-width: 1024px) {
+  header {
+    min-width: auto;
+    height: 52px; } }
+
+nav#pNavi {
+  padding-bottom: 25px;
+  text-align: left; }
+  nav#pNavi section#outlineGraph {
+    margin: 0 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineGraph.active {
+      display: block; }
+  nav#pNavi section#outlineList {
+    margin: 0 12px;
+    padding: 25px 12px 12px 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineList.active {
+      display: block; }
+    nav#pNavi section#outlineList p {
+      padding-bottom: 12px; }
+      nav#pNavi section#outlineList p.label {
+        font-size: 0.75rem;
+        text-align: right; }
+    nav#pNavi section#outlineList ul li {
+      padding-left: 12px;
+      font-size: 0.875rem; }
+      nav#pNavi section#outlineList ul li:nth-child(odd) {
+        background: url(../img/icon/icon_outline_list.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li.active {
+        background: url(../img/icon/icon_outline_point.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li ul {
+        margin-bottom: 12px; }
+        nav#pNavi section#outlineList ul li ul li {
+          margin-bottom: 0;
+          padding-left: 0;
+          font-size: 0.75rem; }
+          nav#pNavi section#outlineList ul li ul li:first-child {
+            background: none; }
+  nav#pNavi ul#tocCheckbox, nav#pNavi ul#pOutline {
+    width: 220px;
+    margin: 0 auto;
+    font-size: 0; }
+    nav#pNavi ul#tocCheckbox li, nav#pNavi ul#pOutline li {
+      font-size: 0.875rem;
+      display: inline-block; }
+      nav#pNavi ul#tocCheckbox li button, nav#pNavi ul#pOutline li button {
+        width: 100px;
+        margin: 0 5px;
+        display: inline-block; }
+        nav#pNavi ul#tocCheckbox li button:hover, nav#pNavi ul#pOutline li button:hover {
+          background: #C2CEE7; }
+  nav#pNavi ul#tocCheckbox {
+    margin-bottom: 25px; }
+    nav#pNavi ul#tocCheckbox li button {
+      padding: 8px;
+      border: 1px solid #D7D7D7; }
+  nav#pNavi ul#pOutline {
+    height: 40px;
+    padding: 0;
+    position: relative;
+    line-height: 0.875rem; }
+    nav#pNavi ul#pOutline li button {
+      padding: 8px;
+      border-top: 1px solid #D7D7D7;
+      border-left: 1px solid #D7D7D7;
+      border-right: 1px solid #D7D7D7;
+      position: absolute;
+      top: 0; }
+      nav#pNavi ul#pOutline li button.list {
+        left: 0; }
+      nav#pNavi ul#pOutline li button.outline {
+        right: 0; }
+      nav#pNavi ul#pOutline li button.active {
+        background: #1042A4;
+        color: #fff;
+        border-top: none; }
+      nav#pNavi div.tableOfContents2 a {
+        text-decoration: none;
+        color: #636974; }
+        nav#pNavi div.tableOfContents2 a[href] {
+          color: #000; }
+          nav#pNavi div.tableOfContents2 a[href]:hover {
+            color: #CA241E; }
+
+footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #707070;
+  font-size: 0.75rem; }
+
+#popuUpPage.document footer {
+  margin-left: 310px; }
+  #popuUpPage.document footer.allwidth {
+    margin-left: 0; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage.document footer {
+    margin-left: 0; } }
+
+@media print {
+  #contentsLaw {
+    width: 100% !important;
+    border: none !important; }
+  #innerDocument {
+    width: 100% !important; }
+  #toTop {
+    display: none; }
+  .document #leftNaviSide,
+  .document #relationLinkSide,
+  .document .lawDownload,
+  .document header,
+  .document nav,
+  .document footer,
+  .document button {
+    display: none !important; } }
+
+nav#spDocument {
+  display: none; }
+
+@media screen and (max-width: 1024px) {
+  nav#spDocument {
+    width: 100%;
+    padding: 12px 0;
+    background: #F5F6F8;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 500;
+    display: block; }
+    nav#spDocument #fDownloadFileSet {
+      margin: 0 12px 25px 12px;
+      padding: 12px;
+      text-align: left;
+      background: #fff;
+      display: none; }
+      nav#spDocument #fDownloadFileSet.active {
+        display: block; }
+      nav#spDocument #fDownloadFileSet ul li {
+        margin-bottom: 25px; }
+      nav#spDocument #fDownloadFileSet #fDownloadClose {
+        width: 30px;
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px; }
+    nav#spDocument div#spaceOfdocumentBtn {
+      width: 80px;
+      position: relative;
+      margin-left: 3%;
+      display: inline-block; }
+    nav#spDocument button.footNav {
+      width: 46px;
+      height: 46px;
+      margin-left: 3%;
+      text-indent: -9999px;
+      vertical-align: bottom; }
+    nav#spDocument #fDownloadBtn {
+      background: url(../img/icon/spnav/sp_menu04_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fDownloadBtn.active {
+        background: url(../img/icon/spnav/sp_menu04_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fTocOutlineBtn {
+      background: url(../img/icon/spnav/sp_menu02_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fTocOutlineBtn.active {
+        background: url(../img/icon/spnav/sp_menu02_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fDocumentBtn {
+      width: 80px;
+      height: 80px;
+      background: #F5F6F8 url(../img/icon/spnav/sp_menu01_off.png) center center no-repeat;
+      background-size: 60px auto;
+      position: absolute;
+      bottom: -17px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 50%; }
+      nav#spDocument #fDocumentBtn.active {
+        background: #F5F6F8 url(../img/icon/spnav/sp_menu01_on.png) center center no-repeat;
+        background-size: 60px auto; }
+    nav#spDocument #fRelationLinkBtn {
+      background: url(../img/icon/spnav/sp_menu03_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fRelationLinkBtn.active {
+        background: url(../img/icon/spnav/sp_menu03_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fSearchBtn {
+      background: url(../img/icon/spnav/sp_menu05_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fSearchBtn.active {
+        background: url(../img/icon/spnav/sp_menu05_on.png) center center no-repeat;
+        background-size: 46px auto; } }
+
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500; }
+
+h2:not(.popuUpPage) {
+  background-color: #fff;
+  border-top: 1px solid #D7D7D7;
+  border-bottom: 1px solid #D7D7D7;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 2rem; }
+  h2:not(.popuUpPage) span, h2:not(.popuUpPage) a {
+    padding: 25px 80px 20px 80px;
+    text-decoration: none;
+    color: #323232;
+    display: block; }
+    h2:not(.popuUpPage) span:hover, h2:not(.popuUpPage) a:hover {
+      color: #323232; }
+
+a {
+  color: #1042A4; }
+  a:hover {
+    color: #CA241E; }
+
+img {
+  vertical-align: bottom; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  font-size: 1rem; }
+  button:focus {
+    outline-color: #3b99fc;
+    outline-offset: 0px;
+    outline-style: auto;
+    outline-width: 5px; }
+
+_:-ms-lang(x):focus, button:focus {
+  outline: thin dotted invert; }
+
+label {
+  cursor: pointer; }
+
+#contentsWrap {
+  min-width: 1200px;
+  margin: 25px 0 40px 30px;
+  display: flex;
+  position: relative; }
+
+@media screen and (max-width: 1024px) {
+  #contentsWrap {
+    margin: 20px 0; } }
+
+#popuUpPage #contentsWrap {
+  min-width: auto;
+  margin: 0;
+  border-top: 1px solid #D7D7D7; }
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: calc(100% - 310px);
+    float: none;
+    padding: 25px 50px 25px 70px;
+    border-right: 1px solid #D7D7D7;
+    position: relative; }
+    #popuUpPage #contentsWrap #contentsLaw.allOpen {
+      width: calc(100% - 620px); }
+    #popuUpPage #contentsWrap #contentsLaw.allClosed {
+      width: 100%; }
+    #popuUpPage #contentsWrap #contentsLaw ul.lawDownload {
+      position: fixed;
+      top: 160px;
+      right: 311px; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload.openBtn {
+        right: 0; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload li {
+        margin-bottom: 12px; }
+    #popuUpPage #contentsWrap #contentsLaw button.openClose {
+      width: 40px;
+      height: 40px;
+      border-top: 1px solid #D7D7D7;
+      border-bottom: 1px solid #D7D7D7;
+      position: fixed;
+      top: 100px; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_left.png) 12px 13px no-repeat;
+        border-right: 1px solid #D7D7D7;
+        border-radius: 0 5px 5px 0;
+        left: 310px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_toc.png) 3px 7px no-repeat;
+          left: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_toc.png) 3px 7px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_left.png) 12px 13px no-repeat; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_right.png) 12px 13px no-repeat;
+        border-left: 1px solid #D7D7D7;
+        border-radius: 5px 0 0 5px;
+        right: 311px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_relation.png) 3px 6px no-repeat;
+          right: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_relation.png) 3px 6px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_right.png) 12px 13px no-repeat; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: 100%;
+    border-right: none;
+    padding: 25px 5px 25px 25px;
+    display: none; }
+    #popuUpPage #contentsWrap #contentsLaw.active {
+      width: 100%;
+      display: block; } }
+
+#leftNaviSide {
+  width: 310px;
+  padding-top: 25px;
+  background: #fff;
+  text-align: center;
+  border-right: 1px solid #D7D7D7;
+  display: none; }
+  #leftNaviSide.active {
+    display: block; }
+  #leftNaviSide #tocOutlineWrap {
+    width: 309px;
+    height: calc(100% - 70px);
+    background: #fff;
+    overflow: auto;
+    padding-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-overflow-scrolling: touch !important; }
+  #leftNaviSide ul {
+    font-size: 0; }
+    #leftNaviSide ul li {
+      font-size: 1rem;
+      text-align: left; }
+    #leftNaviSide ul#dayOfPromulgation {
+      margin: 0 0 10px 12px; }
+      #leftNaviSide ul#dayOfPromulgation li {
+        font-size: 0.75rem;
+        text-align: left; }
+    #leftNaviSide .labelLaw {
+      width: 120px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      margin-left: 12px; }
+      #leftNaviSide .labelLaw h3 {
+        padding: 1px 8px;
+        text-align: left;
+        width: 120px;
+        height: 23px;
+        border: 1px solid #1042A4;
+        background: #FFFFFF;
+        color: #000000;
+        display: inline-block; 
+        border-left-width: 15px; }
+        #leftNaviSide .labelLaw h3.authFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #A44210;
+          font-size: 85%; }
+        #leftNaviSide .labelLaw h3.enforcementFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #4F71B3; }
+    #leftNaviSide ul#tocTab {
+      margin: 15px 25px 25px 25px;
+      border-bottom: 1px solid #D7D7D7; }
+      #leftNaviSide ul#tocTab li {
+        font-size: 0.875rem;
+        display: inline-block; }
+        #leftNaviSide ul#tocTab li button {
+          width: 100px;
+          margin: 0 5px;
+          line-height: 37px;
+          display: inline-block;
+          border-radius: 5px 5px 0 0; }
+          #leftNaviSide ul#tocTab li button#tableOfContents {
+            background: #F5F6F8 url(../img/icon/icon_tabe_of_contents.png) 12px 10px no-repeat; }
+          #leftNaviSide ul#tocTab li button#outline {
+            background: #F5F6F8 url(../img/icon/icon_outline.png) 12px 8px no-repeat; }
+          #leftNaviSide ul#tocTab li button.active#tableOfContents {
+            background: #1042A4 url(../img/icon/icon_tabe_of_contents_ov.png) 12px 10px no-repeat;
+            color: #fff; }
+          #leftNaviSide ul#tocTab li button.active#outline {
+            background: #1042A4 url(../img/icon/icon_outline_ov.png) 12px 8px no-repeat;
+            color: #fff; }
+
+#relationLinkSide {
+  margin-right: 1px;
+  height: calc(100% - 200px);
+  width: 310px;
+  overflow: auto;
+  padding: 20px 25px 12px 25px;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  display: none; }
+  #relationLinkSide.active {
+    display: block; }
+  #relationLinkSide h3 {
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #F5F6F8; }
+  #relationLinkSide ul li {
+    padding-bottom: 25px; }
+    #relationLinkSide ul li a {
+      font-size: 1.125rem; }
+      #relationLinkSide ul li a span {
+        font-size: 0.75rem; }
+
+@media screen and (max-width: 1024px) {
+  #leftNaviSide {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    display: none; }
+    #leftNaviSide.active {
+      display: block; }
+  #leftNaviSide #tocOutlineWrap,
+  #relationLinkSide {
+    padding-top: 50px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #D7D7D7;
+    position: static !important; }
+  #leftNaviSide #tocOutlineWrap {
+    height: auto !important;
+    overflow: visible;
+    border: none; }
+    #leftNaviSide #tocOutlineWrap #searchKeyword {
+      display: none; }
+  #relationLinkSide {
+    margin-top: 20px;
+    border: none;
+    display: none; }
+    #relationLinkSide.active {
+      display: block; } }
+
+table {
+/*  width: 100%; */
+  border-collapse: collapse; }
+  table tr th {
+    text-align: left;
+    font-weight: normal; }
+
+#sNavi {
+  padding: 15px 0 25px 0;
+  text-align: right; }
+  #sNavi ul li {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 20px;
+    display: inline-block; }
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 30px auto; }
+    #sNavi ul li a {
+      color: #1042A4; }
+      #sNavi ul li a:hover {
+        color: #CA241E; }
+
+@media screen and (max-width: 1024px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+#innerDocument {
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  
+  }
+
+@media screen and (max-width: 1024px) {
+  #innerDocument {
+    display: none; }
+    #innerDocument.active {
+      padding-top: 10px;
+      display: block; } }
+
+#innerDocument section {
+  padding-bottom: 10px;
+  display: none; }
+  #innerDocument section.active {
+    display: block; }
+  #innerDocument section h3, #innerDocument section h4, #innerDocument section dt {
+    font-weight: 600; }
+  #innerDocument section.table {
+    padding-bottom: 25px; }
+    #innerDocument section.table h3 {
+/*      margin-left: -1rem;*/
+      margin-bottom: 5px;
+      padding-right: 2rem; }
+    #innerDocument section.table table {
+      width: auto;
+      border-collapse: collapse;
+      border-right: 1px solid #636974;
+      border-top: 1px solid #636974; }
+      #innerDocument section.table table tr th {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+      #innerDocument section.table table tr td {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+        #innerDocument section.table table tr td p {
+          padding: 0; }
+  #innerDocument section h4 {
+    text-indent: 2rem; }
+  #innerDocument section ol, #innerDocument section ul {
+    /*margin-left: -1rem; */}
+    #innerDocument section ol li, #innerDocument section ul li {
+      padding-left: 1rem;
+      /*text-indent: -1rem; */}
+      #innerDocument section ol li ol, #innerDocument section ol li ul, #innerDocument section ul li ol, #innerDocument section ul li ul {
+        margin-left: 0; }
+      #innerDocument section ol li .number, #innerDocument section ul li .number {
+        padding-right: 1rem;
+        font-weight: 600; }
+  #innerDocument section dl {
+    margin-bottom: 5px;
+    display: none; }
+    #innerDocument section dl.active {
+      display: block; }
+    #innerDocument section dl dt {
+      /*margin-left: -1rem;*/
+      padding-right: 2rem;
+      display: inline-block;
+      float: left; }
+    #innerDocument section dl dd {
+      display: inline; }
+
+#toTop _:-ms-lang(x), #toTop button {
+  color: #fff; }
+  #toTop _:-ms-lang(x):focus, #toTop button:focus {
+    outline: thin dotted #000; }
+
+.circleBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 100;
+  display: inline-block; }
+  .circleBtn#toTop {
+    right: 20px;
+    background: #636974; }
+  .circleBtn:hover {
+    opacity: 1; }
+  .circleBtn button {
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    color: #fff; }
+    .circleBtn button:hover {
+      color: #fff; }
+
+@media screen and (max-width: 1024px) {
+  .circleBtn {
+    width: 60px;
+    height: 60px;
+    bottom: 75px; }
+    .circleBtn#toTop {
+      right: 5px; }
+      .circleBtn#toTop.active {
+        display: none; }
+    .circleBtn button {
+      width: 60px;
+      height: 60px; }
+      .circleBtn button img {
+        width: 50%;
+        height: auto; } }
+
+#searchKeyword2 {
+  width: 100%;
+  padding: 12px !important;
+  position: absolute;
+  left: 0;
+  bottom: 45px;
+  z-index: 500;
+  display: none; }
+  #searchKeyword2.active {
+    display: block; }
+  #searchKeyword2 h2 {
+    text-align: left; }
+  #searchKeyword2 #searchKeywordBtn2 button {
+    width: auto !important;
+    height: auto !important;
+    margin: 5px 10px 5px 20px !important;
+    text-indent: 0 !important; }
+  #searchKeyword2 #delInfoBtn2 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 550; }
+
+#searchKeyword,
+#searchKeyword2 {
+  margin-bottom: 25px;
+  padding: 12px 5px;
+  background: #e9f0f7; }
+  #searchKeyword h2,
+  #searchKeyword2 h2 {
+    margin-bottom: 12px;
+    background: none;
+    font-size: 0.875rem;
+    color: #1F72DB;
+    line-height: 1.125rem;
+    border-top: none;
+    border-bottom: none; }
+    #searchKeyword h2:before,
+    #searchKeyword2 h2:before {
+      content: url(../img/icon/icon_hilight.png);
+      display: inline-block;
+      width: 16px;
+      height: 18px; }
+  #searchKeyword ul,
+  #searchKeyword2 ul {
+    margin-bottom: 12px;
+    text-align: left; }
+    #searchKeyword ul li,
+    #searchKeyword2 ul li {
+      display: inline-block; }
+  #searchKeyword #searchKeywordBtn,
+  #searchKeyword2 #searchKeywordBtn2 {
+    font-size: 0; }
+    #searchKeyword #searchKeywordBtn button,
+    #searchKeyword2 #searchKeywordBtn2 button {
+      margin: 5px;
+      min-height: 26px;
+      background: #1F72DB;
+      font-size: 0.75rem;
+      color: #fff;
+      border-radius: 13px; }
+      #searchKeyword #searchKeywordBtn button#prev,
+      #searchKeyword2 #searchKeywordBtn2 button#prev {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_left.png);
+        background-repeat: no-repeat;
+        background-position: 10px 8px; }
+      #searchKeyword #searchKeywordBtn button#next,
+      #searchKeyword2 #searchKeywordBtn2 button#next {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_right.png);
+        background-repeat: no-repeat;
+        background-position: right 10px top 8px; }
+      #searchKeyword #searchKeywordBtn button:hover,
+      #searchKeyword2 #searchKeywordBtn2 button:hover {
+        background: #36aae7; }
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table; }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  zoom: 1; }
+
+.attention {
+  color: #CA241E !important; }
+
+.annotation {
+  font-size: 0.75rem !important;
+  line-height: 1rem !important;
+  text-indent: -1em;
+  margin-left: 1em; }
+
+.searchLabel {
+  background: #C2CEE7; }
+
+.searchLabel.active {
+  background: #1042A4;
+  color: #fff; }
+
+.mBottom {
+  margin-bottom: 25px; }
+
+#innerDocument section.active.SupplProvision div._div_SupplProvisionLabel {
+	margin-bottom: 10px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+
+#innerDocument section.active table.Table {
+	margin-left: 1em;
+}
+#innerDocument section.active div._div_ArticleTitle table.Table {
+	margin-left: 0em;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<main id="contentsLaw" class="active">
+<div id="innerDocument" class="active">
+
+
+
+
+<div style="margin-bottom: 12px;">
+<div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和二十八年法律第百十四号<div class="_shokanBox"></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+<span data-xpath="">と畜場法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+</div><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（この法律の目的）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、と畜場の経営及び食用に供するために行う獣畜の処理の適正の確保のために公衆衛生の見地から必要な規制その他の措置を講じ、もつて国民の健康の保護を図ることを目的とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国、都道府県及び保健所を設置する市の責務）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">国、都道府県及び地域保健法（昭和二十二年法律第百一号）第五条第一項の規定に基づく政令で定める市（以下「保健所を設置する市」という。）は、家畜の生産の実態及び獣畜の疾病の発生の状況を踏まえ、食品衛生上の危害の発生を防止するため、食用に供するために行う獣畜の処理の適正の確保のために必要な措置を講じなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">この法律で「獣畜」とは、牛、馬、豚、めん羊及び山羊をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律で「と畜場」とは、食用に供する目的で獣畜をとさつし、又は解体するために設置された施設をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">この法律で「一般と畜場」とは、通例として生後一年以上の牛若しくは馬又は一日に十頭を超える獣畜をとさつし、又は解体する規模を有すると畜場をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">この法律で「簡易と畜場」とは、一般と畜場以外のと畜場をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">この法律で「と畜業者」とは、獣畜のとさつ又は解体の業を営む者をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜場の設置の許可）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">一般と畜場又は簡易と畜場は、都道府県知事（保健所を設置する市にあつては、市長。以下同じ。）の許可を受けなければ、設置してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定による許可を受けようとする者は、構造設備その他厚生労働省令で定める事項を記載した申請書を都道府県知事に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定により許可を受けて設置したと畜場について、構造設備その他厚生労働省令で定める事項を変更しようとする者は、あらかじめ、都道府県知事に届け出なければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">都道府県知事は、前条第一項の規定による許可の申請があつた場合において、当該と畜場の設置の場所が次の各号のいずれかに該当するとき、又は当該と畜場の構造設備が政令で定める一般と畜場若しくは簡易と畜場の基準に合わないと認めるときは、同項の許可を与えないことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">人家が密集している場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">公衆の用に供する飲料水が汚染されるおそれがある場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">その他都道府県知事が公衆衛生上危害を生ずるおそれがあると認める場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">都道府県知事は、公衆衛生上必要があると認めるときは、前条第一項の規定による許可を受けたと畜場（以下単に「と畜場」という。）につき、その構造設備の規模に応じ、当該と畜場において通例として処理することができる獣畜の種類及び一日当りの頭数を制限することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜場の衛生管理）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">厚生労働大臣は、と畜場の衛生的な管理その他公衆衛生上必要な措置（次項において「公衆衛生上必要な措置」という。）について、厚生労働省令で、次に掲げる事項に関する基準を定めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">と畜場の内外の清潔保持、汚物の処理、ねずみ及び昆虫の駆除その他一般的な衛生管理に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">食品衛生上の危害の発生を防止するために特に重要な工程を管理するための取組に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">と畜場の設置者又は管理者は、前項の規定による基準に従い、厚生労働省令で定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（衛生管理責任者）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">と畜場の管理者（と畜場の管理者がいないと畜場にあつては、と畜場の設置者。以下この項、第六項、次条及び第十八条第一項第五号において同じ。）は、と畜場を衛生的に管理させるため、と畜場ごとに、衛生管理責任者を置かなければならない。</span><span data-xpath="">ただし、と畜場の管理者が自ら衛生管理責任者となつて管理すると畜場については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">衛生管理責任者は、と畜場の衛生管理に関してこの法律又はこの法律に基づく命令若しくは処分に係る違反が行われないように、当該と畜場の衛生管理に従事する者を監督し、当該と畜場の構造設備を管理し、その他当該と畜場の衛生管理につき、必要な注意をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">衛生管理責任者は、と畜場の衛生管理に関してこの法律又はこの法律に基づく命令若しくは処分に係る違反が行われないように、当該と畜場の衛生管理につき、当該と畜場の設置者又は管理者に対し必要な意見を述べなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">と畜場の設置者又は管理者は、前項の規定による衛生管理責任者の意見を尊重しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">次の各号のいずれかに該当する者でなければ、衛生管理責任者となることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">獣医師</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">学校教育法（昭和二十二年法律第二十六号）に基づく大学、旧大学令（大正七年勅令第三百八十八号）に基づく大学又は旧専門学校令（明治三十六年勅令第六十一号）に基づく専門学校において獣医学又は畜産学の課程を修めて卒業した者（当該課程を修めて同法に基づく専門職大学の前期課程を修了した者を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">学校教育法第五十七条に規定する者又は厚生労働省令で定めるところによりこれらの者と同等以上の学力があると認められる者で、と畜場の衛生管理の業務に三年以上従事し、かつ、都道府県又は保健所を設置する市が行う講習会の課程を修了した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">６</span>　<span data-xpath="">と畜場の管理者は、衛生管理責任者を置き、又は自ら衛生管理責任者となつたときは、その日から十五日以内に、都道府県知事に、その衛生管理責任者の氏名又は自ら衛生管理責任者となつた旨その他厚生労働省令で定める事項を届け出なければならない。</span><span data-xpath="">衛生管理責任者を変更したときも、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">７</span>　<span data-xpath="">受講科目その他第五項第三号の講習会の課程に関して必要な事項は、厚生労働省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第八条</span>　<span data-xpath="">都道府県知事は、衛生管理責任者が次の各号のいずれかに該当する場合であつて当該衛生管理責任者に引き続きその職務を行わせることが適切でないと認めるときは、と畜場の管理者に対し、その解任を命ずることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">この法律又はこの法律に基づく命令若しくは処分に違反したとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">前条第二項に規定する職務を怠つたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜業者等の講ずべき衛生措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">厚生労働大臣は、獣畜のとさつ又は解体の衛生的な管理その他公衆衛生上必要な措置（次項において「公衆衛生上必要な措置」という。）について、厚生労働省令で、次に掲げる事項に関する基準を定めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">と畜場内の清潔保持、汚物の処理、ねずみ及び昆虫の駆除その他一般的な衛生管理に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">食品衛生上の危害の発生を防止するために特に重要な工程を管理するための取組に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">と畜業者その他獣畜のとさつ又は解体を行う者（以下「と畜業者等」という。）は、前項の規定による基準に従い、厚生労働省令で定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（作業衛生責任者）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">と畜業者等は、獣畜のとさつ又は解体を衛生的に管理させるため、と畜場ごとに、作業衛生責任者を置かなければならない。</span><span data-xpath="">ただし、と畜業者等が自ら作業衛生責任者となつて管理すると畜場については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">第七条第二項から第七項までの規定及び第八条の規定は、作業衛生責任者について準用する。</span><span data-xpath="">この場合において、必要な技術的読替えは、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜場の使用等の拒否の制限）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">と畜場の設置者又は管理者は、正当な理由がなければ、獣畜のとさつ又は解体のためにと畜場を使用することを拒んではならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">と畜業者は、正当な理由がなければ、獣畜のとさつ又は解体を拒んではならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜場使用料及びとさつ解体料）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">と畜場の設置者若しくは管理者又はと畜業者は、と畜場使用料又はとさつ解体料について、あらかじめ、その額を定めて、都道府県知事の認可を受けなければならない。</span><span data-xpath="">認可を受けたと畜場使用料又はとさつ解体料の額を変更しようとするときも、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">と畜場の設置者若しくは管理者又はと畜業者は、前項の規定により認可を受けた額を超えると畜場使用料又はとさつ解体料を受けてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">と畜場の設置者若しくは管理者又はと畜業者は、第一項の規定により認可を受けたと畜場使用料又はとさつ解体料を、と畜場内の見やすい場所に掲示しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（獣畜のとさつ又は解体）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">何人も、と畜場以外の場所において、食用に供する目的で獣畜をとさつしてはならない。</span><span data-xpath="">ただし、次に掲げる場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">食肉販売業その他食肉を取り扱う営業で厚生労働省令で定めるものを営む者以外の者が、あらかじめ、厚生労働省令で定めるところにより、都道府県知事に届け出て、主として自己及びその同居者の食用に供する目的で、獣畜（生後一年以上の牛及び馬を除く。）をとさつする場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">獣畜が不慮の災害により、負傷し、又は救うことができない状態に陥り、直ちにとさつすることが必要である場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">獣畜が難産、産<ruby class="law-ruby">褥<rt class="law-ruby">じよく</rt></ruby>麻<ruby class="law-ruby">痺<rt class="law-ruby">ひ</rt></ruby>又は急性鼓張症その他厚生労働省令で定める疾病にかかり、直ちにとさつすることが必要である場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">その他政令で定める場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">何人も、と畜場以外の場所において、食用に供する目的で獣畜を解体してはならない。</span><span data-xpath="">ただし、前項第一号又は第四号の規定によりと畜場以外の場所においてとさつした獣畜を解体する場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">都道府県知事は、公衆衛生上必要があると認めるときは、前二項の規定により、と畜場以外の場所において獣畜をとさつし、又は解体する者に対し、とさつ又は解体の場所、肉、内臓等の取扱方法及び汚物の処理方法を指示することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（獣畜のとさつ又は解体の検査）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">と畜場においては、都道府県知事の行う検査を経た獣畜以外の獣畜をとさつしてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">と畜場においては、とさつ後都道府県知事の行う検査を経た獣畜以外の獣畜を解体してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">と畜場内で解体された獣畜の肉、内臓、血液、骨及び皮は、都道府県知事の行う検査を経た後でなければ、と畜場外に持ち出してはならない。</span><span data-xpath="">ただし、次の各号のいずれかに該当するときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">この項本文に規定する検査のため必要があると認められる場合において都道府県（保健所を設置する市にあつては、市。以下同じ。）の職員が解体された獣畜の肉、内臓、血液、骨又は皮の一部を持ち出すとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">厚生労働省令で定める疾病の有無についてのこの項本文に規定する検査を行う場合において都道府県知事の許可を得て獣畜の皮を持ち出すときその他の衛生上支障がない場合として政令で定めるとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">前三項の規定は、都道府県知事が特に検査を要しないものと認めた場合を除き、前条第一項第四号又はこれに係る同条第二項ただし書の規定によりと畜場以外の場所で獣畜のとさつ又は解体が行われる場合に準用する。</span><span data-xpath="">この場合において、前項中「と畜場外」とあるのは、「獣畜の解体を行つた場所外」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">前各項に規定する都道府県知事の権限に属する事務のうち、政令で定める疾病の有無についての検査に係るものは、前各項の規定にかかわらず、政令で定めるところにより、都道府県知事及び厚生労働大臣が行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">６</span>　<span data-xpath="">前各項の規定による検査は、次に掲げるものの有無について行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">家畜伝染病予防法（昭和二十六年法律第百六十六号）第二条第一項に規定する家畜伝染病及び同法第四条第一項に規定する届出伝染病</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもの以外の疾病であつて厚生労働省令で定めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">潤滑油の付着その他の厚生労働省令で定める異常</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">７</span>　<span data-xpath="">前項に定めるもののほか、第一項から第五項までの規定により都道府県知事及び厚生労働大臣の行う検査の方法、手続その他検査に関し必要な事項は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">８</span>　<span data-xpath="">第一項から第五項までの規定により都道府県知事及び厚生労働大臣が行う検査の結果については、審査請求をすることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（譲受けの禁止）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">何人も、第十三条第二項の規定に違反してと畜場以外の場所で解体された獣畜の肉若しくは内臓、又は前条第三項（同条第四項において準用する場合及び同条第五項の規定の適用がある場合を含む。）の規定に違反して持ち出された獣畜の肉若しくは内臓を、食品として販売（不特定又は多数の者に対する販売以外の授与を含む。）の用に供する目的で譲り受けてはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（とさつ解体の禁止等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条</span>　<span data-xpath="">都道府県知事は、第十四条の規定による検査の結果、獣畜が疾病にかかり、若しくは異常があり食用に供することができないと認めたとき、又は当該獣畜により若しくは当該獣畜のとさつ若しくは解体により病毒を伝染させるおそれがあると認めたときは、公衆衛生上必要な限度において、次に掲げる措置をとることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該獣畜のとさつ又は解体を禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該獣畜の所有者若しくは管理者、と畜場の設置者若しくは管理者、と畜業者その他の関係者に対し、当該獣畜の隔離、と畜場内の消毒その他の措置を講ずべきことを命じ、又は当該職員にこれらの措置を講じさせること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該獣畜の肉、内臓等の所有者若しくは管理者に対し、食用に供することができないと認められる肉、内臓その他の獣畜の部分について廃棄その他の措置を講ずべきことを命じ、又は当該職員にこれらの措置を講じさせること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（報告の徴収等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条</span>　<span data-xpath="">都道府県知事は、この法律の施行に必要な限度において、と畜場の設置者若しくは管理者、と畜業者その他の関係者から必要な報告を徴し、又は当該職員に、と畜場若しくはと畜場の設置者若しくは管理者、と畜業者その他の関係者の事務所、倉庫その他の施設に立ち入り、設備、帳簿、書類その他の物件を検査させることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により立入検査をする職員は、その身分を示す証票を携帯し、かつ、関係者の請求があるときは、これを提示しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定による権限は、犯罪捜査のために認められたものと解釈してはならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜場の設置の許可の取消し等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十八条</span>　<span data-xpath="">都道府県知事は、次に掲げる場合には、第四条第一項の規定による許可を取り消し、又はと畜場の設置者若しくは管理者に対し、期間を定めて、当該と畜場の施設の使用の制限若しくは停止を命ずることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該と畜場の構造設備が第五条第一項の規定による基準に合わなくなつたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第五条第二項の規定による獣畜の種類及び頭数の制限が定められていると畜場において、その制限によらないで獣畜のとさつ又は解体が行われるに至つたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第五条第二項の規定による獣畜の種類及び頭数の制限が定められていない簡易と畜場において、通例として、一日に十頭を超える獣畜又は生後一年以上の牛若しくは馬のとさつ又は解体が行われるに至つたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">当該と畜場の設置者又は管理者が、第六条第二項又は第七条第一項若しくは第六項の規定に違反したとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">当該と畜場の管理者が、第八条の規定による命令に違反したとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">都道府県知事は、次に掲げる場合には、と畜業者等に対し、期間を定めて、とさつ若しくは解体の業務の停止を命じ、又はとさつ若しくは解体を行うことを禁止することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該と畜業者等が、第九条第二項又は第十条第一項若しくは第二項において準用する第七条第六項の規定に違反したとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該と畜業者等が、第十条第二項において準用する第八条の規定による命令に違反したとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（と畜検査員）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十九条</span>　<span data-xpath="">第十四条に規定する検査の事務に従事させ、並びに第十六条及び第十七条第一項に規定する当該職員の職務並びに食用に供するために行う獣畜の処理の適正の確保に関する指導の職務を行わせるため、都道府県知事は、当該都道府県の職員のうちからと畜検査員を命ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">都道府県知事は、食品衛生法（昭和二十二年法律第二百三十三号）第二十四条第一項に規定する都道府県等食品衛生監視指導計画の定めるところにより、と畜検査員に前項に規定する事務又は職務を行わせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">と畜検査員の資格について必要な事項は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（厚生労働大臣の調査の要請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十条</span>　<span data-xpath="">厚生労働大臣は、食品衛生法第六十五条の規定に基づき報告を求めた場合その他食品衛生上の危害の発生の防止のため特に必要があると認めるときは、都道府県知事に対し、期限を定めて、第十四条第一項から第四項までの規定により行う検査及び第十七条第一項の規定による措置を実施し、食中毒の原因を調査し、調査の結果を報告するように求めることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国民の意見の聴取）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">厚生労働大臣は、第六条第一項、第九条第一項、第十三条第一項第三号若しくは第十四条第六項第二号若しくは第三号の厚生労働省令を制定し、若しくは改廃しようとするとき、又は同条第七項の政令の制定若しくは改廃の立案をしようとするときは、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求めるものとする。</span><span data-xpath="">ただし、食品衛生上の危害の発生を防止するため緊急を要する場合で、あらかじめ広く国民の意見を求めるいとまがないときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">厚生労働大臣は、前項ただし書の場合においては、事後において、遅滞なく、広く国民の意見を求めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（連絡及び協力）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">厚生労働大臣及び農林水産大臣は、この法律の施行に当たつては、食用に供するために行う獣畜の処理の適正の確保に関する事項について、相互に緊密に連絡し、及び協力しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（事務の区分）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">第十七条第一項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">次の各号のいずれかに該当する者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第四条第一項の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第十三条第一項又は第二項の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第十四条第一項から第三項まで（同条第四項において準用する場合及び同条第五項の規定の適用がある場合を含む。）の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">次の各号のいずれかに該当する者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第十五条の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第十六条の規定による禁止若しくは命令に違反した者又は同条第二号若しくは第三号の規定により当該職員の職務の執行を拒み、妨げ、若しくは忌避した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第十八条第一項の規定による命令又は同条第二項の規定による命令若しくは禁止に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第七条第六項（第十条第二項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第十一条の規定に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第十二条第一項の規定による認可を受けないで、又は同条第二項の規定に違反して、と畜場使用料又はとさつ解体料を受けた者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">第十三条第三項の規定による指示に違反した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">第十七条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は当該職員の立入検査を拒み、妨げ、若しくは忌避した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十七条</span>　<span data-xpath="">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第二十四条</span>　<span data-xpath="">一億円以下の罰金刑</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第二十五条又は前条</span>　<span data-xpath="">各本条の罰金刑</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><span data-xpath="">ただし、第十二条の規定は、公布の日から起算して一箇月を経過した日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（屠場法の廃止）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">屠場法（明治三十九年法律第三十二号）は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（と畜場設置の許可に関する経過規定）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">この法律の施行の際、現に従前の規定による許可を受けて設置されていると畜場のうち、その構造設備が第五条第一項の規定による一般と畜場の基準に合うもの及び通例として一日に十頭を超える獣畜をとさつし、又は解体しているものは、この法律の規定による許可を受けて設置された一般と畜場とみなし、その他のものは、この法律の規定による許可を受けて設置された簡易と畜場とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（と畜検査員に関する経過規定）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">この法律の施行の際、現に従前の規定によりと畜検査員を命ぜられている者は、この法律の規定によりと畜検査員を命ぜられたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過規定）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和三七年九月一五日法律第一六一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、昭和三十七年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</span><span data-xpath="">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。</span><span data-xpath="">この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">６</span>　<span data-xpath="">この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">８</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">９</span>　<span data-xpath="">前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和五八年一二月一〇日法律第八三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第一条から第三条まで、第二十一条及び第二十三条の規定、第二十四条中麻薬取締法第二十九条の改正規定、第四十一条、第四十七条及び第五十四条から第五十六条までの規定並びに附則第二条、第六条、第十三条及び第二十条の規定</span>　<span data-xpath="">昭和五十九年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の処分、申請等に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び第十六条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条</span>　<span data-xpath="">この法律の施行前にした行為及び附則第三条、第五条第五項、第八条第二項、第九条又は第十条の規定により従前の例によることとされる場合における第十七条、第二十二条、第三十六条、第三十七条又は第三十九条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成五年一一月一二日法律第八九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（諮問等がされた不利益処分に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（聴聞に関する規定の整理に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一一年七月一六日法律第八七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、平成十二年四月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第一条中地方自治法第二百五十条の次に五条、節名並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法附則第九項及び第十項の改正規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（農業改良助長法第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに附則第七条、第十条、第十二条、第五十九条ただし書、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（厚生大臣に対する再審査請求に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七十四条</span>　<span data-xpath="">施行日前にされた行政庁の処分に係る第百四十九条から第百五十一条まで、第百五十七条、第百五十八条、第百六十五条、第百六十八条、第百七十条、第百七十二条、第百七十三条、第百七十五条、第百七十六条、第百八十三条、第百八十八条、第百九十五条、第二百一条、第二百八条、第二百十四条、第二百十九条から第二百二十一条まで、第二百二十九条又は第二百三十八条の規定による改正前の児童福祉法第五十九条の四第二項、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律第十二条の四、食品衛生法第二十九条の四、旅館業法第九条の三、公衆浴場法第七条の三、医療法第七十一条の三、身体障害者福祉法第四十三条の二第二項、精神保健及び精神障害者福祉に関する法律第五十一条の十二第二項、クリーニング業法第十四条の二第二項、狂犬病予防法第二十五条の二、社会福祉事業法第八十三条の二第二項、結核予防法第六十九条、<ruby class="law-ruby">と<rt class="law-ruby">ヽ</rt></ruby>畜場法第二十条、歯科技工士法第二十七条の二、臨床検査技師、衛生検査技師等に関する法律第二十条の八の二、知的障害者福祉法第三十条第二項、老人福祉法第三十四条第二項、母子保健法第二十六条第二項、柔道整復師法第二十三条、建築物における衛生的環境の確保に関する法律第十四条第二項、廃棄物の処理及び清掃に関する法律第二十四条、食鳥処理の事業の規制及び食鳥検査に関する法律第四十一条第三項又は感染症の予防及び感染症の患者に対する医療に関する法律第六十五条の規定に基づく再審査請求については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国等の事務）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百五十九条</span>　<span data-xpath="">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（処分、申請等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（不服申立てに関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十一条</span>　<span data-xpath="">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</span><span data-xpath="">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（手数料に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十二条</span>　<span data-xpath="">施行日前においてこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定により納付すべきであった手数料については、この法律及びこれに基づく政令に別段の定めがあるもののほか、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十三条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第百六十四条</span>　<span data-xpath="">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二百五十条</span>　<span data-xpath="">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二百五十一条</span>　<span data-xpath="">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一一年一二月二二日法律第一六〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一五年五月三〇日法律第五五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第四条並びに附則第九条、第十条（食品安全基本法（平成十五年法律第四十八号）第二十二条に規定する食品安全委員会（以下この条及び附則第十条において「食品安全委員会」という。）に係る部分を除く。）、第十二条、第十三条及び第二十九条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">附則第十条（食品安全委員会に係る部分に限る。）の規定</span>　<span data-xpath="">食品安全基本法の施行の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第二条（次号に掲げる改正規定を除く。）、第六条（次号に掲げる改正規定を除く。）、第八条（次号に掲げる改正規定を除く。）及び第十条並びに附則第二条から第五条まで、第八条、第十六条から第十八条まで、第二十一条から第二十六条まで、第三十一条、第三十三条及び第三十五条の規定</span>　<span data-xpath="">公布の日から起算して九月を超えない範囲内において政令で定める日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">第二条中食品衛生法第十九条の改正規定（「第十七条第一項」を「第二十八条第一項」に改める部分を除く。）、第六条中と畜場法第十九条の改正規定及び第八条中食鳥処理の事業の規制及び食鳥検査に関する法律第三十九条の改正規定</span>　<span data-xpath="">平成十六年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（衛生管理責任者及び作業衛生責任者に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">この法律の施行の際現にと畜場の衛生管理の業務に従事している者その他その者に準ずるものとして厚生労働省令で定める者であって、平成九年四月一日以降において三年以上と畜場の衛生管理の業務に従事した経験を有するものは、この法律の施行の日から三年間は、第五条の規定による改正後のと畜場法（次条において「新と畜場法」という。）第七条第五項の規定にかかわらず、同条第一項に規定する衛生管理責任者となることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">この法律の施行の際現に獣畜のとさつ又は解体の業務に従事している者その他その者に準ずるものとして厚生労働省令で定める者であって、平成九年四月一日以降において三年以上獣畜のとさつ又は解体の業務に従事した経験を有するものは、この法律の施行の日から三年間は、新と畜場法第十条第二項において準用する新と畜場法第七条第五項の規定にかかわらず、新と畜場法第十条第一項に規定する作業衛生責任者となることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（処分、手続等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">この法律（附則第一条各号に掲げる規定については、当該各規定。附則第十二条において同じ。）の施行前に改正前のそれぞれの法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってしたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国民の意見の聴取等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath=""></span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">厚生労働大臣は、附則第一条第三号に掲げる規定の施行の日前においても、次に掲げる場合には、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求め、又は食品安全委員会の意見を聴くことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">第六条の規定による改正後のと畜場法第六条、第九条並びに第十四条第六項第二号及び第三号の厚生労働省令並びに同条第七項の政令を定めようとするとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">政府は、この法律の施行後五年を経過した場合において、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一九年六月二七日法律第九六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二六年六月一三日法律第六九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置の原則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（訴訟に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（その他の経過措置の政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二九年五月三一日法律第四一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、平成三十一年四月一日から施行する。</span><span data-xpath="">ただし、次条及び附則第四十八条の規定は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四十八条</span>　<span data-xpath="">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成三〇年六月一三日法律第四六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">附則第十一条及び第十三条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第二条の規定、第三条中と畜場法第二十条の改正規定並びに第四条中食鳥処理の事業の規制及び食鳥検査に関する法律第十七条第一項第四号、第三十九条第二項及び第四十条の改正規定並びに附則第八条、第十五条から第二十一条まで及び第二十四条の規定</span>　<span data-xpath="">公布の日から起算して三年を超えない範囲内において政令で定める日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（公衆衛生上必要な措置に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">第三条の規定（附則第一条第三号に掲げる改正規定を除く。以下この項において同じ。）による改正後のと畜場法（次項及び附則第十一条第一項第二号において「新と畜場法」という。）第六条第二項に規定する公衆衛生上必要な措置については、施行日から起算して一年間は、第三条の規定による改正前のと畜場法（次項において「旧と畜場法」という。）第六条の規定により定められた基準によることとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">新と畜場法第九条第二項に規定する公衆衛生上必要な措置については、施行日から起算して一年間は、旧と畜場法第九条の規定により定められた基準によることとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（処分、手続等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">この法律（附則第一条第三号に掲げる規定にあっては、当該規定。附則第十二条において同じ。）の施行前に改正前のそれぞれの法律（これらに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってした処分、手続その他の行為とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（国民の意見の聴取等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">厚生労働大臣は、施行日前においても、次に掲げる場合には、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求め、又は食品安全委員会の意見を聴くことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">略</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">新と畜場法第六条第一項又は第九条第一項の厚生労働省令を定めようとするとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">この法律の施行前にした行為及び附則第五条から第七条までに規定する場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（政令への委任）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">附則第二条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（検討）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和四年六月一七日法律第六八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この法律は、刑法等一部改正法施行日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">第五百九条の規定</span>　<span data-xpath="">公布の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section>
+
+
+
+
+
+</div>
+</main>
+
+</body>
+</html>
