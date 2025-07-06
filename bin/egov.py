@@ -4,12 +4,12 @@ import cmd
 import os
 import os.path
 import lxml.html
+import json
+import urllib.request
 
 class Egov(cmd.Cmd):
     """ Interactive command line interface for e-gov. """
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    base_list_url = "http://law.e-gov.go.jp/cgi-bin/idxsearch.cgi?H_CTG_%d=foo&H_CTG_GUN=2&H_NO_GENGO=H&H_NO_TYPE=2&H_RYAKU=1&H_YOMI_GUN=1"
-    base_doc_url = "http://law.e-gov.go.jp/htmldata/%s/%s.html"
     categories = [
         (1, "憲　法"), (2, "国　会"), (3, "行政組織"), (4, "国家公務員"), (5, "行政手続"),
         (6, "統　計"), (7, "地方自治"), (8, "地方財政"), (9, "司　法"), (10, "民　事"),
@@ -44,14 +44,15 @@ class Egov(cmd.Cmd):
             self._show_categories()
             return False
 
-        url = self.base_list_url % key
-        doc = lxml.html.parse(url).getroot()
-        for link in doc.xpath('//ol/li/p/a'):
-            content = link.text_content()
-            href = link.get('href')
-            matched = re.search(r"H_FILE_NAME=(\w+)&", href)
-            filename = matched and matched.group(1) or "UNKNOWN"
-            print("%s: %s" % (filename, content))
+        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}"
+        with urllib.request.urlopen(url) as response:
+            data = json.loads(response.read())
+            for law in data.get('laws', []):
+                revision_info = law.get('revision_info', {})
+                law_revision_id = revision_info.get('law_revision_id')
+                law_title = revision_info.get('law_title')
+                if law_revision_id and law_title:
+                    print(f"{law_revision_id}: {law_title}")
 
     def do_mklist(self, line):
         """
@@ -79,16 +80,15 @@ class Egov(cmd.Cmd):
         lines.append("")
 
         # documents
-        url = self.base_list_url % key
-        doc = lxml.html.parse(url).getroot()
-
-        for link in doc.xpath('//ol/li/p/a'):
-            doc_title = link.text_content()
-            href = link.get('href')
-            matched = re.search(r"H_FILE_NAME=(\w+)&", href)
-            if matched:
-                doc_id = matched.group(1)
-                lines.append("* :doc:`%s <../doc/%s/%s>`" % (doc_title, doc_id[:3], doc_id))
+        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}"
+        with urllib.request.urlopen(url) as response:
+            data = json.loads(response.read())
+            for law in data.get('laws', []):
+                revision_info = law.get('revision_info', {})
+                doc_id = revision_info.get('law_revision_id')
+                doc_title = revision_info.get('law_title')
+                if doc_id and doc_title:
+                    lines.append("* :doc:`%s <../doc/%s/%s>`" % (doc_title, doc_id[:3], doc_id))
 
         # last line
         lines.append("")
@@ -107,11 +107,11 @@ class Egov(cmd.Cmd):
             print("usage: get <document_id>\n")
 
         key = line.strip()
-        url = self.base_doc_url % (key[:3], key)
-        doc = lxml.html.parse(url).getroot()
-
-        print("get: %s" % url)
-        print(lxml.html.tostring(doc.body, encoding='utf-8').decode('utf-8'))
+        url = f"https://laws.e-gov.go.jp/api/2/law_file/html/{key}"
+        with urllib.request.urlopen(url) as response:
+            doc = lxml.html.parse(response).getroot()
+            print("get: %s" % url)
+            print(lxml.html.tostring(doc.body, encoding='utf-8').decode('utf-8'))
 
     def do_fetch(self, line):
         """
@@ -122,21 +122,19 @@ class Egov(cmd.Cmd):
             key = int(line.strip())
             if key not in dict(self.categories):
                 print("usage: fetch <category_key>")
+                return False
         except ValueError:
             print("usage: fetch <category_key>")
             return False
 
-        url = self.base_list_url % key
-        doc = lxml.html.parse(url).getroot()
-        for link in doc.xpath('//ol/li/p/a'):
-            content = link.text_content()
-            href = link.get('href')
-            matched = re.search(r"H_FILE_NAME=(\w+)&", href)
-            if matched:
-                document_id = matched.group(1)
-                self.do_fetchdoc(document_id)
-            else:
-                print("unexpected document: %s" % href)
+        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}"
+        with urllib.request.urlopen(url) as response:
+            data = json.loads(response.read())
+            for law in data.get('laws', []):
+                revision_info = law.get('revision_info', {})
+                document_id = revision_info.get('law_revision_id')
+                if document_id:
+                    self.do_fetchdoc(document_id)
 
     def do_fetchdoc(self, line):
         """
@@ -147,10 +145,11 @@ class Egov(cmd.Cmd):
             print("usage: fetchdoc <document_id>\n")
 
         key = line.strip()
-        url = self.base_doc_url % (key[:3], key)
+        url = "https://laws.e-gov.go.jp/api/2/law_file/html/%s" % key
 
         print("fetchdoc: %s" % url)
-        doc = lxml.html.parse(url).getroot()
+        with urllib.request.urlopen(url) as response:
+            doc = lxml.html.parse(response).getroot()
         content = lxml.html.tostring(doc, encoding='utf-8')
 
         filedir = os.path.join(self.root_dir, "raw", key[:3])
