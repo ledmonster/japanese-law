@@ -1,0 +1,1485 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+
+<title>特別調達資金会計官及び特別調達資金出納命令官受入事務規程</title>
+
+
+
+<style type="text/css">
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+
+  header h1 {
+    width: 260px;
+    height: 37px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      text-decoration: none;
+      color: #000;
+      line-height: 37px;
+      display: block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+        
+        
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 20px;
+          vertical-align: middle; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 10px;
+			background: url(../img/arrow_gray_link.png) left 10px no-repeat;
+			display: block;
+			color: #000;
+			text-decoration: none;
+            
+            }
+
+
+@media screen and (max-width: 1024px) {
+        }
+
+@media screen and (max-width: 769px) {
+}
+
+@media screen and (max-width: 359px) {
+  header h1 span {
+    display: none; } }
+    
+    
+header  button#btnHamburgerMenu {
+	width: 37px;
+	height: 37px;
+	background: url("../img/icon/icon_menu_black.png") center center no-repeat;
+	display: none;
+	text-indent: -9999px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+	
+	
+	
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #subLink .helpLink {
+        padding: 8px 5px 8px 25px;
+        background: url(../img/icon/icon_faq.png) left 10px no-repeat;
+        display: block;
+        color: #000;
+        text-decoration: none; }
+
+
+  button.moreList {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #636974;
+    text-align: center;}
+    button.moreList:hover {
+      background: #C2CEE7; }
+    button.moreList::after {
+      width: 18px;
+      height: 10px;
+      content: '';
+      background: url(../img/arrow_gray_down.png) left top no-repeat;
+      background-size: contain;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/arrow_gray_up.png) left top no-repeat; }
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  height: 67px;
+  background: #fff;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 500; }
+
+@media screen and (max-width: 1024px) {
+  header {
+    min-width: auto;
+    height: 52px; } }
+
+nav#pNavi {
+  padding-bottom: 25px;
+  text-align: left; }
+  nav#pNavi section#outlineGraph {
+    margin: 0 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineGraph.active {
+      display: block; }
+  nav#pNavi section#outlineList {
+    margin: 0 12px;
+    padding: 25px 12px 12px 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineList.active {
+      display: block; }
+    nav#pNavi section#outlineList p {
+      padding-bottom: 12px; }
+      nav#pNavi section#outlineList p.label {
+        font-size: 0.75rem;
+        text-align: right; }
+    nav#pNavi section#outlineList ul li {
+      padding-left: 12px;
+      font-size: 0.875rem; }
+      nav#pNavi section#outlineList ul li:nth-child(odd) {
+        background: url(../img/icon/icon_outline_list.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li.active {
+        background: url(../img/icon/icon_outline_point.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li ul {
+        margin-bottom: 12px; }
+        nav#pNavi section#outlineList ul li ul li {
+          margin-bottom: 0;
+          padding-left: 0;
+          font-size: 0.75rem; }
+          nav#pNavi section#outlineList ul li ul li:first-child {
+            background: none; }
+  nav#pNavi ul#tocCheckbox, nav#pNavi ul#pOutline {
+    width: 220px;
+    margin: 0 auto;
+    font-size: 0; }
+    nav#pNavi ul#tocCheckbox li, nav#pNavi ul#pOutline li {
+      font-size: 0.875rem;
+      display: inline-block; }
+      nav#pNavi ul#tocCheckbox li button, nav#pNavi ul#pOutline li button {
+        width: 100px;
+        margin: 0 5px;
+        display: inline-block; }
+        nav#pNavi ul#tocCheckbox li button:hover, nav#pNavi ul#pOutline li button:hover {
+          background: #C2CEE7; }
+  nav#pNavi ul#tocCheckbox {
+    margin-bottom: 25px; }
+    nav#pNavi ul#tocCheckbox li button {
+      padding: 8px;
+      border: 1px solid #D7D7D7; }
+  nav#pNavi ul#pOutline {
+    height: 40px;
+    padding: 0;
+    position: relative;
+    line-height: 0.875rem; }
+    nav#pNavi ul#pOutline li button {
+      padding: 8px;
+      border-top: 1px solid #D7D7D7;
+      border-left: 1px solid #D7D7D7;
+      border-right: 1px solid #D7D7D7;
+      position: absolute;
+      top: 0; }
+      nav#pNavi ul#pOutline li button.list {
+        left: 0; }
+      nav#pNavi ul#pOutline li button.outline {
+        right: 0; }
+      nav#pNavi ul#pOutline li button.active {
+        background: #1042A4;
+        color: #fff;
+        border-top: none; }
+      nav#pNavi div.tableOfContents2 a {
+        text-decoration: none;
+        color: #636974; }
+        nav#pNavi div.tableOfContents2 a[href] {
+          color: #000; }
+          nav#pNavi div.tableOfContents2 a[href]:hover {
+            color: #CA241E; }
+
+footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #707070;
+  font-size: 0.75rem; }
+
+#popuUpPage.document footer {
+  margin-left: 310px; }
+  #popuUpPage.document footer.allwidth {
+    margin-left: 0; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage.document footer {
+    margin-left: 0; } }
+
+@media print {
+  #contentsLaw {
+    width: 100% !important;
+    border: none !important; }
+  #innerDocument {
+    width: 100% !important; }
+  #toTop {
+    display: none; }
+  .document #leftNaviSide,
+  .document #relationLinkSide,
+  .document .lawDownload,
+  .document header,
+  .document nav,
+  .document footer,
+  .document button {
+    display: none !important; } }
+
+nav#spDocument {
+  display: none; }
+
+@media screen and (max-width: 1024px) {
+  nav#spDocument {
+    width: 100%;
+    padding: 12px 0;
+    background: #F5F6F8;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 500;
+    display: block; }
+    nav#spDocument #fDownloadFileSet {
+      margin: 0 12px 25px 12px;
+      padding: 12px;
+      text-align: left;
+      background: #fff;
+      display: none; }
+      nav#spDocument #fDownloadFileSet.active {
+        display: block; }
+      nav#spDocument #fDownloadFileSet ul li {
+        margin-bottom: 25px; }
+      nav#spDocument #fDownloadFileSet #fDownloadClose {
+        width: 30px;
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px; }
+    nav#spDocument div#spaceOfdocumentBtn {
+      width: 80px;
+      position: relative;
+      margin-left: 3%;
+      display: inline-block; }
+    nav#spDocument button.footNav {
+      width: 46px;
+      height: 46px;
+      margin-left: 3%;
+      text-indent: -9999px;
+      vertical-align: bottom; }
+    nav#spDocument #fDownloadBtn {
+      background: url(../img/icon/spnav/sp_menu04_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fDownloadBtn.active {
+        background: url(../img/icon/spnav/sp_menu04_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fTocOutlineBtn {
+      background: url(../img/icon/spnav/sp_menu02_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fTocOutlineBtn.active {
+        background: url(../img/icon/spnav/sp_menu02_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fDocumentBtn {
+      width: 80px;
+      height: 80px;
+      background: #F5F6F8 url(../img/icon/spnav/sp_menu01_off.png) center center no-repeat;
+      background-size: 60px auto;
+      position: absolute;
+      bottom: -17px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 50%; }
+      nav#spDocument #fDocumentBtn.active {
+        background: #F5F6F8 url(../img/icon/spnav/sp_menu01_on.png) center center no-repeat;
+        background-size: 60px auto; }
+    nav#spDocument #fRelationLinkBtn {
+      background: url(../img/icon/spnav/sp_menu03_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fRelationLinkBtn.active {
+        background: url(../img/icon/spnav/sp_menu03_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fSearchBtn {
+      background: url(../img/icon/spnav/sp_menu05_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fSearchBtn.active {
+        background: url(../img/icon/spnav/sp_menu05_on.png) center center no-repeat;
+        background-size: 46px auto; } }
+
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500; }
+
+h2:not(.popuUpPage) {
+  background-color: #fff;
+  border-top: 1px solid #D7D7D7;
+  border-bottom: 1px solid #D7D7D7;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 2rem; }
+  h2:not(.popuUpPage) span, h2:not(.popuUpPage) a {
+    padding: 25px 80px 20px 80px;
+    text-decoration: none;
+    color: #323232;
+    display: block; }
+    h2:not(.popuUpPage) span:hover, h2:not(.popuUpPage) a:hover {
+      color: #323232; }
+
+a {
+  color: #1042A4; }
+  a:hover {
+    color: #CA241E; }
+
+img {
+  vertical-align: bottom; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  font-size: 1rem; }
+  button:focus {
+    outline-color: #3b99fc;
+    outline-offset: 0px;
+    outline-style: auto;
+    outline-width: 5px; }
+
+_:-ms-lang(x):focus, button:focus {
+  outline: thin dotted invert; }
+
+label {
+  cursor: pointer; }
+
+#contentsWrap {
+  min-width: 1200px;
+  margin: 25px 0 40px 30px;
+  display: flex;
+  position: relative; }
+
+@media screen and (max-width: 1024px) {
+  #contentsWrap {
+    margin: 20px 0; } }
+
+#popuUpPage #contentsWrap {
+  min-width: auto;
+  margin: 0;
+  border-top: 1px solid #D7D7D7; }
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: calc(100% - 310px);
+    float: none;
+    padding: 25px 50px 25px 70px;
+    border-right: 1px solid #D7D7D7;
+    position: relative; }
+    #popuUpPage #contentsWrap #contentsLaw.allOpen {
+      width: calc(100% - 620px); }
+    #popuUpPage #contentsWrap #contentsLaw.allClosed {
+      width: 100%; }
+    #popuUpPage #contentsWrap #contentsLaw ul.lawDownload {
+      position: fixed;
+      top: 160px;
+      right: 311px; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload.openBtn {
+        right: 0; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload li {
+        margin-bottom: 12px; }
+    #popuUpPage #contentsWrap #contentsLaw button.openClose {
+      width: 40px;
+      height: 40px;
+      border-top: 1px solid #D7D7D7;
+      border-bottom: 1px solid #D7D7D7;
+      position: fixed;
+      top: 100px; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_left.png) 12px 13px no-repeat;
+        border-right: 1px solid #D7D7D7;
+        border-radius: 0 5px 5px 0;
+        left: 310px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_toc.png) 3px 7px no-repeat;
+          left: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_toc.png) 3px 7px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_left.png) 12px 13px no-repeat; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_right.png) 12px 13px no-repeat;
+        border-left: 1px solid #D7D7D7;
+        border-radius: 5px 0 0 5px;
+        right: 311px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_relation.png) 3px 6px no-repeat;
+          right: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_relation.png) 3px 6px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_right.png) 12px 13px no-repeat; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: 100%;
+    border-right: none;
+    padding: 25px 5px 25px 25px;
+    display: none; }
+    #popuUpPage #contentsWrap #contentsLaw.active {
+      width: 100%;
+      display: block; } }
+
+#leftNaviSide {
+  width: 310px;
+  padding-top: 25px;
+  background: #fff;
+  text-align: center;
+  border-right: 1px solid #D7D7D7;
+  display: none; }
+  #leftNaviSide.active {
+    display: block; }
+  #leftNaviSide #tocOutlineWrap {
+    width: 309px;
+    height: calc(100% - 70px);
+    background: #fff;
+    overflow: auto;
+    padding-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-overflow-scrolling: touch !important; }
+  #leftNaviSide ul {
+    font-size: 0; }
+    #leftNaviSide ul li {
+      font-size: 1rem;
+      text-align: left; }
+    #leftNaviSide ul#dayOfPromulgation {
+      margin: 0 0 10px 12px; }
+      #leftNaviSide ul#dayOfPromulgation li {
+        font-size: 0.75rem;
+        text-align: left; }
+    #leftNaviSide .labelLaw {
+      width: 120px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      margin-left: 12px; }
+      #leftNaviSide .labelLaw h3 {
+        padding: 1px 8px;
+        text-align: left;
+        width: 120px;
+        height: 23px;
+        border: 1px solid #1042A4;
+        background: #FFFFFF;
+        color: #000000;
+        display: inline-block; 
+        border-left-width: 15px; }
+        #leftNaviSide .labelLaw h3.authFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #A44210;
+          font-size: 85%; }
+        #leftNaviSide .labelLaw h3.enforcementFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #4F71B3; }
+    #leftNaviSide ul#tocTab {
+      margin: 15px 25px 25px 25px;
+      border-bottom: 1px solid #D7D7D7; }
+      #leftNaviSide ul#tocTab li {
+        font-size: 0.875rem;
+        display: inline-block; }
+        #leftNaviSide ul#tocTab li button {
+          width: 100px;
+          margin: 0 5px;
+          line-height: 37px;
+          display: inline-block;
+          border-radius: 5px 5px 0 0; }
+          #leftNaviSide ul#tocTab li button#tableOfContents {
+            background: #F5F6F8 url(../img/icon/icon_tabe_of_contents.png) 12px 10px no-repeat; }
+          #leftNaviSide ul#tocTab li button#outline {
+            background: #F5F6F8 url(../img/icon/icon_outline.png) 12px 8px no-repeat; }
+          #leftNaviSide ul#tocTab li button.active#tableOfContents {
+            background: #1042A4 url(../img/icon/icon_tabe_of_contents_ov.png) 12px 10px no-repeat;
+            color: #fff; }
+          #leftNaviSide ul#tocTab li button.active#outline {
+            background: #1042A4 url(../img/icon/icon_outline_ov.png) 12px 8px no-repeat;
+            color: #fff; }
+
+#relationLinkSide {
+  margin-right: 1px;
+  height: calc(100% - 200px);
+  width: 310px;
+  overflow: auto;
+  padding: 20px 25px 12px 25px;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  display: none; }
+  #relationLinkSide.active {
+    display: block; }
+  #relationLinkSide h3 {
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #F5F6F8; }
+  #relationLinkSide ul li {
+    padding-bottom: 25px; }
+    #relationLinkSide ul li a {
+      font-size: 1.125rem; }
+      #relationLinkSide ul li a span {
+        font-size: 0.75rem; }
+
+@media screen and (max-width: 1024px) {
+  #leftNaviSide {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    display: none; }
+    #leftNaviSide.active {
+      display: block; }
+  #leftNaviSide #tocOutlineWrap,
+  #relationLinkSide {
+    padding-top: 50px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #D7D7D7;
+    position: static !important; }
+  #leftNaviSide #tocOutlineWrap {
+    height: auto !important;
+    overflow: visible;
+    border: none; }
+    #leftNaviSide #tocOutlineWrap #searchKeyword {
+      display: none; }
+  #relationLinkSide {
+    margin-top: 20px;
+    border: none;
+    display: none; }
+    #relationLinkSide.active {
+      display: block; } }
+
+table {
+/*  width: 100%; */
+  border-collapse: collapse; }
+  table tr th {
+    text-align: left;
+    font-weight: normal; }
+
+#sNavi {
+  padding: 15px 0 25px 0;
+  text-align: right; }
+  #sNavi ul li {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 20px;
+    display: inline-block; }
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 30px auto; }
+    #sNavi ul li a {
+      color: #1042A4; }
+      #sNavi ul li a:hover {
+        color: #CA241E; }
+
+@media screen and (max-width: 1024px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+#innerDocument {
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  
+  }
+
+@media screen and (max-width: 1024px) {
+  #innerDocument {
+    display: none; }
+    #innerDocument.active {
+      padding-top: 10px;
+      display: block; } }
+
+#innerDocument section {
+  padding-bottom: 10px;
+  display: none; }
+  #innerDocument section.active {
+    display: block; }
+  #innerDocument section h3, #innerDocument section h4, #innerDocument section dt {
+    font-weight: 600; }
+  #innerDocument section.table {
+    padding-bottom: 25px; }
+    #innerDocument section.table h3 {
+/*      margin-left: -1rem;*/
+      margin-bottom: 5px;
+      padding-right: 2rem; }
+    #innerDocument section.table table {
+      width: auto;
+      border-collapse: collapse;
+      border-right: 1px solid #636974;
+      border-top: 1px solid #636974; }
+      #innerDocument section.table table tr th {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+      #innerDocument section.table table tr td {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+        #innerDocument section.table table tr td p {
+          padding: 0; }
+  #innerDocument section h4 {
+    text-indent: 2rem; }
+  #innerDocument section ol, #innerDocument section ul {
+    /*margin-left: -1rem; */}
+    #innerDocument section ol li, #innerDocument section ul li {
+      padding-left: 1rem;
+      /*text-indent: -1rem; */}
+      #innerDocument section ol li ol, #innerDocument section ol li ul, #innerDocument section ul li ol, #innerDocument section ul li ul {
+        margin-left: 0; }
+      #innerDocument section ol li .number, #innerDocument section ul li .number {
+        padding-right: 1rem;
+        font-weight: 600; }
+  #innerDocument section dl {
+    margin-bottom: 5px;
+    display: none; }
+    #innerDocument section dl.active {
+      display: block; }
+    #innerDocument section dl dt {
+      /*margin-left: -1rem;*/
+      padding-right: 2rem;
+      display: inline-block;
+      float: left; }
+    #innerDocument section dl dd {
+      display: inline; }
+
+#toTop _:-ms-lang(x), #toTop button {
+  color: #fff; }
+  #toTop _:-ms-lang(x):focus, #toTop button:focus {
+    outline: thin dotted #000; }
+
+.circleBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 100;
+  display: inline-block; }
+  .circleBtn#toTop {
+    right: 20px;
+    background: #636974; }
+  .circleBtn:hover {
+    opacity: 1; }
+  .circleBtn button {
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    color: #fff; }
+    .circleBtn button:hover {
+      color: #fff; }
+
+@media screen and (max-width: 1024px) {
+  .circleBtn {
+    width: 60px;
+    height: 60px;
+    bottom: 75px; }
+    .circleBtn#toTop {
+      right: 5px; }
+      .circleBtn#toTop.active {
+        display: none; }
+    .circleBtn button {
+      width: 60px;
+      height: 60px; }
+      .circleBtn button img {
+        width: 50%;
+        height: auto; } }
+
+#searchKeyword2 {
+  width: 100%;
+  padding: 12px !important;
+  position: absolute;
+  left: 0;
+  bottom: 45px;
+  z-index: 500;
+  display: none; }
+  #searchKeyword2.active {
+    display: block; }
+  #searchKeyword2 h2 {
+    text-align: left; }
+  #searchKeyword2 #searchKeywordBtn2 button {
+    width: auto !important;
+    height: auto !important;
+    margin: 5px 10px 5px 20px !important;
+    text-indent: 0 !important; }
+  #searchKeyword2 #delInfoBtn2 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 550; }
+
+#searchKeyword,
+#searchKeyword2 {
+  margin-bottom: 25px;
+  padding: 12px 5px;
+  background: #e9f0f7; }
+  #searchKeyword h2,
+  #searchKeyword2 h2 {
+    margin-bottom: 12px;
+    background: none;
+    font-size: 0.875rem;
+    color: #1F72DB;
+    line-height: 1.125rem;
+    border-top: none;
+    border-bottom: none; }
+    #searchKeyword h2:before,
+    #searchKeyword2 h2:before {
+      content: url(../img/icon/icon_hilight.png);
+      display: inline-block;
+      width: 16px;
+      height: 18px; }
+  #searchKeyword ul,
+  #searchKeyword2 ul {
+    margin-bottom: 12px;
+    text-align: left; }
+    #searchKeyword ul li,
+    #searchKeyword2 ul li {
+      display: inline-block; }
+  #searchKeyword #searchKeywordBtn,
+  #searchKeyword2 #searchKeywordBtn2 {
+    font-size: 0; }
+    #searchKeyword #searchKeywordBtn button,
+    #searchKeyword2 #searchKeywordBtn2 button {
+      margin: 5px;
+      min-height: 26px;
+      background: #1F72DB;
+      font-size: 0.75rem;
+      color: #fff;
+      border-radius: 13px; }
+      #searchKeyword #searchKeywordBtn button#prev,
+      #searchKeyword2 #searchKeywordBtn2 button#prev {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_left.png);
+        background-repeat: no-repeat;
+        background-position: 10px 8px; }
+      #searchKeyword #searchKeywordBtn button#next,
+      #searchKeyword2 #searchKeywordBtn2 button#next {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_right.png);
+        background-repeat: no-repeat;
+        background-position: right 10px top 8px; }
+      #searchKeyword #searchKeywordBtn button:hover,
+      #searchKeyword2 #searchKeywordBtn2 button:hover {
+        background: #36aae7; }
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table; }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  zoom: 1; }
+
+.attention {
+  color: #CA241E !important; }
+
+.annotation {
+  font-size: 0.75rem !important;
+  line-height: 1rem !important;
+  text-indent: -1em;
+  margin-left: 1em; }
+
+.searchLabel {
+  background: #C2CEE7; }
+
+.searchLabel.active {
+  background: #1042A4;
+  color: #fff; }
+
+.mBottom {
+  margin-bottom: 25px; }
+
+#innerDocument section.active.SupplProvision div._div_SupplProvisionLabel {
+	margin-bottom: 10px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+
+#innerDocument section.active table.Table {
+	margin-left: 1em;
+}
+#innerDocument section.active div._div_ArticleTitle table.Table {
+	margin-left: 0em;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<main id="contentsLaw" class="active">
+<div id="innerDocument" class="active">
+
+
+
+
+<div style="margin-bottom: 12px;">
+<div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">昭和二十六年総理府令第四十九号<div class="_shokanBox"></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+<span data-xpath="">特別調達資金会計官及び特別調達資金出納命令官受入事務規程</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+</div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+<span data-xpath="">特別調達資金設置令施行令（昭和二十六年政令第二百七十一号）第十一条の規定に基き、特別調達資金会計官及び特別調達資金出納命令官受入事務規程を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（通則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">特別調達資金会計官（特別調達資金設置令施行令（以下「施行令」という。）第三条第二項に規定する資金会計官をいう。以下「資金会計官」という。）、分任特別調達資金会計官（施行令第三条の二第一項に規定する分任資金会計官をいう。以下「分任資金会計官」という。）、特別調達資金出納命令官（施行令第三条第六項に規定する資金出納命令官をいう。以下「資金出納命令官」という。）及び特別調達資金出納命令官代理（同項の規定に基づき資金出納命令官の事務を代理する職員をいう。以下「資金出納命令官代理」という。）は、この省令の定めるところにより特別調達資金設置令（昭和二十六年政令第二百五号）第一条に規定する特別調達資金（以下「資金」という。）の受入に関する事務を処理しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（任免のあつた場合の資金契約等担当官への通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">防衛大臣は、資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理を任免したときは、直ちにその資格、氏名及び任免の年月日を関係の特別調達資金契約等担当官（施行令第三条第六項に規定する資金契約等担当官をいう。以下「資金契約等担当官」という。）に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（官職指定等のあつた場合の資金契約等担当官への通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">防衛大臣は、資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理とする官職を指定し、又はその指定を解除したときは、直ちにその旨及び年月日を関係の資金契約等担当官に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理とする官職の指定があつた際、当該官職にある職員（当該官職にある職員が欠けているときは、官職の指定後はじめて当該官職に任命された職員）は、直ちにその官職、氏名及び当該官職に任命された年月日を関係の資金契約等担当官に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理とする官職が指定されている場合において、当該官職にある職員について異動があつたときは、後任の資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理は、直ちにその旨及び年月日を関係の資金契約等担当官に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（取引店への取引関係通知書の送付等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条の二</span>　<span data-xpath="">資金会計官、分任資金会計官、資金出納命令官若しくは資金出納命令官代理（以下この項において「資金会計官等」という。）が新設されたとき又は資金会計官等の異動があつたときは、当該新設された資金会計官等又は後任の資金会計官等は、直ちに第五号書式の取引関係通知書を作成し、これを取引店（特別調達資金会計官及び特別調達資金出納命令官支払事務規程（昭和二十六年大蔵省令第九十四号。以下「支払事務規程」という。）第二条に規定する取引店をいう。以下同じ。）に送付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">分任資金会計官又は資金出納命令官及び資金出納命令官代理の取引店を変更しようとするときは、当該分任資金会計官又は資金出納命令官（資金出納命令官代理がその事務を代理しているときは、資金出納命令官代理）は、直ちに第五号書式の取引関係通知書を作成し、これを変更前及び変更後の取引店にそれぞれ送付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">分任資金会計官又は資金出納命令官が廃止される場合において、防衛大臣は、当該分任資金会計官又は資金出納命令官の残務を引き継がせる必要があるときは、当該残務を引き継ぐべき分任資金会計官又は資金出納命令官を定め、その旨を廃止される分任資金会計官又は資金出納命令官（資金出納命令官代理が資金出納命令官の事務を代理しているときは、資金出納命令官代理とする。以下この項において同じ。）及び引継ぎを受ける分任資金会計官又は資金出納命令官に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">分任資金会計官又は資金出納命令官若しくは資金出納命令官代理が廃止されるときは、前項の引継ぎを受ける分任資金会計官（引継ぎを受ける分任資金会計官が定められないときは、廃止される分任資金会計官）又は資金出納命令官（資金出納命令官代理がその事務を代理しているときは資金出納命令官代理、前項の引継ぎを受ける資金出納命令官が定められないときは廃止される資金出納命令官）若しくは廃止される資金出納命令官代理は、直ちに第五号書式の取引関係通知書を作成し、これを廃止される分任資金会計官又は資金出納命令官若しくは資金出納命令官代理の取引店に送付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">第一項、第二項又は前項の規定により取引関係通知書を送付した後にこれらの項に規定する場合のほか、当該取引関係通知書の記載事項に変更を生じたときは、資金会計官、分任資金会計官、資金出納命令官又は資金出納命令官代理は、直ちにその旨を取引店に通知しなければならない。</span><span data-xpath="">ただし、その変更に係る事由が資金出納命令官及び資金出納命令官代理の取引関係通知書の双方に関係するものであるときは、資金出納命令官（資金出納命令官代理がその事務を代理しているときは、資金出納命令官代理）がその旨を併せて通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（資金出納命令官代理による代理）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条の三</span>　<span data-xpath="">防衛大臣は、資金出納命令官代理を置く場合においては、あらかじめ、資金出納命令官代理が資金出納命令官にいかなる事故（官職の指定により資金出納命令官が設置されている場合においては、その欠けた場合を含む。）があるときに代理を行うべきかを定めておくものとする。</span><span data-xpath="">ただし、やむを得ない事情がある場合には、代理させる都度定めることを妨げない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により防衛大臣が定める場合においては、資金出納命令官代理は、資金出納命令官の事務を代理するものとし、代理の開始又は終止に際しては、資金出納命令官代理は、直ちにその旨及び年月日を関係の資金契約等担当官に通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金出納命令官及び資金出納命令官代理は、資金出納命令官代理が前項の規定により資金出納命令官の事務を代理するときは、代理開始及び終止の年月日並びに資金出納命令官代理が取り扱つた事務の範囲を関係の帳簿において明らかにしておかなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">前項の規定は、資金出納命令官代理が資金出納命令官の事務を代理している間に当該資金出納命令官代理に異動があつたときについて準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（受入金の払込）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">資金会計官は、アメリカ合衆国政府から受入金を受け入れたときは、これに第一号書式の特別調達資金振込書を添え日本銀行に払い込み、領収証書の交付を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">分任資金会計官は、国際連合の軍隊の派遣国の政府から受入金を受け入れたときは、これに前項に規定する特別調達資金振込書を添え日本銀行に払い込み、領収証書の交付を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（受入の決定の整理）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">資金会計官又は分任資金会計官は、その所掌に属する受入金について、次の各号に掲げる書面（その作成に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。以下同じ。）を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。以下同じ。）による送信）、通知又は報告（次条第一項において「書面（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付等」という。）を受けたときは、直ちにその内容を調査し、確認の上、受入決定の年月日、受入決定済額その他必要な事項を明らかにした書類（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を作成して受入の決定（以下「受入の決定」という。）をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">特別調達資金債権管理職員（国の債権の管理等に関する法律（昭和三十一年法律第百十四号）第五条の規定により防衛大臣から特別調達資金に属する債権の管理に関する事務を行うこととされた職員をいう。以下同じ。）から、特別調達資金債権管理事務取扱規則（昭和三十三年大蔵省令第四十五号。以下「資金債権管理事務取扱規則」という。）第三条第四項又は第四条の規定により、その所掌に属する債権について納入の告知又は納入の告知の変更をした旨の書面（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）又は通知を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">資金出納命令官（資金出納命令官代理を含む。以下同じ。）から、支払事務規程第二十二条の規定により、その所掌に属する支払金に係る返納金又はその返納金に係る利息、延滞金若しくは一定の期間に応じて付する加算金（以下「延滞金等」という。）について収納又は返納があつた旨の通知を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">特別調達資金出納官吏（施行令第三条第六項に規定する資金出納官吏をいう。以下「資金出納官吏」という。）から、特別調達資金出納官吏事務規程（昭和二十六年大蔵省令第九十五号。以下「資金出納官吏事務規程」という。）第三十一条第二項の規定により、その所掌に属する支払金の返納金に係る延滞金等について収納があつた旨の通知を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">資金出納命令官又は資金出納官吏から、第八条第一項又は資金出納官吏事務規程第五十二条第一項若しくは第五十三条第一項の規定により、小切手の振出日付から一年を経過し日本銀行においてまだ支払を終わらないもの又は日本銀行から日本銀行特別調達資金出納取扱規程（昭和二十六年大蔵省令第百号。以下「出納取扱規程」という。）第九条の規定による特別調達資金組入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）若しくは出納取扱規程第十二条の規定による受入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたものについて報告を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">資金出納命令官から、第八条第二項の規定により、外国にいる債権者に対し支払をするため日本銀行に交付した資金が日本銀行の当該債権者に対する送金額を超える場合において、その超える金額について報告を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">資金出納官吏から、資金出納官吏事務規程第三十一条第一項の規定により、労働保険の保険料の徴収等に関する法律（昭和四十四年法律第八十四号）第十五条の規定による一般保険料について同法第三十二条第一項の規定により被保険者の負担すべき額に相当する額を当該被保険者に支払う賃金から控除した旨の報告を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金会計官又は分任資金会計官は、その振り出した小切手で振出日付から一年を経過し、日本銀行においてまだ支払を終わらないものがあるとき、又は日本銀行から出納取扱規程第七条若しくは第九条の規定による特別調達資金組入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入の決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金会計官は、特別調達資金設置令第三条の二第一項の規定による一時借入金又は繰替使用金について日本銀行本店から資金への受入れに係る振替済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入の決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">資金会計官又は分任資金会計官は、前各項の規定により、受入の決定をしたときは、直ちにその内容を特別調達資金受入総括簿（特別調達資金の報告書及び帳簿の様式及び記入の方法に関する省令（平成二十年財務省令第九十一号。次条第四項において「資金様式省令」という。）別表第九号書式の特別調達資金受入総括簿をいう。第五条の三第一項において同じ。）に登記しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条の二</span>　<span data-xpath="">資金出納命令官は、その所掌に属する支払金に係る返納金又は延滞金等について、次の各号に掲げる書面（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付等を受けたときは、直ちに受入の決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">特別調達資金債権管理職員から、資金債権管理事務取扱規則第三条第四項又は第四条の規定により、その所掌に属する債権について納入の告知又は納入の告知の変更をした旨の書面（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）又は通知を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">特別調達資金債権管理職員から、資金債権管理事務取扱規則第九条第二項の規定により、その所掌に属する支払金に係る返納金に係る延滞金等について収納があつた旨の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">資金出納官吏から、資金出納官吏事務規程第三十一条第二項の規定により、その所掌に属する支払金に係る返納金について返納があつた旨の通知を受けたとき。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金出納命令官は、その振り出した小切手で振出日付から一年を経過し、日本銀行においてまだ支払を終わらないものがあるとき、又は日本銀行から出納取扱規程第七条若しくは第九条の規定による特別調達資金組入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入の決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金出納命令官は、その所掌に属する国の内部における支払金の金額を返納させようとするときは、直ちに返納を要する金額について受入の決定をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">資金出納命令官は、前各項の規定により、受入の決定をしたときは、直ちにその内容を特別調達資金受入簿（資金様式省令別表第十二号書式の特別調達資金受入簿をいう。次条第一項において同じ。）に登記しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（受入済の整理）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条の三</span>　<span data-xpath="">資金会計官、分任資金会計官又は資金出納命令官は、日本銀行から出納取扱規程第三条の規定による特別調達資金領収証書の交付若しくは出納取扱規程第四条第一項若しくは第三項（出納取扱規程第十一条第一項において準用する場合を含む。）の規定による振替済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたとき、又は特別調達資金債権管理職員から資金債権管理事務取扱規則第九条第二項の規定による書面（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入年月日、受入済額その他必要な事項を明らかにした書類（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を作成して、特別調達資金受入総括簿又は特別調達資金受入簿に登記（次項及び第三項において「受入済の整理」という。）しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金会計官、分任資金会計官又は資金出納命令官は、その振り出した小切手で振出日付から一年を経過し、日本銀行においてまだ支払の終わらないものがあるとき、又は日本銀行から出納取扱規程第七条若しくは第九条の規定による特別調達資金組入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入済の整理をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金会計官は、特別調達資金設置令第三条の二第一項の規定による一時借入金又は繰替使用金について日本銀行本店から資金への受入れに係る振替済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたときは、直ちに受入済の整理をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（資金の返納）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">資金会計官又は分任資金会計官は、資金出納命令官に交付した資金の全部又は一部を、資金出納命令官から返納させるときは、資金出納命令官に対し第二号書式の特別調達資金返納命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を発し（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信し）、支払事務規程第四条第七号の規定により資金出納命令官をして返納の手続をさせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（返納の告知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">資金出納命令官は、資金出納官吏に交付した資金の全部又は一部を返納させようとするときは、第三号書式の特別調達資金返納告知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を作成し、当該資金出納官吏に送付（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信）しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（期間経過送金資金等の処理）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第八条</span>　<span data-xpath="">資金出納命令官は、その振り出した小切手で振出日付から一年を経過し日本銀行においてまだ支払を終わらないもの又は日本銀行から出納取扱規程第九条の規定による特別調達資金組入済通知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の送付（電磁的記録については、当該電磁的記録に記録された情報の電磁的方法による送信）を受けたものについては、その金額、年度、科目及び債権者氏名を資金会計官又は分任資金会計官に報告しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金出納命令官は、外国にいる債権者に対し支払をするため日本銀行に交付した資金が日本銀行の当該債権者に対する送金額を超える場合においては、その超える金額及び年度を資金会計官又は分任資金会計官に報告しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">資金会計官又は分任資金会計官は、前条の規定による資金出納命令官からの報告を受けたとき又は資金出納官吏事務規程第三十一条第一項若しくは第五十二条第一項（資金出納官吏事務規程第五十三条第一項において準用する場合を含む。）の規定による資金出納官吏からの報告を受けたときは、資金出納命令官又は資金出納官吏に対し、第二号書式の特別調達資金返納命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を発し（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信し）、その返納の手続をさせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条の二</span>　<span data-xpath="">資金会計官又は分任資金会計官は、資金出納命令官又は資金出納官吏から支払事務規程第二十二条又は資金出納官吏事務規程第三十一条第二項の規定により、延滞金等について収納があつた旨の通知を受けたときは、第四号書式の延滞金等組入命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を作成して、当該資金出納命令官又は資金出納官吏に送付（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信）しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（誤りの訂正）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">資金会計官又は分任資金会計官は、第六条又は第九条の規定により資金出納命令官又は資金出納官吏に発した（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信した）特別調達資金返納命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の記載事項又は記録事項のうち金額以外のものについて誤りのあることを発見したときは、その訂正をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">資金会計官又は分任資金会計官は、前項の訂正をするときは、資金出納命令官又は資金出納官吏から当該特別調達資金返納命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）を提出させて、相当の訂正をし、これを当該資金出納命令官又は資金出納官吏に返付（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により返信）しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">資金出納命令官が第七条の規定により資金出納官吏に送付（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信）した特別調達資金返納告知書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）又は資金会計官若しくは分任資金会計官が前条の規定により資金出納命令官若しくは資金出納官吏に送付（電磁的記録については、当該電磁的記録に記録された情報を電磁的方法により送信）した延滞金等組入命令書（その作成に代えて電磁的記録を作成する場合における当該電磁的記録を含む。）の記載事項又は記録事項のうち金額以外のものについて誤りを発見したときは、前二項の規定を準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行し、特別調達資金設置令（昭和二十六年政令第二百五号）施行の日（昭和二十六年六月十一日）から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二七年八月五日総理府令第五三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行し、昭和二十七年五月一日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和二九年一二月一七日総理府令第八八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行し、特別調達資金設置令施行令の一部を改正する政令（昭和二十九年政令第二百十九号）施行の日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和三三年一〇月一一日総理府令第七九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行し、昭和三十三年八月三十日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和三六年一二月二八日総理府令第六三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和三七年一〇月二〇日総理府令第六〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、昭和三十七年十一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四三年一〇月三〇日総理府令第五三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この府令は、昭和四十三年十一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">防衛施設庁長官又は資金会計官、分任資金会計官、資金出納命令官若しくは代理資金出納命令官（以下「資金会計官等」という。）がこの府令の施行前に、資金会計官等の新設、異動若しくは代理開始、残務の承継又は取引店の変更について取引店に対して行なつた通知は、この府令による改正後の特別調達資金会計官及び特別調達資金出納命令官受入事務規程の相当規定により取引店に対して行なつた通知とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四五年四月一日総理府令第六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この府令の施行前に、特別調達資金会計官、分任特別調達資金会計官又は特別調達資金出納命令官が、特別調達資金会計官及び特別調達資金出納命令官受入事務規程（以下「受入事務規程」という。）第七条又は第九条の二の規定により送付した返納告知書又は延滞金等組入命令書に係る返納済通知書又は組入済通知書で、この府令の施行後に日本銀行から送付を受けたものは、改正後の受入事務規程第五条の三の規定の適用については、領収済通知書とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四五年九月三〇日総理府令第三八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、昭和四十五年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四六年一一月三〇日総理府令第五二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和四七年四月五日総理府令第一〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行し、改正後の特別調達資金会計官及び特別調達資金出納官受入事務規程の規定は、昭和四十七年四月一日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和五〇年三月二九日総理府令第一三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、昭和五十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（昭和五三年六月一日総理府令第三〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成元年六月一日総理府令第四〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一九年一月四日内閣府令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、防衛庁設置法等の一部を改正する法律（平成十八年法律第百十八号）の施行の日（平成十九年一月九日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成一九年八月二〇日防衛省令第九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この省令は、防衛省設置法及び自衛隊法の一部を改正する法律（平成十九年法律第八十号）の施行の日（平成十九年九月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二〇年一二月二六日防衛省令第一三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成二十一年一月五日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令の施行の日前にこの省令による改正前の特別調達資金会計官及び特別調達資金出納命令官受入事務規程（以下「旧省令」という。）第七条の規定により送付された返納告知書については、旧省令第十一条の規定は、この省令の施行後も、なおその効力を有する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（平成二二年一〇月一日防衛省令第一二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和元年六月二六日防衛省令第四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、令和元年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和二年一二月二五日防衛省令第一一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、令和三年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この省令の施行前に交付し、発し、又は送付したこの省令による改正前の特別調達資金会計官及び特別調達資金出納命令官受入事務規程第一号書式から第四号書式までの書式（次項において「旧書式」という。）による書類は、この省令による改正後の特別調達資金会計官及び特別調達資金出納命令官受入事務規程第一号書式から第四号書式までの書式による書類とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">この省令の施行の際現にある旧書式による用紙については、当分の間、これを取り繕って使用することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active AppdxFormat"><div class="_div_AppdxFormatTitle _shokanBoxParent">第一号書式（第四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_Format _shokanBoxParent">
+          <a href="/./pict/S26F03101000049_2103031703_001.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        <div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active AppdxFormat"><div class="_div_AppdxFormatTitle _shokanBoxParent">第二号書式（第六条、第九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_Format _shokanBoxParent">
+          <a href="/./pict/S26F03101000049_2103031703_002.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        <div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active AppdxFormat"><div class="_div_AppdxFormatTitle _shokanBoxParent">第三号書式（第七条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_Format _shokanBoxParent">
+          <a href="/./pict/S26F03101000049_2103031703_003.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        <div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active AppdxFormat"><div class="_div_AppdxFormatTitle _shokanBoxParent">第四号書式（第九条の二関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_Format _shokanBoxParent">
+          <a href="/./pict/S26F03101000049_2103031703_004.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        <div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active AppdxFormat"><div class="_div_AppdxFormatTitle _shokanBoxParent">第五号書式（第三条の二関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_div_Format _shokanBoxParent">
+          <a href="/./pict/S26F03101000049_2103031703_005.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        <div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section>
+
+
+
+
+
+</div>
+</main>
+
+</body>
+</html>

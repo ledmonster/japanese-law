@@ -1,0 +1,223 @@
+.. _406M50000008017_19940401_000000000000000:
+
+:orphan:
+
+================================================================
+地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令
+================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成六年自治省令第十七号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">地方財政法（昭和二十三年法律第百九号）第三十三条第二項第一号及び第二号の規定に基づき、地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第三十三条第二項第一号の額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">地方財政法（昭和二十三年法律第百九号。以下「法」という。）第三十三条第二項第一号に規定する地方税法（昭和二十五年法律第二百二十六号）附則第三条の四の規定の適用がないものとした場合における地方公共団体の平成六年度及び平成七年度の個人の道府県民税又は市町村民税の所得割の収入見込額から当該地方公共団体の当該各年度の個人の道府県民税又は市町村民税の所得割の収入見込額を控除した額として自治省令で定めるところにより算定した額は、次の表に掲げる地方公共団体の種類及び年度ごとにそれぞれ同表の算定方法の欄に定める方法によって算定した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" valign="middle"><div><span data-xpath="">地方公共団体の種類</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center" valign="middle"><div><span data-xpath="">年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center" valign="middle"><div><span data-xpath="">算定方法</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" valign="middle"><div><span data-xpath="">都道府県</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　平成六年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。算式</span><br><span data-xpath="">Ａ＋Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-001.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>－Ｃ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-002.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div></span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-001.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>又はＣ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-002.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">Ａ　平成６年度の市町村税の課税状況等に関する調（地方自治法等の規定に基く地方公共団体の報告に関する総理府令（昭和２８年総理府令第３２号）に基づき調製された市町村税の課税状況等に関する調をいう。以下「市町村税課税状況調」という。）第６１表（平成６年度特別減税に関する調）の表側「普通徴収」のうち「道府県民税分」、表頭「特別減税額」欄に係る当該都道府県内の市町村（特別区を含む。以下同じ。）ごとの額の合計額</span><br><span data-xpath="">Ｂ　平成６年度の市町村税課税状況調第６１表の表側「特別徴収」のうち「道府県民税分」、表頭「特別減税の対象となる所得割額」欄に係る当該都道府県内の市町村ごとの額の合計額</span><br><span data-xpath="">Ｃ　平成６年度の市町村税課税状況調第６１表の表側「特別徴収」のうち「道府県民税分」、表頭「特別減税後の所得割額」欄に係る当該都道府県内の市町村ごとの額の合計額</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　平成七年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。算式</span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-003.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>－Ｃ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-004.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div></span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-003.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>又はＣ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-004.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">前号の算式の符号Ｂ及びＣに同じ。</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" valign="middle"><div><span data-xpath="">市町村</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　平成六年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath="">Ａ＋Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-001.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>－Ｃ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-002.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div></span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-001.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>又は<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-002.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">Ａ　平成６年度の市町村税課税状況調第６１表の表側「普通徴収」のうち「市町村民税分」、表頭「特別減税額」欄に係る当該市町村の額</span><br><span data-xpath="">Ｂ　平成６年度の市町村税課税状況調第６１表の表側「特別徴収」のうち「市町村民税分」、表頭「特別減税の対象となる所得割額」欄に係る当該市町村の額</span><br><span data-xpath="">Ｃ　平成６年度の市町村税課税状況調第６１表の表側「特別徴収」のうち「市町村民税分」、表頭「特別減税後の所得割額」に係る当該市町村の額</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　平成七年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-003.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>－Ｃ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-004.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div></span><br><span data-xpath="">Ｂ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-003.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>又はＣ×<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-004.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">前号の算式の符号Ｂ及びＣに同じ。</span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第三十三条第二項第二号の額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第三十三条第二項第二号に規定する消費譲与税の減少額として自治省令で定めるところにより算定した額は、次の表に掲げる地方公共団体の種類及び年度ごとにそれぞれ同表の算定方法の欄に定める方法によって算定した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" valign="middle"><div><span data-xpath="">地方公共団体の種類</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center" valign="middle"><div><span data-xpath="">年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center" valign="middle"><div><span data-xpath="">算定方法</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" valign="middle"><div><span data-xpath="">都道府県</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　平成六年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×１，５６８，１８１千円＋<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×４，７０４，５４５千円</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に小数点以下１１位未満の端数があるとき又は<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×１，５６８，１８１千円若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×４，７０４，５４５千円に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">Ａ　国勢調査令（昭和５５年政令第９８号）によって調査した平成２年１０月１日現在における人口の全国総数</span><br><span data-xpath="">Ｂ　国勢調査令によって調査した平成２年１０月１日現在における当該都道府県の人口</span><br><span data-xpath="">Ｃ　事業所統計調査規則（昭和５６年総理府令第２６号）によって調査した平成３年７月１日現在における当該都道府県の従業者数（ただし、長崎県の従業者数については、事業所統計調査規則によって調査した昭和６１年７月１日現在における長崎県島原市及び南高来郡深江町の従業者数から同令によって調査した同日現在における島原市及び深江町の区域内において国又は長崎県の事業所に従事する従業者数を控除した従業者数を加えた従業者数とする。）</span><br><span data-xpath="">α　消費譲与税法施行規則（平成元年自治省令第３２号）第３条第２項に規定する算式により算定した当該都道府県の数値（当該数値又は当該数値の算定の過程に小数点以下１１位未満の端数があるときは、その端数を切り捨てる。）</span><br><span data-xpath="">ΣＣ　Ｃ×αの全国総数</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　平成七年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×３４０，９０９千円＋<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×１，０２２，７２７千円</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に小数点以下１１位未満の端数があるとき又は<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×３４０，９０９千円若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-006.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×１，０２２，７２７千円に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">前号の算式の符号Ａ、Ｂ、Ｃ、α及びΣＣに同じ。</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2" valign="middle"><div><span data-xpath="">市町村</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　平成六年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×２，６１３，６３６千円＋<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×２，６１３，６３６千円</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に小数点以下１１位未満の端数があるとき又は<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×２，６１３，６３６千円若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×２，６１３，６３６千円に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">Ａ　国勢調査令によって調査した平成２年１０月１日現在における人口の全国総数</span><br><span data-xpath="">Ｂ　国勢調査令によって調査した平成２年１０月１日現在における当該市町村の人口</span><br><span data-xpath="">Ｃ　事業所統計調査規則によって調査した平成３年７月１日現在における当該市町村の従業者数（ただし、長崎県島原市及び南高来郡深江町の従業者数については、事業所統計規則によって調査した昭和６１年７月１日現在における各市町の従業者数から同令によって調査した同日現在における当該市町の区域内において国又は長崎県の事業所に従事する従業者数を控除した従業者数に同令によって調査した平成３年７月１日現在における当該市町の区域内において国又は長崎県の事業所に従事する従業者数を加えた従業者数とする。）</span><br><span data-xpath="">ΣＣ　Ｃの全国総数</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　平成七年度</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">次の算式により算定した額とする。</span><br><span data-xpath="">算式</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×５６８，１８１千円＋<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×５６８，１８１千円</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>に小数点以下１１位未満の端数があるとき又は<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-005.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×５６８，１８１千円若しくは<div style="display:inline-block;text-indent:0;">
+                        <img src="/./pict/H06F04301000017-007.jpg" alt="" style="margin-left:1em;" class="Fig">
+                      </div>×５６８，１８１千円に千円未満の端数があるときは、その端数を切り捨てる。</span><br><span data-xpath="">算式の符号</span><br><span data-xpath="">前号の算式の符号Ａ、Ｂ、Ｃ及びΣＣに同じ。</span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（合算額の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">前二条に規定する当該地方公共団体の当該各年度の額の合算額が負数となるときは、当該合算額は、零とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、平成六年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">平成六年度に限り、第一条に規定する額の算定において用いる市町村税課税状況調の数値が確定するまでの間においては、法第三十三条第二項第一号に規定する地方税法附則第三条の四の規定の適用がないものとした場合における地方公共団体の平成六年度の個人の道府県民税又は市町村民税の所得割の収入見込額から当該地方公共団体の平成六年度の個人の道府県民税又は市町村民税の所得割の収入見込額を控除した額として自治省令で定めるところにより算定した額は、第一条の規定にかかわらず、同条に規定する額を超えないと見込まれる額の範囲内で、自治大臣が当該地方公共団体の財政状況等を勘案して通知した額とする。</span><span data-xpath="">この場合において当該市町村税課税状況調の数値が確定した後にあっては、当該通知した額は同条に規定する額に含まれるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    
