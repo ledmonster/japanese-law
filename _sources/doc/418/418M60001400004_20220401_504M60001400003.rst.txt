@@ -1,0 +1,217 @@
+.. _418M60001400004_20220401_504M60001400003:
+
+:orphan:
+
+==================================================
+温室効果ガス算定排出量等の集計の方法等を定める省令
+==================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十八年経済産業省・環境省令第四号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">温室効果ガス算定排出量等の集計の方法等を定める省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">地球温暖化対策の推進に関する法律（平成十年法律第百十七号）第二十一条の五第一項から第三項まで及び第二十一条の八第三項から第五項までの規定に基づき、並びに同法を実施するため、温室効果ガス算定排出量の集計の方法等を定める省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（用語）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令において使用する用語は、地球温暖化対策の推進に関する法律（以下「法」という。）及び地球温暖化対策の推進に関する法律施行令（平成十一年政令第百四十三号。以下「令」という。）において使用する用語の例によるほか、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">「特定事業所排出者」とは、令第五条第一号及び第十号から第十六号までに掲げる者をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">「特定輸送排出者」とは、令第五条第二号から第九号までに掲げる者をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（報告事項のファイルへの記録及び公表の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第二十九条第一項の規定によるファイルへの記録は、電子計算機の操作によるものとし、文字の記号への変換の方法その他のファイルへの記録の方法については、環境大臣及び経済産業大臣が定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十九条第一項の規定による公表は、インターネットを利用して公衆の閲覧に供する方法により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第四条の二の規定にかかわらず、環境大臣及び経済産業大臣は、法第二十六条第一項の規定による報告を行った特定排出者の権利利益が害されるおそれがないと認められる場合には、法第二十九条第一項の規定によりファイルに記録された事項を同条第三項の規定による公表以前に公表することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（温室効果ガス算定排出量の集計の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第二十九条第二項の規定による特定事業所排出者に係る温室効果ガス算定排出量の集計は、法第二十八条第四項の規定により通知された同条第三項の規定により集計した結果に係る温室効果ガス算定排出量であって特定事業所排出者に係るものについては企業その他の事業者（国及び地方公共団体を含む。以下同じ。）及び業種ごとに、令第六条に掲げる事業所に係るものについては都道府県ごとに集計することによって行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十九条第二項の規定による特定輸送排出者に係る温室効果ガス算定排出量の集計は、法第二十八条第四項の規定により通知された同条第三項の規定により集計した結果に係る温室効果ガス算定排出量であって令第五条第二号及び第六号から第九号までに掲げる者に係るもの並びに当該集計した結果に係る温室効果ガス算定排出量であって令第五条第三号から第五号までに掲げる者に係るものについて、それぞれ次の各号に掲げる項目ごとに集計することによって行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">企業その他の事業者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">業種</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（温室効果ガス算定排出量を集計した結果の公表の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条の二</span>　<span data-xpath="">法第二十九条第三項の規定による公表は、同条第一項の規定による公表と一体的に行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（調整後温室効果ガス排出量の集計の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条の三</span>　<span data-xpath="">特定事業所排出者に係る調整後温室効果ガス排出量（温室効果ガス算定排出量等の報告等に関する命令（平成十八年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号）第一条第四号に規定する調整後温室効果ガス排出量をいう。以下この条において同じ。）の集計は、法第二十八条第四項の規定により通知された同条第三項の規定により集計した結果に係る調整後温室効果ガス排出量について、企業その他の事業者ごとに集計することによって行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（温室効果ガス算定排出量の増減の状況に関する情報その他の情報のファイルへの記録の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第三十二条第三項の規定によるファイルへの記録は、同条第一項の規定により情報を提供した特定排出者の当該ファイルへの記録についての同意の下に、法第二十九条第一項の規定によるファイルへの記録と一体的に行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三十二条第三項の規定によるファイルへの記録は、電子計算機の操作によるものとし、文字の記号への変換の方法その他のファイルへの記録の方法については、環境大臣及び経済産業大臣が定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（温室効果ガス算定排出量の増減の状況に関する情報その他の情報の公表の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">法第三十二条第三項の規定による公表は、同条第一項の規定により情報を提供した特定排出者の当該公表についての同意の下に、法第二十九条第一項の規定による公表と一体的に行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（エネルギーの使用の合理化等に関する法律との関係）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第三十四条第一項の規定によりエネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第十六条第一項（同法第四十八条第一項の規定により読み替えて適用する場合を含む。）、同法第二十七条第一項（同法第四十八条第二項の規定により読み替えて適用する場合を含む。）又は同法第三十八条第一項（同法第四十八項第三項の規定により読み替えて適用する場合を含む。）の規定による報告のうち二酸化炭素の排出量に係る事項に関する部分（同法第二十九条第二項に規定する認定管理統括事業者（次項において単に「認定管理統括事業者」という。）にあっては、当該者に係る部分に限る。）がエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第十六条第一項（同法第四十八条第一項の規定により読み替えて適用する場合を含む。）、同法第二十七条第一項（同法第四十八条第二項の規定により読み替えて適用する場合を含む。）又は同法第三十八条第一項（同法第四十八条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第十六条第一項（同法第四十八条第一項の規定により読み替えて適用する場合を含む。）、同法第二十七条第一項（同法第四十八条第二項の規定により読み替えて適用する場合を含む。）又は同法第三十八条第一項（同法第四十八条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三十四条第一項の規定によりエネルギーの使用の合理化等に関する法律第八十条第三項、第八十一条第三項又は第八十二条第三項の規定による報告のうち二酸化炭素の排出量に係る事項に関する部分（認定管理統括事業者にあっては、当該者に係る部分に限る。）がエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業を行う」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第八十条第三項、第八十一条第三項又は第八十二条第三項の規定による報告に係る」と、前条第一項中「事業所管大臣が所管する事業を行う」とあるのは「エネルギーの使用の合理化等に関する法律第八十条第三項、第八十一条第三項又は第八十二条第三項の規定による報告に係る」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第三十四条第一項の規定によりエネルギーの使用の合理化等に関する法律第百三条第一項（同法第百三十六条第一項の規定により読み替えて適用する場合を含む。）、同法第百二十七条第一項（同法第百三十六条第二項の規定により読み替えて適用する場合を含む。）、同法第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）又は同法第百四十一条第一項の規定による報告のうち二酸化炭素の排出量に係る事項に関する部分（同法第百三十条第二項に規定する認定管理統括貨客輸送事業者にあっては、当該者に係る部分に限る。）がエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第百三条第一項（同法第百三十六条第一項の規定により読み替えて適用する場合を含む。）、同法第百二十七条第一項（同法第百三十六条第二項の規定により読み替えて適用する場合を含む。）、同法第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）又は同法第百四十一条第一項の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第百三条第一項（同法第百三十六条第一項の規定により読み替えて適用する場合を含む。）、同法第百二十七条第一項（同法第百三十六条第二項の規定により読み替えて適用する場合を含む。）、同法第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）又は同法第百四十一条第一項の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第三十四条第一項の規定によりエネルギーの使用の合理化等に関する法律第百十一条第一項（同法第百十九条第一項の規定により読み替えて適用する場合を含む。）又は同法第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告のうち二酸化炭素の排出量に係る事項に関する部分（同法第百十三条第二項に規定する認定管理統括荷主にあっては、当該者に係る部分に限る。）がエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第百十一条第一項（同法第百十九条第一項の規定により読み替えて適用する場合を含む。）又は同法第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第百十一条第一項（同法第百十九条第一項の規定により読み替えて適用する場合を含む。）又は同法第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第三十四条第二項の規定によりエネルギーの使用の合理化等に関する法律第三十八条第一項（同法第四十八条第三項の規定により読み替えて適用する場合を含む。）の規定による報告のうち同法第二十九条第二項第二号に規定する管理関係事業者（次項において単に「管理関係事業者」という。）であって特定排出者であるものの二酸化炭素の排出量に係る事項に関する部分が当該者のエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第三十八条第一項（同法第四十八条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第三十八条第一項（同法第四十八条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">法第三十四条第二項の規定によりエネルギーの使用の合理化等に関する法律第八十二条第三項の規定による報告のうち管理関係事業者であって特定排出者であるものの二酸化炭素の排出量に係る事項に関する部分が当該者のエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第八十二条第三項の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第八十二条第三項の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">法第三十四条第二項の規定によりエネルギーの使用の合理化等に関する法律第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告のうち同法第百十三条第二項第二号に規定する管理関係荷主であって特定排出者であるものの二酸化炭素の排出量に係る事項に関する部分が当該者のエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第百十五条第一項（同法第百十九条第二項の規定により読み替えて適用する場合を含む。）の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">法第三十四条第二項の規定によりエネルギーの使用の合理化等に関する法律第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）の規定による報告のうち同法第百三十条第二項第二号に規定する管理関係貨客輸送事業者であって特定排出者であるものの二酸化炭素の排出量に係る事項に関する部分が当該者のエネルギーの使用に伴って発生する二酸化炭素の排出量についての法第二十六条第一項の規定による報告とみなされる場合における第三条及び前条第一項の規定の適用については、第三条中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律（昭和五十四年法律第四十九号）第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と、前条第一項中「事業所管大臣が所管する事業」とあるのは「エネルギーの使用の合理化等に関する法律第百三十二条第一項（同法第百三十六条第三項の規定により読み替えて適用する場合を含む。）の規定による報告」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成十八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二一年六月二三日経済産業省・環境省令第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><span data-xpath="">ただし、第七条第一項の改正規定は平成二十二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令による改正後の温室効果ガス算定排出量の集計の方法を定める省令の規定は、平成二十二年度以降において報告すべき温室効果ガス算定排出量及び調整後温室効果ガス排出量について適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年一二月二七日経済産業省・環境省令第八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、エネルギーの使用の合理化に関する法律の一部を改正する等の法律の施行の日（平成二十六年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年四月三〇日経済産業省・環境省令第五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年五月二七日経済産業省・環境省令第五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年一一月三〇日経済産業省・環境省令第八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、エネルギーの使用の合理化等に関する法律の一部を改正する法律の施行日（平成三十年十二月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年三月三一日経済産業省・環境省令第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、令和四年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

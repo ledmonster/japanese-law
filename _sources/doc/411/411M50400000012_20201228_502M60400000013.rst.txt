@@ -1,0 +1,170 @@
+.. _411M50400000012_20201228_502M60400000013:
+
+:orphan:
+
+==============================================================================
+不正アクセス行為の再発を防止するための都道府県公安委員会による援助に関する規則
+==============================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十一年国家公安委員会規則第十二号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">不正アクセス行為の再発を防止するための都道府県公安委員会による援助に関する規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第六条第二項及び第四項の規定に基づき、不正アクセス行為の再発を防止するための都道府県公安委員会による援助に関する規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（援助の申出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">不正アクセス行為の禁止等に関する法律（以下「法」という。）第九条第一項の申出（以下「申出」という。）は、別記様式の援助申出書を、当該申出に係る不正アクセス行為に係る特定電子計算機（次項において「当該特定電子計算機」という。）の設置の場所を管轄する都道府県公安委員会（道警察本部の所在地を包括する方面を除く方面にあっては、方面公安委員会。以下「公安委員会」という。）に提出してしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">公安委員会は、申出に添えられた書類その他の物件に次に掲げる事項に関する書類その他の物件で公安委員会が援助を行うため必要なものが含まれていないと認めるときは、その提出を求めることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該特定電子計算機に係るシステムの構成（当該システムを構成する当該特定電子計算機その他の特定電子計算機の機種、名称、機能及び識別情報（特定電子計算機相互間において電気通信を行う際に特定電子計算機を識別するために用いられる番号、記号その他の符号をいう。）、当該システムに用いられるプログラムの名称及び機能並びに他の特定電子計算機に係るシステムとの接続箇所及び接続方法を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該特定電子計算機の特定利用の内容</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">当該特定電子計算機の特定利用を制限していたアクセス制御機能その他の機能の概要</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">前号のアクセス制御機能に係る識別符号を当該アクセス制御機能により確認するために用いる符号の内容及び管理状況</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">当該特定電子計算機に係るシステムを構成する当該特定電子計算機その他の特定電子計算機に入力された識別符号その他の情報又は指令に関する記録（当該情報又は指令が入力された日時、結果その他の入力履歴に関する記録を含む。）であって、当該申出に係る不正アクセス行為に関係があると認められるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">当該申出に係る不正アクセス行為の再発を防止するために講じた措置その他の当該特定電子計算機に係るシステムに対して講じた措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">前各号に掲げるもののほか、当該申出に係る不正アクセス行為が行われた際の当該特定電子計算機の作動状況及び管理状況その他の参考となるべき事項であって、事例分析（法第九条第二項に規定する事例分析をいう。以下同じ。）の実施のために必要なもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（公安委員会による援助措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">公安委員会は、申出を受けた場合において、当該申出を相当と認めるときは、当該申出の内容に応じて、次に掲げる援助措置を採るものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">事例分析の結果に関する資料を提供すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該申出をしたアクセス管理者が講ずることが適当であると認められる措置に関し必要な資料の提供、助言又は指導を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">不正アクセス行為からの防御に資する事業を行うことを目的とする民間の団体その他の組織を教示すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">不正アクセス行為から防御するための措置に関する事項を記載し、又は記録している書類、媒体その他の資料を教示すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">その他不正アクセス行為からの防御に資すると認められる事項を教示すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（事例分析の実施の事務の委託）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第九条第二項の国家公安委員会規則で定める者は、事例分析の実施に関する事務を適正かつ確実に行うことができる技術的能力を有し、かつ、十分な社会的信用を有すると公安委員会が認める者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この規則は、法附則ただし書に規定する規定の施行の日（平成十二年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年四月二四日国家公安委員会規則第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この規則は、不正アクセス行為の禁止等に関する法律の一部を改正する法律の施行の日（平成二十四年五月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年六月二一日国家公安委員会規則第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この規則は、令和元年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この規則による改正前の犯罪捜査規範、国際捜査共助等に関する法律に関する書式例、警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則、風俗営業等の規制及び業務の適正化等に関する法律施行規則、風俗環境浄化協会等に関する規則、遊技機の認定及び型式の検定等に関する規則、地域交通安全活動推進委員及び地域交通安全活動推進委員協議会に関する規則、自動車の保管場所の確保等に関する法律施行規則、暴力団員による不当な行為の防止等に関する法律施行規則、暴力団員による不当な行為の防止等に関する法律の規定に基づく意見聴取の実施に関する規則、審査専門委員に関する規則、暴力追放運動推進センターに関する規則、交通事故調査分析センターに関する規則、盲導犬の訓練を目的とする法人の指定に関する規則、原動機を用いる歩行補助車等の型式認定の手続等に関する規則、届出自動車教習所が行う教習の課程の指定に関する規則、技能検定員審査等に関する規則、運転免許に係る講習等に関する規則、外国等の行政庁等の免許に係る運転免許証の日本語による翻訳文を作成する能力を有する法人の指定に関する規則、自転車の防犯登録を行う者の指定に関する規則、特定物質の運搬の届出等に関する規則、古物営業法施行規則、交通安全活動推進センターに関する規則、不正アクセス行為の再発を防止するための都道府県公安委員会による援助に関する規則、無差別大量殺人行為を行った団体の規制に関する法律の規定に基づく警察庁長官の意見の陳述等の実施に関する規則、運転免許取得者教育の認定に関する規則、ストーカー行為等の規制等に関する法律施行規則、ストーカー行為等の規制等に関する法律の規定に基づく意見の聴取の実施に関する規則、国家公安委員会関係自動車運転代行業の業務の適正化に関する法律施行規則、特殊開錠用具の所持の禁止等に関する法律施行規則、インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律施行規則、配偶者からの暴力等による被害を自ら防止するための警察本部長等による援助に関する規則、確認事務の委託の手続等に関する規則、携帯音声通信役務提供契約に係る契約者確認に関する規則、警備員等の検定等に関する規則、届出対象病原体等の運搬の届出等に関する規則、遺失物法施行規則、犯罪による収益の移転防止に関する法律の規定に基づく事務の実施に関する規則、少年法第六条の二第三項の規定に基づく警察職員の職務等に関する規則、被疑者取調べ適正化のための監督に関する規則、猟銃及び空気銃の取扱いに関する講習会及び年少射撃資格の認定のための講習会の開催に関する事務の一部を行わせることができる者の指定に関する規則、行方不明者発見活動に関する規則、国家公安委員会関係警察等が取り扱う死体の死因又は身元の調査等に関する法律施行規則、死体取扱規則、国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法施行規則、国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法の規定に基づく意見の聴取の実施に関する規則及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行規則に規定する様式による書面については、この規則による改正後のこれらの規則に規定する様式にかかわらず、当分の間、なおこれを使用することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年一二月二八日国家公安委員会規則第一三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この規則による改正前の様式（次項において「旧様式」という。）により使用されている書類は、当分の間、この規則による改正後の様式によるものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">旧様式による用紙については、当分の間、これを取り繕って使用することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別記様式（第１条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/H11F30301000012_2101241301_001.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

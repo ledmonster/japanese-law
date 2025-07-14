@@ -1,0 +1,1576 @@
+.. _506M60000400069_20241023_000000000000000:
+
+:orphan:
+
+==============================================================================================
+脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行規則
+==============================================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">令和六年経済産業省令第六十九号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律（令和六年法律第三十七号）及び脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行令（令和六年政令第三百十四号）の規定に基づき、並びに同法を実施するため、脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+    <span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条―第三条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　低炭素水素等の供給の期間<span data-xpath="">（第四条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第三章　高圧低炭素水素等ガスの製造に係る承認等</div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［1］／SectionTitle［1］">第一節　高圧低炭素水素等ガスの製造に係る承認等<span data-xpath="">（第五条―第九条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［2］／SectionTitle［1］">第二節　高圧低炭素水素等ガスの製造の開始等に係る届出<span data-xpath="">（第十条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［3］／SectionTitle［1］">第三節　完成検査<span data-xpath="">（第十一条―第十六条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［4］／SectionTitle［1］">第四節　自主保安のための措置<span data-xpath="">（第十七条―第二十六条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［5］／SectionTitle［1］">第五節　保安検査及び定期自主検査</div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSubsection _shokanBoxParent" style="margin-left: 3em;">
+    <div class="TOCSubsectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［5］／TOCSubsection［1］／SubsectionTitle［1］">第一款　保安検査<span data-xpath="">（第二十七条―第三十条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSubsection _shokanBoxParent" style="margin-left: 3em;">
+    <div class="TOCSubsectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［5］／TOCSubsection［2］／SubsectionTitle［1］">第二款　定期自主検査<span data-xpath="">（第三十一条・第三十二条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／TOCSection［6］／SectionTitle［1］">第六節　帳簿<span data-xpath="">（第三十三条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／ChapterTitle［1］">第四章　高圧低炭素水素等ガスの貯蔵に係る承認等</div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／TOCSection［1］／SectionTitle［1］">第一節　高圧低炭素水素等ガスの貯蔵に係る承認等<span data-xpath="">（第三十四条―第三十七条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／TOCSection［2］／SectionTitle［1］">第二節　高圧低炭素水素等ガスの貯蔵の開始等に係る届出<span data-xpath="">（第三十八条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／TOCSection［3］／SectionTitle［1］">第三節　完成検査<span data-xpath="">（第三十九条―第四十三条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCSection _shokanBoxParent" style="margin-left: 2em;">
+    <div class="TOCSectionTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／TOCSection［4］／SectionTitle［1］">第四節　帳簿<span data-xpath="">（第四十四条）</span>
+    </div>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［5］／ChapterTitle［1］">第五章　高圧低炭素水素等ガスの輸入に係る検査等<span data-xpath="">（第四十五条・第四十六条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［6］／ChapterTitle［1］">第六章　通知等<span data-xpath="">（第四十七条―第四十九条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［7］／ChapterTitle［1］">第七章　特定水素等供給事業者の要件<span data-xpath="">（第五十条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［8］／ChapterTitle［1］">第八章　雑則<span data-xpath="">（第五十一条―第五十四条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+    <span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第一章　総則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（用語の定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令において使用する用語は、この省令に特段の定めのない限り、脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律（以下「法」という。）、高圧ガス保安法（昭和二十六年法律第二百四号）、一般高圧ガス保安規則（昭和四十一年通商産業省令第五十三号）及びコンビナート等保安規則（昭和六十一年通商産業省令第八十八号）において使用する用語の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（水素の化合物の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第二条第一項の経済産業省令で定める水素の化合物は、次の各号に掲げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">アンモニア</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">水素及び一酸化炭素又は水素及び二酸化炭素から合成した液体</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">水素及び一酸化炭素又は水素及び二酸化炭素から合成したメタン</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（低炭素水素等の要件）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第二条第一項の経済産業省令で定める要件は、水素については、水素の一キログラム当たりの製造に伴い排出されるキログラムで表した二酸化炭素の量（その製造等に伴って二酸化炭素以外の温室効果ガス（地球温暖化対策の推進に関する法律（平成十年法律第百十七号）第二条第三項に規定する温室効果ガスをいう。以下同じ。）が排出される場合には、当該二酸化炭素の量に、当該二酸化炭素以外の温室効果ガスの量に当該温室効果ガスの地球温暖化係数（地球温暖化対策の推進に関する法律第二条第五項に規定する地球温暖化係数をいう。）を乗じて得た量を加えた量とする。以下同じ。）が三・四以下であることとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二条第一項の経済産業省令で定める要件は、アンモニアについては、アンモニアの一キログラム当たりの製造に伴い排出されるキログラムで表した二酸化炭素の量が〇・八七以下であることとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第二条第一項の経済産業省令で定める要件は、前条第二号の水素の化合物（以下「合成燃料」という。）については、次の各号のいずれにも該当することとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">合成燃料の熱量一メガジュール当たりの製造、輸送、貯蔵及び利用に伴い排出されるグラムで表した二酸化炭素の量から当該合成燃料の原料に用いるために回収された二酸化炭素の量の全部又は一部を控除して得た量が三十九・九以下であること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該合成燃料の原料に用いる水素が第一項で定める要件を満たしていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">外国において製造され、かつ、バイオマス（動植物に由来する有機物であってエネルギー源として利用することができるもの（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される製品を除く。）をいう。）の利用に伴って排出される二酸化炭素又は大気中の二酸化炭素を回収し、その回収した二酸化炭素を原料として製造された合成燃料の場合にあっては、当該合成燃料を本邦において利用する事業者が、当該事業者の事業活動又はこれに関連する他の事業者の事業活動に伴って排出される二酸化炭素の量から当該合成燃料の利用に伴って排出される二酸化炭素の量の全部又は一部を控除して得た量を我が国の法令又はこれに相当するものに基づき報告することにより、排出される二酸化炭素の量の二重の計上の回避を確保し我が国における二酸化炭素の排出量の削減に寄与すると認められること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">外国において製造され、かつ、前号に掲げる以外の合成燃料の場合にあっては、次のいずれにも該当することにより、排出される二酸化炭素の量の二重の計上の回避を確保し我が国における二酸化炭素の排出量の削減に寄与すると認められること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外国において二酸化炭素を排出した事業者（以下この号において「外国事業者」という。）と回収された当該二酸化炭素を原料として製造された合成燃料の供給又は利用を本邦において行う事業者（以下この号において「本邦事業者」という。）との間で、外国事業者の事業活動に伴う二酸化炭素の排出量からその回収された二酸化炭素の量（以下この号において「回収量」という。）の全部又は一部を控除せず、かつ、本邦事業者の事業活動又はこれに関連する他の事業者の事業活動に伴って排出される二酸化炭素の量から当該合成燃料の利用に伴って排出される二酸化炭素の量の全部又は一部を控除することについて合意がなされていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">外国事業者が、イの合意に基づき当該回収量の全部又は一部を外国の法令又はこれに相当するものに基づき報告していること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">本邦事業者が、イの合意に基づき当該本邦事業者の事業活動又はこれに関連する他の事業者の事業活動に伴って排出される二酸化炭素の量から当該合成燃料の利用に伴って排出される二酸化炭素の量の全部又は一部を控除して得た量を我が国の法令又はこれに相当するものに基づき報告していること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第二条第一項の経済産業省令で定める要件は、前条第三号の水素の化合物（以下「合成メタン」という。）については、次の各号のいずれにも該当することとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">合成メタンの熱量一メガジュール当たりの製造、液化、輸送、貯蔵及び利用に伴い排出されるグラムで表した二酸化炭素の量から当該合成メタンの原料に用いるために回収された二酸化炭素の量の全部又は一部を控除して得た量が四十九・三以下であること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前項第二号から第四号までに該当すること。</span><span data-xpath="">この場合において、「合成燃料」とあるのは、「合成メタン」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">第一項、第二項、第三項第一号及び前項第一号の二酸化炭素の量は、経済産業大臣が定める算定方法により算定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第一項から第四項までに規定する要件が改正された場合において、当該改正前に法第七条第一項の規定により認定を受けた低炭素水素等供給等事業計画に係る低炭素水素等については、引き続き改正前の要件に該当する限り、法第二条第一項の要件に該当するものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章　低炭素水素等の供給の期間</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第七条第五項第五号ロの経済産業省令で定める期間は、次の各号に掲げる期間とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第十条第一号イの助成金の交付を受ける場合にあっては、当該助成金の交付の対象となる低炭素水素等供給事業が終了した日の翌日から起算して十年</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">法第十条第一号ロの助成金の交付を受ける場合にあっては、当該助成金を使用して整備した供給等施設を取得した日から起算して十年</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章　高圧低炭素水素等ガスの製造に係る承認等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Sectiot"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第一節　高圧低炭素水素等ガスの製造に係る承認等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（承認製造者に係る製造の承認の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第十二条第一項の規定により承認を受けようとする者は、様式第一の高圧低炭素水素等ガス製造承認申請書に製造計画書を添えて、経済産業大臣に提出しなければならない。</span><span data-xpath="">ただし、遺贈、営業の譲渡又は分割（当該承認製造者のその承認に係る事業所を承継させるものを除く。）により引き続き高圧低炭素水素等ガスの製造をしようとする者が新たに承認を申請するときは、製造計画書の添付を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の製造計画書には、第一号から第六号までに掲げる事項を記載し、第七号に掲げる図面を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">製造の目的</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">処理設備の処理能力</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">処理設備の性能</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">高圧ガス保安法第八条第一号の経済産業省令で定める技術上の基準及び同条第二号の経済産業省令で定める技術上の基準に関する事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">製造施設を設計又は施工するに当たって保安上特に配慮した事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">移設、転用、再使用又はこれらの併用（以下「移設等」という。）に係る高圧ガス設備にあっては、当該高圧ガス設備の使用の経歴及び保管状態の記録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">製造のための施設（以下「製造施設」といい、貯蔵設備を有しない移動式製造設備に係るものを除く。）の位置（他の施設との関係位置を含む。）及び付近の状況を示す図面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第十二条第二項第三号の経済産業省令で定める者）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">法第十二条第二項第三号の経済産業省令で定める者は、精神の機能の障害により高圧低炭素水素等ガスの製造を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十二条第一項の承認を受けた者、法人であってその業務を行う役員又はこれらの法定代理人若しくは同居の親族は、当該承認を受けた者又は法人であってその業務を行う役員が精神の機能の障害を有する状態となり、高圧低炭素水素等ガスの製造の適正な実施が著しく困難となったときは、経済産業大臣にその旨を届け出るものとする。</span><span data-xpath="">この場合において、その病名、障害の程度、病因、病後の経過、治癒の見込みその他参考となる所見を記載した医師の診断書を添付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定製造期間における承認製造者に係る承継の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第十三条第二項の規定により特定製造期間における承認製造者の地位の承継を届け出ようとする者は、様式第二の承認製造事業承継届書に相続、合併又は当該承認製造者のその承認に係る事業所を承継させた分割があった事実を証する書面（相続の場合であって、相続人が二人以上あるときは、承継すべき相続人の選定に係る全員の同意書）を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定製造期間における承認製造者に係る変更の工事等の承認の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">法第十四条第一項の規定により承認を受けようとする特定製造期間における承認製造者は、様式第三の高圧低炭素水素等ガス製造施設等変更承認申請書に変更明細書を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する変更明細書には、第五条第二項各号に掲げる事項のうち、変更のあった部分について記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定製造期間における承認製造者に係る軽微な変更の工事の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法第十四条第二項の規定により届出をしようとする特定製造期間における承認製造者は、様式第四の高圧低炭素水素等ガス製造施設軽微変更届書に当該変更の概要を記載した書面を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第二節　高圧低炭素水素等ガスの製造の開始等に係る届出</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（高圧低炭素水素等ガスの製造の開始又は廃止の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">法第十五条の規定により製造の開始の届出をしようとする承認製造者は、様式第五の高圧低炭素水素等ガス製造開始届書を、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十五条の規定により製造の廃止の届出をしようとする特定製造期間における承認製造者は、様式第六の高圧低炭素水素等ガス製造廃止届書を、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第三節　完成検査</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第一項本文又は第三項本文の規定により、製造施設について経済産業大臣が行う完成検査を受けようとする特定製造期間における承認製造者は、様式第七の製造施設完成検査申請書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">経済産業大臣は、法第十六条第一項において準用する高圧ガス保安法第二十条第一項本文又は第三項本文の完成検査において、製造施設が高圧ガス保安法第八条第一号の経済産業省令で定める技術上の基準に適合していると認めるときは、様式第八の製造施設完成検査証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等が行う完成検査の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">前条の規定は、高圧ガス保安協会（以下「協会」という。）が行う完成検査について準用する。</span><span data-xpath="">この場合において、同条中「法第十六条第一項において準用する高圧ガス保安法第二十条第一項本文又は第三項本文」とあるのは「法第十六条第一項において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号」と、「経済産業大臣」とあるのは「協会」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号の規定により、協会が行う完成検査を受けた旨を届け出ようとする特定製造期間における承認製造者は、様式第九の高圧ガス保安協会完成検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前条の規定は、指定完成検査機関が行う完成検査について準用する。</span><span data-xpath="">この場合において、同条中「法第十六条第一項において準用する高圧ガス保安法第二十条第一項本文又は第三項本文」とあるのは「法第十六条第一項において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号」と、「経済産業大臣」とあるのは「指定完成検査機関」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号の規定により、指定完成検査機関が行う完成検査を受けた旨を届け出ようとする特定製造期間における承認製造者は、様式第十の指定完成検査機関完成検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査を要しない変更の工事の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第三項の経済産業省令で定めるものは、次の各号に掲げる事業所の区分に応じ、当該各号に定めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所が次号に掲げる事業所以外の事業所</span>　<span data-xpath="">一般高圧ガス保安規則第三十三条（第二号及び第三号を除く。）に規定するもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所</span>　<span data-xpath="">コンビナート等保安規則第十七条（第二号を除く。）に規定するもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等の完成検査の報告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第四項の規定により、協会が同項の報告をしようとするときは、様式第十一の完成検査結果報告書に完成検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第四項の規定により、指定完成検査機関が同項の報告をしようとするときは、様式第十二の完成検査結果報告書に完成検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条第五項の経済産業省令で定める完成検査の方法は、次の各号に掲げる事業所の区分に応じ、当該各号に定める方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所が次号に掲げる事業所以外の事業所</span>　<span data-xpath="">一般高圧ガス保安規則第三十五条第一項に規定する完成検査の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所</span>　<span data-xpath="">コンビナート等保安規則第十九条に規定する完成検査の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定設備検査合格証等の有効期間）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十条の二の経済産業省令で定める期間は、三年とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第四節　自主保安のための措置</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（危害予防規程の届出等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十七条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の規定により届出をしようとする特定製造期間における承認製造者は、様式第十三の危害予防規程届書に危害予防規程（変更のときは、変更の明細を記載した書面）を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の経済産業省令で定める事項は、次の各号（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては、第十号を除く。）に掲げる事項の細目とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧ガス保安法第八条第一号の経済産業省令で定める技術上の基準及び同条第二号の経済産業省令で定める技術上の基準に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">保安管理体制並びに高圧ガス製造保安統括者（以下「保安統括者」という。）、高圧ガス製造保安技術管理者（以下「保安技術管理者」という。）、高圧ガス製造保安係員（以下「保安係員」という。）、高圧ガス製造保安主任者（以下「保安主任者」という。）及び高圧ガス製造保安企画推進員（以下「保安企画推進員」という。）の行うべき職務の範囲に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">製造設備の安全な運転及び操作に関すること（第一号に掲げるものを除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">製造施設の保安に係る巡視及び点検に関すること（第一号に掲げるものを除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">製造施設の新増設に係る工事及び修理作業の管理に関すること（第一号に掲げるものを除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">製造施設が危険な状態となったときの措置及びその訓練方法に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">大規模な地震に係る防災及び減災対策に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">協力会社の作業の管理に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">従業者に対する当該危害予防規程の周知方法及び当該危害予防規程に違反した者に対する措置に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">製造施設を新設し、又は変更する場合の安全審査に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">保安に係る記録に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十二</span>　<span data-xpath="">危害予防規程の作成及び変更の手続に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十三</span>　<span data-xpath="">前各号に掲げるもののほか災害の発生の防止のために必要な事項に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">大規模地震対策特別措置法（昭和五十三年法律第七十三号）第二条第四号に規定する地震防災対策強化地域（以下「強化地域」という。）内にある事業所（同法第六条第一項に規定する者が設置している事業所を除く。次項において同じ。）に係る法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の経済産業省令で定める事項は、前項各号に掲げるもののほか、次の各号に掲げる事項の細目とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">大規模地震対策特別措置法第二条第三号に規定する地震予知情報及び同条第十三号に規定する警戒宣言（以下「警戒宣言」という。）の伝達に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">警戒宣言が発せられた場合における避難の勧告又は指示に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">警戒宣言が発せられた場合における防災要員の確保に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">警戒宣言が発せられた場合における防消火設備、通報設備、防液堤その他保安に係る設備の整備及び点検に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">警戒宣言が発せられた場合における製造設備等の整備、点検、運転に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">その他地震災害の発生の防止又は軽減を図るための措置に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">地震防災に係る教育、訓練及び広報に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">大規模地震対策特別措置法第三条第一項の規定による強化地域の指定の際、当該強化地域内において高圧低炭素水素等ガスの製造を行う事業所を現に管理している特定製造期間における承認製造者は、当該指定があった日から六月以内に前項に掲げる事項の細目について、法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の規定により、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">南海トラフ地震に係る地震防災対策の推進に関する特別措置法（平成十四年法律第九十二号）第三条第一項の規定により南海トラフ地震防災対策推進地域として指定された地域内にある事業所（同法第五条第一項に規定する者が設置している事業所を除き、同法第二条第二項に規定する南海トラフ地震（以下「南海トラフ地震」という。）に伴い発生する津波に係る地震防災対策を講ずべき者として同法第四条第一項に規定する南海トラフ地震防災対策推進基本計画で定める者が設置している事業所に限る。次項において同じ。）に係る法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の経済産業省令で定める事項は、第二項各号に掲げるもののほか、次の各号に掲げる事項の細目とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">南海トラフ地震に伴い発生する津波からの円滑な避難の確保に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">南海トラフ地震に係る防災訓練並びに地震防災上必要な教育及び広報に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">南海トラフ地震に係る地震防災対策の推進に関する特別措置法第三条第一項の規定による南海トラフ地震防災対策推進地域の指定の際、当該南海トラフ地震防災対策推進地域内において高圧低炭素水素等ガスの製造を行う事業所を現に管理している特定製造期間における承認製造者は、当該指定があった日から六月以内に、前項各号に掲げる事項の細目について、法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の規定により、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法（平成十六年法律第二十七号）第三条第一項の規定により日本海溝・千島海溝周辺海溝型地震防災対策推進地域として指定された地域内にある事業所（同法第五条第一項に規定する者が設置している事業所を除き、同法第二条第一項に規定する日本海溝・千島海溝周辺海溝型地震（以下「日本海溝・千島海溝周辺海溝型地震」という。）に伴い発生する津波に係る地震防災対策を講ずべき者として同法第四条第一項に規定する日本海溝・千島海溝周辺海溝型地震防災対策推進基本計画で定める者が設置している事業所に限る。次項において同じ。）に係る法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の経済産業省令で定める事項は、第二項各号に掲げるもののほか、次の各号に掲げる事項の細目とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">日本海溝・千島海溝周辺海溝型地震に伴い発生する津波からの円滑な避難の確保に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">日本海溝・千島海溝周辺海溝型地震に係る防災訓練並びに地震防災上必要な教育及び広報に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法第三条第一項の規定による日本海溝・千島海溝周辺海溝型地震防災対策推進地域の指定の際、当該日本海溝・千島海溝周辺海溝型地震防災対策推進地域内において高圧低炭素水素等ガスの製造を行う事業所を現に管理している特定製造期間における承認製造者は、当該指定があった日から六月以内に、前項各号に掲げる事項の細目について、法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の規定により、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">９</span>　<span data-xpath="">津波防災地域づくりに関する法律（平成二十三年法律第百二十三号）第八条第一項の規定により津波浸水想定（同項に規定する「津波浸水想定」をいう。以下同じ。）が設定された区域内にある事業所に係る法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の経済産業省令で定める事項は、第二項各号に掲げるもののほか、当該津波浸水想定に応じた次の各号に掲げる事項の細目とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">津波に関する警報が発令された場合における当該警報の伝達方法、避難場所、避難の経路その他の避難に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">津波に関する警報が発令された場合における作業の速やかな停止、設備の安全な停止並びに避難時間の確保に係る判断基準、手順及び権限に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">津波に関する防災に係る必要な教育、訓練及び広報に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">津波による製造設備又は貯蔵設備の破損又は流出による事業所内及び周辺地域において想定される被害並びに当該被害が及ぶと想定される地域を管轄する都道府県知事及び市町村長に対する当該被害の想定に係る情報提供に関すること（当該事業所の所在地における津波浸水想定が三メートルを超える場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">充塡容器等（圧縮水素を燃料として使用する車両に固定した燃料装置用容器を除く。以下この号において同じ。）の事業所からの流出防止を図るための措置及び流出した充塡容器等の回収方針に関すること（当該事業所の所在地における津波浸水想定が一メートル（車両に固定した容器に係る事項にあっては、二メートル）を超える場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">津波に関する警報が発令された場合における緊急遮断装置、防消火設備、通報設備、防液堤その他の保安に関する設備等の作業手順及び当該設備等の機能が喪失した場合における対応策に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">津波による被害を受けた製造施設の保安確保の方法に関すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１０</span>　<span data-xpath="">津波防災地域づくりに関する法律第八条第一項の規定による津波浸水想定の設定の際、当該想定が設定された区域内において高圧低炭素水素等ガスの製造を行う事業所を現に管理している特定製造期間における承認製造者は、当該設定があった日から一年以内に、前項各号に掲げる事項の細目について、法第十六条第一項において準用する高圧ガス保安法第二十六条第一項の規定により、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安統括者の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十八条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第一項（第二号を除く。）の規定により、法第十六条第一項において準用する高圧ガス保安法第二十七条の二第一項第一号に掲げる者（次条から第二十三条まで、第二十五条及び第二十六条において「特定製造期間における承認製造者」という。）は、事業所ごとに、保安統括者一人を選任しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第一項第一号の経済産業省令で定める者は、高圧低炭素水素等ガスのうち圧縮水素を製造する者であって、次の各号に掲げる事業所の区分に応じ、当該各号に定める者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所が次号に掲げる事業所以外の事業所</span>　<span data-xpath="">一般高圧ガス保安規則第六十四条第二項（第一号から第四号までを除く。）に規定する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所</span>　<span data-xpath="">コンビナート等保安規則第二十三条第二項（第一号から第四号までを除く。）に規定する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安技術管理者の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十九条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第三項本文（同条第一項第一号に係る部分に限る。）の規定により、特定製造期間における承認製造者は、次の表の上欄に掲げる事業所の区分に応じ、それぞれ同表の中欄に掲げる製造保安責任者免状の交付を受けている者であって、同表の下欄に掲げる高圧ガスの製造に関する経験を有する者のうちから、保安技術管理者を選任しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">事業所の区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">製造保安責任者免状の交付を受けている者</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">高圧ガスの製造に関する経験</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　処理能力が百万立方メートル（貯槽を設置して専ら高圧低炭素水素等ガスの充塡を行う場合にあっては、二百万立方メートル。以下この表において同じ。）以上のもの</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">甲種化学責任者免状又は甲種機械責任者免状の交付を受けている者</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　一種類以上の圧縮ガス及び二種類以上の液化ガスについてその種類ごとの製造に関する一年以上の経験又はアンモニア、メタノール、尿素、オキソアルコール、酸化エチレン（直接酸化法によるものに限る。）の合成若しくは高圧ポリエチレン及びナフサ分解によるオレフィンの製造に係る高圧ガスの製造に関する一年以上の経験</span><br><span data-xpath="">二　圧縮機又は液化ガスを加圧するためのポンプを使用して一時間に処理することができるガスの容積が三千立方メートル（液化ガスを加圧するためのポンプを使用する場合にあっては、温度三十五度における液化ガスの送液量一立方メートルをもって処理することができるガスの容積十立方メートルとみなす。）を超える設備又は温度三十五度における圧力が二十メガパスカルを超える設備を使用して行う高圧ガスの製造に関する一年以上の経験</span><br><span data-xpath="">三　高圧ガス設備の設計、施工、管理、検査業務等に従事し、かつ、当該設備の試運転業務を熟知し、前二号に掲げる高圧ガスの製造に関する経験を有する者と同等以上の経験</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　処理能力が百万立方メートル未満のもの</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">甲種化学責任者免状、乙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けている者</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　一種類以上の高圧ガスについてその種類ごとの製造に関する一年以上の経験</span><br><span data-xpath="">二　圧縮機又は液化ガスを加圧するためのポンプを使用してする高圧ガスの製造に関する一年以上の経験</span><br><span data-xpath="">三　高圧ガス設備の設計、施工、管理、検査業務等に従事し、かつ、当該設備の試運転業務を熟知し、前二号に掲げる高圧ガスの製造に関する経験を有する者と同等以上の経験</span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第三項ただし書（同条第一項第一号に係る部分に限る。）の規定により、保安技術管理者を選任する必要のない場合は、次の各号のいずれかに該当する場合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">保安統括者に前項の表の上欄に掲げる区分に応じ、それぞれ同表の中欄に掲げる製造保安責任者免状の交付を受けている者であって、同表の下欄に掲げる高圧ガスの製造に関する経験を有する者を選任している場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">処理能力が二十五万立方メートル未満の事業所において、専ら気化器若しくは減圧弁により高圧低炭素水素等ガスを製造し、又は専ら消費（燃焼以外の反応により消費する場合を除く。）をする目的で高圧低炭素水素等ガスを製造する場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">移動式製造設備により高圧低炭素水素等ガスを製造する場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安係員の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第四項（同条第一項第一号に係る部分に限る。）の経済産業省令で定める製造のための施設の区分（以下「製造施設区分」という。）は、高圧低炭素水素等ガスの製造施設とする。</span><span data-xpath="">ただし、高圧低炭素水素等ガスが二種類以上ある場合にあっては、その種類ごとにいずれかの製造施設区分として扱うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第四項（同条第一項第一号に係る部分に限る。）の規定により、特定製造期間における承認製造者は、製造施設区分ごとに、甲種化学責任者免状、乙種化学責任者免状、丙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けている者であって、次項に規定する高圧ガスの製造に関する経験を有する者のうちから、保安係員を選任しなければならない。</span><span data-xpath="">この場合において、同一の製造施設区分に属する製造施設が同一の計器室で制御されない二以上の系列に形成されているとき、又は一の製造施設につき従業員の交替制をとっているときは、当該製造施設については、当該系列ごとに、又は当該交替制のために編成された従業員の単位ごとに保安係員を選任しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第四項（同条第一項第一号に係る部分に限る。）の経済産業省令で定める高圧ガスの製造に関する経験は、一種類以上の高圧ガスについてその種類ごとの製造に関する一年以上の経験、圧縮機若しくは液化ガスを加圧するためのポンプを使用してする高圧ガスの製造に関する一年以上の経験又は高圧ガス設備の設計、施工、管理、検査業務等に従事し、かつ、当該設備の試運転業務を熟知し、高圧ガスの製造に関する一年以上の経験を有する者と同等以上であると認める経験とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前三項の規定にかかわらず、特定製造期間における承認製造者は、乙種化学責任者免状又は丙種化学責任者免状の交付を受けている者が高圧ガスの製造に関する一年以上の経験を有する場合には、その者をその経験を有する高圧ガスに係るガスの区分（可燃性・毒性ガス（可燃性ガスであって、毒性ガスであるガスをいう。）及び可燃性ガス（毒性ガスであるものを除く。）の別をいう。第二十三条第五項において「ガスの区分」という。）に属する高圧ガスの製造施設に係る保安係員に選任できるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">第一項の規定にかかわらず、異なる製造施設区分に属する二以上の製造施設が設備の配置等からみて一体として管理されるものとして設計されたものであり、かつ、同一の計器室において制御され適切な保安管理が行えるとき、又は保安管理上これと同等以上であると経済産業大臣が認めたときは、当該製造施設は、同一の製造施設区分に属するものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安統括者等の選任等の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第五項（同条第一項第一号に係る部分に限る。）の規定により届出をしようとする特定製造期間における承認製造者は、様式第十四の高圧ガス保安統括者届書に、保安統括者が当該事業所においてその事業の実施を統括管理する者であることを証する書面を添えて、経済産業大臣に提出しなければならない。</span><span data-xpath="">ただし、解任の場合にあっては、当該書面又は写しの添付を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第六項（同条第一項第一号に係る部分に限る。）の規定により届出をしようとする特定製造期間における承認製造者は、その年の前年の八月一日からその年の七月三十一日までの期間内にした保安技術管理者又は保安係員の選任又は解任について、当該期間終了後遅滞なく、様式第十五の高圧ガス保安技術管理者等届書に、当該保安技術管理者又は保安係員が交付を受けた製造保安責任者免状の写しを添えて、経済産業大臣に提出しなければならない。</span><span data-xpath="">ただし、解任の場合にあっては、当該写しの添付を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安係員等の講習）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第七項（同条第一項第一号に係る部分に限り、法第十六条第一項において準用する高圧ガス保安法第二十七条の三第三項において準用する場合を含む。以下この条において同じ。）の規定により、特定製造期間における承認製造者は、保安係員、保安主任者又は保安企画推進員に、保安係員又は保安主任者にあってはそれらの者が製造保安責任者免状の交付を受けた日の属する年度の翌年度の開始の日から三年以内に、保安企画推進員にあってはその者が選任された日から六月以内に、それぞれ第一回の法第十六条第一項において準用する高圧ガス保安法第二十七条の二第七項に規定する講習（以下この条において単に「講習」という。）を受けさせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の二第七項の規定により、特定製造期間における承認製造者は、保安係員、保安主任者又は保安企画推進員に、前項に規定する第一回の講習を受けさせた日の属する年度の翌年度の開始の日から五年以内に、それぞれ第二回の講習を受けさせなければならない。</span><span data-xpath="">第三回以降の講習についても、同様とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前二項の規定にかかわらず、特定製造期間における承認製造者は、保安係員若しくは保安主任者に選任した日に前二項に規定する期間が経過しているとき、又は保安係員若しくは保安主任者に選任した日から前二項に規定する期間が経過するまでの日の期間が六月未満のときは、保安係員又は保安主任者に選任した日から六月以内に講習を受けさせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前三項の規定にかかわらず、災害その他やむを得ない事由により前三項の期間内に講習を受けさせることが困難であるときは、経済産業大臣が当該事由を勘案して定める期間内に講習を受けさせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安主任者の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第一項の経済産業省令で定めるガスの種類ごとに経済産業省令で定める容積は、製造する高圧低炭素水素等ガスの種類にかかわらず、百万立方メートル（貯槽を設置して専ら高圧低炭素水素等ガスの充塡を行う場合にあっては、二百万立方メートル）とする。</span><span data-xpath="">この場合における容積には、保安用不活性ガスの容積は、算入しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第一項の経済産業省令で定める製造のための施設の区分は、製造施設区分によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第一項の規定により、特定製造期間における承認製造者は、製造施設区分ごとに、甲種化学責任者免状、乙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けている者であって、次項に規定する高圧ガスの製造に関する経験を有する者のうちから、保安主任者を選任しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第一項の経済産業省令で定める高圧ガスの製造に関する経験は、一種類以上の高圧ガスについてその種類ごとの製造に関する一年以上の経験、圧縮機若しくは液化ガスを加圧するためのポンプを使用してする高圧ガスの製造に関する一年以上の経験又は高圧ガス設備の設計、施工、管理検査業務等に従事し、かつ、当該設備の試運転業務に熟知し、高圧ガスの製造に関する一年以上の経験を有する者と同等以上であると認める経験とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">前三項の規定にかかわらず、特定製造期間における承認製造者は、乙種化学責任者免状の交付を受けている者が高圧ガスの製造に関する一年以上の経験を有する場合には、その者をその経験を有する高圧ガスに係るガスの区分に属する製造施設に係る保安主任者に選任することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第二項の規定にかかわらず、第二十条第五項の規定は、保安主任者の選任に係る製造施設区分について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安企画推進員の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第二項の経済産業省令で定める高圧ガスの製造に係る保安に関する知識経験を有する者は、次の各号のいずれかに該当する者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">保安技術管理者に選任され、その職務に通算して三年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">保安主任者若しくは保安技術管理者又は従前の規定による高圧ガス作業主任者に選任され、それらの職務に通算して五年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">保安係員、保安主任者若しくは保安技術管理者又は従前の規定による高圧ガス作業主任者に選任され、それらの職務に通算して七年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">高圧ガスの製造に係る保安に関する企画又は指導の業務に通算して三年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">学校教育法（昭和二十二年法律第二十六号）による大学若しくは高等専門学校又は従前の規定による大学若しくは専門学校において化学、物理学又は工学に関する課程を修めて卒業し（当該課程を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、高圧ガスの製造に係る保安に関する業務に通算して七年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">学校教育法による高等学校又は従前の規定による工業学校において工業に関する課程を修めて卒業し、かつ、高圧ガスの製造に係る保安に関する業務に通算して十年以上従事した者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安主任者等の選任等の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第二十七条の三第三項において準用する法第十六条第一項において準用する高圧ガス保安法第二十七条の二第六項（同条第一項第一号に係る部分に限る。）の規定により届出をしようとする特定製造期間における承認製造者は、その年の前年の八月一日からその年の七月三十一日までの期間内にした保安主任者又は保安企画推進員の選任若しくは解任について、当該期間終了後遅滞なく、様式第十六の高圧ガス保安主任者等届書に、保安主任者にあっては交付を受けた製造保安責任者免状の写しを、保安企画推進員にあっては前条各号のいずれかに該当する者であることを証する書面を添えて、経済産業大臣に提出しなければならない。</span><span data-xpath="">ただし、解任の場合にあっては、当該書面又は写しの添付を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安統括者等の代理者の選任等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十三条第一項（同法第二十七条の二第一項第一号に係る部分に限る。）の規定により、特定製造期間における承認製造者は、次の各号に掲げる者の代理者を選任するときは、当該各号に定める者のうちから選任しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">保安統括者の代理者</span>　<span data-xpath="">当該保安統括者に選任されている者を直接補佐する職務を行う者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">保安技術管理者の代理者</span>　<span data-xpath="">当該保安技術管理者に選任されている者を直接補佐する職務を行う者であって、第十九条第一項の表の上欄に掲げる事業所の区分に応じ、それぞれ同表の中欄に掲げる製造保安責任者免状の交付を受けている者であって、同表の下欄に掲げる高圧ガスの製造に関する経験を有する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">保安係員の代理者</span>　<span data-xpath="">当該保安係員の職務に係る製造施設において高圧低炭素水素等ガスの製造に従事する者であって、第二十条第二項に規定する製造保安責任者免状の交付を受けている者であって、同条第三項に規定する製造に関する経験を有する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">保安主任者の代理者</span>　<span data-xpath="">当該保安主任者に選任されている者を直接補佐する職務を行う者であって、第二十三条第三項に規定する製造保安責任者免状の交付を受けている者であって、同条第四項に規定する高圧ガスの製造に関する経験を有する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">保安企画推進員の代理者</span>　<span data-xpath="">第二十四条各号のいずれかに該当する者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十三条第一項（同法第二十七条の二第一項第一号に係る部分に限る。）の経済産業省令で定める高圧ガスの製造に関する経験は、保安技術管理者の代理者にあっては前項第二号に、保安係員の代理者にあっては前項第三号に、保安主任者の代理者にあっては前項第四号に掲げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十三条第三項において準用する法第十六条第一項において準用する高圧ガス保安法第二十七条の二第五項（同条第一項第一号に係る部分に限る。）の規定により届出をしようとする特定製造期間における承認製造者は、様式第十七の高圧ガス保安統括者代理者届書に、保安統括者の代理者であることを証する書面を添えて、経済産業大臣に提出しなければならない。</span><span data-xpath="">ただし、解任の場合にあっては、当該書面の添付を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第五節　保安検査及び定期自主検査</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Subsection"><div style="margin-left: 5em; font-weight: bold;" class="SubsectionTitle _div_SubsectionTitle _shokanBoxParent">
+    <div class="SubsectionTitle">第一款　保安検査</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定施設の範囲等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十七条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文の経済産業省令で定めるものは、経済産業大臣が定める製造施設（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第七十九条第一項の経済産業大臣が定める製造施設をいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十四条第一項の経済産業大臣が定める製造施設をいう。）以外の製造施設（以下「特定施設」という。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文の経済産業大臣が行う保安検査は、一年（経済産業大臣が定める施設（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第七十九条第二項の経済産業大臣が定める施設をいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十四条第二項の経済産業大臣が定める施設をいう。）にあっては、経済産業大臣が定める期間（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第七十九条第二項の経済産業大臣が定める期間をいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十四条第二項の経済産業大臣が定める期間をいう。））に一回受けなければならない。</span><span data-xpath="">ただし、災害その他やむを得ない事由によりその回数で保安検査を受けることが困難であるときは、当該事由を勘案して経済産業大臣が定める期間に一回受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の規定にかかわらず、使用を休止した特定施設であって、様式第十八の高圧低炭素水素等ガス製造施設休止届書に次に掲げる書類を添えて経済産業大臣に届け出たものであり、かつ、前回の保安検査（保安検査を受けたことのない施設にあっては、完成検査。以下同じ。）の日から当該施設を再び使用しようとする日までの期間が一年以上（前項の経済産業大臣が定める施設にあっては、前項の経済産業大臣が定める期間以上）であるもの（第五項において「休止施設」という。）にあっては、当該施設を再び使用しようとするときまで受けないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">使用を休止した特定施設の位置、範囲等を明示した図面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">使用を休止した特定施設について講じた措置を記載した書面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文の規定により、第二項の保安検査を、前回の保安検査の日から一年を経過した日（同項の経済産業大臣が定める施設にあっては、同項の経済産業大臣が定める期間を経過した日。以下「基準日」という。）の前後一月以内に受けた場合にあっては、基準日において当該検査を受けたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文の規定により、第二項の保安検査を受けようとする特定製造期間における承認製造者は、前回の保安検査の日（前項の規定により第二項の保安検査を受けたものとみなされた日を含む。以下同じ。）から一年を超えない日（第二項の経済産業大臣が定める施設（休止施設を除く。）にあっては、同項の経済産業大臣が定める期間が終了する日、休止施設にあっては、当該施設を再び使用しようとする日の三十日前）までに、様式第十九の保安検査申請書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">経済産業大臣は、法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文の保安検査において、特定施設が高圧ガス保安法第八条第一号の経済産業省令で定める技術上の基準に適合していると認めるときは、様式第二十の保安検査証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等が保安検査を行う特定施設の指定等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十八条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項第一号の経済産業省令で定めるものは、特定施設とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前条第二項及び第四項から第六項までの規定は、協会が行う保安検査について準用する。</span><span data-xpath="">この場合において、同条第二項及び第四項から第六項までの規定中「法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文」とあるのは「法第十六条第一項において準用する高圧ガス保安法第三十五条第一項第一号」と、同条第二項中「経済産業大臣が行う」とあるのは「協会が行う」と、同条第五項中「経済産業大臣に提出」とあるのは「協会に提出」と、同条第六項中「経済産業大臣」とあるのは「協会」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項第一号の規定により、協会が行う保安検査を受けた旨を届け出ようとする特定製造期間における承認製造者は、様式第二十一の高圧ガス保安協会保安検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前条第二項及び第四項から第六項までの規定は、指定保安検査機関が行う保安検査について準用する。</span><span data-xpath="">この場合において、同条第二項及び第四項から第六項までの規定中「法第十六条第一項において準用する高圧ガス保安法第三十五条第一項本文」とあるのは「法第十六条第一項において準用する高圧ガス保安法第三十五条第一項第一号」と、同条第二項中「経済産業大臣が行う」とあるのは「指定保安検査機関が行う」と、同条第五項中「経済産業大臣に提出」とあるのは「指定保安検査機関に提出」と、同条第六項中「経済産業大臣」とあるのは「指定保安検査機関」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第一項第一号の規定により、指定保安検査機関が行う保安検査を受けた旨を届け出ようとする特定製造期間における承認製造者は、様式第二十二の指定保安検査機関保安検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等の保安検査の報告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十九条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第三項の規定により報告をしようとする協会は、様式第二十三の保安検査結果報告書に保安検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第三項の規定により報告をしようとする指定保安検査機関は、様式第二十四の保安検査結果報告書に保安検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（保安検査の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条第四項の経済産業省令で定める保安検査の方法は、開放検査、分解検査その他の各部の損傷、変形及び異常の発生状況を確認するために十分な方法並びに作動検査その他の機能及び作動の状況を確認するために十分な方法でなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の保安検査の方法は、次の各号に掲げる事業所の区分に応じ、当該各号に定める方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所が次号に掲げる事業所以外の事業所</span>　<span data-xpath="">一般高圧ガス保安規則第八十二条第二項（第一号から第三号までを除く。）に規定する保安検査の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所</span>　<span data-xpath="">コンビナート等保安規則第三十七条第二項（第一号から第三号までを除く。）に規定する保安検査の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Subsection followingSubsectiont"><div style="margin-left: 5em; font-weight: bold;" class="SubsectionTitle _div_SubsectionTitle _shokanBoxParent">
+    <div class="SubsectionTitle">第二款　定期自主検査</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定期自主検査を行う製造施設等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十一条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二の経済産業省令で定めるガスの種類ごとに経済産業省令で定める量は、ガスの種類にかかわらず、三十立方メートルとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二の経済産業省令で定めるものは、ガス設備（経済産業大臣が定めるもの（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第八十三条第二項の経済産業大臣が定めるものをいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十八条第二項の経済産業大臣が定めるものをいう。）を除く。以下この条において同じ。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二の自主検査は、ガス設備が高圧ガス保安法第八条第一号の経済産業省令で定める技術上の基準（耐圧試験に係るものを除く。）に適合しているかどうかについて、一年（経済産業大臣が定める設備（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第八十三条第三項の経済産業大臣が定める設備をいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十八条第三項の経済産業大臣が定める設備をいう。）にあっては、経済産業大臣が定める期間（高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所以外の事業所である場合にあっては一般高圧ガス保安規則第八十三条第三項の経済産業大臣が定める期間をいい、高圧低炭素水素等ガスの製造を行う事業所がコンビナート等保安規則第二条第一項第二十二号に規定する特定製造事業所に該当する事業所である場合にあってはコンビナート等保安規則第三十八条第三項の経済産業大臣が定める期間をいう。））に一回以上行わなければならない。</span><span data-xpath="">ただし、災害その他やむを得ない事由によりその回数で自主検査を行うことが困難であるときは、当該事由を勘案して経済産業大臣が定める期間に一回以上行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二の規定により、特定製造期間における承認製造者（高圧低炭素水素等ガスのうち圧縮水素を製造する者であって、第十八条第二項各号に掲げる事業所の区分に応じ、当該各号に定める者を除く。）は、法第十六条第一項において準用する高圧ガス保安法第三十五条の二の自主検査を行うときは、その選任した保安係員に当該自主検査の実施について監督を行わせなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二の規定により、特定製造期間における承認製造者は、同条の検査記録に次の各号に掲げる事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">検査をしたガス設備</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">検査をしたガス設備ごとの検査の方法及び結果</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">検査年月日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">検査の実施について監督を行った保安係員の氏名</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電磁的方法による保存）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十二条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第三十五条の二に規定する検査記録は、前条第五項各号に掲げる事項を電磁的方法（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。）により記録することにより作成し、保存することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定による保存をする場合には、同項の検査記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにしておかなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定による保存をする場合には、経済産業大臣が定める基準を確保するよう努めなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第六節　帳簿</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（帳簿）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十三条</span>　<span data-xpath="">法第十六条第一項において準用する高圧ガス保安法第六十条第一項の規定により、特定製造期間における承認製造者は、事業所ごとに、次の表の上欄に掲げる場合に応じ、それぞれ同表の下欄に掲げる事項を記載した帳簿を備え、同表第一号及び第二号に掲げる場合にあっては記載の日から二年間、同表第三号に掲げる場合にあっては記載の日から十年間保存しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載すべき場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載すべき事項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　高圧低炭素水素等ガスを容器に充塡した場合（高圧低炭素水素等ガスのうち圧縮水素を燃料として使用する車両に固定した燃料装置用容器に当該圧縮水素を充塡した場合を除く。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">充塡容器の記号及び番号、充塡容器ごとの高圧低炭素水素等ガスの種類及び充塡圧力（液化ガスについては、充塡質量）並びに充塡年月日</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　高圧低炭素水素等ガスを容器により授受した場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">充塡容器の記号及び番号、充塡容器ごとの高圧低炭素水素等ガスの種類及び充塡圧力（液化ガスについては、充塡質量）、授受先並びに授受年月日</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三　製造施設に異常があった場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">異常があった年月日及びこれに対してとった措置</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第四章　高圧低炭素水素等ガスの貯蔵に係る承認等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Sectiot"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第一節　高圧低炭素水素等ガスの貯蔵に係る承認等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（承認貯蔵所の設置の承認の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十四条</span>　<span data-xpath="">法第十七条第一項の規定により承認を受けようとする者は、様式第二十五の貯蔵所設置承認申請書に第一号から第三号までに掲げる事項を記載した書面並びに第四号に掲げる図面を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">貯蔵の目的</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">高圧ガス保安法第十六条第二項の経済産業省令で定める技術上の基準に関する事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">移設等に係る貯蔵設備にあっては、当該貯蔵設備の使用の経歴及び保管状態の記録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">貯蔵所の位置及び付近の状況を示す図面</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定貯蔵期間における承認貯蔵所に係る承継の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十五条</span>　<span data-xpath="">法第十八条第二項の規定により、特定貯蔵期間における承認貯蔵所について、その設置の承認を受けた者の地位の承継を届け出ようとする者は、様式第二十六の承認貯蔵所承継届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定貯蔵期間における承認貯蔵所に係る変更の工事の承認の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十六条</span>　<span data-xpath="">法第十九条第一項の規定により承認を受けようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第二十七の承認貯蔵所位置等変更承認申請書に変更明細書を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する変更明細書には、第三十四条各号に掲げる事項のうち、変更のあった部分について記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定貯蔵期間における承認貯蔵所に係る軽微な変更の工事の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十七条</span>　<span data-xpath="">法第十九条第二項の規定により届出をしようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第二十八の承認貯蔵所軽微変更届書に当該変更の概要を記載した書面を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第二節　高圧低炭素水素等ガスの貯蔵の開始等に係る届出</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（高圧低炭素水素等ガスの貯蔵の開始又は廃止の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十八条</span>　<span data-xpath="">法第二十条の規定により貯蔵の開始を届け出ようとする承認貯蔵所の所有者又は占有者は、様式第二十九の高圧低炭素水素等ガス貯蔵開始届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十条の規定により貯蔵の廃止を届け出ようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第三十の承認貯蔵所廃止届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第三節　完成検査</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十九条</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第一項本文又は第三項本文の規定により、承認貯蔵所について経済産業大臣が行う完成検査を受けようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第三十一の承認貯蔵所完成検査申請書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">経済産業大臣は、法第二十一条において準用する高圧ガス保安法第二十条第一項本文又は第三項本文の完成検査において、承認貯蔵所が高圧ガス保安法第十六条第二項の経済産業省令で定める技術上の基準に適合していると認めるときは様式第三十二の承認貯蔵所完成検査証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等が行う完成検査の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十条</span>　<span data-xpath="">前条の規定は、協会が行う完成検査について準用する。</span><span data-xpath="">この場合において、同条中「法第二十一条において準用する高圧ガス保安法第二十条第一項本文又は第三項本文」とあるのは「法第二十一条において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号」と、「経済産業大臣」とあるのは「協会」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号の規定により、協会が行う完成検査を受けた旨を届け出ようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第三十三の高圧ガス保安協会完成検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前条の規定は、指定完成検査機関が行う完成検査について準用する。</span><span data-xpath="">この場合において、同条中「法第二十一条において準用する高圧ガス保安法第二十条第一項本文又は第三項本文」とあるのは「法第二十一条において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号」と、「経済産業大臣」とあるのは「指定完成検査機関」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第一項ただし書又は第三項第一号の規定により、指定完成検査機関が行う完成検査を受けた旨を届け出ようとする特定貯蔵期間における承認貯蔵所の所有者又は占有者は、様式第三十四の指定完成検査機関完成検査受検届書を経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査を要しない変更の工事の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十一条</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第三項の経済産業省令で定めるものは、一般高圧ガス保安規則第三十三条（第一号及び第二号を除く。）に規定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（協会等の完成検査の報告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十二条</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第四項の規定により、協会が同項の報告をしようとするときは、様式第三十五の完成検査結果報告書に完成検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第四項の規定により、指定完成検査機関が同項の報告をしようとするときは、様式第三十六の完成検査結果報告書に完成検査の記録を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（完成検査の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十三条</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第二十条第五項の経済産業省令で定める完成検査の方法は、一般高圧ガス保安規則第三十五条第二項に規定する完成検査の方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Section followingSection"><div style="margin-left: 4em; font-weight: bold;" class="SectionTitle _div_SectionTitle _shokanBoxParent">
+    <div class="SectionTitle">第四節　帳簿</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（帳簿）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十四条</span>　<span data-xpath="">法第二十一条において準用する高圧ガス保安法第六十条第一項の規定により、特定貯蔵期間における承認貯蔵所の所有者又は占有者は、貯蔵所ごとに、次の表の上欄に掲げる場合に応じ、それぞれ同表の下欄に掲げる事項を記載した帳簿を備え、同表第一号に掲げる場合にあっては記載の日から二年間、同表第二号に掲げる場合にあっては記載の日から十年間保存しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載すべき場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載すべき事項</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　高圧低炭素水素等ガスを容器により授受した場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">充塡容器の記号及び番号、充塡容器ごとの高圧低炭素水素等ガスの種類及び圧力（液化ガスについては、充塡質量）、授受先並びに授受年月日</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　承認貯蔵所に異常があった場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">異常があった年月日及びそれに対してとった措置</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第五章　高圧低炭素水素等ガスの輸入に係る検査等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（輸入検査の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十五条</span>　<span data-xpath="">法第二十二条第一項の規定により特定輸入期間における輸入検査を受けようとする認定供給等事業者は、様式第三十七の輸入検査申請書に様式第三十八の輸入高圧低炭素水素等ガス明細書を添えて、経済産業大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の輸入高圧低炭素水素等ガス明細書には、次の各号に掲げる事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">高圧低炭素水素等ガスの圧力及び成分並びに製造をした事業所の名称及び所在地</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">容器の種類並びに製造所の名称及び所在地</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">経済産業大臣は、輸入をした高圧低炭素水素等ガス及びその容器が高圧ガス保安法第二十二条第一項に規定する輸入検査技術基準に適合していると認めるときは、様式第三十九の輸入検査認定証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（輸入検査の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十六条</span>　<span data-xpath="">法第二十二条第二項の経済産業省令で定める輸入検査の方法は、次の表の上欄に掲げる検査項目に応じ、同表の下欄に掲げる方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">検査項目</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">輸入検査の方法</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　一般高圧ガス保安規則第四十五条の三に規定する高圧ガスに関する内容物確認試験</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">輸入をした高圧低炭素水素等ガスの圧力、成分等を、分析、記録等により検査する。</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　一般高圧ガス保安規則第四十五条の三に規定する容器に関する安全度試験</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">輸入をした高圧低炭素水素等ガスの容器の安全度を、高圧ガス保安法第四十四条第一項の容器検査の方法、記録等により検査する。</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第六章　通知等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（関係都道府県知事への通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十七条</span>　<span data-xpath="">経済産業大臣は、法第二十四条第一項各号に掲げる場合には、その承認、認定等の処分を受け、又は届出をした承認製造者の名称及びその事業所の名称及び所在地、承認貯蔵所の所有者若しくは占有者の名称及び当該承認貯蔵所の名称及び所在地若しくは認定供給等事業者の名称並びにその処分をし、又は届出を受理した年月日のほか、次条に規定する事項その他参考となる事項について、当該事業所若しくは承認貯蔵所の所在地（移動式製造設備を使用する承認製造者にあっては、当該設備の使用の本拠の所在地。以下同じ。）又は輸入する高圧低炭素水素等ガスの陸揚地を管轄する都道府県知事（当該事業所、承認貯蔵所又は陸揚地が地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）の区域内にある場合であって、当該事業所、承認貯蔵所又は陸揚地に係る事務が脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行令（令和六年政令第三百十四号）第二項に規定する事務に該当しない場合にあっては、当該事業所若しくは承認貯蔵所の所在地又は陸揚地を管轄する指定都市の長）に文書をもって通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法第二十四条第一項の経済産業省令で定める事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十八条</span>　<span data-xpath="">法第二十四条第一項に規定する経済産業省令で定める事項は、次の各号に掲げる場合の区分に応じ、当該各号に定める事項とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第二十四条第一項第一号に掲げる場合</span>　<span data-xpath="">承認の申請に係る書類の写し及び法第三十六条の規定により当該承認に条件を付した場合にはその条件</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">法第二十四条第一項第二号に掲げる場合</span>　<span data-xpath="">届出に係る書類の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">法第二十四条第一項第三号に掲げる場合</span>　<span data-xpath="">命令又は勧告の内容及びその理由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">法第二十四条第一項第四号に掲げる場合</span>　<span data-xpath="">次のイ、ロ又はハに掲げる検査の種類に応じ、それぞれイ、ロ又はハに定める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">完成検査</span>　<span data-xpath="">製造施設完成検査証又は承認貯蔵所完成検査証（協会が行った完成検査にあっては高圧ガス保安協会完成検査受検届書及び完成検査結果報告書（完成検査の記録を含む。）、指定完成検査機関が行った完成検査にあっては指定完成検査機関完成検査受検届書及び完成検査結果報告書（完成検査の記録を含む。））の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">保安検査</span>　<span data-xpath="">保安検査証（協会が行った保安検査にあっては高圧ガス保安協会保安検査受検届書及び保安検査結果報告書（保安検査の記録を含む。）、指定保安検査機関が行った保安検査にあっては指定保安検査機関保安検査受検届書及び保安検査結果報告書（保安検査の記録を含む。））の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">輸入検査</span>　<span data-xpath="">輸入検査認定書及び輸入高圧低炭素水素等ガス明細書の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">法第二十四条第一項第五号に掲げる場合</span>　<span data-xpath="">承認を取り消した理由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（都道府県公安委員会等への通報）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十九条</span>　<span data-xpath="">法第二十四条第二項の規定により、次の表の上欄に掲げる者は、同表の中欄に掲げる通知を受けたときは、その旨をそれぞれ同表の下欄に係る者に通報しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">都道府県知事</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">法第十二条第一項若しくは第十七条第一項の承認、法第十五条若しくは第二十条の規定による届出又は法第二十三条の規定による承認の取消し</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該都道府県知事が所轄する都道府県公安委員会</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該承認、届出又は承認の取消しに係る承認製造者の事業所又は承認貯蔵所の所在地を管轄する消防長（消防本部を置かない市町村にあっては、市町村長）及び当該事業所又は承認貯蔵所が海域に係るものである場合には、その所在地を管轄する管区海上保安本部長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">指定都市の長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">法第十二条第一項若しくは第十七条第一項の承認、法第十五条若しくは第二十条の規定による届出又は法第二十三条の規定による承認の取消し</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該指定都市の区域を管轄する都道府県公安委員会</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該承認、届出又は承認の取消しに係る承認製造者の事業所又は承認貯蔵所の所在地を管轄する消防長（消防本部を置かない市町村にあっては、市町村長）及び当該事業所又は承認貯蔵所が海域に係るものである場合には、その所在地を管轄する管区海上保安本部長</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第七章　特定水素等供給事業者の要件</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十条</span>　<span data-xpath="">脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律施行令第一項の経済産業省令で定める要件は、当該年度の前年度において供給を行ったアンモニアの量が十万トン以上であることとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第八章　雑則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（意見の聴取の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十一条</span>　<span data-xpath="">法第二十九条において準用する高圧ガス保安法第七十八条の規定に基づく意見の聴取の手続については、高圧ガス保安法の規定に基づく意見の聴取の手続に関する規則（平成十八年経済産業省令第三十号）の定めるところによるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（収去証）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十二条</span>　<span data-xpath="">法第三十八条第一項の規定により、経済産業大臣がその職員により高圧低炭素水素等ガスを収去するときは、被収去者に様式第四十の収去証を交付しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（身分を示す証明書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十三条</span>　<span data-xpath="">法第三十八条第三項（経済産業大臣、都道府県知事又は指定都市の長が公共の安全の維持又は災害の発生の防止のため必要があると認め、同条第一項の規定による立入検査を行う場合に限る。）の規定により経済産業大臣、都道府県知事又は指定都市の長がその職員に携帯させる証明書は、様式第四十一によるものとする。</span><span data-xpath="">ただし、都道府県知事又は指定都市の長がその職員に携帯させる証明書にあっては、経済産業省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令（令和三年経済産業省令第七十七号）別記様式による立入検査等をする職員の携帯する身分を示す証明書の法令の条項の欄に、その規定を記載した場合は、当該証明書を様式第四十一の証明書とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三十八条第三項の証明書（同条第二項による立入検査を行う場合に限る。）の様式は、様式第四十二のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（条例等に係る適用除外）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五十四条</span>　<span data-xpath="">前条第一項（都道府県知事又は指定都市の長の事務に係る部分に限る。）の規定は、都道府県又は指定都市の条例、規則その他の定めに別段の定めがあるときは、その限度において適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、法の施行の日（令和六年十月二十三日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第一（第５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074623.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二（第７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074624.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三（第８条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074625.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第四（第９条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074626.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第五（第１０条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074627.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第六（第１０条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074628.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第七（第１１条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074629.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第八（第１１条、第１２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074630.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第九（第１２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074631.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十（第１２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074632.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十一（第１４条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074633.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十二（第１４条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074634.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十三（第１７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074635.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十四（第２１条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074636.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十五（第２１条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074637.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十六（第２５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074638.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十七（第２６条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074639.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十八（第２７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074640.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十九（第２７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074641.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十（第２７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074642.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十一（第２８条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074643.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十二（第２８条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074644.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十三（第２９条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074645.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十四（第２９条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074646.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十五（第３４条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074647.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十六（第３５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074648.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十七（第３６条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074649.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十八（第３７条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074650.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二十九（第３８条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074651.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十（第３８条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074652.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十一（第３９条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074653.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十二（第３９条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074654.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十三（第４０条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074655.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十四（第４０条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074656.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十五（第４２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074657.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十六（第４２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074658.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十七（第４５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074659.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十八（第４５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074660.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三十九（第４５条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074661.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第四十（第５２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074662.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第四十一（第５３条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074663.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第四十二（第５３条第２項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2FH00000074664.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

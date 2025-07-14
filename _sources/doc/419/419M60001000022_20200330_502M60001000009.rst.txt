@@ -1,0 +1,118 @@
+.. _419M60001000022_20200330_502M60001000009:
+
+:orphan:
+
+====================================================================
+特定二酸化炭素ガスに含まれる二酸化炭素の濃度の測定の方法を定める省令
+====================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十九年環境省令第二十二号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">特定二酸化炭素ガスに含まれる二酸化炭素の濃度の測定の方法を定める省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第十一条の五第二項の規定に基づき、特定二酸化炭素ガスに含まれる二酸化炭素の濃度の測定の方法を定める省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（二酸化炭素の濃度の測定の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">海洋汚染等及び海上災害の防止に関する法律施行令（昭和四十六年政令第二百一号）第十一条の五第二項の環境省令で定める二酸化炭素の濃度の測定の方法は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">摂氏五度から三十五度までの範囲の温度を保った試料を用いること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">二酸化炭素の濃度は、次のいずれかに掲げる方法により測定して算定された値とすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">測定しようとするガス中の不純物（水素、窒素、酸素、炭化水素及び一酸化炭素をいう。以下同じ。）の濃度を次の（１）から（３）までに適合するように測定した上で、当該ガス中の二酸化炭素の濃度を次の式により算定する方法</span><br><span data-xpath=""><div style="display:inline-block;text-indent:0;">Ｃ＝１００－（Ａｈ＋Ａｎ＋Ａｏ＋Ａｃ＋Ａｍ）</div></span><br><span data-xpath="">（この式においてＣ、Ａｈ、Ａｎ、Ａｏ、Ａｃ及びＡｍは、それぞれ次の値を表すものとする。</span><br><span data-xpath="">Ｃ　二酸化炭素の濃度（単位　体積百分率）</span><br><span data-xpath="">Ａｈ　測定された水素の濃度（単位　体積百分率）</span><br><span data-xpath="">Ａｎ　測定された窒素の濃度（単位　体積百分率）</span><br><span data-xpath="">Ａｏ　測定された酸素の濃度（単位　体積百分率）</span><br><span data-xpath="">Ａｃ　測定された炭化水素の濃度（単位　体積百分率）</span><br><span data-xpath="">Ａｍ　測定された一酸化炭素の濃度（単位　体積百分率）</span><br><span data-xpath="">なお、算定する二酸化炭素の濃度は、乾きガス中の濃度とし、その算定に当たっては、日本産業規格Ｋ〇二二五の十一に定める方法により測定した水分の値を用いることとする。）</span><br><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">不純物の濃度の測定は、日本産業規格Ｋ〇一一四の四に定めるガスクロマトグラフ分析法により行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">（１）の測定を行うに当たっては、次表の上欄に掲げる不純物の区分ごとに、同表下欄に掲げる装置及びその操作の方法並びに定量法を用いることとする。</span><div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">装置及びその操作の方法並びに定量法</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">炭化水素及び一酸化炭素以外の不純物</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">１　日本産業規格Ｋ一一〇六の四・三・一（４）及び（６）（ａ）に定める装置</span><br><span data-xpath="">２　日本産業規格Ｋ〇一一四の九・三に定める操作の方法（ただし、分析条件については日本産業規格Ｋ一一〇六の四・三・一（６）（ｂ）に定める分析条件を用いることとする。）</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">炭化水素</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">日本産業規格Ｋ〇二二五の九に定める装置及びその操作の方法並びに定量法</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一酸化炭素</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">日本産業規格Ｋ〇二二五の七・一に定める装置及びその操作の方法並びに定量法</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">（１）の測定に用いる校正用ガスは、ヘリウムの濃度が体積百分率九十九・九九九パーセント以上のガス、日本産業規格Ｋ〇五一二に定める水素標準ガス、日本産業規格Ｋ一一〇一に定める酸素標準ガス、日本産業規格Ｋ一一〇七の表に規定する窒素、高純度炭化水素及び高純度一酸化炭素を質量比混合法により調製したものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">日本産業規格Ｋ一一〇六の四・三・二に定めるアルカリ吸収法により、測定しようとするガス中の二酸化炭素の濃度を測定する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（その他の事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令における用語その他二酸化炭素の濃度の測定の方法に関する事項で、この省令に定めのないものについては、日本産業規格Ｋ〇一一四及び日本産業規格Ｋ一一〇六の定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律（平成十九年法律第六十二号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年三月三〇日環境省令第九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    
