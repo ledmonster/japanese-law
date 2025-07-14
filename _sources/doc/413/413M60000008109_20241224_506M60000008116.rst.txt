@@ -1,0 +1,694 @@
+.. _413M60000008109_20241224_506M60000008116:
+
+:orphan:
+
+============================================================
+地方財政法第三十三条の五の二第一項の額の算定方法を定める省令
+============================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十三年総務省令第百九号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">地方財政法第三十三条の五の二第一項の額の算定方法を定める省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">地方財政法（昭和二十三年法律第百九号）第三十三条の五の二第一項の規定に基づき、地方財政法第三十三条の五の二第一項の額の算定方法を定める省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地方財政法第三十三条の五の二第一項の額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">地方財政法（以下「法」という。）第三十三条の五の二第一項の額は、道府県にあつては第一号に掲げる額と、市町村にあつては第二号に掲げる額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該道府県の控除前財源不足額（地方交付税法（昭和二十五年法律第二百十一号）第十条第三項本文の規定により令和六年八月三十一日までに決定された普通交付税の額の算定に用いた同法附則第六条の三の規定の適用がないものとした場合における同法第十一条の規定によつて算定した基準財政需要額が同法第十四条の規定によつて算定した基準財政収入額を超える額（当該額が零を下回る場合には、零とする。）をいう。以下この条及び第三条において同じ。）に当該道府県の次のイからホまでに掲げる数値を合算したものの五分の一の数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。以下この条及び第三条において「補正指数」という。）に別表第一のＡに定める当該補正指数の段階に応ずる率を乗じて得た数と同表のＢに定める当該補正指数の段階に応ずる数を合算した数に〇・〇二五三を乗じて得た率（ただし、当該率が〇・七五を超える場合は、〇・七五とする。）を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）に、〇・九九五一四二六を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">令和五年度における地方交付税法第十四条の規定によつて算定した基準財政収入額を地方交付税法等の一部を改正する法律（令和六年法律第五号）第一条の規定による改正前の地方交付税法附則第六条の三の規定の適用がないものとした場合における地方交付税法第十一条の規定によつて算定した当該年度の基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">令和四年度における地方交付税法第十四条の規定によつて算定した基準財政収入額を地方交付税法等の一部を改正する法律（令和五年法律第二号）第一条の規定による改正前の地方交付税法附則第六条の二の規定の適用がないものとした場合における地方交付税法第十一条の規定によつて算定した当該年度の基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">令和三年度における地方交付税法第十四条の規定によつて算定した基準財政収入額を地方交付税法等の一部を改正する法律（令和四年法律第二号）第一条の規定による改正前の地方交付税法附則第六条の二の規定の適用がないものとした場合における地方交付税法第十一条の規定によつて算定した当該年度の基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">令和二年度における地方交付税法第十四条の規定によつて算定した基準財政収入額を地方交付税法等の一部を改正する法律（令和三年法律第八号）第一条の規定による改正前の地方交付税法附則第六条の規定の適用がないものとした場合における地方交付税法第十一条の規定によつて算定した当該年度の基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">令和元年度における地方交付税法第十四条の規定によつて算定した基準財政収入額を地方交付税法等の一部を改正する法律（令和二年法律第六号）第一条の規定による改正前の地方交付税法附則第六条の二の規定の適用がないものとした場合における地方交付税法第十一条の規定によつて算定した当該年度の基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該市町村の控除前財源不足額に当該市町村の補正指数に別表第二のＡに定める当該補正指数の段階に応ずる率を乗じて得た数と同表のＢに定める当該補正指数の段階に応ずる数を合算した数（ただし、当該数について、補正指数が一・〇〇の場合に得た数を超える場合は、補正指数が一・〇〇の場合に得た数とする。）に〇・〇二五一を乗じて得た率（ただし、当該率が〇・八五を超える場合は、〇・八五とする。）を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）に、〇・九九四六三九六を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">二千三百九十九億三千五百五十万四千円と各道府県について前項第一号に掲げる額の合算額との間に差額があるときは、その差額を同号に掲げる額の最も大きい道府県の額に加算し、又はこれから減額する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">二千百四十四億八千七百七十九万九千円と各市町村について第一項第二号に掲げる額（ただし、合併市町村（普通交付税に関する省令（昭和三十七年自治省令第十七号。以下「普通交付税省令」という。）第四十八条第一項の規定の適用を受ける市町村をいう。以下同じ。）にあつては次条の規定によつて算定した額とする。）の合算額との間に差額があるときは、その差額を同号の規定により算定した額の最も大きい市町村の額に加算し、又はこれから減額する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（合併市町村の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">合併市町村に係る法第三十三条の五の二第一項の額は、次の算式によつて算定した額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">Ａ－Ｂ≧０の場合　Ｃ</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">Ａ－Ｂ＜０の場合　Ｄ</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式の符号</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ　当該合併市町村に係る地方交付税法第１０条第３項本文の規定により令和６年８月３１日までに決定された普通交付税の額の算定に用いた普通交付税省令第４８条第１項の算式の符号Ａに同じ。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｂ　当該合併市町村に係る地方交付税法第１０条第３項本文の規定により令和６年８月３１日までに決定された普通交付税の額の算定に用いた普通交付税省令第４８条第１項の算式の符号Ｂに同じ。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｃ　当該合併市町村に係る合併関係市町村（普通交付税省令第４８条第１項に規定する合併関係市町村をいう。以下同じ。）ごとに次項から第４項までの規定によつて算定した法第３３条の５の２第１項の額の合算額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｄ　当該合併市町村について前条の規定によつて算定した額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">合併関係市町村に係る法第三十三条の五の二第一項の額は、次項に規定する当該合併関係市町村に係る控除前財源不足額に第四項に規定する当該合併関係市町村に係る補正指数に別表第二のＡに定める当該補正指数の段階に応ずる率を乗じて得た数と同表のＢに定める当該補正指数の段階に応ずる数を合算した数（ただし、当該数について、補正指数が一・〇〇の場合に得た数を超える場合は、補正指数が一・〇〇の場合に得た数とする。）に〇・〇二五一を乗じて得た率（ただし、当該率が〇・八五を超える場合は、〇・八五とする。）を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）に、〇・九九四六三九六を乗じて得た額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">合併関係市町村に係る控除前財源不足額は、次の算式によつて算定した額を、合併関係市町村が当該年度の四月一日現在において全てなお従前の区域をもつて存続していたものと仮定した場合において各合併関係市町村につきそれぞれ地方交付税法第十条第三項本文の規定により令和六年八月三十一日までに決定された普通交付税の額の算定に用いた普通交付税省令附則第十九条の十六第十項の規定の適用がないものとした場合における普通交付税省令第四十九条の規定をもつて算定した基準財政需要額が普通交付税省令第五十条の規定によつて算定した基準財政収入額を超える額により<ruby class="law-ruby">按<rt class="law-ruby">あん</rt></ruby>分した額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">（Ａ－Ｂ）×α＋Ｂ</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">（Ａ－Ｂ）が負数となるときは、（Ａ－Ｂ）は０とする。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式の符号</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ　地方交付税法第１０条第３項本文の規定により令和６年８月３１日までに決定された普通交付税の額の算定に用いた普通交付税省令附則第１９条の１６第１０項の規定の適用がないものとした場合における普通交付税省令第４８条第１項の算式の符号Ａに同じ。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｂ　地方交付税法第１０条第３項本文の規定により令和６年８月３１日までに決定された普通交付税の額の算定に用いた同法附則第６条の３の規定の適用がないものとした場合における普通交付税省令第４８条第１項の算式の符号Ｂに同じ。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">α　普通交付税省令第４８条第１項の算式の符号αに同じ。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">合併関係市町村に係る補正指数は、第一号から第五号までに掲げる数値（ただし、令和五年四月二日から令和六年四月一日までに行われた市町村の合併の特例に関する法律（平成十六年法律第五十九号）第二条第一項の市町村の合併（以下「法適用合併」という。）に係る合併関係市町村にあつては、前条第一項第一号イからホまでに掲げる数値、令和四年四月二日から令和五年四月一日までに行われた法適用合併に係る合併関係市町村にあつては、第一号及び同項第一号ロからホまでに掲げる数値、令和三年四月二日から令和四年四月一日までに行われた法適用合併に係る合併関係市町村にあつては、第一号及び第二号並びに同項第一号ハからホまでに掲げる数値、令和二年四月二日から令和三年四月一日までに行われた法適用合併に係る合併関係市町村にあつては、第一号から第三号まで並びに同項第一号ニ及びホに掲げる数値、平成三十一年四月二日から令和二年四月一日までに行われた法適用合併に係る合併関係市町村にあつては、第一号から第四号まで及び同項第一号ホに掲げる数値）を合算したものの五分の一の数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">令和五年度における普通交付税に関する省令の一部を改正する省令（令和六年総務省令第七十五号）による改正前の普通交付税に関する省令第五十条の規定によつて算定した基準財政収入額を同令附則第十九条の十六第十項の規定の適用がないものとした場合における同令附則第十九条の十四第十一項、附則第十九条の十四の二第十一項、附則第十九条の十四の三第十項、附則第十九条の十四の四第九項、附則第十九条の十四の五第九項、附則第十九条の十四の六第六項及び附則第二十一条第二項の規定により読み替えられた同令第四十九条の規定によつて算定した基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">令和四年度における普通交付税に関する省令の一部を改正する省令（令和五年総務省令第六十一号）による改正前の普通交付税に関する省令第五十条の規定によつて算定した基準財政収入額を同令附則第十九条の十六第十項の規定の適用がないものとした場合における同令附則第十九条の十四第十一項、附則第十九条の十四の二第十一項、附則第十九条の十四の三第十項、附則第十九条の十四の四第九項、附則第十九条の十四の五第九項及び附則第二十一条第二項の規定により読み替えられた同令第四十九条の規定によつて算定した基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">令和三年度における普通交付税に関する省令の一部を改正する省令（令和四年総務省令第五十号）による改正前の普通交付税に関する省令第五十条の規定によつて算定した基準財政収入額を同令附則第十九条の十六第九項の規定の適用がないものとした場合における同令附則第十九条の十四第十一項、附則第十九条の十四の二第十一項、附則第十九条の十四の三第十項、附則第十九条の十四の四第九項、附則第十九条の十四の五第九項、附則第十九条の十四の六第四項及び附則第二十一条第二項の規定により読み替えられた同令第四十九条の規定によつて算定した基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">令和二年度における普通交付税に関する省令の一部を改正する省令（令和三年総務省令第七十六号）による改正前の普通交付税に関する省令第五十条の規定によつて算定した基準財政収入額を同令附則第十九条の十六第九項の規定の適用がないものとした場合における同令附則第十九条の十四第十一項、附則第十九条の十四の二第十一項、附則第十九条の十四の三第十項及び附則第二十一条第二項の規定により読み替えられた同令第四十九条の規定によつて算定した基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">令和元年度における普通交付税に関する省令の一部を改正する省令（令和二年総務省令第七十二号）による改正前の普通交付税に関する省令第五十条の規定によつて算定した基準財政収入額を同令附則第十九条の十六第九項の規定の適用がないものとした場合における同令附則第十九条の十四第十一項、附則第十九条の十四の二第十一項及び附則第二十一条第二項の規定により読み替えられた同令第四十九条の規定によつて算定した基準財政需要額で除して得た数値（小数点以下二位未満の端数があるときは、その端数を四捨五入する。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（都及び特別区の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">都に係る法第三十三条の五の二第一項の額は、その全区域を道府県とみなして第一条の規定を適用して算定した額とし、特別区に係る同項の額は、特別区の存する区域を市町村とみなして第一条の規定を適用して算定した額を控除前財源不足額に準ずるものとして総務大臣が調査した額により特別区ごとに按分した額（五百円未満の端数があるときはその端数金額を切り捨て、五百円以上千円未満の端数があるときはその端数金額を千円とする。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、特別区の存する区域を市町村とみなして第一条の規定を適用して算定した額と同項の規定によつて特別区ごとに按分した額の合算額との間に差額があるときは、その差額を同項の規定によつて特別区ごとに按分した額の最も大きい特別区の法第三十三条の五の二第一項の額に加算し、又はこれから減額する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の場合において、都及び特別区に係る控除前財源不足額については次の各号の場合に掲げる区分に応じ、当該各号に掲げる額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">都の全区域を道府県とみなして算定した控除前財源不足額（以下この項において「都控除前財源不足額」という。）が零を下回り、かつ、特別区の存する区域を市町村とみなして算定した控除前財源不足額（以下この項において「特別区控除前財源不足額」という。）が零を下回る場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">都の全区域を道府県とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">零</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特別区の存する区域を市町村とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">零</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">都控除前財源不足額が零以上であり、かつ、特別区控除前財源不足額が零以上の場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">都の全区域を道府県とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">都控除前財源不足額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特別区の存する区域を市町村とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">特別区控除前財源不足額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">都控除前財源不足額が零以上であり、かつ、特別区控除前財源不足額が零を下回る場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">都の全区域を道府県とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">都控除前財源不足額及び特別区控除前財源不足額の合算額（当該合算額が零を下回る場合には、零とする。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特別区の存する区域を市町村とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">零</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">都控除前財源不足額が零を下回り、かつ、特別区控除前財源不足額が零以上の場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">都の全区域を道府県とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">零</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特別区の存する区域を市町村とみなして算定する場合の控除前財源不足額</span>　<span data-xpath="">都控除前財源不足額及び特別区控除前財源不足額の合算額（当該合算額が零を下回る場合には、零とする。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（雑則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">この省令に定めるもののほか、法第三十三条の五の二第一項の額の算定方法については、地方交付税法附則第六条の三に規定する令和六年度における基準財政需要額の算定方法の特例に係る控除額の算定方法の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一四年七月二六日総務省令第八四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十四年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年二月五日総務省令第三〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十四年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一五年七月二五日総務省令第一〇四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十五年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一六年七月二七日総務省令第一一〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十六年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年七月二六日総務省令第一一五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十七年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一八年七月二五日総務省令第一〇二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十八年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年七月三一日総務省令第八七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成十九年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年六月一七日総務省令第七三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年八月一五日総務省令第九一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行し、平成二十年度分の地方財政法第三十三条の五の二第一項の額から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二一年三月三一日総務省令第三七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成二十一年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二一年七月二八日総務省令第八〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二二年三月三一日総務省令第三〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成二十二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二二年七月二三日総務省令第七九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二二年一二月七日総務省令第一〇七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年三月三一日総務省令第三四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成二十三年四月一日から施行し、第二条による改正後の地方債に関する省令附則第一条の二の規定は、平成二十三年三月十一日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年八月五日総務省令第一一六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年一〇月二六日総務省令第一四四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年三月三一日総務省令第二九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、平成二十四年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年七月二四日総務省令第七三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年七月二三日総務省令第七四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二六年七月二五日総務省令第六五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年七月二四日総務省令第六六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年七月二六日総務省令第七六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年七月二五日総務省令第五四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年七月二四日総務省令第四八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年七月二三日総務省令第三一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年七月三一日総務省令第七四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年八月三日総務省令第七八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年一二月二四日総務省令第一一一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年七月二六日総務省令第五二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年一二月九日総務省令第七三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和五年七月二八日総務省令第六三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和五年一二月八日総務省令第八八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年七月二三日総務省令第七七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年一二月二四日総務省令第一一六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別表第一<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TableStructTitle _shokanBoxParent">道府県の補正指数に係る率等（第１条関係）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">補正指数区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">率等</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ａ</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">Ｂ</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">補正指数が０．２０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．５９９７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．０１９８</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．２０以上０．３０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．５９９７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．０１９８</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．３０以上０．４０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．６８７８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．０４７５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．４０以上０．５０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">４．５６８０</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－１．６００７</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．５０以上０．６０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">８．８１８５</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－３．７２４５</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．６０以上０．７０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">２１．４１１４</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－１１．２８０４</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．７０以上のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">３４．８３４８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－２０．６７８７</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別表第二<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TableStructTitle _shokanBoxParent">市町村の補正指数に係る率等（第１条、第２条関係）<div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">補正指数区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" colspan="6"><div><span data-xpath="">率等</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad" colspan="2"><div><span data-xpath="">指定都市</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad" colspan="2"><div><span data-xpath="">中核市・施行時特例市</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad" colspan="2"><div><span data-xpath="">その他</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ａ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ｂ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ａ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ｂ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">Ａ</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">Ｂ</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">補正指数が０．１０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．２６２３</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．８０１７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．５７１２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．１５４６</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．２０３７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">０．０５２７</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．１０以上０．２０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．３４２２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．７９３７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．７７５０</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．１３４２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．２４３７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">０．０４８７</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．２０以上０．３０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．９１３４</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．６７９９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．１３８５</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．０６１１</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．４４７４</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">０．００８０</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．３０以上０．４０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">２．５６４５</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．４８４５</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．７４９６</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－０．１２２２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">０．６９１１</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．０６５１</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．４０以上０．５０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">４．７６１６</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－０．３９４７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">２．８４８２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－０．５６１６</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．１８２４</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．２６０４</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．５０以上０．６０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">６．７１５０</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－１．３７１８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">４．２７４２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－１．２７３９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１．７８９６</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－０．５６５６</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．６０以上０．７０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">９．６０７１</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－３．１０５８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">６．７９８８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－２．７８８２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">３．０９１８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－１．３４７４</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．７０以上０．８０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１２．４５５２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－５．１００３</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">９．６８６９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－４．８１１１</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">４．９６５３</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－２．６５８０</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．８０以上０．９０未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１３．５９３７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－６．０１１９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１０．１７４３</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－５．２０２２</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">５．５７６５</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－３．１４６６</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上０．９０以上１．００未満のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１４．１６４９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－６．５２４８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１０．６２５７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－５．６０４８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">６．１０３８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－３．６２２７</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同上１．００以上のもの</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１４．１６４９</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－６．５２４８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">１０．６２５７</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">－５．６０４８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div><span data-xpath="">６．１０３８</span></div></td>
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black none 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">－３．６２２７</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

@@ -1,0 +1,146 @@
+.. _409M50000008015_19980227_410M50000008004:
+
+:orphan:
+
+====================================================
+地方財政法第三十三条の四第二項の額の算定に関する省令
+====================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成九年自治省令第十五号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">地方財政法第三十三条の四第二項の額の算定に関する省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">地方財政法（昭和二十三年法律第百九号）第三十三条の四第二項の規定に基づき、地方財政法第三十三条の四第二項の額の算定に関する省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">地方財政法（昭和二十三年法律第百九号。以下「法」という。）第三十三条の四第二項に規定する地方税法第七十二条の百十四第一項に規定する消費に相当する額を基礎として自治省令で定める方法により算定した額は、次の算式により算定した額（千円未満の額があるときは、その千円未満の額を四捨五入する。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">（Ａ＋Ｂ＋Ｃ×２６４，７２６円＋Ｄ×５５３，６６６円）×α</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｃ×２６４，７２６円又はＤ×５５３，６６６円に百万円未満の額があるときは、その百万円未満の額を四捨五入する。</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式の符号</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ</span>　<span data-xpath="">商業統計調査規則（昭和２７年通商産業省令第６０号）によって平成６年７月１日現在によって行った同令第１条に規定する商業調査の結果として公表された平成６年商業統計表第４巻品目編第２表（区市郡別、商品（小売）別の商店数、年間販売額）の表頭「小売計」のうち「年間販売額」の欄の当該都道府県の額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｂ</span>　<span data-xpath="">サービス業基本調査規則（平成元年総理府令第２０号）によって平成６年１１月１日現在によって行った同令第１条に規定するサービス業基本調査の結果として公表された平成６年サービス業基本調査報告第２巻地域編第１０表（産業（中分類）別事業所数及びサービスの提供先（９区分）別事業収入額―都道府県、１３大都市）の表頭「事業収入額」のうち「対個人」の欄の当該都道府県の額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｃ</span>　<span data-xpath="">国勢調査令（昭和５５年政令第９８号）によって調査した平成７年１０月１日現在における当該都道府県の人口</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｄ</span>　<span data-xpath="">事業所・企業統計調査規則（昭和５６年総理府令第２６号）によって調査した平成３年７月１日現在における当該都道府県の従業者数（ただし、長崎県の従業者数については、同令によって調査した昭和６１年７月１日現在における島原市及び深江町（長崎県南高来郡深江町をいう。以下同じ。）の従業者数から同令によって調査した同日現在における島原市及び深江町の区域内において国又は長崎県の事業所に従事する従業者数を控除した従業者数を加えた従業者数とする。）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">α</span>　<span data-xpath="">０．００２２３３６４３（東京都にあっては、０．００１８０４９６４）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第三十三条の四第二項に規定する地方税法第七十二条の百十五第一項に規定する人口及び従業者数を基礎として自治省令で定める方法により算定した額は、次の算式により算定した額（千円未満の額があるときは、その千円未満の額を四捨五入する。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ×α＋Ｂ×β</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">算式の符号</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ</span>　<span data-xpath="">国勢調査令によって調査した平成７年１０月１日現在における当該市町村の人口</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｂ</span>　<span data-xpath="">事業所・企業統計調査規則によって調査した平成３年７月１日現在における当該市町村の従業者数（ただし、島原市及び深江町の従業者数については、同令によって調査した昭和６１年７月１日現在における各市町の従業者数から同令によって調査した同日現在における当該市町の区域内において国又は長崎県の事業所に従事する従業者数を控除した従業者数に同令によって調査した平成３年７月１日現在における当該市町の区域内において国又は長崎県の事業所に従事する従業者数を加えた従業者数とする。）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">α</span>　<span data-xpath="">別表のα欄に定める人口１人当たりの額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">β</span>　<span data-xpath="">別表のβ欄に定める従業者数１人当たりの額</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一〇年二月二七日自治省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxTable"><div style="font-weight:600;" class="_div_AppdxTableTitle _shokanBoxParent">別表（第２条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center"><div><span data-xpath="">都道府県</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center"><div><span data-xpath="">α</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="center"><div><span data-xpath="">β</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath=""></span><br><span data-xpath="">　</span><br><span data-xpath="">北海道</span><br><span data-xpath="">青森</span><br><span data-xpath="">岩手</span><br><span data-xpath="">宮城</span><br><span data-xpath="">秋田</span><br><span data-xpath="">山形</span><br><span data-xpath="">福島</span><br><span data-xpath="">茨城</span><br><span data-xpath="">栃木</span><br><span data-xpath="">群馬</span><br><span data-xpath="">埼玉</span><br><span data-xpath="">千葉</span><br><span data-xpath="">東京</span><br><span data-xpath="">神奈川</span><br><span data-xpath="">新潟</span><br><span data-xpath="">富山</span><br><span data-xpath="">石川</span><br><span data-xpath="">福井</span><br><span data-xpath="">山梨</span><br><span data-xpath="">長野</span><br><span data-xpath="">岐阜</span><br><span data-xpath="">静岡</span><br><span data-xpath="">愛知</span><br><span data-xpath="">三重</span><br><span data-xpath="">滋賀</span><br><span data-xpath="">京都</span><br><span data-xpath="">大阪</span><br><span data-xpath="">兵庫</span><br><span data-xpath="">奈良</span><br><span data-xpath="">和歌山</span><br><span data-xpath="">鳥取</span><br><span data-xpath="">島根</span><br><span data-xpath="">岡山</span><br><span data-xpath="">広島</span><br><span data-xpath="">山口</span><br><span data-xpath="">徳島</span><br><span data-xpath="">香川</span><br><span data-xpath="">愛媛</span><br><span data-xpath="">高知</span><br><span data-xpath="">福岡</span><br><span data-xpath="">佐賀</span><br><span data-xpath="">長崎</span><br><span data-xpath="">熊本</span><br><span data-xpath="">大分</span><br><span data-xpath="">宮崎</span><br><span data-xpath="">鹿児島</span><br><span data-xpath="">沖縄</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="right"><div>
+    <span data-xpath=""></span><br><span data-xpath="">円</span><br><span data-xpath="">３，４２４．１１</span><br><span data-xpath="">３，００６．６０</span><br><span data-xpath="">２，９７２．１４</span><br><span data-xpath="">３，２４１．９６</span><br><span data-xpath="">３，０７９．６０</span><br><span data-xpath="">３，２１５．５３</span><br><span data-xpath="">３，１６１．５４</span><br><span data-xpath="">３，０３８．７６</span><br><span data-xpath="">３，３２４．４５</span><br><span data-xpath="">３，３２７．２８</span><br><span data-xpath="">２，７７６．０６</span><br><span data-xpath="">３，０４５．５１</span><br><span data-xpath="">４，３２４．０３</span><br><span data-xpath="">３，０４１．００</span><br><span data-xpath="">３，２５４．７０</span><br><span data-xpath="">３，３７８．７７</span><br><span data-xpath="">３，４０６．６４</span><br><span data-xpath="">３，４１１．４３</span><br><span data-xpath="">３，３２４．４３</span><br><span data-xpath="">３，４２７．４７</span><br><span data-xpath="">３，２０８．３９</span><br><span data-xpath="">３，４３５．３８</span><br><span data-xpath="">３，６１７．１８</span><br><span data-xpath="">３，２９３．１６</span><br><span data-xpath="">２，９６４．０３</span><br><span data-xpath="">３，５００．７９</span><br><span data-xpath="">３，６６６．１１</span><br><span data-xpath="">３，１６２．８１</span><br><span data-xpath="">２，４００．７６</span><br><span data-xpath="">２，７８６．０９</span><br><span data-xpath="">３，２９５．６２</span><br><span data-xpath="">２，９８０．１８</span><br><span data-xpath="">３，０９５．６６</span><br><span data-xpath="">３，４２９．００</span><br><span data-xpath="">３，２０１．９１</span><br><span data-xpath="">２，９５８．４９</span><br><span data-xpath="">３，４６０．２８</span><br><span data-xpath="">３，１７９．９２</span><br><span data-xpath="">３，０８８．９４</span><br><span data-xpath="">３，２５１．５４</span><br><span data-xpath="">２，９４４．３７</span><br><span data-xpath="">３，０５１．８３</span><br><span data-xpath="">３，０６９．１９</span><br><span data-xpath="">３，１８５．１５</span><br><span data-xpath="">３，１２７．９７</span><br><span data-xpath="">３，０１２．６８</span><br><span data-xpath="">２，３５８．１７</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" align="right"><div>
+    <span data-xpath=""></span><br><span data-xpath="">円</span><br><span data-xpath="">７，４８７．９２</span><br><span data-xpath="">７，４１７．７２</span><br><span data-xpath="">６，９１８．２６</span><br><span data-xpath="">７，１２０．１６</span><br><span data-xpath="">６，９２０．３９</span><br><span data-xpath="">６，９９４．３６</span><br><span data-xpath="">７，０２４．８５</span><br><span data-xpath="">７，２０１．８３</span><br><span data-xpath="">７，０７９．３９</span><br><span data-xpath="">６，８４７．３７</span><br><span data-xpath="">７，８１０．９８</span><br><span data-xpath="">８，９２６．６６</span><br><span data-xpath="">５，８００．２４</span><br><span data-xpath="">７，４０３．９５</span><br><span data-xpath="">６，７２４．５６</span><br><span data-xpath="">６，５１３．０４</span><br><span data-xpath="">６，６０６．４１</span><br><span data-xpath="">６，５７７．４３</span><br><span data-xpath="">７，３２６．５２</span><br><span data-xpath="">７，１０１．１４</span><br><span data-xpath="">７，００１．７３</span><br><span data-xpath="">６，７６４．９０</span><br><span data-xpath="">６，７３１．６４</span><br><span data-xpath="">７，１７７．７８</span><br><span data-xpath="">６，８３０．９５</span><br><span data-xpath="">７，３０４．４６</span><br><span data-xpath="">６，３５６．２３</span><br><span data-xpath="">７，２２５．４０</span><br><span data-xpath="">７，９７７．７３</span><br><span data-xpath="">６，８７９．１０</span><br><span data-xpath="">７，２７９．８１</span><br><span data-xpath="">６，５５２．５９</span><br><span data-xpath="">６，８３６．１２</span><br><span data-xpath="">７，０９２．５８</span><br><span data-xpath="">７，０３６．４０</span><br><span data-xpath="">６，８９９．４９</span><br><span data-xpath="">７，２５４．３５</span><br><span data-xpath="">７，２８５．７３</span><br><span data-xpath="">７，４１９．５９</span><br><span data-xpath="">７，２９６．２４</span><br><span data-xpath="">６，９９６．５８</span><br><span data-xpath="">７，６１０．５７</span><br><span data-xpath="">７，６３３．０６</span><br><span data-xpath="">７，５００．４４</span><br><span data-xpath="">７，６３３．１２</span><br><span data-xpath="">７，６４１．００</span><br><span data-xpath="">６，２９３．２５</span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    
