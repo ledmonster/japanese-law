@@ -44,7 +44,7 @@ class Egov(cmd.Cmd):
             self._show_categories()
             return False
 
-        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}"
+        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}&limit=1000"
         with urllib.request.urlopen(url) as response:
             data = json.loads(response.read())
             for law in data.get('laws', []):
@@ -80,7 +80,7 @@ class Egov(cmd.Cmd):
         lines.append("")
 
         # documents
-        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}"
+        url = f"https://laws.e-gov.go.jp/api/2/laws?category_cd={key:03}&limit=1000"
         with urllib.request.urlopen(url) as response:
             data = json.loads(response.read())
             for law in data.get('laws', []):
