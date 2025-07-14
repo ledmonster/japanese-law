@@ -1,0 +1,2112 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+
+<title>預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則</title>
+
+
+
+<style type="text/css">
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+
+  header h1 {
+    width: 260px;
+    height: 37px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      text-decoration: none;
+      color: #000;
+      line-height: 37px;
+      display: block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+        
+        
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 20px;
+          vertical-align: middle; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 10px;
+			background: url(../img/arrow_gray_link.png) left 10px no-repeat;
+			display: block;
+			color: #000;
+			text-decoration: none;
+            
+            }
+
+
+@media screen and (max-width: 1024px) {
+        }
+
+@media screen and (max-width: 769px) {
+}
+
+@media screen and (max-width: 359px) {
+  header h1 span {
+    display: none; } }
+    
+    
+header  button#btnHamburgerMenu {
+	width: 37px;
+	height: 37px;
+	background: url("../img/icon/icon_menu_black.png") center center no-repeat;
+	display: none;
+	text-indent: -9999px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+	
+	
+	
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #subLink .helpLink {
+        padding: 8px 5px 8px 25px;
+        background: url(../img/icon/icon_faq.png) left 10px no-repeat;
+        display: block;
+        color: #000;
+        text-decoration: none; }
+
+
+  button.moreList {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #636974;
+    text-align: center;}
+    button.moreList:hover {
+      background: #C2CEE7; }
+    button.moreList::after {
+      width: 18px;
+      height: 10px;
+      content: '';
+      background: url(../img/arrow_gray_down.png) left top no-repeat;
+      background-size: contain;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/arrow_gray_up.png) left top no-repeat; }
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  height: 67px;
+  background: #fff;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 500; }
+
+@media screen and (max-width: 1024px) {
+  header {
+    min-width: auto;
+    height: 52px; } }
+
+nav#pNavi {
+  padding-bottom: 25px;
+  text-align: left; }
+  nav#pNavi section#outlineGraph {
+    margin: 0 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineGraph.active {
+      display: block; }
+  nav#pNavi section#outlineList {
+    margin: 0 12px;
+    padding: 25px 12px 12px 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineList.active {
+      display: block; }
+    nav#pNavi section#outlineList p {
+      padding-bottom: 12px; }
+      nav#pNavi section#outlineList p.label {
+        font-size: 0.75rem;
+        text-align: right; }
+    nav#pNavi section#outlineList ul li {
+      padding-left: 12px;
+      font-size: 0.875rem; }
+      nav#pNavi section#outlineList ul li:nth-child(odd) {
+        background: url(../img/icon/icon_outline_list.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li.active {
+        background: url(../img/icon/icon_outline_point.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li ul {
+        margin-bottom: 12px; }
+        nav#pNavi section#outlineList ul li ul li {
+          margin-bottom: 0;
+          padding-left: 0;
+          font-size: 0.75rem; }
+          nav#pNavi section#outlineList ul li ul li:first-child {
+            background: none; }
+  nav#pNavi ul#tocCheckbox, nav#pNavi ul#pOutline {
+    width: 220px;
+    margin: 0 auto;
+    font-size: 0; }
+    nav#pNavi ul#tocCheckbox li, nav#pNavi ul#pOutline li {
+      font-size: 0.875rem;
+      display: inline-block; }
+      nav#pNavi ul#tocCheckbox li button, nav#pNavi ul#pOutline li button {
+        width: 100px;
+        margin: 0 5px;
+        display: inline-block; }
+        nav#pNavi ul#tocCheckbox li button:hover, nav#pNavi ul#pOutline li button:hover {
+          background: #C2CEE7; }
+  nav#pNavi ul#tocCheckbox {
+    margin-bottom: 25px; }
+    nav#pNavi ul#tocCheckbox li button {
+      padding: 8px;
+      border: 1px solid #D7D7D7; }
+  nav#pNavi ul#pOutline {
+    height: 40px;
+    padding: 0;
+    position: relative;
+    line-height: 0.875rem; }
+    nav#pNavi ul#pOutline li button {
+      padding: 8px;
+      border-top: 1px solid #D7D7D7;
+      border-left: 1px solid #D7D7D7;
+      border-right: 1px solid #D7D7D7;
+      position: absolute;
+      top: 0; }
+      nav#pNavi ul#pOutline li button.list {
+        left: 0; }
+      nav#pNavi ul#pOutline li button.outline {
+        right: 0; }
+      nav#pNavi ul#pOutline li button.active {
+        background: #1042A4;
+        color: #fff;
+        border-top: none; }
+      nav#pNavi div.tableOfContents2 a {
+        text-decoration: none;
+        color: #636974; }
+        nav#pNavi div.tableOfContents2 a[href] {
+          color: #000; }
+          nav#pNavi div.tableOfContents2 a[href]:hover {
+            color: #CA241E; }
+
+footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #707070;
+  font-size: 0.75rem; }
+
+#popuUpPage.document footer {
+  margin-left: 310px; }
+  #popuUpPage.document footer.allwidth {
+    margin-left: 0; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage.document footer {
+    margin-left: 0; } }
+
+@media print {
+  #contentsLaw {
+    width: 100% !important;
+    border: none !important; }
+  #innerDocument {
+    width: 100% !important; }
+  #toTop {
+    display: none; }
+  .document #leftNaviSide,
+  .document #relationLinkSide,
+  .document .lawDownload,
+  .document header,
+  .document nav,
+  .document footer,
+  .document button {
+    display: none !important; } }
+
+nav#spDocument {
+  display: none; }
+
+@media screen and (max-width: 1024px) {
+  nav#spDocument {
+    width: 100%;
+    padding: 12px 0;
+    background: #F5F6F8;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 500;
+    display: block; }
+    nav#spDocument #fDownloadFileSet {
+      margin: 0 12px 25px 12px;
+      padding: 12px;
+      text-align: left;
+      background: #fff;
+      display: none; }
+      nav#spDocument #fDownloadFileSet.active {
+        display: block; }
+      nav#spDocument #fDownloadFileSet ul li {
+        margin-bottom: 25px; }
+      nav#spDocument #fDownloadFileSet #fDownloadClose {
+        width: 30px;
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px; }
+    nav#spDocument div#spaceOfdocumentBtn {
+      width: 80px;
+      position: relative;
+      margin-left: 3%;
+      display: inline-block; }
+    nav#spDocument button.footNav {
+      width: 46px;
+      height: 46px;
+      margin-left: 3%;
+      text-indent: -9999px;
+      vertical-align: bottom; }
+    nav#spDocument #fDownloadBtn {
+      background: url(../img/icon/spnav/sp_menu04_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fDownloadBtn.active {
+        background: url(../img/icon/spnav/sp_menu04_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fTocOutlineBtn {
+      background: url(../img/icon/spnav/sp_menu02_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fTocOutlineBtn.active {
+        background: url(../img/icon/spnav/sp_menu02_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fDocumentBtn {
+      width: 80px;
+      height: 80px;
+      background: #F5F6F8 url(../img/icon/spnav/sp_menu01_off.png) center center no-repeat;
+      background-size: 60px auto;
+      position: absolute;
+      bottom: -17px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 50%; }
+      nav#spDocument #fDocumentBtn.active {
+        background: #F5F6F8 url(../img/icon/spnav/sp_menu01_on.png) center center no-repeat;
+        background-size: 60px auto; }
+    nav#spDocument #fRelationLinkBtn {
+      background: url(../img/icon/spnav/sp_menu03_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fRelationLinkBtn.active {
+        background: url(../img/icon/spnav/sp_menu03_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fSearchBtn {
+      background: url(../img/icon/spnav/sp_menu05_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fSearchBtn.active {
+        background: url(../img/icon/spnav/sp_menu05_on.png) center center no-repeat;
+        background-size: 46px auto; } }
+
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500; }
+
+h2:not(.popuUpPage) {
+  background-color: #fff;
+  border-top: 1px solid #D7D7D7;
+  border-bottom: 1px solid #D7D7D7;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 2rem; }
+  h2:not(.popuUpPage) span, h2:not(.popuUpPage) a {
+    padding: 25px 80px 20px 80px;
+    text-decoration: none;
+    color: #323232;
+    display: block; }
+    h2:not(.popuUpPage) span:hover, h2:not(.popuUpPage) a:hover {
+      color: #323232; }
+
+a {
+  color: #1042A4; }
+  a:hover {
+    color: #CA241E; }
+
+img {
+  vertical-align: bottom; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  font-size: 1rem; }
+  button:focus {
+    outline-color: #3b99fc;
+    outline-offset: 0px;
+    outline-style: auto;
+    outline-width: 5px; }
+
+_:-ms-lang(x):focus, button:focus {
+  outline: thin dotted invert; }
+
+label {
+  cursor: pointer; }
+
+#contentsWrap {
+  min-width: 1200px;
+  margin: 25px 0 40px 30px;
+  display: flex;
+  position: relative; }
+
+@media screen and (max-width: 1024px) {
+  #contentsWrap {
+    margin: 20px 0; } }
+
+#popuUpPage #contentsWrap {
+  min-width: auto;
+  margin: 0;
+  border-top: 1px solid #D7D7D7; }
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: calc(100% - 310px);
+    float: none;
+    padding: 25px 50px 25px 70px;
+    border-right: 1px solid #D7D7D7;
+    position: relative; }
+    #popuUpPage #contentsWrap #contentsLaw.allOpen {
+      width: calc(100% - 620px); }
+    #popuUpPage #contentsWrap #contentsLaw.allClosed {
+      width: 100%; }
+    #popuUpPage #contentsWrap #contentsLaw ul.lawDownload {
+      position: fixed;
+      top: 160px;
+      right: 311px; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload.openBtn {
+        right: 0; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload li {
+        margin-bottom: 12px; }
+    #popuUpPage #contentsWrap #contentsLaw button.openClose {
+      width: 40px;
+      height: 40px;
+      border-top: 1px solid #D7D7D7;
+      border-bottom: 1px solid #D7D7D7;
+      position: fixed;
+      top: 100px; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_left.png) 12px 13px no-repeat;
+        border-right: 1px solid #D7D7D7;
+        border-radius: 0 5px 5px 0;
+        left: 310px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_toc.png) 3px 7px no-repeat;
+          left: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_toc.png) 3px 7px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_left.png) 12px 13px no-repeat; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_right.png) 12px 13px no-repeat;
+        border-left: 1px solid #D7D7D7;
+        border-radius: 5px 0 0 5px;
+        right: 311px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_relation.png) 3px 6px no-repeat;
+          right: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_relation.png) 3px 6px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_right.png) 12px 13px no-repeat; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: 100%;
+    border-right: none;
+    padding: 25px 5px 25px 25px;
+    display: none; }
+    #popuUpPage #contentsWrap #contentsLaw.active {
+      width: 100%;
+      display: block; } }
+
+#leftNaviSide {
+  width: 310px;
+  padding-top: 25px;
+  background: #fff;
+  text-align: center;
+  border-right: 1px solid #D7D7D7;
+  display: none; }
+  #leftNaviSide.active {
+    display: block; }
+  #leftNaviSide #tocOutlineWrap {
+    width: 309px;
+    height: calc(100% - 70px);
+    background: #fff;
+    overflow: auto;
+    padding-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-overflow-scrolling: touch !important; }
+  #leftNaviSide ul {
+    font-size: 0; }
+    #leftNaviSide ul li {
+      font-size: 1rem;
+      text-align: left; }
+    #leftNaviSide ul#dayOfPromulgation {
+      margin: 0 0 10px 12px; }
+      #leftNaviSide ul#dayOfPromulgation li {
+        font-size: 0.75rem;
+        text-align: left; }
+    #leftNaviSide .labelLaw {
+      width: 120px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      margin-left: 12px; }
+      #leftNaviSide .labelLaw h3 {
+        padding: 1px 8px;
+        text-align: left;
+        width: 120px;
+        height: 23px;
+        border: 1px solid #1042A4;
+        background: #FFFFFF;
+        color: #000000;
+        display: inline-block; 
+        border-left-width: 15px; }
+        #leftNaviSide .labelLaw h3.authFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #A44210;
+          font-size: 85%; }
+        #leftNaviSide .labelLaw h3.enforcementFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #4F71B3; }
+    #leftNaviSide ul#tocTab {
+      margin: 15px 25px 25px 25px;
+      border-bottom: 1px solid #D7D7D7; }
+      #leftNaviSide ul#tocTab li {
+        font-size: 0.875rem;
+        display: inline-block; }
+        #leftNaviSide ul#tocTab li button {
+          width: 100px;
+          margin: 0 5px;
+          line-height: 37px;
+          display: inline-block;
+          border-radius: 5px 5px 0 0; }
+          #leftNaviSide ul#tocTab li button#tableOfContents {
+            background: #F5F6F8 url(../img/icon/icon_tabe_of_contents.png) 12px 10px no-repeat; }
+          #leftNaviSide ul#tocTab li button#outline {
+            background: #F5F6F8 url(../img/icon/icon_outline.png) 12px 8px no-repeat; }
+          #leftNaviSide ul#tocTab li button.active#tableOfContents {
+            background: #1042A4 url(../img/icon/icon_tabe_of_contents_ov.png) 12px 10px no-repeat;
+            color: #fff; }
+          #leftNaviSide ul#tocTab li button.active#outline {
+            background: #1042A4 url(../img/icon/icon_outline_ov.png) 12px 8px no-repeat;
+            color: #fff; }
+
+#relationLinkSide {
+  margin-right: 1px;
+  height: calc(100% - 200px);
+  width: 310px;
+  overflow: auto;
+  padding: 20px 25px 12px 25px;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  display: none; }
+  #relationLinkSide.active {
+    display: block; }
+  #relationLinkSide h3 {
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #F5F6F8; }
+  #relationLinkSide ul li {
+    padding-bottom: 25px; }
+    #relationLinkSide ul li a {
+      font-size: 1.125rem; }
+      #relationLinkSide ul li a span {
+        font-size: 0.75rem; }
+
+@media screen and (max-width: 1024px) {
+  #leftNaviSide {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    display: none; }
+    #leftNaviSide.active {
+      display: block; }
+  #leftNaviSide #tocOutlineWrap,
+  #relationLinkSide {
+    padding-top: 50px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #D7D7D7;
+    position: static !important; }
+  #leftNaviSide #tocOutlineWrap {
+    height: auto !important;
+    overflow: visible;
+    border: none; }
+    #leftNaviSide #tocOutlineWrap #searchKeyword {
+      display: none; }
+  #relationLinkSide {
+    margin-top: 20px;
+    border: none;
+    display: none; }
+    #relationLinkSide.active {
+      display: block; } }
+
+table {
+/*  width: 100%; */
+  border-collapse: collapse; }
+  table tr th {
+    text-align: left;
+    font-weight: normal; }
+
+#sNavi {
+  padding: 15px 0 25px 0;
+  text-align: right; }
+  #sNavi ul li {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 20px;
+    display: inline-block; }
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 30px auto; }
+    #sNavi ul li a {
+      color: #1042A4; }
+      #sNavi ul li a:hover {
+        color: #CA241E; }
+
+@media screen and (max-width: 1024px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+#innerDocument {
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  
+  }
+
+@media screen and (max-width: 1024px) {
+  #innerDocument {
+    display: none; }
+    #innerDocument.active {
+      padding-top: 10px;
+      display: block; } }
+
+#innerDocument section {
+  padding-bottom: 10px;
+  display: none; }
+  #innerDocument section.active {
+    display: block; }
+  #innerDocument section h3, #innerDocument section h4, #innerDocument section dt {
+    font-weight: 600; }
+  #innerDocument section.table {
+    padding-bottom: 25px; }
+    #innerDocument section.table h3 {
+/*      margin-left: -1rem;*/
+      margin-bottom: 5px;
+      padding-right: 2rem; }
+    #innerDocument section.table table {
+      width: auto;
+      border-collapse: collapse;
+      border-right: 1px solid #636974;
+      border-top: 1px solid #636974; }
+      #innerDocument section.table table tr th {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+      #innerDocument section.table table tr td {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+        #innerDocument section.table table tr td p {
+          padding: 0; }
+  #innerDocument section h4 {
+    text-indent: 2rem; }
+  #innerDocument section ol, #innerDocument section ul {
+    /*margin-left: -1rem; */}
+    #innerDocument section ol li, #innerDocument section ul li {
+      padding-left: 1rem;
+      /*text-indent: -1rem; */}
+      #innerDocument section ol li ol, #innerDocument section ol li ul, #innerDocument section ul li ol, #innerDocument section ul li ul {
+        margin-left: 0; }
+      #innerDocument section ol li .number, #innerDocument section ul li .number {
+        padding-right: 1rem;
+        font-weight: 600; }
+  #innerDocument section dl {
+    margin-bottom: 5px;
+    display: none; }
+    #innerDocument section dl.active {
+      display: block; }
+    #innerDocument section dl dt {
+      /*margin-left: -1rem;*/
+      padding-right: 2rem;
+      display: inline-block;
+      float: left; }
+    #innerDocument section dl dd {
+      display: inline; }
+
+#toTop _:-ms-lang(x), #toTop button {
+  color: #fff; }
+  #toTop _:-ms-lang(x):focus, #toTop button:focus {
+    outline: thin dotted #000; }
+
+.circleBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 100;
+  display: inline-block; }
+  .circleBtn#toTop {
+    right: 20px;
+    background: #636974; }
+  .circleBtn:hover {
+    opacity: 1; }
+  .circleBtn button {
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    color: #fff; }
+    .circleBtn button:hover {
+      color: #fff; }
+
+@media screen and (max-width: 1024px) {
+  .circleBtn {
+    width: 60px;
+    height: 60px;
+    bottom: 75px; }
+    .circleBtn#toTop {
+      right: 5px; }
+      .circleBtn#toTop.active {
+        display: none; }
+    .circleBtn button {
+      width: 60px;
+      height: 60px; }
+      .circleBtn button img {
+        width: 50%;
+        height: auto; } }
+
+#searchKeyword2 {
+  width: 100%;
+  padding: 12px !important;
+  position: absolute;
+  left: 0;
+  bottom: 45px;
+  z-index: 500;
+  display: none; }
+  #searchKeyword2.active {
+    display: block; }
+  #searchKeyword2 h2 {
+    text-align: left; }
+  #searchKeyword2 #searchKeywordBtn2 button {
+    width: auto !important;
+    height: auto !important;
+    margin: 5px 10px 5px 20px !important;
+    text-indent: 0 !important; }
+  #searchKeyword2 #delInfoBtn2 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 550; }
+
+#searchKeyword,
+#searchKeyword2 {
+  margin-bottom: 25px;
+  padding: 12px 5px;
+  background: #e9f0f7; }
+  #searchKeyword h2,
+  #searchKeyword2 h2 {
+    margin-bottom: 12px;
+    background: none;
+    font-size: 0.875rem;
+    color: #1F72DB;
+    line-height: 1.125rem;
+    border-top: none;
+    border-bottom: none; }
+    #searchKeyword h2:before,
+    #searchKeyword2 h2:before {
+      content: url(../img/icon/icon_hilight.png);
+      display: inline-block;
+      width: 16px;
+      height: 18px; }
+  #searchKeyword ul,
+  #searchKeyword2 ul {
+    margin-bottom: 12px;
+    text-align: left; }
+    #searchKeyword ul li,
+    #searchKeyword2 ul li {
+      display: inline-block; }
+  #searchKeyword #searchKeywordBtn,
+  #searchKeyword2 #searchKeywordBtn2 {
+    font-size: 0; }
+    #searchKeyword #searchKeywordBtn button,
+    #searchKeyword2 #searchKeywordBtn2 button {
+      margin: 5px;
+      min-height: 26px;
+      background: #1F72DB;
+      font-size: 0.75rem;
+      color: #fff;
+      border-radius: 13px; }
+      #searchKeyword #searchKeywordBtn button#prev,
+      #searchKeyword2 #searchKeywordBtn2 button#prev {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_left.png);
+        background-repeat: no-repeat;
+        background-position: 10px 8px; }
+      #searchKeyword #searchKeywordBtn button#next,
+      #searchKeyword2 #searchKeywordBtn2 button#next {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_right.png);
+        background-repeat: no-repeat;
+        background-position: right 10px top 8px; }
+      #searchKeyword #searchKeywordBtn button:hover,
+      #searchKeyword2 #searchKeywordBtn2 button:hover {
+        background: #36aae7; }
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table; }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  zoom: 1; }
+
+.attention {
+  color: #CA241E !important; }
+
+.annotation {
+  font-size: 0.75rem !important;
+  line-height: 1rem !important;
+  text-indent: -1em;
+  margin-left: 1em; }
+
+.searchLabel {
+  background: #C2CEE7; }
+
+.searchLabel.active {
+  background: #1042A4;
+  color: #fff; }
+
+.mBottom {
+  margin-bottom: 25px; }
+
+#innerDocument section.active.SupplProvision div._div_SupplProvisionLabel {
+	margin-bottom: 10px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+
+#innerDocument section.active table.Table {
+	margin-left: 1em;
+}
+#innerDocument section.active div._div_ArticleTitle table.Table {
+	margin-left: 0em;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<main id="contentsLaw" class="active">
+<div id="innerDocument" class="active">
+
+
+
+
+<div style="margin-bottom: 12px;">
+<div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">令和六年内閣府・デジタル庁・財務省・厚生労働省・農林水産省・経済産業省令第一号<div class="_shokanBox"></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+<span data-xpath="">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+</div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+<span data-xpath="">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号）の規定に基づき、及び同法を実施するため、預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（金融機関に対する申出の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（以下「法」という。）第三条第一項の申出は、特定の金融機関が管理する当該申出を行おうとする預貯金者を名義人とする全ての預貯金口座について、当該金融機関が個人番号を利用して管理することを希望する旨を記載した申出書を、当該金融機関に対し提出することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申出書の提出は、書面又は電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。以下同じ。）により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（重要な取引）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条の二</span>　<span data-xpath="">法第三条第二項に規定する主務省令で定める重要な取引は、内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（平成九年法律第百十号）第二条第四号に定める国外送金（金融機関が対面により受け付ける場合に限り、その金額が内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（平成九年政令第三百六十三号）第八条第一項で定める金額以下のものを除く。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（現に法第三条第一項の申出等の任に当たっている個人が預貯金者等本人と異なるときの金融機関等による本人確認）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">金融機関等（金融機関又は預金保険機構をいう。以下同じ。）は、法第三条第一項の申出若しくは同条第二項の規定による承諾又は法第七条第一項若しくは第八条第一項の規定による求め（以下「法第三条第一項の申出等」という。）を行う預貯金者又は相続人（以下「預貯金者等」という。）の本人特定事項の確認（以下「本人確認」という。）を行う場合において、当該預貯金者等の同居の親族又は法定代理人が法第三条第一項の申出等を行うときその他の当該金融機関等との間で現に法第三条第一項の申出等の任に当たっている個人が当該預貯金者等と異なるとき（次項に規定する場合を除く。）は、当該預貯金者等の本人確認に加え、当該現に法第三条第一項の申出等の任に当たっている個人についても、本人確認を行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">金融機関等との間で現に法第三条第一項の申出若しくは同条第二項の規定による承諾の任に当たっている個人が同条第一項の申出若しくは同条第二項の規定による承諾を行う預貯金者と異なる場合又は金融機関等との間で現に法第八条第一項の規定による求めの任に当たっている個人が同項の規定による求めを行う相続人と異なる場合であって、当該預貯金者又は当該相続人が国、地方公共団体、人格のない社団若しくは財団又は犯罪による収益の移転防止に関する法律施行令（平成二十年政令第二十号）第十四条各号に掲げるもの（以下「国等」という。）であるときには、当該預貯金者又は当該相続人の本人確認に代えて当該現に法第三条第一項の申出若しくは同条第二項の規定による承諾の任に当たっている個人又は当該現に法第八条第一項の規定による求めの任に当たっている個人の本人確認を行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（既に本人確認を行っている預貯金者等の金融機関等による本人確認）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条の二</span>　<span data-xpath="">次に掲げる場合における法第三条第一項の申出等を行う預貯金者等の本人確認（前条の規定による当該預貯金者等の代理人等（同条第一項に規定する現に法第三条第一項の申出等の任に当たっている個人又は前条第二項に規定する現に法第三条第一項の申出若しくは同条第二項の規定による承諾の任に当たっている個人若しくは現に法第八条第一項の規定による求めの任に当たっている個人をいう。以下同じ。）の本人確認を含む。）は、金融機関等が第五条に規定する方法により当該預貯金者等について既に本人確認を行っていることを確認する措置をもって代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該金融機関等が他の金融機関に委託して法第三条第一項の申出等を受ける場合において、当該他の金融機関が預貯金者等について既に本人確認を行っており、かつ、当該本人確認について確認記録（金融機関等が本人確認を行った場合において直ちに、第九条第一項各号に掲げる方法のいずれかにより作成する第十条第一項各号に掲げる事項に関する記録をいう。以下同じ。）を保存している場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該金融機関が合併、事業譲渡その他これらに準ずるものにより他の金融機関の事業を承継する場合において、当該他の金融機関が預貯金者等について既に本人確認を行っており、かつ、当該金融機関に対して、当該本人確認に係る確認記録を引き継ぎ、当該金融機関が当該確認記録を保存している場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該金融機関等が預貯金者等について既に本人確認を行っており、かつ、当該本人確認に係る確認記録を保存している場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（金融機関等による本人確認の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第三条第三項、第七条第二項及び第八条第二項に規定する主務省令で定める方法は、次の各号に掲げる預貯金者等の区分に応じ、それぞれ当該各号に定める方法とする。</span><span data-xpath="">この場合において、同条第一項の規定による求めを行う預貯金者等が法人のときは、名称及び本店又は主たる事務所の所在地を同条第二項に規定する本人特定事項とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">個人である預貯金者等</span>　<span data-xpath="">次に掲げる方法のいずれか</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の本人確認書類（次条各号に定める書類をいう。以下同じ。）のうち同条第一号又は第三号に定めるもの（同条第一号ハからホまでに掲げるものを除く。以下「写真付き本人確認書類」という。）の提示（同条第一号ロに掲げる書類（一を限り発行され、又は発給されたものを除く。ロ及びハにおいて同じ。）の代理人等からの提示を除く。）を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の本人確認書類（次条第一号イに掲げるものを除く。）の提示（同号ロに掲げる書類の提示にあっては、当該書類の代理人等からの提示に限る。）を受けるとともに、当該本人確認書類に記載されている当該預貯金者等の住所に宛てて、当該預貯金者等の法第三条第一項の申出等に係る文書（以下「申出等関係文書」という。）を書留郵便若しくはその取扱いにおいて引受け及び配達の記録をする郵便又はこれらに準ずるもの（以下「書留郵便等」という。）により、その取扱いにおいて転送をしない郵便物又はこれに準ずるもの（以下「転送不要郵便物等」という。）として送付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の本人確認書類のうち次条第一号ハに掲げるもののいずれか二の書類の提示を受ける方法又は同号ハに掲げる書類及び同号ロ、ニ若しくはホに掲げる書類若しくは当該預貯金者等の現在の住所の記載がある補完書類（次項に規定する補完書類をいう。ニ及びリにおいて同じ。）の提示（同号ロに掲げる書類の提示にあっては、当該書類の代理人等からの提示に限る。）を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の本人確認書類のうち次条第一号ハに掲げるものの提示を受け、かつ、当該本人確認書類以外の本人確認書類若しくは当該預貯金者等の現在の住所の記載がある補完書類又はその写しの送付を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ホ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から、金融機関等が提供するソフトウェアを使用して、本人確認用画像情報（当該預貯金者等又はその代理人等に当該ソフトウェアを使用して撮影をさせた当該預貯金者等の容貌及び写真付き本人確認書類の画像情報であって、当該写真付き本人確認書類に係る画像情報が、当該写真付き本人確認書類に記載されている本人特定事項、当該写真付き本人確認書類に貼り付けられた写真及び当該写真付き本人確認書類の厚みその他の特徴を確認することができるものをいう。）の送信を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヘ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から、金融機関等が提供するソフトウェアを使用して、本人確認用画像情報（当該預貯金者等又はその代理人等に当該ソフトウェアを使用して撮影をさせた当該預貯金者等の容貌の画像情報をいう。）の送信を受けるとともに、当該預貯金者等又はその代理人等から当該預貯金者等の写真付き本人確認書類（本人特定事項及び写真の情報が記録されている半導体集積回路（半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）第二条第一項に規定する半導体集積回路をいう。以下同じ。）が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報の送信を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ト</span>　<span data-xpath="">当該預貯金者等又はその代理人等から、金融機関等が提供するソフトウェアを使用して、本人確認用画像情報（当該預貯金者等又はその代理人等に当該ソフトウェアを使用して撮影をさせた当該預貯金者等の本人確認書類のうち次条第一号又は第三号に定めるもの（同条第一号ニ及びホに掲げるものを除き、一を限り発行され、又は発給されたものに限る。以下トにおいて単に「本人確認書類」という。）の画像情報であって、当該本人確認書類に記載されている本人特定事項及び当該本人確認書類の厚みその他の特徴を確認することができるものをいう。）の送信を受け、又は当該預貯金者等若しくはその代理人等に当該ソフトウェアを使用して読み取りをさせた当該預貯金者等の本人確認書類（本人特定事項の情報が記録されている半導体集積回路が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報の送信を受けるとともに、次に掲げる行為のいずれかを行う方法（法第三条第一項の申出等を行う者が次の（１）又は（２）に規定する本人確認に係る預貯金者等になりすましている疑いがある法第三条第一項の申出等又は当該本人確認が行われた際に本人特定事項を偽っていた疑いがある預貯金者等（その代理人等が本人特定事項を偽っていた疑いがある預貯金者等を含む。）による法第三条第一項の申出等を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">他の特定事業者（犯罪による収益の移転防止に関する法律（平成十九年法律第二十二号）第二条第二項に規定する特定事業者をいう。）が犯罪による収益の移転防止に関する法律施行令第七条第一項第一号イに掲げる取引若しくは同項第三号に定める取引又は法第三条第一項の申出等を行う際に当該預貯金者等について本人確認を行い、当該本人確認に係る確認記録を保存し、かつ、当該預貯金者等又はその代理人等から当該預貯金者等しか知り得ない事項その他の当該預貯金者等が当該確認記録に記録されている預貯金者等と同一であることを示す事項の申告を受けることにより当該預貯金者等が当該確認記録に記録されている預貯金者等と同一であることを確認していることを確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">当該預貯金者等の預貯金口座（当該預貯金口座に係る犯罪による収益の移転防止に関する法律施行令第七条第一項第一号イに掲げる取引を行う際に当該預貯金者等について本人確認を行い、かつ、当該本人確認に係る確認記録を保存しているものに限る。）に金銭の振込みを行うとともに、当該預貯金者等又はその代理人等から当該振込みを特定するために必要な事項が記載された預貯金通帳の写し又はこれに準ずるものの送付を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">チ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の本人確認書類のうち次条第一号若しくは第三号に定めるもの（以下チ及びリにおいて単に「本人確認書類」という。）の送付を受け、又は当該預貯金者等の本人確認書類（本人特定事項の情報が記録されている半導体集積回路が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報若しくは本人確認用画像情報（当該預貯金者等又はその代理人等に金融機関等が提供するソフトウェアを使用して撮影をさせた当該預貯金者等の本人確認書類（同条第一号イからハまでに掲げるもののうち一を限り発行され、又は発給されたものに限る。）の画像情報であって、当該本人確認書類に記載されている本人特定事項及び当該本人確認書類の厚みその他の特徴を確認することができるものをいう。）の送信（当該本人確認用画像情報にあっては、当該ソフトウェアを使用した送信に限る。）を受けるとともに、当該本人確認書類に記載され、又は当該情報に記録されている当該預貯金者等の住所に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">リ</span>　<span data-xpath="">当該預貯金者等又はその代理人等から当該預貯金者等の現在の住所の記載がある本人確認書類のいずれか二の書類の写しの送付を受け、又は当該預貯金者等の本人確認書類の写し及び当該預貯金者等の現在の住所の記載がある補完書類（次項第三号に掲げる書類にあっては、当該預貯金者等と同居する者のものを含み、当該本人確認書類に当該預貯金者等の現在の住所の記載がないときは、当該補完書類及び他の補完書類（当該預貯金者等のものに限る。）とする。）若しくはその写しの送付を受けるとともに、当該本人確認書類の写し又は当該補完書類若しくはその写しに記載されている当該預貯金者等の住所（当該本人確認書類の写しに当該預貯金者等の現在の住所の記載がない場合にあっては、当該補完書類又はその写しに記載されている当該預貯金者等の住所）に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヌ</span>　<span data-xpath="">当該預貯金者等から、カード代替電磁的記録（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下この条及び次条第一号イにおいて「番号利用法」という。）第二条第八項に規定するカード代替電磁的記録をいう。）を構成する電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第九条第一項において同じ。）のうち、当該預貯金者等の本人特定事項及び写真の情報が記録されているもの（以下「特定電磁的記録」という。）の送信（番号利用法第十八条の三第一項の認定を受けたプログラムを用いて行うものに限る。ル及び第十条第一項第五号において同じ。）を受けるとともに、当該特定電磁的記録が当該送信を行った当該預貯金者等のものであることの確認（番号利用法第十八条の四第一項の規定により提供されるプログラム又は同条第二項の認定を受けたプログラムを用いて行うものに限る。ル及び第十条第一項第五号において同じ。）を行う方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ル</span>　<span data-xpath="">その取扱いにおいて名宛人本人若しくは差出人の指定した名宛人に代わって受け取ることができる者に限り交付する郵便又はこれに準ずるもの（金融機関等に代わって住所を確認し、写真付き本人確認書類の提示を受け、並びに第十条第一項第一号、第三号（括弧書を除く。）及び第十六号に掲げる事項を当該金融機関等に伝達する措置又は金融機関等に代わって住所を確認し、特定電磁的記録の送信を受けるとともに、当該特定電磁的記録が当該送信を行った当該預貯金者等のものであることの確認を行い、並びに同項第一号及び第五号に掲げる事項を当該金融機関等に伝達する措置がとられているものに限る。）により、当該預貯金者等に対して、申出等関係文書を送付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヲ</span>　<span data-xpath="">当該預貯金者等から、電子署名及び認証業務に関する法律（平成十二年法律第百二号。以下「電子署名法」という。）第四条第一項の認定を受けた者が発行し、かつ、その認定に係る業務の用に供する電子証明書（当該預貯金者等の本人特定事項の記録のあるものに限る。）及び当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた法第三条第一項の申出等に関する情報の送信を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ワ</span>　<span data-xpath="">当該預貯金者等から、電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下「公的個人認証法」という。）第三条第六項又は第十六条の二第六項の規定に基づき地方公共団体情報システム機構が発行した署名用電子証明書及び当該署名用電子証明書により確認される公的個人認証法第二条第一項に規定する電子署名が行われた法第三条第一項の申出等に関する情報の送信を受ける方法（金融機関等が公的個人認証法第十七条第四項に規定する署名検証者である場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">カ</span>　<span data-xpath="">当該預貯金者等から、公的個人認証法第十七条第一項第五号に掲げる内閣総理大臣及び総務大臣の認定を受けた者であって、同条第四項に規定する署名検証者である者が発行し、かつ、当該認定を受けた者が行う特定認証業務（電子署名法第二条第三項に規定する特定認証業務をいう。）の用に供する電子証明書（当該預貯金者等の本人特定事項の記録のあるものに限り、当該預貯金者等に係る利用者（電子署名法第二条第二項に規定する利用者をいう。）の真偽の確認が、電子署名及び認証業務に関する法律施行規則（平成十三年総務省・法務省・経済産業省令第二号）第五条第一項各号に掲げる方法により行われて発行されるものに限る。）及び当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた法第三条第一項の申出等に関する情報の送信を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法人である預貯金者等</span>　<span data-xpath="">次に掲げる方法のいずれか</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">当該法人の代理人等から本人確認書類のうち次条第二号又は第三号に定めるものの提示を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該法人の代理人等から当該預貯金者等の名称及び本店又は主たる事務所の所在地の申告を受け、かつ、電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第三条第二項に規定する指定法人から登記情報（同法第二条第一項に規定する登記情報をいう。以下同じ。）の送信を受ける方法（当該法人の代理人等（当該預貯金者等を代表する権限を有する役員として登記されていない法人の代理人等に限る。）と対面しないで当該申告を受けるときは、当該方法に加え、当該預貯金者等の本店等（本店、主たる事務所、支店（会社法（平成十七年法律第八十六号）第九百三十三条第三項の規定により支店とみなされるものを含む。）又は日本に営業所を設けていない外国会社の日本における代表者の住所をいう。以下同じ。）に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">当該法人の代理人等から当該預貯金者等の名称及び本店又は主たる事務所の所在地の申告を受けるとともに、番号利用法第三十九条第四項の規定により公表されている当該預貯金者等の名称及び本店又は主たる事務所の所在地（以下「公表事項」という。）を確認する方法（当該法人の代理人等と対面しないで当該申告を受けるときは、当該方法に加え、当該預貯金者等の本店等に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">当該法人の代理人等から本人確認書類のうち次条第二号若しくは第三号に定めるもの又はその写しの送付を受けるとともに、当該本人確認書類又はその写しに記載されている当該預貯金者等の本店等に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ホ</span>　<span data-xpath="">当該法人の代理人等から、商業登記法（昭和三十八年法律第百二十五号）第十二条の二第一項及び第三項の規定に基づき登記官が作成した電子証明書並びに当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた法第三条第一項の申出等に関する情報の送信を受ける方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">金融機関等は、前項第一号イからチまで若しくはヌ又は第二号イ若しくはニに掲げる方法（同項第一号ハに掲げる方法にあっては当該預貯金者等の現在の住所が記載された次に掲げる書類のいずれか（本人確認書類を除き、有効期間又は有効期限のある第四号及び第五号に掲げるものにあっては金融機関等が提示又は送付を受ける日において有効なものに、その他のものにあっては領収日付の押印又は発行年月日の記載があるもので、その日が金融機関等が提示又は送付を受ける日前六月以内のものに限る。以下「補完書類」という。）の提示を受ける場合を、同項第一号ニに掲げる方法にあっては当該預貯金者等の現在の住所が記載された補完書類又はその写しの送付を受ける場合を除く。）により本人確認を行う場合において、当該本人確認書類若しくはその写しに当該預貯金者等の現在の住所若しくは本店若しくは主たる事務所の所在地の記載がないとき又は当該本人確認書類に組み込まれた半導体集積回路若しくは特定電磁的記録に当該預貯金者等の現在の住所の情報の記録がないときは、当該預貯金者等又はその代理人等から、当該記載がある当該預貯金者等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくは当該補完書類若しくはその写しの送付を受けることにより、当該預貯金者等の現在の住所又は本店若しくは主たる事務所の所在地を確認することができる。</span><span data-xpath="">この場合においては、同項の規定にかかわらず、同項第一号ロ若しくはチ又は第二号ニに規定する申出等関係文書は、当該本人確認書類若しくは当該補完書類又はその写しに記載されている当該預貯金者等の住所又は本店等に宛てて送付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">国税又は地方税の領収証書又は納税証明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">所得税法（昭和四十年法律第三十三号）第七十四条第二項に規定する社会保険料の領収証書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">公共料金（日本国内において供給される電気、ガス及び水道水その他これらに準ずるものに係る料金をいう。）の領収証書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">当該預貯金者等が個人である場合にあっては、前三号に掲げる書類のほか、官公庁から発行され、又は発給された書類その他これに類するもので、当該預貯金者等の氏名及び住所の記載があるもの（内閣総理大臣、財務大臣、厚生労働大臣、農林水産大臣及び経済産業大臣が指定するものを除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">日本国政府の承認した外国政府又は権限ある国際機関の発行した書類その他これに類するもので、本人確認書類のうち次条第一号又は第二号に定めるものに準ずるもの（当該預貯金者等が個人の場合にあってはその氏名及び住所、法人の場合にあってはその名称及び本店又は主たる事務所の所在地の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">金融機関等は、第一項第二号ロからニまでに掲げる方法（同号ロ及びハに掲げる方法にあっては、括弧書に規定する方法に限る。）により本人確認を行う場合においては、当該預貯金者等の本店等に代えて、当該預貯金者等の代理人等から、当該預貯金者等の営業所であると認められる場所の記載がある当該預貯金者等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくは当該補完書類若しくはその写しの送付を受けるとともに、当該場所に宛てて申出等関係文書を送付することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">金融機関等は、第一項第一号ロ、チ若しくはリ又は第二号ロからニまでに掲げる方法（同号ロ及びハに掲げる方法にあっては、括弧書に規定する方法に限る。）により本人確認を行う場合においては、申出等関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次に掲げる方法のいずれかによることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該金融機関等の役職員が、当該本人確認書類若しくはその写しに記載され、当該登記情報に記録され、又は番号利用法第三十九条第四項の規定により公表されている当該預貯金者等の住所又は本店等に赴いて当該預貯金者等（法人である場合にあっては、その代理人等）に申出等関係文書を交付する方法（次号に規定する場合を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該金融機関等の役職員が、当該預貯金者等の本人確認書類若しくは補完書類又はその写しに記載されている当該預貯金者等の住所又は本店等に赴いて当該預貯金者等（法人である場合にあっては、その代理人等）に申出等関係文書を交付する方法（当該本人確認書類若しくは補完書類又はその写しを用いて第二項の規定により当該預貯金者等の現在の住所又は本店若しくは主たる事務所の所在地を確認した場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該金融機関等の役職員が、当該預貯金者等の本人確認書類若しくは補完書類又はその写しに記載されている当該預貯金者等の営業所であると認められる場所に赴いて当該預貯金者等の代理人等に申出等関係文書を交付する方法（当該預貯金者等の代理人等から、当該本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくは当該補完書類若しくはその写しの送付を受ける場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（本人確認書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">前条第一項（第六条第一項において準用する場合を含む。）に規定する方法において、金融機関等が提示又は送付を受ける書類は、次の各号に掲げる区分に応じ、それぞれ当該各号に定める書類のいずれかとする。</span><span data-xpath="">ただし、第一号イ及びハに掲げる本人確認書類並びに有効期間又は有効期限のある同号ロ及びホ並びに第二号ロに掲げる本人確認書類（法第三条第一項の申出等を行うための申出書又は申請書に預貯金者等が押印した印鑑に係る印鑑登録証明書を除く。）並びに第三号に定める本人確認書類にあっては金融機関等が提示又は送付を受ける日において有効なものに、その他の本人確認書類にあっては金融機関等が提示又は送付を受ける日前六月以内に作成されたものに限る。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">個人（第三号に掲げる者を除く。）</span>　<span data-xpath="">次に掲げる書類のいずれか</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">運転免許証等（道路交通法（昭和三十五年法律第百五号）第九十二条第一項に規定する運転免許証及び同法第百五条の二第一項に規定する運転経歴証明書（交付年月日が平成二十四年四月一日以降のものに限る。）をいう。）若しくは出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第十九条の三に規定する在留カード（ハにおいて単に「在留カード」という。）、日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第七条第一項に規定する特別永住者証明書（ハにおいて単に「特別永住者証明書」という。）、出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号）第四条の規定による廃止前の外国人登録法（昭和二十七年法律第百二十五号）に規定する外国人登録証明書（特別永住者（日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法に規定する特別永住者をいう。）が所持するもので、出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律附則第二十八条第二項各号に定める期間に限る。ハにおいて同じ。）、番号利用法第二条第七項に規定する個人番号カード（以下この号において単に「個人番号カード」という。）若しくは行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第十九条の規定による改正前の住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十四第一項に規定する住民基本台帳カード（同条第三項の規定により交付されたもので、行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律第二十条第一項の規定によりなお従前の例によることとされた同法第十九条の規定による改正前の住民基本台帳法第三十条の四十四第九項の規定によりその効力を失う時又は当該住民基本台帳カードの交付を受けた者が番号利用法第十七条第一項の規定により個人番号カードの交付を受ける時のいずれか早い時までの間に限る。）（当該個人の写真が貼り付けられたものに限る。）若しくは旅券等（出入国管理及び難民認定法第二条第五号に掲げる旅券又は同条第六号に掲げる乗員手帳をいう。）若しくは同法第十四条の二第四項に規定する船舶観光上陸許可書（その交付に際して当該交付を受ける者の同法第二条第五号に掲げる旅券の写しが貼り付けられたものに限る。）又は身体障害者手帳、精神障害者保健福祉手帳（当該個人の写真が貼り付けられたものに限る。）、療育手帳若しくは戦傷病者手帳（当該個人の本人特定事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">イに掲げるもののほか、官公庁から発行され、又は発給された書類その他これに類するもので、当該個人の本人特定事項の記載があり、かつ、当該官公庁が当該個人の写真を貼り付けたもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">在留カード、特別永住者証明書、外国人登録証明書若しくは個人番号カード（イに掲げるものを除く。）若しくは精神障害者保健福祉手帳（当該個人の写真が貼り付けられたものを除く。）、国民健康保険、健康保険、船員保険、後期高齢者医療、国家公務員共済組合、地方公務員共済組合若しくは私立学校教職員共済制度の資格確認書、介護保険の被保険者証、健康保険日雇特例被保険者手帳、年金制度の機能強化のための国民年金法等の一部を改正する法律（令和二年法律第四十号）第二条の規定による改正前の国民年金法（昭和三十四年法律第百四十一号）第十三条第一項に規定する国民年金手帳（年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令（令和三年厚生労働省令第百十五号）の施行の際現に交付されているもので、同令附則第六条第一項の規定により、同項に規定する書類とみなされる間に限る。）、児童扶養手当証書若しくは母子健康手帳（当該個人の本人特定事項の記載があるものに限る。）又は法第三条第一項の申出等を行うための申出書若しくは申請書に預貯金者等が押印した印鑑に係る印鑑登録証明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">印鑑登録証明書（ハに掲げるものを除く。）、戸籍の附票の写し、住民票の写し又は住民票の記載事項証明書（地方公共団体の長の住民基本台帳の氏名、住所その他の事項を証する書類をいう。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ホ</span>　<span data-xpath="">イからニまでに掲げるもののほか、官公庁から発行され、又は発給された書類その他これに類するもので、当該個人の本人特定事項の記載があるもの（内閣総理大臣、財務大臣、厚生労働大臣、農林水産大臣及び経済産業大臣が指定するものを除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法人（次号に掲げる者を除く。）</span>　<span data-xpath="">次に掲げる書類のいずれか</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">当該法人の設立の登記に係る登記事項証明書（当該法人が設立の登記をしていないときは、当該法人を所轄する行政機関の長の当該法人の名称及び本店又は主たる事務所の所在地を証する書類）又は印鑑登録証明書（当該法人の名称及び本店又は主たる事務所の所在地の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">イに掲げるもののほか、官公庁から発行され、又は発給された書類その他これに類するもので、当該法人の名称及び本店又は主たる事務所の所在地の記載があるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">外国人（日本の国籍を有しない個人をいい、本邦に在留しているもの（日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定第九条第一項又は日本国における国際連合の軍隊の地位に関する協定第三条第一項の規定により本邦に入国し在留しているものを除く。）を除く。）及び外国に本店又は主たる事務所を有する法人</span>　<span data-xpath="">前二号に定めるもの（この場合において、第一号中「当該個人」とあるのは「当該外国人」と、前号中「当該法人」とあるのは「当該外国に本店又は主たる事務所を有する法人」とする。）のほか、日本国政府の承認した外国政府又は権限ある国際機関の発行した書類その他これに類するもので、前二号に定めるものに準ずるもの（個人の場合にあってはその本人特定事項の記載があるものに、法人の場合にあってはその名称及び本店又は主たる事務所の所在地の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預貯金者等について既に本人確認を行っていることを確認する方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">預貯金者等について既に本人確認を行っていることを確認する方法は、金融機関等が次の各号のいずれかにより預貯金者等（国等である場合にあっては、その代理人等又は当該国等（人格のない社団又は財団を除く。）。以下この条において同じ。）が確認記録に記録されている預貯金者等と同一であることを確認する方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">預貯金通帳その他の預貯金者等が確認記録に記録されている預貯金者等と同一であることを示す書類その他の物の提示又は送付を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">預貯金者等しか知り得ない事項その他の預貯金者等が確認記録に記録されている預貯金者等と同一であることを示す事項の申告を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定にかかわらず、金融機関等は、預貯金者等又は代理人等と面識がある場合その他の預貯金者等が確認記録に記録されている預貯金者等と同一であることが明らかな場合は、当該預貯金者等が確認記録に記録されている預貯金者等と同一であることを確認したものとすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（代理人等の本人確認の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">第二条の規定による代理人等の本人確認の方法については、第三条第一項（第一号に係る部分に限る。）及び第二項の規定を準用する。</span><span data-xpath="">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_shokanBoxParent">
+<table class="Table" style="margin-left: 1em;">
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号イ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">から当該預貯金者等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">から当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示（同条第一号ロに掲げる書類（一を限り発行され、又は発給されたものを除く。ロ及びハにおいて同じ。）の代理人等からの提示を除く。）</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号ロ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の本人確認書類</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の本人確認書類</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">次条第一号イ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">次条第一号イ及びロ</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示（同号ロに掲げる書類の提示にあっては、当該書類の代理人等からの提示に限る。）</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の住所</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の住所</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号ハ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同号ロ、ニ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同号ニ</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示（同号ロに掲げる書類の提示にあっては、当該書類の代理人等からの提示に限る。）</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">提示</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">第三条第一項第一号ニからヘまで及びチ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号ト</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等若しくはその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">預貯金者等に</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">代理人等に</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">預貯金者等（</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">代理人等（</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">預貯金者等を</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">代理人等を</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等しか</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等しか</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等が</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等が</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">預貯金者等と</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">代理人等と</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号リ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等と</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等と</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第一項第一号ヌからカまで</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad" rowspan="2"><div><span data-xpath="">第三条第二項各号列記以外の部分</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等又はその代理人等</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第二項第四号</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等が個人である場合にあっては、前三号</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">前三号</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等の</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三条第二項第五号</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該預貯金者等が個人の場合にあってはその氏名及び住所、法人の場合にあってはその名称及び本店又は主たる事務所の所在地</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">当該代理人等の氏名及び住所</span></div></td>
+</tr>
+</table>
+<div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定にかかわらず、金融機関等は、法人である預貯金者等から法第八条第一項の規定による求めを受けるに際しては、当該法人の代理人等から当該代理人等の本人確認書類の写し（当該本人確認書類の写しに当該代理人等の現在の住所の記載がないときは、当該本人確認書類の写し及び当該記載がある補完書類又はその写し）の送付を受けるとともに、当該本人確認書類の写し又は当該補完書類若しくはその写しに記載されている当該代理人等の現在の住所に宛てて、申出等関係文書を書留郵便等により、転送不要郵便物等として送付することにより第二条の規定による本人確認を行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">金融機関等は、第一項の規定により読み替えて準用する第三条第一項第一号ロ、チ、リ若しくはルに掲げる方法又は前項に規定する方法により本人確認を行う場合においては、当該代理人等の住所に代えて、当該代理人等から、当該代理人等に係る預貯金者等（国等（人格のない社団又は財団、犯罪による収益の移転防止に関する法律施行令第十四条第四号に掲げるもの及び犯罪による収益の移転防止に関する法律施行規則（平成二十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号）第十八条第六号から第十号までに掲げるものを除く。）に限る。次項第三号において同じ。）の本店等若しくは営業所若しくは当該代理人等が所属する官公署であると認められる場所の記載がある当該預貯金者等若しくは当該代理人等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくは当該補完書類若しくはその写しの送付を受けるとともに、当該場所に宛てて申出等関係文書を送付することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">金融機関等は、第一項の規定により読み替えて準用する第三条第一項第一号ロ、チ若しくはリに掲げる方法又は第二項に規定する方法により本人確認を行う場合においては、申出等関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次に掲げる方法のいずれかによることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該金融機関等の役職員が、当該本人確認書類又はその写しに記載されている当該代理人等の住所に赴いて当該代理人等に申出等関係文書を交付する方法（次号に規定する場合を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該金融機関等の役職員が、当該代理人等の本人確認書類若しくは補完書類又はその写しに記載されている当該代理人等の住所に赴いて当該代理人等に申出等関係文書を交付する方法（当該本人確認書類若しくは補完書類又はその写しを用いて第一項の規定により読み替えて準用する第三条第二項の規定により当該代理人等の現在の住所を確認した場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該金融機関等の役職員が、当該代理人等に係る預貯金者等又は当該代理人等の本人確認書類若しくは補完書類又はその写しに記載されている当該預貯金者等の本店等若しくは営業所又は当該代理人等が所属する官公署であると認められる場所に赴いて当該代理人等に申出等関係文書を交付する方法（当該代理人等から、当該本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくは当該補完書類若しくはその写しの送付を受ける場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">第一項の代理人等は、次の各号に掲げる場合においては、それぞれ当該各号に該当することにより当該預貯金者等のために法第三条第一項の申出等の任に当たっていると認められる者に限る。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">預貯金者等が個人である場合</span>　<span data-xpath="">次のいずれかに該当すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">当該代理人等が、当該預貯金者等の同居の親族又は法定代理人であること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該代理人等が、当該預貯金者等が作成した委任状その他の当該代理人等が当該預貯金者等のために当該法第三条第一項の申出等の任に当たっていることを証する書面を有していること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">当該預貯金者等に電話をかけることその他これに類する方法により当該代理人等が当該預貯金者等のために当該法第三条第一項の申出等の任に当たっていることが確認できること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">イからハまでに掲げるもののほか、金融機関等が当該預貯金者等と当該代理人等との関係を認識していることその他の理由により当該代理人等が当該預貯金者等のために当該法第三条第一項の申出等の任に当たっていることが明らかであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げる場合以外の場合（預貯金者等が人格のない社団又は財団である場合を除く。）</span>　<span data-xpath="">次のいずれかに該当すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">前号ロに掲げること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該代理人等が、当該預貯金者等を代表する権限を有する役員として登記されていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">当該預貯金者等の本店等若しくは営業所又は当該代理人等が所属すると認められる官公署に電話をかけることその他これに類する方法により当該代理人等が当該預貯金者等のために当該法第三条第一項の申出等の任に当たっていることが確認できること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">前号ニに掲げること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（本人確認の方法の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">金融機関等は、本人確認に相当する確認（当該確認について確認記録に相当する記録の作成及び保存をしている場合におけるものに限る。）を行っている預貯金者等又は代理人等については、第五条に規定する方法に相当する方法により既に当該確認を行っていることを確認するとともに、当該記録を確認記録として保存する方法により本人確認を行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前条第五項の規定は、前項に規定する方法により代理人等の本人確認を行う場合に準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（確認記録の保存）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第八条</span>　<span data-xpath="">金融機関等は、確認記録を、法第三条第一項の申出等を受けた日から、次の各号に掲げる区分に応じ、当該各号に定める期間保存するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">法第三条第一項の申出又は同条第二項の規定による承諾</span>　<span data-xpath="">七年間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法第七条第一項又は法第八条第一項の規定による求め</span>　<span data-xpath="">六箇月間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（確認記録の作成方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">確認記録の作成方法は、次に掲げる方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">確認記録を文書、電磁的記録又はマイクロフィルムを用いて作成する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">次のイからワまでに掲げる場合の区分に応じ、それぞれ当該イからワまでに定めるもの（以下「添付資料」という。）を文書、電磁的記録又はマイクロフィルム（チに掲げる場合にあっては、電磁的記録に限る。）を用いて確認記録に添付する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">第三条第一項第一号ニ（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該送付を受けた本人確認書類若しくは補完書類又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">第三条第一項第一号ホ（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認用画像情報又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ハ</span>　<span data-xpath="">第三条第一項第一号ヘ（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認用画像情報並びに当該半導体集積回路に記録された本人特定事項及び写真の情報又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ニ</span>　<span data-xpath="">第三条第一項第一号ト（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認用画像情報又は当該半導体集積回路に記録された本人特定事項の情報又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ホ</span>　<span data-xpath="">第三条第一項第一号チ（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認書類若しくはその写し、当該半導体集積回路に記録された本人特定事項の情報又は当該本人確認用画像情報若しくはその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヘ</span>　<span data-xpath="">第三条第一項第一号リ（第六条第一項において準用する場合を含む。）に掲げる方法又は第六条第二項の規定により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認書類の写し又は当該補完書類若しくはその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ト</span>　<span data-xpath="">第三条第一項第一号ヌ（第六条第一項において準用する場合を含む。）に掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該特定電磁的記録又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">チ</span>　<span data-xpath="">第三条第一項第一号ヲからカまで（これらの規定を第六条第一項において準用する場合を含む。）又は第二号ホに掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該方法により本人確認を行ったことを証するに足りる電磁的記録</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">リ</span>　<span data-xpath="">第三条第一項第二号ロに掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該登記情報又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヌ</span>　<span data-xpath="">第三条第一項第二号ハに掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該公表事項又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ル</span>　<span data-xpath="">第三条第一項第二号ニに掲げる方法により本人確認を行ったとき</span>　<span data-xpath="">当該本人確認書類又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ヲ</span>　<span data-xpath="">本人確認書類若しくは補完書類又はその写しの送付を受けることにより第三条第二項（第六条第一項において準用する場合を含む。）の規定により預貯金者等若しくは代理人等の現在の住所又は本店若しくは主たる事務所の所在地の確認を行ったとき</span>　<span data-xpath="">当該本人確認書類若しくは補完書類又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ワ</span>　<span data-xpath="">本人確認書類若しくは補完書類又はその写しの送付を受けることにより、第三条第三項若しくは第六条第三項の規定により当該各項に規定する場所に宛てて申出等関係文書を送付したとき又は第三条第四項若しくは第六条第四項の規定により第三条第四項第三号若しくは第六条第四項第三号に規定する場所に赴いて申出等関係文書を交付したとき</span>　<span data-xpath="">当該本人確認書類若しくは補完書類又はその写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項第二号に掲げる方法において確認記録に添付した添付資料は、当該確認記録の一部とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（確認記録の記録事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">確認記録に記録する事項は、次に掲げる事項とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">本人確認を行った者の氏名その他の当該者を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">確認記録の作成者の氏名その他の当該者を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">預貯金者等又は代理人等の本人確認のために本人確認書類又は補完書類の提示を受けたときは、当該提示を受けた日付及び時刻（当該提示を受けた本人確認書類又は補完書類の写しを確認記録に添付し、確認記録と共に第八条に定める日から同条各号に掲げる区分に応じ当該各号に定める期間保存する場合にあっては、日付に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">預貯金者等又は代理人等の本人確認のために本人確認書類若しくは補完書類又はその写しの送付を受けたときは、当該送付を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">預貯金者等又は代理人等の本人確認のために特定電磁的記録の送信を受けるとともに、当該特定電磁的記録が当該送信を行った当該預貯金者等又は当該代理人等のものであることの確認を行ったときは、当該送信を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">第三条第一項第一号ロ、チ、リ若しくはル（これらの規定を第六条第一項において準用する場合を含む。）若しくは第二号ロからニまでに掲げる方法（同号ロ及びハに掲げる方法にあっては、括弧書に規定する方法に限る。）又は第六条第二項の規定により預貯金者等又は代理人等の本人確認を行ったときは、金融機関等が申出等関係文書を送付した日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">第三条第一項第一号ホ（第六条第一項において準用する場合を含む。）に掲げる方法により預貯金者等又は代理人等の本人確認を行ったときは、金融機関等が本人確認用画像情報の送信を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">八</span>　<span data-xpath="">第三条第一項第一号ヘ（第六条第一項において準用する場合を含む。）に掲げる方法により預貯金者等又は代理人等の本人確認を行ったときは、金融機関等が本人確認用画像情報の送信を受けた日付並びに半導体集積回路に記録された本人特定事項及び写真の情報の送信を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">九</span>　<span data-xpath="">第三条第一項第一号ト（第六条第一項において準用する場合を含む。）に掲げる方法により預貯金者等又は代理人等の本人確認を行ったときは、金融機関等が本人確認用画像情報の送信を受けた日付又は半導体集積回路に記録された本人特定事項の情報の送信を受けた日付及び同号ト（１）又は（２）に掲げる行為を行った日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十</span>　<span data-xpath="">第三条第一項第一号チ（第六条第一項において準用する場合を含む。）に掲げる方法により預貯金者等又は代理人等の本人確認を行ったときは、金融機関等が本人確認書類の送付又は半導体集積回路に記録された本人特定事項の情報若しくは本人確認用画像情報の送信を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十一</span>　<span data-xpath="">第三条第一項第二号ロに規定する方法により預貯金者等の本人確認を行ったときは、金融機関等が登記情報の送信を受けた日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十二</span>　<span data-xpath="">第三条第一項第二号ハに規定する方法により預貯金者等の本人確認を行ったときは、金融機関等が公表事項を確認した日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十三</span>　<span data-xpath="">第三条第四項又は第六条第四項の規定により預貯金者等又は代理人等の本人確認を行ったときは、当該各項に規定する交付を行った日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十四</span>　<span data-xpath="">本人確認を行った法第三条第一項の申出等の種類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十五</span>　<span data-xpath="">預貯金者等又は代理人等の本人確認を行った方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十六</span>　<span data-xpath="">預貯金者等又は代理人等の本人確認のために本人確認書類又は補完書類の提示を受けたときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十七</span>　<span data-xpath="">本人確認書類又は補完書類の提示を受けることにより第三条第二項（第六条第一項において準用する場合を含む。）の規定により預貯金者等又は代理人等の現在の住所又は本店若しくは主たる事務所の所在地の確認を行ったときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十八</span>　<span data-xpath="">本人確認書類又は補完書類の提示を受けることにより、第三条第三項若しくは第六条第三項の規定により当該各項に規定する場所に宛てて申出等関係文書を送付したとき又は第三条第四項若しくは第六条第四項の規定により第三条第四項第三号若しくは第六条第四項第三号に規定する場所に赴いて申出等関係文書を交付したときは、営業所の名称、所在地その他の当該場所を特定するに足りる事項及び当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">十九</span>　<span data-xpath="">預貯金者等の本人特定事項（預貯金者等が国等である場合にあっては、当該国等の名称、所在地その他の当該国等を特定するに足りる事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二十</span>　<span data-xpath="">代理人等により法第三条第一項の申出等が行われたときは、当該代理人等の本人特定事項、当該代理人等と預貯金者等との関係及び当該代理人等が預貯金者等のために法第三条第一項の申出等の任に当たっていると認めた理由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二十一</span>　<span data-xpath="">預貯金者等が自己の氏名及び名称と異なる名義を法第三条第一項の申出等に用いるときは、当該名義並びに預貯金者等が自己の氏名及び名称と異なる名義を用いる理由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二十二</span>　<span data-xpath="">確認記録を検索するための口座番号その他の事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">金融機関等は、添付資料を確認記録に添付するとき又は前項第三号の規定により本人確認書類若しくは補完書類の写しを確認記録に添付するときは、同項各号に掲げる事項のうち当該添付資料又は当該本人確認書類若しくは補完書類の写しに記載があるものについては、同項の規定にかかわらず、確認記録に記録しないことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">金融機関等は、第一項第十九号から第二十二号までに掲げる事項に変更又は追加があることを知った場合は、当該変更又は追加に係る内容を確認記録に付記するものとし、既に確認記録又は同項第三号の規定により添付した本人確認書類若しくは補完書類の写し若しくは添付資料に記録され、又は記載されている内容（過去に行われた当該変更又は追加に係る内容を除く。）を消去してはならない。</span><span data-xpath="">この場合において、金融機関等は、確認記録に付記することに代えて、変更又は追加に係る内容の記録を別途作成し、当該記録を確認記録と共に保存することとすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預貯金者を特定するために必要な事項等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第三条第六項第四号に規定する主務省令で定めるものは、同条第五項の規定による承諾をした預貯金者の氏名の振り仮名とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">法第四条第二項及び第七条第二項に規定する主務省令で定めるものは、法第四条第一項の申出又は法第七条第一項の規定による求めを行った預貯金者の個人番号とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">前二項に定める事項のほか、金融機関等は、法第三条第三項、第四条第二項若しくは第七条第二項の規定による預貯金者の本人確認若しくは法第八条第二項の規定による相続人及び被相続人である預貯金者の本人確認又は法第三条第六項の規定による預金保険機構に対する通知を行うため必要がある場合は、当該金融機関等に対し法第三条第一項の申出等若しくは法第四条第一項の申出を行う預貯金者等又は預金保険機構に対し通知を行う金融機関に対し、当該預貯金者又は当該相続人及び被相続人である預貯金者を特定するに足りる事項の提供又は通知を求めることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構に対する申出の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">法第四条第一項の申出は、内閣総理大臣の使用に係る電子計算機と当該申出を行う者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">法第四条第二項の主務省令で定める方法は、内閣総理大臣が適当と認める方法により、前項の電子情報処理組織に電気通信回線で接続した電子計算機を使用する者が当該申出を行う者であることを確認して行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">内閣総理大臣は、法第四条第一項の申出を受け付けた場合には、当該申出を受けた旨を預金保険機構に通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構による個人番号の通知等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">預金保険機構は、法第五条第一項の規定による金融機関への通知を行った日から起算して七営業日（日曜日及び銀行法施行令（昭和五十七年政令第四十号）第五条第一項に規定する日を除く日をいう。以下同じ。）以内に当該金融機関から法第五条第二項の規定による通知がないとき、法第七条第三項の規定による金融機関への通知を行った日の翌営業日までに当該金融機関から同条第四項の規定による通知がないとき又は法第八条第三項の規定による金融機関への通知を行った日から起算して五営業日以内に当該金融機関から同条第四項の規定による通知がないときは、当該金融機関が預金保険機構に対し、当該通知に係る預貯金者を名義人とする預貯金口座を管理していない旨を通知したものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預貯金の内容に関する事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">法第六条第一項に規定する主務省令で定めるものは、同項に規定する預貯金者の顧客番号並びに同項に規定する預貯金の口座番号、口座開設日、種目、元本の額、利率、預入日及び満期日とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預貯金者への通知の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">法第六条第二項若しくは第三項の規定又は第十八条の規定による預貯金者への通知は、口頭、書面又は電磁的方法により行うものとする。</span><span data-xpath="">ただし、書面により同項又は同条第二項の規定による通知を行うことができるのは、当該預貯金者が指定する通知先が日本国内の場合に限る。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（金融機関等による通知事項の一部省略）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条</span>　<span data-xpath="">金融機関等は、法第六条第二項若しくは第三項、第七条第五項若しくは第八条第五項の規定又は第十八条の規定により預貯金者等に対し通知するに当たり、預貯金者を名義人とする預貯金口座の情報の全てを通知することが困難な場合又は個人情報の保護のため必要と認められる場合には、その一部を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第三条第三項等の規定により提供等を受けた個人番号が現在管理に用いる個人番号と異なるときの個人番号の利用による預貯金口座の管理等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条</span>　<span data-xpath="">金融機関は、法第三条第三項後段若しくは第四項又は第五条第三項の規定により提供又は通知を受ける以前から保有する個人番号（以下「現在管理に用いる個人番号」という。）により当該現在管理に用いる個人番号に係る預貯金者を名義人とする預貯金口座を既に管理している場合において、当該現在管理に用いる個人番号と法第三条第三項後段若しくは第四項又は第五条第三項の規定により提供又は通知を受けた当該預貯金者の個人番号（以下「法第三条第三項等の規定により提供等を受けた個人番号」という。）が異なるときは、当該法第三条第三項等の規定により提供等を受けた個人番号により法第六条第一項の規定による管理をするものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の場合において、当該金融機関は、法第六条第一項の規定による管理を開始したものとみなして、同条第二項及び第三項の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第三条第三項等の規定により提供等を受けた個人番号が現在管理に用いる個人番号と同一のときの預貯金者への通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十八条</span>　<span data-xpath="">金融機関は、現在管理に用いる個人番号により当該現在管理に用いる個人番号に係る預貯金者を名義人とする預貯金口座を既に管理している場合において、当該現在管理に用いる個人番号と法第三条第三項等の規定により提供等を受けた個人番号が同一のときは、当該現在管理に用いる個人番号により既に当該預貯金者を名義人とする預貯金口座を管理している旨又は法第六条第二項各号に掲げる事項を当該預貯金者に通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定にかかわらず、金融機関は、預金保険機構に対し、当該預貯金口座について、当該現在管理に用いる個人番号により既に当該預貯金者を名義人とする預貯金口座を管理している旨又は法第六条第二項各号に掲げる事項を通知し、その旨を当該預貯金者へ通知するよう求めることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構に対する通知の求め）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十九条</span>　<span data-xpath="">金融機関は、法第六条第三項及び前条第二項の規定により預金保険機構に対し通知を求める場合には、法第五条第一項の規定による預金保険機構からの通知を受けた日から起算して七営業日以内に行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（災害時における預貯金口座に関する情報の提供の求めの方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十条</span>　<span data-xpath="">法第七条第一項の規定による求めは、当該求めを行おうとする預貯金者が指定する金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について、同項各号に掲げる事項の通知を求める旨を記載した申請書を、法第十二条第一項の規定により預金保険機構が委託をした金融機関（以下「受付金融機関」という。）に対し提出することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書の提出は、書面又は電磁的方法により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（災害時における預貯金口座に関する情報の提供の求めの終期）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十条の二</span>　<span data-xpath="">行政庁は、法第七条第一項の行政庁が定める日を定めたときは、これを公示する。</span><span data-xpath="">ただし、第三項に規定する場合は、この限りではない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定による公示は、官報への掲載、インターネットの利用その他の適切な方法で行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第七条第一項に規定する区域における災害救助法（昭和二十二年法律第百十八号）第二条第三項後段又は同法第二条の二第二項後段の規定による救助の終了の公示があった日までに第一項の規定による公示がされていないときは、法第七条第一項の行政庁が定める日は、当該救助の終了の公示があった日とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">受付金融機関が法第七条第一項の行政庁が定める日後に前条に規定する申請書を受理した場合には、当該申請は、法第七条第一項の行政庁が定める日までにされたものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構による金融機関に対する通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">預金保険機構は、法第七条第三項又は第八条第三項の規定により預貯金者の個人番号を通知する場合においては、当該金融機関に対し、当該預貯金者の個人番号のほか、必要に応じて当該預貯金者の本人特定事項を通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（災害時における預貯金者に対する通知の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">法第七条第五項の規定による通知は、受付金融機関を経由して、同条第一項の規定による求めをした預貯金者に対し口頭、書面又は電磁的方法により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（相続時における預貯金口座に関する情報の提供の求めの方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">法第八条第一項の規定による求めは、全ての金融機関が管理する当該求めを行おうとする相続人の被相続人である預貯金者を名義人とする全ての預貯金口座について、同項各号に掲げる事項の通知を求める旨を記載した申請書を、受付金融機関に対し提出することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書の提出は、書面又は電磁的方法により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（相続時における預貯金者の本人確認の方法等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">法第八条第二項の規定による被相続人である預貯金者の本人確認は、次に掲げる書類のいずれかを受付金融機関に提出することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該預貯金者の戸籍の附票の除票の写し（当該預貯金者の本人特定事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該預貯金者の住民票の除票の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該預貯金者に係る不動産登記規則（平成十七年法務省令第十八号）第二百四十七条第五項の規定により交付を受けた同条第一項に規定する法定相続情報一覧図の写し（当該預貯金者の本人特定事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">法第八条第二項の規定による相続人及び被相続人である預貯金者の身分関係の確認は、当該相続人が当該預貯金者の戸籍の謄本又は抄本その他これに類する書類で、当該預貯金者の相続人に該当することを明らかにするものを、受付金融機関に提出することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">受付金融機関は、前二項の規定による確認（以下「相続人確認」という。）を行った場合には、次に掲げる事項の記録を作成するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">相続人確認を行った者の氏名その他の当該者を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該記録の作成者の氏名その他の当該者を特定するに足りる事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">相続人確認を行った日付</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">預貯金者及び相続人の本人特定事項（相続人が法人である場合にあっては名称及び本店又は主たる事務所の所在地、相続人が国等である場合にあっては当該国等の名称、所在地その他の当該国等を特定するに足りる事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">預貯金者及び相続人の身分関係</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">第一項の確認において提出を受けた書類の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">前項の確認において提出を受けた書類の名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">八</span>　<span data-xpath="">代理人等により法第八条第一項の規定による求めが行われたときは、当該代理人等の本人特定事項、当該代理人等と相続人との関係及び当該代理人等が相続人のために同項の規定による求めの任に当たっていると認めた理由</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">受付金融機関は、第一項若しくは第二項に規定する書類又はその写しを前項の記録に添付するときは、同項各号に掲げる事項のうち当該書類又はその写しに記載があるものについては、同項の規定にかかわらず、当該記録に記録しないことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">受付金融機関は、第三項の記録（前項の規定により当該記録に第一項若しくは第二項に規定する書類又はその写しを添付するときは、当該書類又はその写しを含む。）を、法第八条第一項の規定による求めを受けた日から、六箇月間保存するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（相続時における相続人に対する通知の方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">法第八条第五項の規定による通知は、預金保険機構が同条第一項の規定による求めをした相続人に対し、書面又は電磁的方法により行うものとする。</span><span data-xpath="">ただし、書面により通知を行うことができるのは、当該相続人が指定する通知先が日本国内の場合に限る。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構の業務の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">預金保険機構は、法第十条第三号に掲げる業務として次の業務を行う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">法第三条第四項の規定による金融機関の求めに応じ、当該金融機関に対し同項に規定する預貯金者の個人番号を通知すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法第五条第三項の規定による個人番号の通知を円滑に行うために、同条第二項の規定による通知を行う金融機関に対し、当該金融機関が管理する預貯金口座の名義人の本人特定事項と同条第一項の規定により通知した本人特定事項との合致の程度について、電子計算機による処理結果を通知すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">法第六条第三項の規定又は第十八条第二項の規定による金融機関の求めに応じ、預貯金者に対し通知すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">法第九条第一項の規定による金融機関の求めに応じ、当該金融機関に対し情報の提供を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">法第十五条第一項に規定する手数料の収納に係る事務を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">法第十五条第一項に規定する手数料の徴収に必要な限度において、金融機関に対し、その業務又は財産の状況に関し報告又は資料の提出を求めること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">法第十九条の規定による送信に使用する情報システムの整備を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構の情報の取扱い）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十七条</span>　<span data-xpath="">預金保険機構は、法第十条に規定する業務を行うに当たり、提供を受けた預貯金者並びに相続人及び被相続人である預貯金者に係る情報について当該情報が不要となったときは、遅滞なく、当該情報を削除するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（預金保険機構による金融機関に対する委託）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十八条</span>　<span data-xpath="">法第十二条第一項の規定により、預金保険機構が金融機関に対しその全部又は一部を委託するものとする業務は、第二十条及び第二十三条に規定する申請書の受理、法第七条第一項の規定による求めに係る預貯金者の本人確認並びに法第八条第一項の規定による求めに係る相続人及び被相続人である預貯金者の本人確認並びに当該相続人及び被相続人である預貯金者の身分関係の確認その他法第七条第一項及び第八条第一項の規定による求めに必要なものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">預金保険機構は、法第十二条第二項の規定により、法第七条第一項及び第八条第一項の規定による求めに係る事務に関する手数料の徴収に係る事務を金融機関に委託することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（取り扱う情報の安全確保）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十九条</span>　<span data-xpath="">金融機関及び預金保険機構は、法第三条第六項、第五条、第七条第三項及び第四項並びに第八条第三項及び第四項の規定による通知並びに法第三条第四項、第六条第三項及び第九条第一項並びに第十八条第二項の規定による求め（以下「通知等」という。）を金融機関等の使用に係る電子計算機から電気通信回線を通じて相手方である金融機関等の使用に係る電子計算機に送信して行うに当たって、当該通知等において取り扱う情報の漏えい、滅失又は毀損の防止その他の当該通知等の業務において取り扱う情報の適切な管理のために必要な措置を講じなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定は、金融機関等から通知等の業務に係る事務の委託を受けた者が受託した業務を行う場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この命令は、法の施行の日（令和六年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和六年六月二八日内閣府・デジタル庁・財務省・厚生労働省・農林水産省・経済産業省令第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この命令は、特別児童扶養手当等の支給に関する法律施行令の一部を改正する政令の施行の日（令和六年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和六年一一月二九日内閣府・デジタル庁・財務省・厚生労働省・農林水産省・経済産業省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この命令は、行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律（令和五年法律第四十八号。次条第一号及び第四号において「改正法」という。）附則第一条第二号に掲げる規定の施行の日（令和六年十二月二日）から施行する。</span><span data-xpath="">ただし、第二条の規定は、道路交通法の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（令和七年三月二十四日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">第一条の規定による改正後の預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則第四条の規定の適用については、この命令の施行の際現に交付されている次の各号に掲げる書類（本人特定事項の記載があるものに限る。）は、それぞれ当該各号に定める期間は、同条第一号ハに掲げる書類とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">国民健康保険の被保険者証</span>　<span data-xpath="">改正法附則第十六条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">健康保険の被保険者証</span>　<span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令（令和六年厚生労働省令第百十九号。次号において「整備省令」という。）附則第二条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">船員保険の被保険者証</span>　<span data-xpath="">整備省令附則第六条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">後期高齢者医療の被保険者証</span>　<span data-xpath="">改正法附則第十八条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">国家公務員共済組合の組合員証</span>　<span data-xpath="">国家公務員共済組合法施行規則の一部を改正する省令（令和六年財務省令第六十四号）附則第二条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">地方公務員共済組合の組合員証</span>　<span data-xpath="">地方公務員等共済組合法施行規程の一部を改正する命令（令和六年内閣府、総務省、文部科学省令第五号）附則第二条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">私立学校教職員共済制度の加入者証</span>　<span data-xpath="">私立学校教職員共済法施行規則の一部を改正する省令（令和六年文部科学省令第三十二号）附則第二条に規定する期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和七年三月三日内閣府・デジタル庁・財務省・厚生労働省・農林水産省・経済産業省令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この命令は、令和七年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和七年六月二四日内閣府・デジタル庁・財務省・厚生労働省・農林水産省・経済産業省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section>
+
+
+
+
+
+</div>
+</main>
+
+</body>
+</html>

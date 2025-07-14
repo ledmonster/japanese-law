@@ -1,0 +1,304 @@
+.. _503M60000100150_20241201_000000000000000:
+
+:orphan:
+
+========================================================================
+確定拠出年金における他制度掛金相当額及び共済掛金相当額の算定に関する省令
+========================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">令和三年厚生労働省令第百五十号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">確定拠出年金における他制度掛金相当額及び共済掛金相当額の算定に関する省令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">確定拠出年金法施行令（平成十三年政令第二百四十八号）第十一条第二号及び第三十六条第五号並びに公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令（平成二十六年政令第七十四号）第三条第四項の規定により読み替えられてなおその効力を有するものとされた公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（平成二十六年政令第七十三号）第三条の規定による改正前の確定拠出年金法施行令第十一条第二号の規定に基づき、確定拠出年金における他制度掛金相当額及び共済掛金相当額の算定に関する省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（趣旨）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">確定拠出年金法施行令（平成十三年政令第二百四十八号）第十一条第二号に規定する他制度掛金相当額（第三条から第七条まで、第十条、第十一条第一項、第十二条第一項及び附則第二条第一項において「他制度掛金相当額」という。）及び公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令（平成二十六年政令第七十四号。以下「経過措置政令」という。）第三条第四項の規定により読み替えられてなおその効力を有するものとされた公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（平成二十六年政令第七十三号。以下「整備政令」という。）第三条の規定による改正前の確定拠出年金法施行令第十一条第二号に規定する他制度掛金相当額（第八条、第九条、第十一条第二項、第十二条第二項及び附則第二条第二項において「他制度掛金相当額」という。）並びに確定拠出年金法施行令第三十六条第五号に規定する共済掛金相当額（以下「共済掛金相当額」という。）の算定に関しては、この省令の定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">廃止前厚生年金基金令</span>　<span data-xpath="">整備政令第一条の規定による廃止前の厚生年金基金令（昭和四十一年政令第三百二十四号）をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">廃止前厚生年金基金規則</span>　<span data-xpath="">公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等及び経過措置に関する省令（平成二十六年厚生労働省令第二十号。以下「整備省令」という。）第一条の規定による廃止前の厚生年金基金規則（昭和四十一年厚生省令第三十四号）をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">確定給付企業年金</span>　<span data-xpath="">確定給付企業年金法（平成十三年法律第五十号）第二条第一項に規定する確定給付企業年金をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">リスク分担型企業年金</span>　<span data-xpath="">確定給付企業年金法施行規則（平成十四年厚生労働省令第二十二号）第一条第三号に規定するリスク分担型企業年金をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">存続厚生年金基金</span>　<span data-xpath="">公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律（平成二十五年法律第六十三号。以下「改正法」という。）附則第三条第十一号に規定する存続厚生年金基金をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">加入者</span>　<span data-xpath="">第七条を除き、確定給付企業年金の加入者（確定給付企業年金法施行令（平成十三年政令第四百二十四号）第五十四条の五第一項の規定に基づき、当該月について確定給付企業年金の給付の額の算定の基礎としない者を除く。）をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">加入員</span>　<span data-xpath="">存続厚生年金基金の加入員をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">財政計算</span>　<span data-xpath="">確定給付企業年金法施行規則第二十四条の三第一号イ（１）に規定する財政計算をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">財政再計算</span>　<span data-xpath="">経過措置政令第三条第二項の規定によりなおその効力を有するものとされた廃止前厚生年金基金令第三十三条第二項の規定に基づく掛金の額の再計算又は整備省令第十七条第一項の規定によりなおその効力を有するものとされた廃止前厚生年金基金規則第三十二条の三に規定する掛金の額の計算をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（確定給付企業年金の加入者に係る他制度掛金相当額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">加入者（リスク分担型企業年金の加入者を除く。以下この項において同じ。）に係る他制度掛金相当額は、次の各号に掲げる標準掛金額（確定給付企業年金法施行規則第四十五条第二項に規定する標準掛金額をいう。以下この項及び次項並びに次条において同じ。）の計算に用いた財政方式（確定給付企業年金法第五十七条の規定に基づき、将来にわたって財政の均衡を保つことができるように掛金の額を計算する方式をいう。以下この項において同じ。）の区分に応じ、当該各号に定めるところにより算定した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">加入年齢方式（特定の年齢で確定給付企業年金に加入する者であって標準的な加入者として厚生労働大臣が認める者（以下この号において「標準的な加入者」という。）に係る将来の給付に要する費用（確定給付企業年金法施行規則第四十五条第二項に規定する給付に要する費用をいう。以下同じ。）に充てるための標準掛金額を計算する財政方式をいう。）</span>　<span data-xpath="">次のイに掲げる額を次のロに掲げる額で除した額を一月当たりの額に換算した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">標準的な加入者に係る将来の給付に要する費用の予想額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">一円に標準的な加入者の人数として予想される人数を乗じて得た額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開放基金方式（加入者及び加入者となる者に係る将来の給付に要する費用に充てるための標準掛金額を計算する財政方式をいう。）</span>　<span data-xpath="">次のイに掲げる額を次のロに掲げる額で除した額を一月当たりの額に換算した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">加入者及び加入者となる者に係る将来の給付に要する費用の予想額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">一円に加入者及び加入者となる者の人数として予想される人数を乗じて得た額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">閉鎖型総合保険料方式（確定給付企業年金法第五十九条に規定する積立金の額を考慮して加入者及び加入者であった者に係る給付に要する費用に充てるための掛金の額を計算する財政方式をいう。）</span>　<span data-xpath="">次のイに掲げる額を次のロに掲げる額で除した額を一月当たりの額に換算した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">加入者に係る将来の給付に要する費用の予想額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">一円に加入者の人数として予想される人数を乗じて得た額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">前三号に掲げる財政方式以外の財政方式</span>　<span data-xpath="">前三号の算定方法に準じた算定方法として厚生労働大臣が認める算定方法により算定した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項各号に掲げる額の算定に用いる基礎率（確定給付企業年金法施行規則第四十三条第一項に規定する基礎率をいう。以下この項において同じ。）は、直近の標準掛金額の計算に用いた基礎率と同一のものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前二項の規定は、リスク分担型企業年金の加入者に係る他制度掛金相当額を算定する場合について準用する。</span><span data-xpath="">この場合において、第一項中「加入者（リスク分担型企業年金の加入者を除く。以下この項において同じ。）」とあるのは「リスク分担型企業年金の加入者（以下この項において「加入者」という。）」と、「確定給付企業年金法施行規則第四十五条第二項に規定する標準掛金額をいう。以下この項及び次項並びに次条」とあるのは「確定給付企業年金法施行規則第四十六条の三第一項の計算されることとなる標準掛金額（同条第二項第一号又は第三号に基づく変更を行った場合は当該変更後の額）をいう。以下この項及び次項」と、同項各号中「将来の給付に要する費用」とあるのは「調整前の将来の給付に要する費用」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（簡易な基準に基づく確定給付企業年金等の加入者に係る他制度掛金相当額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">確定給付企業年金法施行規則第六十五条に規定する簡易な基準に基づく確定給付企業年金又は前条の算定方法による他制度掛金相当額の算定が困難であると厚生労働大臣が認める確定給付企業年金の加入者に係る他制度掛金相当額は、同条の規定にかかわらず、直近の財政計算（当該確定給付企業年金がリスク分担型企業年金である場合にあっては、同令第四十六条の三第一項の規定による掛金の額の計算又は同条第二項第一号若しくは第三号の規定によるリスク分担型企業年金掛金額（同令第四十五条第四項に規定するリスク分担型企業年金掛金額をいう。第十二条第一項第二号において同じ。）の再計算をいう。以下この条において同じ。）の計算基準日（同令第四十九条及び第五十七条第一項に規定する計算基準日をいう。以下この条及び附則第二条第一項において同じ。）における当該財政計算の結果に基づく標準掛金額（当該確定給付企業年金がリスク分担型企業年金である場合にあっては、同令第四十六条の三第一項の計算されることとなる標準掛金額（同条第二項第一号又は第三号の規定による変更を行った場合は当該変更後の額））を当該財政計算の計算基準日における加入者の数で除した額を一月当たりの額に換算した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（確定給付企業年金の加入者負担分の除外）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">確定給付企業年金法第五十五条第二項の規定により掛金の一部を負担している加入者に係る他制度掛金相当額の算定については、同項の規定により加入者が負担する掛金は零であるものとして前二条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（確定給付企業年金における掛金の控除を行う場合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">確定給付企業年金法第六十四条第一項の規定による掛金の控除を行う事業主等（同法第二十九条第一項に規定する事業主等をいう。以下同じ。）の確定給付企業年金の加入者に係る他制度掛金相当額の算定については、同法第六十四条第一項の規定により控除しなければならない額は零であるものとして第三条及び第四条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（私立学校教職員共済制度の加入者等に係る他制度掛金相当額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">次の各号に掲げる者に係る他制度掛金相当額は、第三条第一項第三号及び第四条（第三条第一項第三号の算定方法による他制度掛金相当額の算定が困難であると厚生労働大臣が認める場合に限る。）の算定方法に準じた方法により算定される額として厚生労働大臣が定める額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">私立学校教職員共済法（昭和二十八年法律第二百四十五号）の規定による私立学校教職員共済制度の加入者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">石炭鉱業年金基金法（昭和四十二年法律第百三十五号）第十六条第一項に規定する坑内員（石炭鉱業年金基金が同法第十八条第一項の事業を行うときは、同項に規定する坑外員を含む。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（存続厚生年金基金の加入員に係る他制度掛金相当額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">加入員に係る他制度掛金相当額は、次の各号に掲げる標準掛金額（整備省令第十七条第一項の規定によりなおその効力を有するものとされた廃止前厚生年金基金規則第三十二条第三項に規定する標準掛金額をいう。以下この条において同じ。）の計算に用いた財政方式（経過措置政令第三条第二項の規定によりなおその効力を有するものとされた廃止前厚生年金基金令第三十三条第二項の規定に基づき、将来にわたって財政の均衡を保つことができるように掛金の額を計算する方式をいう。以下この項において同じ。）の区分に応じ、当該各号に定めるところにより算定した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">加入年齢方式（特定の年齢で存続厚生年金基金に加入する者であって標準的な加入員として厚生労働大臣が認める者（以下この号において「標準的な加入員」という。）に係る将来の年金たる給付及び一時金たる給付に要する費用（整備省令第十七条第一項の規定によりなおその効力を有するものとされた廃止前厚生年金基金規則第三十二条第三項に規定する年金たる給付及び一時金たる給付に要する費用をいう。以下同じ。）に充てるための標準掛金額を計算する財政方式をいう。）</span>　<span data-xpath="">次のイに掲げる額を次のロに掲げる額で除した額を一月当たりの額に換算した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">標準的な加入員に係る将来の年金たる給付及び一時金たる給付に要する費用（改正法附則第五条第一項の規定によりなおその効力を有するものとされた改正法第一条の規定による改正前の厚生年金保険法（昭和二十九年法律第百十五号）第百三十二条第二項に規定する額に要する費用を除く。次号イにおいて同じ。）の予想額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">一円に標準的な加入員の人数として予想される人数を乗じて得た額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開放基金方式（加入員及び加入員となる者に係る将来の年金たる給付及び一時金たる給付に要する費用に充てるための標準掛金額を計算する財政方式をいう。）</span>　<span data-xpath="">次のイに掲げる額を次のロに掲げる額で除した額を一月当たりの額に換算した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">加入員及び加入員となる者に係る将来の年金たる給付及び一時金たる給付に要する費用の予想額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">一円に加入員及び加入員の人数として予想される人数を乗じて得た額の現価に相当する額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前二号に掲げる財政方式以外の財政方式</span>　<span data-xpath="">前二号の算定方法に準じた算定方法として厚生労働大臣が認める算定方法により算定した額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項各号に掲げる額の算定に用いる基礎率（整備省令第十七条第一項の規定によりなおその効力を有するものとされた廃止前厚生年金基金規則第三十二条第一項に規定する基礎率をいう。以下この項において同じ。）は、直近の標準掛金額の計算に用いた基礎率と同一のものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（存続厚生年金基金における掛金の控除を行う場合）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">経過措置政令第三条第二項の規定によりなおその効力を有するものとされた廃止前厚生年金基金令第三十九条の四第一項の規定による掛金の控除を行う存続厚生年金基金の加入員に係る他制度掛金相当額の算定については、同項の規定により控除しなければならない額は零であるものとして前条の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（共済掛金相当額の算定方法）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">共済掛金相当額は、第三条第一項第三号及び第四条（第三条第一項第三号の算定方法による他制度掛金相当額の算定が困難であると厚生労働大臣が認める場合に限る。）の算定方法に準じた方法により算定される額として厚生労働大臣が定める額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（端数計算）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">他制度掛金相当額を算定する場合において、その算定した額に五百円未満の端数があるときは、これを切り捨て、五百円以上千円未満の端数があるときは、これを千円に切り上げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定は、他制度掛金相当額及び共済掛金相当額を算定する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（他制度掛金相当額及び共済掛金相当額の再算定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">次の各号に掲げる者についてそれぞれ当該各号に定める場合においては、当該者に係る他制度掛金相当額を再度算定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">加入者（リスク分担型企業年金の加入者を除く。）</span>　<span data-xpath="">確定給付企業年金法第五十八条第一項若しくは第二項又は第六十二条の規定により掛金の額が再計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">リスク分担型企業年金の加入者</span>　<span data-xpath="">確定給付企業年金法施行規則第四十六条の三第一項又は同条第二項第一号若しくは第三号の規定によりリスク分担型企業年金掛金額が計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">第七条第一号に掲げる者</span>　<span data-xpath="">私立学校教職員共済法第二十条第二項に規定する退職等年金給付に係る掛金率（同法第二十七条第三項の規定により共済規程（同法第四条第一項に規定する共済規程をいう。）で定める同法第二十七条第三項に規定する割合をいう。）が再計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">第七条第二号に掲げる者</span>　<span data-xpath="">石炭鉱業年金基金法第二十一条第三項の規定により掛金の額が再計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">加入員について、財政再計算が行われた場合においては、当該者に係る他制度掛金相当額を再度算定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">次の各号に掲げる者についてそれぞれ当該各号に定める場合においては、当該者に係る共済掛金相当額を再度算定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">厚生年金保険法第二条の五第一項第二号に規定する第二号厚生年金被保険者</span>　<span data-xpath="">国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十九条第一項の規定により同項第三号に規定する費用が再計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">厚生年金保険法第二条の五第一項第三号に規定する第三号厚生年金被保険者</span>　<span data-xpath="">地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十三条第一項の規定により同項第三号に規定する費用が再計算された場合</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、令和六年十二月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令の施行の日前を計算基準日とする財政計算の結果に基づいて掛金の額を算定する事業主等の確定給付企業年金の加入者に係る他制度掛金相当額は、第三条の規定にかかわらず、第四条の規定により算定することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令の施行の日前を掛金の算出の基準となる日とする財政再計算の結果に基づいて掛金の額を算定する存続厚生年金基金の加入員に係る他制度掛金相当額は、第八条の規定にかかわらず、直近の財政再計算の掛金の算出の基準となる日における当該財政再計算の結果に基づく標準掛金額（経過措置政令第三条第二項の規定によりなおその効力を有するものとされた廃止前厚生年金基金令第三十四条第一項に規定する免除保険料額を除く。）を当該財政再計算の掛金の算出の基準となる日における加入員の数で除した額を一月当たりの額に換算した額とすることができる。</span><span data-xpath="">ただし、経過措置政令第三条第二項の規定によりなおその効力を有するものとされた廃止前厚生年金基金令第三十九条の四第一項の規定による掛金の控除を行う存続厚生年金基金の加入員に係る他制度掛金相当額の算定においては、同項の規定により控除しなければならない額は零であるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

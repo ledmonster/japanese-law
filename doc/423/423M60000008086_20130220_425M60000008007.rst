@@ -1,0 +1,258 @@
+.. _423M60000008086_20130220_425M60000008007:
+
+:orphan:
+
+================================
+超短波放送に関する送信の標準方式
+================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十三年総務省令第八十六号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">超短波放送に関する送信の標準方式</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">放送法（昭和二十五年法律第百三十二号）第百十一条第一項及び第百二十一条第一項の規定に基づき、超短波放送に関する送信の標準方式を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+    <span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条・第二条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　地上基幹放送局を用いて行う超短波放送<span data-xpath="">（第三条―第七条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第三章　雑則<span data-xpath="">（第八条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+    <span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第一章　総則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（目的）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、放送法（昭和二十五年法律第百三十二号。以下「法」という。）第百十一条第一項及び第百二十一条第一項の規定に基づき、基幹放送設備、特定地上基幹放送局等設備及び基幹放送局設備に適用される超短波放送（デジタル放送を行う場合にあってはＦ七Ｗ電波を使用するものに限る。以下同じ。）に関する送信の標準方式を定めることを目的とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令において使用する用語は、法、電波法（昭和二十五年法律第百三十一号）及び電波法施行規則（昭和二十五年電波監理委員会規則第十四号）において使用する用語の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章　地上基幹放送局を用いて行う超短波放送</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（適用の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">この章の規定は、地上基幹放送局を用いて行う超短波放送に適用があるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（主搬送波の変調）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">主搬送波の変調の型式は、周波数変調とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">主搬送波の最大周波数偏移は、（±）七五ｋＨｚとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">主搬送波を変調する信号は、モノホニック放送を行う場合にあっては音声信号とし、ステレオホニック放送を行う場合にあっては主チャネル信号（左側信号と右側信号の和の信号をいう。以下同じ。）、副チャネル信号（左側信号と右側信号との差の信号により副搬送波を振幅変調したときに生ずる側波帯をいう。以下同じ。）及びパイロット信号（ステレオホニック放送の受信の補助のために伝送する信号をいう。以下同じ。）からなるものであって、別図第一号に示す周波数配列及び方程式によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（音声信号）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">音声信号の最高周波数は、一五、〇〇〇Ｈｚとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">音声信号は、五〇マイクロ秒の時定数を有するインピーダンス周波数特性の回路によりプレエンファシスを行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（ステレオホニック放送）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">ステレオホニック放送を行う場合にあっては、前二条の規定によるほか、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">副搬送波の変調の型式は、振幅変調とし、当該副搬送波は、抑圧するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">左側信号又は右側信号の入力端子に信号を加えた場合の主チャネル信号による主搬送波の周波数偏移及び副チャネル信号による主搬送波の周波数偏移は、同一の値とし、かつ、その最大値が第四条第二項に規定する最大周波数偏移の四五パーセントとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">パイロット信号による主搬送波の周波数偏移は、第四条第二項に規定する最大周波数偏移の一〇パーセントとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">パイロット信号の周波数は一九ｋＨｚ、副搬送波の周波数は三八ｋＨｚとし、パイロット信号の周波数と副搬送波の周波数とは、相互に低調波と高調波の関係にあるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">副搬送波は、パイロット信号が時間軸と交わるとき、同時に正傾斜で時間軸と交わるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（準用規定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">超短波音声多重放送及び超短波文字多重放送に関する送信の標準方式（平成二十三年総務省令第八十九号）第三条から第八条までの規定は、地上基幹放送局を用いて行う超短波放送の補完放送について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章　雑則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（緊急警報信号に適用する規定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">超短波放送により緊急警報信号を送る場合は、緊急警報信号を音声信号とみなし、この省令の音声信号に関する規定（第五条第一項を除く。）を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、放送法等の一部を改正する法律（平成二十二年法律第六十五号）の施行の日（平成二十三年六月三十日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（省令の廃止）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">超短波放送に関する送信の標準方式（昭和四十三年郵政省令第二十六号）は、廃止する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年二月二〇日総務省令第七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxFig"><div class="_div_AppdxFigTitle _shokanBoxParent">別図第一号（第４条第３項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;"><tr class="TableRow"><td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black none 1px; border-right: black none 1px;" class="col-pad"><div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">ステレオホニック放送を行う場合の変調信号の周波数配列</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left:1em;" class="_div_Fig"><img src="/./pict/H23F11001000086-001.jpg" alt="" class="Fig"></div>
+    <div id="" style="margin-left: 1em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">ステレオホニック放送を行う場合の変調信号の方程式</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ａ＝Ｍ＋Ｓ＋Ｐ</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｍ＝Ｌ＋Ｒ</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｓ＝（Ｌ－Ｒ）ｓｉｎ（ωｔ）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath="">Ｒ＝Ｐｓｉｎ（ωｔ／２＋θ）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    </div></td></tr></table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div class="_div_RemarksLabel _shokanBoxParent">
+    <span data-xpath="">注</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">Ａは、主搬送波を変調する信号の電圧とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">Ｍは、主チャネル信号の電圧とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">Ｓは、副チャネル信号の電圧とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">Ｐは、パイロット信号の電圧とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">Ｌは左側信号の電圧とし、Ｒは右側信号の電圧とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">ωは、副搬送波の周波数の２π倍とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">Ｐはパイロット信号の電圧の振幅とし、θは当該信号の位相とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">ｔは、時間とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

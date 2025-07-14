@@ -1,0 +1,603 @@
+.. _412M50000002125_20240307_506M60080000001:
+
+:orphan:
+
+================================
+核燃料物質の受託貯蔵に関する規則
+================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十二年総理府令第百二十五号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">核燃料物質の受託貯蔵に関する規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第六十条第一項及び第二項並びに第六十四条第一項の規定に基づき、核燃料物質の受託貯蔵に関する規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">「放射線」とは、原子力基本法（昭和三十年法律第百八十六号）第三条第五号に規定する放射線又は一メガ電子ボルト未満のエネルギーを有する電子線若しくはエックス線であって、自然放射線以外のものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">「管理区域」とは、核燃料物質の貯蔵施設（以下単に「貯蔵施設」という。）の場所であって、その場所における外部放射線に係る線量が原子力規制委員会の定める線量を超え、空気中の放射性物質（空気又は水のうちに自然に含まれている放射性物質を除く。以下同じ。）の濃度が原子力規制委員会の定める濃度を超え、又は放射性物質によって汚染された物の表面の放射性物質の密度が原子力規制委員会の定める密度を超えるおそれのあるものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">「周辺監視区域」とは、管理区域の周辺の区域であって、当該区域の外側のいかなる場所においてもその場所における線量が原子力規制委員会の定める線量限度を超えるおそれのないものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">「放射線業務従事者」とは、核燃料物質の貯蔵又はこれに付随する業務に従事する者であって、管理区域に立ち入るものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（技術上の基準）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）第六十条第一項に規定する核燃料物質の貯蔵の技術上の基準（特定核燃料物質の防護のために必要な措置に係る部分を除く。）は、次の各号に掲げるとおりとする。</span><span data-xpath="">ただし、受託貯蔵者で原子力規制委員会の定めるものについては、第三号、第九号から第十二号まで及び第十四号の規定は、適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">核燃料物質の貯蔵は、貯蔵施設において行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">貯蔵施設の目につきやすい場所に、貯蔵上の注意事項を掲示すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">貯蔵施設には、核燃料物質を搬出入する場合その他特に必要がある場合を除き、施錠又は立入制限の措置を採ること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">六ふっ化ウランの貯蔵は、六ふっ化ウランが漏えいするおそれがない構造の容器に封入して行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">プルトニウム又はその化合物の貯蔵は、プルトニウム又はその化合物が漏えいするおそれがない構造の容器に封入して行うこと。</span><span data-xpath="">ただし、グローブボックスその他の気密設備の内部において貯蔵を行う場合その他プルトニウム又はその化合物が漏えいするおそれがない場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">管理区域を設定し、かつ、当該区域においては、次の措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">壁、柵等の区画物によって区画するほか、標識を設けることによって明らかに他の場所と区別し、かつ、放射線業務従事者以外の者が当該区域に立ち入る場合は、放射線業務従事者の指示に従わせること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">放射性物質を経口摂取するおそれのある場所での飲食及び喫煙を禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">床、壁その他人の触れるおそれのある物であって放射性物質によって汚染されたものの表面の放射性物質の密度が原子力規制委員会の定める表面密度限度を超えないようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">管理区域から人が退去し、又は物品を持ち出そうとする場合には、その者の身体及び衣服、履物等身体に着用している物並びにその持ち出そうとする物品（その物品を容器に入れ又は包装した場合には、その容器又は包装）の表面の放射性物質の密度がハの表面密度限度の十分の一を超えないようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">周辺監視区域を設定し、かつ、当該区域においては、次の措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">人の居住を禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">境界に柵又は標識を設ける等の方法によって周辺監視区域に業務上立ち入る者以外の者の立入りを制限すること。</span><span data-xpath="">ただし、当該区域に人が立ち入るおそれのないことが明らかな場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">放射線業務従事者の線量等については、次の措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">放射線業務従事者の線量が原子力規制委員会の定める線量限度を超えないようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">放射線業務従事者の呼吸する空気中の放射性物質の濃度が原子力規制委員会の定める濃度限度を超えないようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">管理区域及び周辺監視区域における線量当量率並びに管理区域における放射性物質による汚染の状況の測定は、これらを知るために最も適した箇所において、かつ、放射線測定器を用いて行うこと。</span><span data-xpath="">ただし、放射線測定器を用いて測定することが著しく困難である場合には、計算によってこれらの値を算出することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">放射線業務従事者の線量の測定は、次に定めるところにより行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">外部放射線に被ばくすることによる線量の測定は、これを知るために最も適した人体部位について、放射線測定器を用いて測定すること。</span><span data-xpath="">ただし、放射線測定器を用いて測定することが著しく困難である場合にあっては、計算によってこの値を算出することとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">イの測定は、管理区域に立ち入っている間継続して行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">人体内部に摂取した放射性物質からの放射線に被ばくすることによる線量の測定は、原子力規制委員会の定めるところにより、放射性物質を吸入摂取し、又は経口摂取するおそれのある場合に行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">放射性物質による人体及び人体に着用している物の表面の汚染の状況の測定は、放射性物質によって汚染されるおそれのある人体部位の表面及び人体に着用している物の表面であって放射性物質によって汚染されるおそれのある部分について、放射線測定器を用いて行うこと。</span><span data-xpath="">ただし、放射線測定器を用いて測定することが著しく困難である場合には、計算によってこの値を算出することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十二</span>　<span data-xpath="">前号の測定は、放射性物質を経口摂取するおそれのある場所において、当該場所から人が退出するときに行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十三</span>　<span data-xpath="">核燃料物質の貯蔵は、いかなる場合においても、核燃料物質が臨界に達するおそれのないように行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十四</span>　<span data-xpath="">換気設備、放射線測定器及び非常用設備は、常にこれらの機能を発揮できる状態に維持しておくこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第六十条第一項に規定する核燃料物質の貯蔵の技術上の基準（特定核燃料物質の防護のために必要な措置に係る部分に限る。）は、次の表の上欄に掲げる特定核燃料物質の区分に応じ、それぞれ同表の下欄に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　照射されていない次に掲げる物質</span><br><span data-xpath="">イ　プルトニウム（プルトニウム二三八の同位体濃度が百分の八十を超えるものを除く。以下この表において同じ。）及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、プルトニウムの量が二キログラム以上のもの</span><br><span data-xpath="">ロ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が百分の二十以上のウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が五キログラム以上のもの</span><br><span data-xpath="">ハ　ウラン二三三及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三三の量が二キログラム以上のもの</span><br><span data-xpath="">二　照射された前号に掲げる物質であって、その表面から一メートルの距離において、当該物質から放出された放射線が空気に吸収された場合の吸収線量率（以下単に「吸収線量率」という。）が一グレイ毎時以下のもの</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">次項に定める措置</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">三　照射された第一号に掲げる物質であって、その表面から一メートルの距離において吸収線量率が一グレイ毎時を超えるもの（第十号に掲げるものを除く。）</span><br><span data-xpath="">四　照射されていない次に掲げる物質</span><br><span data-xpath="">イ　プルトニウム及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、プルトニウムの量が五百グラムを超え二キログラム未満のもの</span><br><span data-xpath="">ロ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が百分の二十以上のウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が一キログラムを超え五キログラム未満のもの</span><br><span data-xpath="">ハ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が百分の十以上で百分の二十に達しないウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が十キログラム以上のもの</span><br><span data-xpath="">ニ　ウラン二三三及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三三の量が五百グラムを超え二キログラム未満のもの</span><br><span data-xpath="">五　照射された前号に掲げる物質であって、その表面から一メートルの距離において吸収線量率が一グレイ毎時以下のもの</span><br><span data-xpath="">六　核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（昭和三十二年政令第三百二十四号。以下「令」という。）第三条第三号に規定する特定核燃料物質（第十号に掲げるものを除く。）</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第三項に定める措置</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">七　照射された第四号に掲げる物質であって、その表面から一メートルの距離において吸収線量率が一グレイ毎時を超えるもの（第十号に掲げるものを除く。）</span><br><span data-xpath="">八　照射されていない次に掲げる物質</span><br><span data-xpath="">イ　プルトニウム及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、プルトニウムの量が十五グラムを超え五百グラム以下のもの</span><br><span data-xpath="">ロ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が百分の二十以上のウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が十五グラムを超え一キログラム以下のもの</span><br><span data-xpath="">ハ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が百分の十以上で百分の二十に達しないウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が一キログラムを超え十キログラム未満のもの</span><br><span data-xpath="">ニ　ウラン二三五のウラン二三五及びウラン二三八に対する比率が天然の比率を超え百分の十に達しないウラン並びにその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三五の量が十キログラム以上のもの</span><br><span data-xpath="">ホ　ウラン二三三及びその化合物並びにこれらの物質の一又は二以上を含む物質であって、ウラン二三三の量が十五グラムを超え五百グラム以下のもの</span><br><span data-xpath="">九　照射された前号に掲げる物質（照射された同号ニに掲げる物質であって照射直後にその表面から一メートルの距離において吸収線量率が一グレイ毎時を超えていたもの及び次号に掲げるものを除く。）</span><br><span data-xpath="">十　令第三条第二号又は第三号に規定する特定核燃料物質（使用済燃料を溶解した液体から核燃料物質その他の有用物質を分離した残りの液体をガラスにより容器に固型化した物に含まれるものであって、その表面から一メートルの距離において吸収線量率が一グレイ毎時を超えるものに限る。）</span>
+    </div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四項に定める措置</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の表第一号及び第二号の特定核燃料物質の防護のために必要な措置は、次の各号に掲げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">特定核燃料物質の防護のための区域（以下「防護区域」という。）を定め、当該防護区域を鉄筋コンクリート造りの障壁等の堅固な構造の障壁によって区画し、及び適切かつ十分な監視を行うことができる装置を当該防護区域内に設置すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">防護区域の周辺に、防護区域における特定核燃料物質の防護をより確実に行うための区域（以下「周辺防護区域」という。）を定め、当該周辺防護区域を柵等の障壁によって区画し、及び当該障壁の周辺に照明装置等の容易に人の侵入を確認することができる装置を設置すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">見張人に、防護区域又は周辺防護区域への人の侵入を監視するための装置の有無並びに防護区域における特定核燃料物質の量及び取扱形態に応じ適切な方法により当該防護区域及び当該周辺防護区域を巡視させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">防護区域及び周辺防護区域への人の立入りについては、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">業務上防護区域又は周辺防護区域に常時立ち入ろうとする者については、当該防護区域又は当該周辺防護区域への立入りの必要性を確認の上、当該者に当該立入りを認めたことを証明する書面等（以下この項において「証明書等」という。）を発行し、当該立入りの際に当該証明書等を所持させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">防護区域又は周辺防護区域に立ち入ろうとする者（イに掲げる証明書等を所持する者（以下「常時立入者」という。）を除く。）については、その身分及び当該防護区域又は当該周辺防護区域への立入りの必要性を確認の上、当該者に証明書等を発行し、当該立入りの際に当該証明書等を所持させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">ロに掲げる証明書等を所持する者が防護区域に立ち入る場合は、当該防護区域内において常時立入者を同行させ、当該常時立入者に特定核燃料物質の防護のために必要な監督を行わせること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">防護区域及び周辺防護区域への業務用の車両以外の車両の立入りを禁止すること。</span><span data-xpath="">ただし、防護区域又は周辺防護区域に立ち入ることが特に必要な車両であって、特定核燃料物質の防護上支障がないと認められるものについては、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">防護区域及び周辺防護区域の出入口においては、次に掲げる措置を講ずること。</span><span data-xpath="">ただし、イ又はロに掲げる点検については、これと同等以上の特定核燃料物質の防護のための措置を講ずる場合は、当該点検を省略することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">特定核燃料物質の取扱いに対する妨害行為又は特定核燃料物質が置かれている施設若しくは特定核燃料物質の防護のために必要な設備若しくは装置に対する破壊行為の用に供され得る物品（持込みの必要性が認められるものを除く。）の持込み及び特定核燃料物質（持出しの必要性が認められるものを除く。）の持出しが行われないように点検を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">第四号イ及びロに掲げる証明書等を所持する者が物品を防護区域に持ち込み又は防護区域から持ち出そうとする場合は、当該防護区域の出入口において、イの点検のほか、当該防護区域における特定核燃料物質の量及び取扱形態に応じ、金属を検知することができる装置及び特定核燃料物質を検知することができる装置を用いて点検を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">見張人に出入口を常時監視させること。</span><span data-xpath="">ただし、出入口に施錠するとともに、人の侵入を検知して表示することができる装置を設置した場合は、当該出入口については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">特定核燃料物質の管理については、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">特定核燃料物質は、防護区域内に置くこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">見張人に、人の侵入を監視するための装置を用いる等の方法により特定核燃料物質を常時監視させること。</span><span data-xpath="">ただし、鉄筋コンクリート造りの施設等の堅固な構造の施設（以下この号及び第九号において単に「施設」という。）であって次に掲げる措置を講じたものの中に置かれている特定核燃料物質については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">施設の出入口に施錠するとともに、人の侵入を検知して表示することができる装置を設置すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">施設に立ち入ることが特に必要な者であることを確認の上当該施設に立ち入ることを認めた者以外の者の当該施設への立入りを禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">見張人に、施設への人の侵入を監視するための装置の有無並びに施設における特定核燃料物質の量及び取扱形態に応じ適切な方法により当該施設の周辺を巡視させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">特定核燃料物質の取扱いに従事する者に、その取扱いに係る特定核燃料物質又は設備若しくは装置に異常が認められた場合には、直ちに、その旨をあらかじめ指定した者に報告させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">特定核燃料物質の取扱いに従事する者に、その日の作業の終了後に、その取扱いに係る特定核燃料物質並びに設備及び装置について点検を行わせ、当該点検において、当該特定核燃料物質又は設備若しくは装置について異常が認められた場合には直ちにその旨を、異常が認められない場合にはその旨を、あらかじめ指定した者に報告させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">人の侵入を監視するための装置（以下この号において「監視装置」という。）を設置する場合は、次に掲げるところによること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">監視装置は、人の侵入を確実に検知して速やかに表示する機能を有するものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特定核燃料物質の防護上重要な監視装置には、非常用電源設備を備える等イの機能を常に維持するための措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">監視装置を構成する装置であって人の侵入を表示するものは、防護区域内若しくは周辺防護区域内又は周辺防護区域の近くであって見張人が常時監視できる位置に設置すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">防護区域若しくは周辺防護区域又は施設の出入口に施錠する場合は、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">鍵及び錠については、取替え又は構造の変更を行う等複製が困難となるようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">鍵又は錠について不審な点が認められた場合には、速やかに取替え又は構造の変更を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">鍵を管理する者としてあらかじめ指定した者にその鍵を厳重に管理させ、当該者以外の者がその鍵を取り扱うことを禁止すること。</span><span data-xpath="">ただし、あらかじめその鍵を一時的に取り扱うことを認めた者については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">特定核燃料物質の防護のために必要な設備及び装置については、点検及び保守を行い、その機能を維持すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">特定核燃料物質の防護のために必要な連絡に関し、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">見張人が常時監視を行うための詰所（以下「見張人の詰所」という。）を設置すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">見張りを行っている見張人と見張人の詰所との間における連絡を迅速かつ確実に行うことができるようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">防護区域内及び周辺防護区域内に連絡のための設備を設置し、見張人の詰所への連絡を迅速かつ確実に行うことができるようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">見張人の詰所から関係機関への連絡は、二以上の連絡手段により迅速かつ確実に行うことができるようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">見張人の詰所に第五号ロに規定する証明書等を所持する者が立ち入る場合は、常時立入者を同行させ、当該常時立入者に特定核燃料物質の防護のために必要な監督を行わせること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十二</span>　<span data-xpath="">従業者に対し、その職務の内容に応じて特定核燃料物質の防護のために必要な教育及び訓練を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十三</span>　<span data-xpath="">特定核燃料物質の防護のために必要な体制を整備すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十四</span>　<span data-xpath="">特定核燃料物質の盗取、特定核燃料物質の取扱いに対する妨害行為若しくは特定核燃料物質が置かれている施設若しくは特定核燃料物質の防護のために必要な設備若しくは装置に対する破壊行為（以下「妨害破壊行為等」という。）が行われるおそれがあり、又は行われた場合において迅速かつ確実に対応できるように適切な計画（以下「緊急時対応計画」という。）を作成すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十五</span>　<span data-xpath="">特定核燃料物質の防護のために必要な措置に関する詳細な事項は、当該事項を知る必要があると認められる者以外の者に知られることがないよう管理すること。</span><span data-xpath="">この場合において、次に掲げる特定核燃料物質の防護に関する秘密については、秘密の範囲及び業務上知り得る者（以下この項において単に「業務上知り得る者」という。）を指定し、管理の方法を定めることにより、その漏えいの防止を図ること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">原子力規制委員会が別に定める妨害破壊行為等の脅威に関する事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">特定核燃料物質の防護のために必要な設備及び装置に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">特定核燃料物質の防護のために必要な連絡に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">特定核燃料物質の防護のために必要な体制に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ホ</span>　<span data-xpath="">見張人による巡視及び監視に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ヘ</span>　<span data-xpath="">緊急時対応計画に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ト</span>　<span data-xpath="">特定核燃料物質の防護のために必要な措置の評価に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">チ</span>　<span data-xpath="">令第三条第一号イ、ロ及びホに規定する特定核燃料物質（取扱いが容易な形態のものに限る。）の貯蔵施設に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">リ</span>　<span data-xpath="">特定核燃料物質の工場又は事業所内の運搬に関する詳細な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十六</span>　<span data-xpath="">証明書等の発行又は業務上知り得る者の指定を受けようとする者（以下この号において「対象者」という。）について、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">次に掲げるところにより、あらかじめ、対象者について、妨害破壊行為等を行うおそれがあるか否か又は特定核燃料物質の防護に関する秘密の取扱いを行った場合にこれを漏らすおそれがあるか否かについての確認（以下この号において単に「確認」という。）を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">対象者の履歴、外国との関係及びテロリズムその他の犯罪行為を行うおそれがある団体（暴力団を含む。）との関係、事理を弁識する能力並びに特定核燃料物質の防護に関連する犯罪及び懲戒の経歴を調査し、確認を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">原子力規制委員会が定めるところにより、申告書その他の書類の提出又は提示を求める方法、対象者との面接、対象者の性格等に関する適性検査その他必要な方法により調査し、確認を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">あらかじめ、対象者に対し、確認の実施に際し知り得た情報の漏えい及び目的外利用を防止する措置を講じていることその他必要な事項を説明し、個人情報の利用について対象者の同意を得た上で確認を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">確認を行った結果、対象者について、妨害破壊行為等を行うおそれがあり、又は特定核燃料物質の防護に関する秘密を漏らすおそれがあると認められる場合（イ（３）に規定する同意が得られない場合を含む。）は、対象者に対し、証明書等の発行及び業務上知り得る者の指定を行わないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">証明書等及び業務上知り得る者の指定の有効期間は、証明書等の発行又は業務上知り得る者の指定の日から起算して五年以内とすること。</span><span data-xpath="">ただし、有効期間内であっても、事情の変更により特別の必要が生じたときは、改めて確認を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">証明書等の発行に係るイからハまでに掲げる措置は、業務上次に掲げる区域等のいずれかに常時立ち入ろうとする対象者について講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">防護区域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">見張人の詰所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十七</span>　<span data-xpath="">前各号の措置は、原子力規制委員会が別に定める妨害破壊行為等の脅威に対応したものとすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十八</span>　<span data-xpath="">前各号の措置については、定期的に評価を行うとともに、評価の結果に基づき必要な改善を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の表第三号から第六号までの特定核燃料物質の防護のために必要な措置については、前項（第二号及び第六号ロを除く。）の規定を準用する。</span><span data-xpath="">この場合において、同項第三号中「防護区域又は周辺防護区域」とあるのは「防護区域」と、「当該防護区域及び当該周辺防護区域」とあるのは「当該防護区域」と、同項第四号中「防護区域及び周辺防護区域」とあり、及び「防護区域又は周辺防護区域」とあるのは「防護区域」と、「当該防護区域又は当該周辺防護区域」とあるのは「当該防護区域」と、同項第五号中「防護区域及び周辺防護区域」とあり、及び「防護区域又は周辺防護区域」とあり、同項第六号中「防護区域及び周辺防護区域」とあるのは「防護区域」と、同項第八号中「防護区域内若しくは周辺防護区域内」とあるのは「防護区域内」と、「周辺防護区域の」とあるのは「防護区域の」と、同項第九号中「防護区域若しくは周辺防護区域又は施設」とあるのは「防護区域又は施設」と、同項第十一号中「防護区域内及び周辺防護区域内」とあるのは「防護区域内」と、同項第十七号中「前各号の措置は」とあるのは「第一項の表第三号から第六号までの特定核燃料物質（同表第四号ハに掲げる物質及び同表第五号に掲げる物質のうち照射された同表第四号ハに掲げる物質に係るもの（照射直後にその表面から一メートルの距離において吸収線量率が一グレイ毎時以下であったものに限る。）を除く。）を取り扱う場合、前各号の措置は」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第一項の表第七号から第十号までの特定核燃料物質の防護のために必要な措置については、次の各号に掲げるもののほか、第二項第三号から第五号まで（第四号ハを除く。）、同項第七号（同号ロを除く。）、同項第八号（同号ロ及びハを除く。）、同項第十号から第十五号まで（第十一号イからハまで及びホを除く。）、第十七号及び第十八号の規定を準用する。</span><span data-xpath="">この場合において、同項第三号中「防護区域又は周辺防護区域」とあるのは「防護区域」と、「当該防護区域及び当該周辺防護区域」とあるのは「当該防護区域」と、同項第四号中「防護区域及び周辺防護区域」とあり、及び「防護区域又は周辺防護区域」とあるのは「防護区域」と、「当該防護区域又は当該周辺防護区域」とあるのは「当該防護区域」と、同項第五号中「防護区域及び周辺防護区域」とあり、及び「防護区域又は周辺防護区域」とあるのは「防護区域」と、同項第十一号中「二以上の連絡手段により迅速」とあるのは「迅速」と、同項第十七号中「前各号の措置は」とあるのは「第一項の表第七号から第九号までの特定核燃料物質（同表第八号ハ及びニに掲げる物質並びに同表第九号に掲げる物質のうち照射された同表第八号ハ及びニに掲げる物質に係るもの（照射直後にその表面から一メートルの距離において吸収線量率が一グレイ毎時以下であったものに限る。）を除く。）を取り扱う場合、前各号の措置は」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">防護区域を定めること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">見張人に防護区域の出入口を常時監視させること。</span><span data-xpath="">ただし、出入口に施錠した場合は、当該出入口については、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">特定核燃料物質が貯蔵されている施設（以下この号において「貯蔵施設」という。）については、次に掲げる措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">貯蔵施設に立ち入ることが特に必要な者であることを確認の上当該貯蔵施設に立ち入ることを認めた者以外の者の当該貯蔵施設への立入りを禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">見張人に、貯蔵施設への人の侵入を監視するための装置の有無並びに貯蔵施設における特定核燃料物質の量及び取扱形態に応じ適切な方法により当該貯蔵施設の周辺を巡視させること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（危険時の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第六十四条第一項の規定により、受託貯蔵者は、次の各号に掲げる応急の措置を講じなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">貯蔵施設に火災が起こり、又は貯蔵施設に延焼するおそれがある場合には、消火又は延焼の防止に努めるとともに直ちにその旨を消防吏員に通報すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">核燃料物質を他の場所に移す余裕がある場合には、必要に応じてこれを安全な場所に移し、関係者以外の者の立入りを禁止すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">放射線障害の発生を防止するため必要がある場合には、貯蔵施設の内部にいる者及び付近にいる者に避難するよう警告すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">核燃料物質による汚染が生じた場合には、速やかに、その広がりの防止及び汚染の除去を行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">放射線障害を受けた者又は受けたおそれのある者がいる場合には、速やかに救出し、避難させる等緊急の措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">その他放射線障害を防止するために必要な措置を講ずること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項各号に掲げる緊急作業を行う場合には、第二条第八号イの規定にかかわらず、放射線業務従事者（女子については、妊娠不能と診断された者及び妊娠の意思のない旨を受託貯蔵者に書面で申し出た者に限る。）をその線量が原子力規制委員会の定める線量限度を超えない範囲内において緊急作業が必要と認められる期間、緊急作業に従事させることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の規定により緊急作業に従事させることができる放射線業務従事者は、次に掲げる要件のいずれにも該当する者でなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">緊急作業時の放射線の生体に与える影響及び放射線防護措置について教育を受けた上で、緊急作業に従事する意思がある旨を受託貯蔵者に書面で申し出た者であること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">緊急作業についての訓練を受けた者であること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年一二月二六日総理府令第一五一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、平成十三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年一一月二四日文部科学省・経済産業省・国土交通省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律（平成十七年法律第四十四号）の施行の日（平成十七年十二月一日）から施行する。</span><span data-xpath="">ただし、第三条の改正規定（「特定燃料物質」を「特定核燃料物質」に改める部分及び「第一条の二第三号」を「第二条第三号」に改める部分を除く。）は、平成十八年六月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年四月一五日文部科学省・経済産業省・国土交通省令第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、平成二十年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年九月一四日文部科学省・経済産業省・国土交通省令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、原子力規制委員会設置法の施行の日（平成二十四年九月十九日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年一二月六日原子力規制委員会規則第一六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号。以下「設置法」という。）附則第一条第五号に掲げる規定の施行の日（平成二十五年十二月十八日。以下「施行日」という。）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年八月三一日原子力規制委員会規則第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この規則は、平成二十八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年七月七日原子力規制委員会規則第八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（平成二十九年七月十日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年六月八日原子力規制委員会規則第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この規則は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三一年三月一日原子力規制委員会規則第一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この規則は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年三月七日原子力規制委員会規則第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この規則は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

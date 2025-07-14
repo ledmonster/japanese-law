@@ -1,0 +1,1189 @@
+.. _409CO0000000363_20250501_507CO0000000128:
+
+:orphan:
+
+==================================================================================
+内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令
+==================================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成九年政令第三百六十三号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">内閣は、内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（平成九年法律第百十号）第二条第三号及び第七号、第三条第一項、第二項及び第四項並びに第四条の規定に基づき、この政令を制定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+    <span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条―第三条の四）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　国外送金等に係る告知書及び調書の提出等<span data-xpath="">（第四条―第九条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第二章の二　国外証券移管等に係る告知書及び調書の提出等<span data-xpath="">（第九条の二―第九条の五）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／ChapterTitle［1］">第二章の三　国外電子決済手段移転等に係る告知書及び調書の提出等<span data-xpath="">（第九条の六―第九条の十）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［5］／ChapterTitle［1］">第三章　国外財産に係る調書の提出等<span data-xpath="">（第十条―第十二条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［6］／ChapterTitle［1］">第三章の二　財産債務に係る調書の提出等<span data-xpath="">（第十二条の二―第十二条の四）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［7］／ChapterTitle［1］">第四章　雑則<span data-xpath="">（第十三条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+    <span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第一章　総則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令において、「国内」、「国外」、「金融機関」、「国外送金」、「国外からの送金等の受領」、「本人口座」、「金融商品取引業者等」、「国内証券口座」、「電子決済手段」、「国内電子決済手段勘定」又は「国外財産」とは、それぞれ内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下「法」という。）第二条に規定する国内、国外、金融機関、国外送金、国外からの送金等の受領、本人口座、金融商品取引業者等、国内証券口座、電子決済手段、国内電子決済手段勘定又は国外財産をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融機関の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第二条第三号に規定する政令で定める金融機関は、次に掲げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行、長期信用銀行法（昭和二十七年法律第百八十七号）第二条に規定する長期信用銀行、信用金庫、信用金庫連合会、労働金庫、労働金庫連合会、信用協同組合及び中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の九第一項第一号の事業を行う協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">業として貯金の受入れをすることができる農業協同組合、農業協同組合連合会、漁業協同組合、漁業協同組合連合会、水産加工業協同組合及び水産加工業協同組合連合会</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">日本銀行、農林中央金庫、株式会社商工組合中央金庫、株式会社日本政策投資銀行及び株式会社国際協力銀行</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">資金決済に関する法律（平成二十一年法律第五十九号）第二条第三項に規定する資金移動業者</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融機関の営業所等の長による預金等の口座に係る氏名等の確認）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第二条第六号の確認は、金融機関の同号に規定する営業所等（以下第三条の四まで及び第四条第二項において「営業所等」という。）の長が、当該営業所等に預金若しくは貯金の口座又は勘定が開設され、又は設定される者（既に預金若しくは貯金の口座又は勘定が開設され、又は設定されている場合にあっては、当該口座又は勘定が開設され、又は設定されている者）から提示若しくは送信を受けた第五条第一項各号に定める書類のいずれか若しくは署名用電子証明書等（法第三条第一項に規定する署名用電子証明書等をいう。以下同じ。）に記載若しくは記録がされ、又は行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第三十九条第四項の規定により公表されたその者の氏名又は名称、住所（国内に住所を有しない者にあっては、法第二条第六号に規定する財務省令で定める場所。以下この条、第三条の三及び第三条の四において同じ。）及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律第二条第五項に規定する個人番号をいう。以下同じ。）又は法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律第二条第十六項に規定する法人番号をいう。以下同じ。）（個人番号及び法人番号を有しない者又は既に個人番号若しくは法人番号を告知している者として財務省令で定める者にあっては、氏名又は名称及び住所。以下この条において同じ。）と、当該口座又は勘定の名義人とした者の氏名又は名称、住所及び個人番号又は法人番号とを照合することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（有価証券の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条の二</span>　<span data-xpath="">法第二条第八号に規定する政令で定める有価証券は、金融商品取引法（昭和二十三年法律第二十五号）第二条第二項の規定により有価証券とみなされる権利及び所得税法施行令（昭和四十年政令第九十六号）第四条第三号に掲げる権利とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融商品取引業者等の営業所等の長による国内証券口座に係る氏名等の確認）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条の三</span>　<span data-xpath="">法第二条第十三号の確認は、金融商品取引業者等の営業所等の長が、当該営業所等に国内証券口座が開設される者（既に国内証券口座が開設されている場合にあっては、当該国内証券口座が開設されている者）から提示若しくは送信を受けた第五条第一項各号に定める書類のいずれか若しくは署名用電子証明書等に記載若しくは記録がされ、又は行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表されたその者の氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者又は既に個人番号若しくは法人番号を告知している者として財務省令で定める者にあっては、氏名又は名称及び住所。以下この条において同じ。）と、当該国内証券口座の名義人とした者の氏名又は名称、住所及び個人番号又は法人番号とを照合することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子決済手段等取引業者の営業所等の長による国内電子決済手段勘定に係る氏名等の確認）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条の四</span>　<span data-xpath="">法第二条第二十号の確認は、同条第十四号に規定する電子決済手段等取引業者の営業所等の長が、当該営業所等に国内電子決済手段勘定が設定される者（既に国内電子決済手段勘定が設定されている場合にあっては、当該国内電子決済手段勘定が設定されている者）から提示若しくは送信を受けた第五条第一項各号に定める書類のいずれか若しくは署名用電子証明書等に記載若しくは記録がされ、又は行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表されたその者の氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者又は既に個人番号若しくは法人番号を告知している者として財務省令で定める者にあっては、氏名又は名称及び住所。以下この条において同じ。）と、当該国内電子決済手段勘定の名義人とした者の氏名又は名称、住所及び個人番号又は法人番号とを照合することにより行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章　国外送金等に係る告知書及び調書の提出等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外送金等に係る告知書の提出義務のない公共法人等の範囲等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第三条第一項に規定する政令で定めるものは、国及び次に掲げる者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法人税法（昭和四十年法律第三十四号）別表第一に掲げる法人</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">特別の法律により設立された法人（当該特別の法律において、その法人の名称が定められ、かつ、当該名称として用いられた文字を他の者の名称の文字として用いてはならない旨の定めのあるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">第二条各号に掲げる金融機関</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">金融商品取引法第二条第九項に規定する金融商品取引業者（同法第二十八条第一項に規定する第一種金融商品取引業を行う者（同法第二十九条の四の二第八項に規定する第一種少額電子募集取扱業者及び同法第二十九条の四の四第七項に規定する非上場有価証券特例仲介等業者を除く。）に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">外国政府、外国の地方公共団体、外国の中央銀行及び我が国が加盟している国際機関</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三条第一項に規定する政令で定める行為は、金融機関の営業所等の長が、その顧客の求めに応じ他の金融機関の営業所等の長に同項に規定する為替取引又は買取りをすることを依頼し、当該顧客の当該為替取引又は買取りに係る資金の当該他の金融機関の営業所等との間の授受を当該金融機関の営業所等を通じて行うことによりする取次ぎとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外送金等に係る告知書の提出に係る住民票の写しその他の書類の提示等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第三条第一項に規定する政令で定める書類は、次の各号に掲げる者の区分に応じ当該各号に定める書類のいずれかとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">個人</span>　<span data-xpath="">当該個人の住民票の写し、行政手続における特定の個人を識別するための番号の利用等に関する法律第二条第七項に規定する個人番号カードその他の財務省令で定める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">法人（法人税法第二条第八号に規定する人格のない社団等を含む。以下この号及び第四項、第九条の三第二項並びに第九条の七第二項において同じ。）</span>　<span data-xpath="">当該法人の設立の登記に係る登記事項証明書、行政手続における特定の個人を識別するための番号の利用等に関する法律施行令（平成二十六年政令第百五十五号）第三十八条の規定による通知に係る書面その他の財務省令で定める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三条第一項に規定する政令で定める者は、同項に規定する国外送金等（以下この条及び第八条において「国外送金等」という。）に係る同項の告知書の提出を受ける同項に規定する金融機関の営業所等の長（以下この条及び次条において「金融機関の営業所等の長」という。）が、財務省令で定めるところにより、当該国外送金等をする者の氏名又は名称、住所（国内に住所を有しない者にあっては、同項に規定する財務省令で定める場所。以下この条、次条及び第九条の三から第九条の八までにおいて同じ。）及び個人番号又は法人番号その他の事項を記載した帳簿（その者の前項各号に定める書類のいずれかの提示若しくはその者の署名用電子証明書等の送信若しくはその者に係る特定通知等（預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号）第五条第三項の規定による通知その他財務省令で定める通知又は提供をいう。第五項、第九条の三第三項及び第九条の七第三項において同じ。）を受け、又は第四項の規定による確認をして作成されたものに限る。）を備えている場合における当該国外送金等をする者（当該告知書に記載されるべきその者の氏名若しくは名称、住所又は個人番号若しくは法人番号が当該帳簿に記載されているその者の氏名若しくは名称、住所又は個人番号若しくは法人番号と異なるものを除く。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第三条第一項の告知書の提出をする者は、当該告知書の提出をする際、当該告知書の提出をする金融機関の営業所等の長に、第一項に規定する書類（以下第九条の八までにおいて「確認書類」という。）を提示し、又は署名用電子証明書等を送信しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">国外送金等をする法人が、法人番号保有者（行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項に規定する法人番号保有者をいう。第九条の三第二項及び第九条の七第二項において同じ。）に該当する法人である場合において、当該国外送金等に係る法第三条第一項の告知書の提出を受ける金融機関の営業所等の長が、当該告知書に記載された名称、住所及び法人番号につき、行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表された当該国外送金等をする法人の名称、住所及び法人番号と同じであることの確認をしたときは、当該国外送金等をする法人は、前項の規定にかかわらず、当該告知書の提出をする際、当該金融機関の営業所等の長に対しては、確認書類の提示を要しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">国外送金等をする者が、財務省令で定める者に該当する者である場合において、当該国外送金等に係る法第三条第一項の告知書の提出を受ける金融機関の営業所等の長が、当該国外送金等をする者の氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者にあっては、氏名又は名称及び住所。以下この項、第九条の三第三項及び第九条の七第三項において同じ。）を記載した帳簿書類（その者から提出を受けたその者の確認書類の写しの添付があるもの、その作成の際に送信を受けたその者の署名用電子証明書等を併せて保存しているもの又はその者に係る特定通知等を受け、若しくは前項の規定による確認をして作成されたものに限る。）を備えているときは、当該国外送金等をする者は、第三項の規定にかかわらず、当該告知書の提出をする際、当該金融機関の営業所等の長に対しては、確認書類の提示又は署名用電子証明書等の送信を要しないものとする。</span><span data-xpath="">ただし、当該告知書に記載されている氏名又は名称、住所及び個人番号又は法人番号が当該帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と異なるときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融機関の営業所等の長の確認等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">金融機関の営業所等の長は、法第三条第一項の規定による告知書の提出があった場合には、前条第四項の規定による確認をした場合を除き、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者又は同条第二項の規定に該当する者にあっては、氏名又は名称及び住所。以下この項及び次項において同じ。）が、同条第三項の規定により提示又は送信を受けた確認書類又は署名用電子証明書等に記載又は記録がされた氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する場合において、同項の告知書の提出をした者が前条第五項本文の規定の適用を受けて確認書類の提示又は署名用電子証明書等の送信をしなかったときは、前項の金融機関の営業所等の長は、同項の規定による確認に代えて、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号が、同条第五項に規定する帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">金融機関の営業所等の長は、第一項の規定による確認をした場合にあっては、当該確認に係る同項の告知書に前条第三項の規定により提示を受けた確認書類の名称又は署名用電子証明書等の送信を受けた旨を記載しておかなければならないものとし、同条第四項又は前項の規定による確認をした場合にあっては、これらの規定による確認に係るこれらの規定の告知書にその旨を記載しておかなければならないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定送金及び特定受領の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第三条第二項第一号に規定する政令で定める国外送金は、その国外送金をする者の本人口座からの預金若しくは貯金（以下この項において「預金等」という。）の払出し又は勘定の残高の払戻しによりされる国外送金（当該預金等の払出し又は勘定の残高の払戻しの請求と当該国外送金の依頼とが同時に行われるものに限る。）で、国外における当該国外送金の受領が金銭をもってされるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第三条第二項第二号に規定する政令で定める国外からの送金等の受領は、銀行業を営む者（これに準ずる者として財務省令で定める者を含む。）の国外にある営業所又は事務所に開設されている預金の口座（これに類する口座として財務省令で定める口座を含む。）で国外からの送金等の受領をする者が名義人となっているものからの預金（これに準ずるものとして財務省令で定めるものを含む。）の払出しによりされる国外からの送金等の受領で、国内に設置された自動預払機その他これに準ずる機械を通じてされるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外送金等調書の提出を要しない国外送金等の上限額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">法第四条第一項に規定する政令で定める金額は、百万円とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">国外送金等が外国通貨で表示された金額で行われる場合における前項の規定の適用に係る外国通貨の本邦通貨への換算は、財務省令で定める外国為替相場を用いて行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（税務署長の承認に関する手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法第四条第四項の承認を受けようとする金融機関は、その名称、所在地及び法人番号、同条第一項に規定する国外送金等調書の同条第二項に規定する記載事項を提供しようとする税務署長その他の財務省令で定める事項を記載した申請書を同条第四項に規定する所轄の税務署長に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の所轄の税務署長は、同項の申請書の提出があった場合において、その申請につき承認をし、又は承認をしないこととしたときは、その申請をした者に対し、その旨を書面により通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の申請書の提出があった場合において、その申請書の提出の日から二月を経過する日までにその申請につき承認をし、又は承認をしないこととした旨の通知がなかったときは、同日においてその承認があったものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章の二　国外証券移管等に係る告知書及び調書の提出等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外証券移管等に係る告知書の提出義務のない別表法人等の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の二</span>　<span data-xpath="">法第四条の二第一項に規定する政令で定めるものは、国、第四条第一項各号に掲げる者及び外国の法令に準拠して当該国において銀行業又は金融商品取引法第二条第八項に規定する金融商品取引業を行う法人とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外証券移管等に係る告知書の提出に係る住民票の写しその他の書類の提示等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の三</span>　<span data-xpath="">法第四条の二第一項の告知書を提出する者は、当該告知書の提出をする際、当該告知書の提出をする同項に規定する金融商品取引業者等の営業所等の長（以下第三項まで及び次条において「金融商品取引業者等の営業所等の長」という。）に、確認書類を提示し、又は署名用電子証明書等を送信しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第四条の二第一項に規定する国外証券移管等（以下この条において「国外証券移管等」という。）をする法人が、法人番号保有者に該当する法人である場合において、当該国外証券移管等に係る同項の告知書の提出を受ける金融商品取引業者等の営業所等の長が、当該告知書に記載された名称、住所及び法人番号につき、行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表された当該国外証券移管等をする法人の名称、住所及び法人番号と同じであることの確認をしたときは、当該国外証券移管等をする法人は、前項の規定にかかわらず、当該告知書の提出をする際、当該金融商品取引業者等の営業所等の長に対しては、確認書類の提示を要しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">国外証券移管等をする者が、財務省令で定める者に該当する者である場合において、当該国外証券移管等に係る法第四条の二第一項の告知書の提出を受ける金融商品取引業者等の営業所等の長が、当該国外証券移管等をする者の氏名又は名称、住所及び個人番号又は法人番号を記載した帳簿書類（その者から提出を受けたその者の確認書類の写しの添付があるもの、その作成の際に送信を受けたその者の署名用電子証明書等を併せて保存しているもの又はその者に係る特定通知等を受け、若しくは前項の規定による確認をして作成されたものに限る。）を備えているときは、当該国外証券移管等をする者は、第一項の規定にかかわらず、当該告知書の提出をする際、当該金融商品取引業者等の営業所等の長に対しては、確認書類の提示又は署名用電子証明書等の送信を要しないものとする。</span><span data-xpath="">ただし、当該告知書に記載されている氏名又は名称、住所及び個人番号又は法人番号が当該帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と異なるときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">国外証券移管等をする者が法第四条の二第一項の規定による告知書を提出する場合における第五条第二項の規定の適用については、同項中「同項に規定する国外送金等（以下この条及び第八条において「国外送金等」という。）」とあるのは「法第四条の二第一項に規定する国外証券移管等」と、「金融機関の営業所等の長」とあるのは「金融商品取引業者等の営業所等の長」と、「当該国外送金等」とあるのは「当該国外証券移管等」と、「同項に規定する財務省令」とあるのは「法第三条第一項に規定する財務省令」と、「第四項」とあるのは「第九条の三第二項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融商品取引業者等の営業所等の長の確認等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の四</span>　<span data-xpath="">金融商品取引業者等の営業所等の長は、法第四条の二第一項の規定による告知書の提出があった場合には、前条第二項の規定による確認をした場合を除き、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者又は同条第四項の規定により読み替えられた第五条第二項の規定に該当する者にあっては、氏名又は名称及び住所。以下この項及び次項において同じ。）が、前条第一項の規定により提示又は送信を受けた確認書類又は署名用電子証明書等に記載又は記録がされた氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する場合において、同項の告知書の提出をした者が前条第三項本文の規定の適用を受けて確認書類の提示又は署名用電子証明書等の送信をしなかったときは、前項の金融商品取引業者等の営業所等の長は、同項の規定による確認に代えて、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号が、同条第三項に規定する帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">金融商品取引業者等の営業所等の長は、第一項の規定による確認をした場合にあっては、当該確認に係る同項の告知書に前条第一項の規定により提示を受けた確認書類の名称又は署名用電子証明書等の送信を受けた旨を記載しておかなければならないものとし、同条第二項又は前項の規定による確認をした場合にあっては、これらの規定による確認に係るこれらの規定の告知書にその旨を記載しておかなければならないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（税務署長の承認に関する手続の準用）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の五</span>　<span data-xpath="">第九条の規定は、法第四条の三第二項において準用する法第四条第二項から第五項までの規定を適用する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章の三　国外電子決済手段移転等に係る告知書及び調書の提出等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外電子決済手段移転等に係る告知書の提出義務のない別表法人等の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の六</span>　<span data-xpath="">法第四条の四第一項に規定する政令で定めるものは、国、第四条第一項各号に掲げる者及び資金決済に関する法律第二条第十二項に規定する電子決済手段等取引業者（同法第六十二条の八第二項の規定により電子決済手段等取引業者とみなされる者で、その者が発行する電子決済手段の国外電子決済手段移転等（法第四条の四第一項に規定する国外電子決済手段移転等をいう。次条第二項から第四項まで及び第九条の九第二項において同じ。）の依頼をするものを含む。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外電子決済手段移転等に係る告知書の提出に係る住民票の写しその他の書類の提示等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の七</span>　<span data-xpath="">法第四条の四第一項の告知書を提出する者は、当該告知書の提出をする際、当該告知書の提出をする同項に規定する電子決済手段等取引業者の営業所等の長（次項及び第三項並びに次条において「電子決済手段等取引業者の営業所等の長」という。）に、確認書類を提示し、又は署名用電子証明書等を送信しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">国外電子決済手段移転等をする法人が、法人番号保有者に該当する法人である場合において、当該国外電子決済手段移転等に係る法第四条の四第一項の告知書の提出を受ける電子決済手段等取引業者の営業所等の長が、当該告知書に記載された名称、住所及び法人番号につき、行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表された当該国外電子決済手段移転等をする法人の名称、住所及び法人番号と同じであることの確認をしたときは、当該国外電子決済手段移転等をする法人は、前項の規定にかかわらず、当該告知書の提出をする際、当該電子決済手段等取引業者の営業所等の長に対しては、確認書類の提示を要しないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">国外電子決済手段移転等をする者が、財務省令で定める者に該当する者である場合において、当該国外電子決済手段移転等に係る法第四条の四第一項の告知書の提出を受ける電子決済手段等取引業者の営業所等の長が、当該国外電子決済手段移転等をする者の氏名又は名称、住所及び個人番号又は法人番号を記載した帳簿書類（その者から提出を受けたその者の確認書類の写しの添付があるもの、その作成の際に送信を受けたその者の署名用電子証明書等を併せて保存しているもの又はその者に係る特定通知等を受け、若しくは前項の規定による確認をして作成されたものに限る。）を備えているときは、当該国外電子決済手段移転等をする者は、第一項の規定にかかわらず、当該告知書の提出をする際、当該電子決済手段等取引業者の営業所等の長に対しては、確認書類の提示又は署名用電子証明書等の送信を要しないものとする。</span><span data-xpath="">ただし、当該告知書に記載されている氏名又は名称、住所及び個人番号又は法人番号が当該帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と異なるときは、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">国外電子決済手段移転等をする者が法第四条の四第一項の規定による告知書を提出する場合における第五条第二項の規定の適用については、同項中「同項に規定する国外送金等（以下この条及び第八条において「国外送金等」という。）」とあるのは「法第四条の四第一項に規定する国外電子決済手段移転等」と、「金融機関の営業所等の長」とあるのは「電子決済手段等取引業者の営業所等の長」と、「当該国外送金等」とあるのは「当該国外電子決済手段移転等」と、「同項に規定する財務省令」とあるのは「法第三条第一項に規定する財務省令」と、「第四項」とあるのは「第九条の七第二項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子決済手段等取引業者の営業所等の長の確認等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の八</span>　<span data-xpath="">電子決済手段等取引業者の営業所等の長は、法第四条の四第一項の規定による告知書の提出があった場合には、前条第二項の規定による確認をした場合を除き、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号（個人番号及び法人番号を有しない者又は同条第四項の規定により読み替えられた第五条第二項の規定に該当する者にあっては、氏名又は名称及び住所。以下この項及び次項において同じ。）が、前条第一項の規定により提示又は送信を受けた確認書類又は署名用電子証明書等に記載又は記録がされた氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する場合において、同項の告知書の提出をした者が前条第三項本文の規定の適用を受けて確認書類の提示又は署名用電子証明書等の送信をしなかったときは、前項の電子決済手段等取引業者の営業所等の長は、同項の規定による確認に代えて、当該告知書に記載された氏名又は名称、住所及び個人番号又は法人番号が、同条第三項に規定する帳簿書類に記載されているその者の氏名又は名称、住所及び個人番号又は法人番号と同じであるかどうかを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">電子決済手段等取引業者の営業所等の長は、第一項の規定による確認をした場合にあっては、当該確認に係る同項の告知書に前条第一項の規定により提示を受けた確認書類の名称又は署名用電子証明書等の送信を受けた旨を記載しておかなければならないものとし、同条第二項又は前項の規定による確認をした場合にあっては、これらの規定による確認に係るこれらの規定の告知書にその旨を記載しておかなければならないものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外電子決済手段移転等調書の提出を要しない国外電子決済手段移転等をした電子決済手段の価額の上限額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の九</span>　<span data-xpath="">法第四条の五第一項に規定する政令で定める金額は、百万円とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">国外電子決済手段移転等をした電子決済手段が次の各号に掲げるものである場合における前項の規定の適用に係るこれらの電子決済手段の価額の本邦通貨への換算は、当該各号に掲げる電子決済手段の区分に応じ当該各号に定める方法によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">電子決済手段のうちその価額が外国通貨で表示されるもの</span>　<span data-xpath="">外国為替相場を用いて当該電子決済手段の価額を本邦通貨へ換算する方法として財務省令で定める方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">電子決済手段のうち資金決済に関する法律第二条第五項第四号に掲げるもの（その価額が本邦通貨又は外国通貨で表示されるものを除く。）</span>　<span data-xpath="">当該国外電子決済手段移転等をした日における当該電子決済手段の相場を用いる方法その他の財務省令で定める方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（税務署長の承認に関する手続の準用）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条の十</span>　<span data-xpath="">第九条の規定は、法第四条の五第二項において準用する法第四条第二項から第五項までの規定を適用する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章　国外財産に係る調書の提出等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外財産調書の提出に関し必要な事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">法第五条第一項の国外財産の所在については、相続税法（昭和二十五年法律第七十三号）第十条第一項及び第二項の規定の定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">相続税法第十条第一項第八号に掲げる社債、株式、出資又は有価証券その他財務省令で定める財産（以下この項において「有価証券等」という。）が、金融商品取引業者等の営業所、事務所その他これらに類するものに開設された口座に係る振替口座簿（社債、株式等の振替に関する法律（平成十三年法律第七十五号）に規定する振替口座簿をいい、国外におけるこれに類するものを含む。）に記載若しくは記録がされ、又は当該口座に保管の委託がされているものである場合には、当該有価証券等の所在については、前項の規定にかかわらず、当該口座が開設された金融商品取引業者等の営業所、事務所その他これらに類するものの所在による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前二項の規定による国外財産の所在の判定は、法第五条第一項に規定するその年の十二月三十一日（次項及び第五項において「その年の十二月三十一日」という。）における現況による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第五条第一項の国外財産の価額は、当該国外財産のその年の十二月三十一日における時価又は時価に準ずるものとして財務省令で定める価額による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">前項の規定による国外財産の価額が外国通貨で表示される場合における当該国外財産の価額の本邦通貨への換算は、その年の十二月三十一日における外国為替の売買相場により行うものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">相続又は包括遺贈により取得した国外財産について国外財産調書（法第五条第一項に規定する国外財産調書をいう。以下同じ。）を提出する場合において、当該相続又は包括遺贈により取得した国外財産の全部又は一部が共同相続人又は包括受遺者によってまだ分割されていないときは、その分割されていない国外財産については、各共同相続人又は包括受遺者が民法（明治二十九年法律第八十九号）（第九百四条の二を除く。）の規定による相続分又は包括遺贈の割合に従って当該国外財産を取得したものとしてその価額を計算するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">前各項に定めるもののほか、国外財産の所在及び国外財産調書の書式その他国外財産調書の提出に係る手続に関し必要な事項は、財務省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外財産に係る過少申告加算税又は無申告加算税の特例の対象となる所得の範囲等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第六条第一項に規定する国外財産に関して生ずる所得で政令で定めるものは、次に掲げる所得とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">国外財産から生ずる所得税法（昭和四十年法律第三十三号）第二十三条第一項に規定する利子所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">国外財産から生ずる所得税法第二十四条第一項に規定する配当所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">国外財産の貸付けによる所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">国外財産の譲渡による所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">前各号に掲げるもののほか、国外財産に基因して生ずる所得で財務省令で定めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第六条第一項に規定する国外財産に係るもの以外の事実等に基づく税額として政令で定めるところにより計算した金額は、国税通則法（昭和三十七年法律第六十六号）第六十五条又は第六十六条の過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額（以下この条、次条第二項及び第十二条の三第五項において「過少申告加算税等基礎税額」という。）のうち次の各号に掲げる場合（次項から第六項まで又は第十二条の三第五項の規定の適用がある場合を除く。）の区分に応じ当該各号に定める税額の合計額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第六条第一項に規定する税額の計算の基礎となるべき事実（以下第四項まで並びに第十二条の三第三項及び第五項第一号において「税額の計算の基礎となるべき事実」という。）で法第六条第一項に規定する国外財産に係るもの以外の事実（国税通則法第六十八条第一項又は第二項（これらの規定が同条第四項の規定により適用される場合を含む。）に規定する隠蔽し、又は仮装されていない事実（以下この条並びに第十二条の三第三項及び第五項において「隠蔽仮装されていない事実」という。）に係るものに限る。以下この号及び次項において「国外財産に係るもの以外の事実」という。）がある場合</span>　<span data-xpath="">当該国外財産に係るもの以外の事実のみに基づいて修正申告等（法第六条第一項に規定する修正申告等をいう。以下この条、次条及び第十二条の三第五項において同じ。）があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">税額の計算の基礎となるべき事実で隠蔽し、又は仮装された事実（次項、第四項第二号及び第十二条の三第五項第二号において「隠蔽仮装された事実」という。）がある場合</span>　<span data-xpath="">国税通則法第六十八条第一項、第二項又は第四項（同条第一項又は第二項の重加算税に係る部分に限る。次条第二項において同じ。）の規定により過少申告加算税又は無申告加算税に代えて重加算税を課する場合における当該過少申告加算税又は無申告加算税の額の計算の基礎となるべき税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">百分の五控除特例規定、百分の五加算特例規定又は百分の十加算特例規定の適用がある場合において、税額の計算の基礎となるべき事実で百分の五控除特例規定、百分の五加算特例規定又は百分の十加算特例規定の適用がある国外財産以外の国外財産に係る事実（隠蔽仮装されていない事実に係るものに限る。以下この項において「特例適用国外財産以外の国外財産に係る事実」という。）があるとき（次項から第六項まで又は第十二条の三第五項の規定の適用がある場合を除く。）は、過少申告加算税等基礎税額（隠蔽仮装された事実があるときは、当該隠蔽仮装された事実に基づく税額として前項第二号の規定に準じて計算した金額を控除した税額）から当該特例適用国外財産以外の国外財産に係る事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額（国外財産に係るもの以外の事実があるときは、当該特例適用国外財産以外の国外財産に係る事実及び当該国外財産に係るもの以外の事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同項の規定により納付すべき税額）を控除した税額を百分の五控除特例適用対象税額、百分の五加算特例適用対象税額又は百分の十加算特例適用対象税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">百分の五控除特例規定の適用があり、かつ、百分の五加算特例規定又は百分の十加算特例規定の適用がある場合（第六項又は第十二条の三第五項の規定の適用がある場合を除く。）には、まず、百分の五加算特例規定又は百分の十加算特例規定の適用がある国外財産に係る事実（隠蔽仮装されていない事実に係るものに限る。以下この項において「加算特例適用国外財産に係る事実」という。）のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額（第一号に掲げる事実があるときは、加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同項の規定により納付すべき税額から同号に定める税額を控除した税額）を加算特例適用対象税額とし、次に、過少申告加算税等基礎税額（次の各号に掲げる事実があるときは、当該各号に定める税額の合計額を控除した税額）から当該加算特例適用対象税額を控除した税額を百分の五控除特例適用対象税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">税額の計算の基礎となるべき事実で百分の五控除特例規定、百分の五加算特例規定又は百分の十加算特例規定の適用がある国外財産に係るもの以外の事実（隠蔽仮装されていない事実に係るものに限る。以下この号において「特例適用国外財産に係るもの以外の事実」という。）</span>　<span data-xpath="">当該特例適用国外財産に係るもの以外の事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">隠蔽仮装された事実</span>　<span data-xpath="">当該隠蔽仮装された事実に基づく税額として第二項第二号の規定に準じて計算した税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">百分の五加算特例規定の適用があり、かつ、百分の十加算特例規定の適用がある場合（次項又は第十二条の三第五項の規定の適用がある場合を除く。）には、まず、百分の十加算特例規定の適用がある国外財産に係る事実（隠蔽仮装されていない事実に係るものに限る。以下この項、次項及び第十二条の三第五項において「百分の十加算特例適用国外財産に係る事実」という。）のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額（前項第一号に掲げる事実があるときは、百分の十加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同条第二項の規定により納付すべき税額から同号に定める税額を控除した税額）を百分の十加算特例適用対象税額とし、次に、過少申告加算税等基礎税額（前項各号に掲げる事実があるときは、当該各号に定める税額の合計額を控除した税額）から当該百分の十加算特例適用対象税額を控除した税額を百分の五加算特例適用対象税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">百分の五控除特例規定、百分の五加算特例規定及び百分の十加算特例規定の適用がある場合（第十二条の三第五項の規定の適用がある場合を除く。）には、まず、百分の十加算特例適用国外財産に係る事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額（第四項第一号に掲げる事実があるときは、百分の十加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同条第二項の規定により納付すべき税額から同号に定める税額を控除した税額）を百分の十加算特例適用対象税額とし、次に、百分の五加算特例規定の適用がある国外財産に係る事実（隠蔽仮装されていない事実に係るものに限る。以下この項及び第十二条の三第五項において「百分の五加算特例適用国外財産に係る事実」という。）及び百分の十加算特例適用国外財産に係る事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同法第三十五条第二項の規定により納付すべき税額から当該百分の十加算特例適用対象税額を控除した税額（同号に掲げる事実があるときは、百分の五加算特例適用国外財産に係る事実、百分の十加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同項の規定により納付すべき税額から当該百分の十加算特例適用対象税額及び同号に定める税額の合計額を控除した税額）を百分の五加算特例適用対象税額とし、次に、過少申告加算税等基礎税額（第四項各号に掲げる事実があるときは、当該各号に定める税額の合計額を控除した税額）から当該百分の五加算特例適用対象税額及び当該百分の十加算特例適用対象税額の合計額を控除した税額を百分の五控除特例適用対象税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">この条において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">百分の五控除特例規定</span>　<span data-xpath="">法第六条第一項の規定をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">百分の五加算特例規定</span>　<span data-xpath="">法第六条第三項（同条第七項第二号の規定により読み替えて適用する場合（同号の規定により読み替えられた同条第三項の規定により同項の過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額に百分の五の割合を乗じて計算した金額を加算する場合に該当する場合に限る。）を含む。）の規定をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">百分の十加算特例規定</span>　<span data-xpath="">法第六条第七項第二号の規定により読み替えられた同条第三項（同項の規定により同項の過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額に百分の十の割合を乗じて計算した金額を加算する場合に該当する場合に限る。）の規定をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">百分の五控除特例適用対象税額</span>　<span data-xpath="">法第六条第一項に規定する過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">百分の五加算特例適用対象税額</span>　<span data-xpath="">百分の五加算特例規定に規定する過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">百分の十加算特例適用対象税額</span>　<span data-xpath="">百分の十加算特例規定に規定する過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">加算特例適用対象税額</span>　<span data-xpath="">百分の五加算特例適用対象税額又は百分の十加算特例適用対象税額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（死亡した者に係る修正申告等の場合の国外財産に係る過少申告加算税又は無申告加算税の特例の規定が適用される場合における国外財産調書等の取扱い）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">法第六条第一項に規定する国外財産に係る所得税につき所得税法第百二十四条又は第百二十五条の規定の適用があり、かつ、当該国外財産につき国外財産調書を提出しないで死亡したことにより法第五条第一項ただし書の規定の適用がある場合において、その死亡した者に係る修正申告等があったときにおける法第六条の規定の適用については、次に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第六条第二項第一号に定める国外財産調書は、当該死亡した者の死亡した日の属する年の前々年分の国外財産調書とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">法第六条第四項第一号に定める国外財産調書は、当該死亡した者の死亡した日の属する年の前々年分の国外財産調書（当該修正申告等の基因となる法第五条第二項に規定する相続国外財産で相続開始年（同項に規定する相続開始年をいう。以下この号において同じ。）に取得したものにあっては、相続開始年の年分の国外財産調書を除く。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第六条第一項又は第三項（同条第七項第二号の規定により読み替えて適用する場合を含む。以下この条において同じ。）の規定及び国税通則法第六十八条第一項、第二項又は第四項の規定の適用があり、同条第一項、第二項又は第四項の規定により過少申告加算税又は無申告加算税に代えて重加算税を課する場合において、同法第六十五条又は第六十六条の過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき事実（法第六条第一項又は第三項の規定の適用がある国外財産に係る事実を含む。）で隠蔽し、又は仮装されていないものに基づくことが明らかであるものがあるときは、当該重加算税の額の計算の基礎となるべき税額は、過少申告加算税等基礎税額から当該隠蔽し、又は仮装されていない事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額を控除した税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前二項に定めるもののほか、法第六条第一項又は第三項の規定の適用がある場合における国税通則法第三十二条第三項に規定する賦課決定通知書の記載事項その他過少申告加算税又は無申告加算税の特例に係る手続に関し必要な事項は、財務省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章の二　財産債務に係る調書の提出等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（財産債務調書の提出に関し必要な事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条の二</span>　<span data-xpath="">第十条第一項から第三項までの規定は、法第六条の二第一項及び第三項の財産の所在について準用する。</span><span data-xpath="">この場合において、第十条第三項中「第五条第一項」とあるのは、「第六条の二第一項又は第三項」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第六条の二第一項及び第三項の財産の価額は当該財産の同条第一項又は第三項に規定するその年の十二月三十一日における時価又は時価に準ずるものとして財務省令で定める価額により、同条第一項及び第三項の債務の金額は同日における現況による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第十条第五項の規定は、前項の規定による財産の価額及び債務の金額について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第十条第六項の規定は、相続又は包括遺贈により取得した財産又は承継した債務について財産債務調書（法第六条の二第一項に規定する財産債務調書をいう。以下同じ。）を提出する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">次の各号に掲げる規定の適用がある場合における法第六条の二第一項及び第二項に規定する総所得金額及び山林所得金額の合計額は、当該合計額に当該各号に定める金額を加算した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">租税特別措置法（昭和三十二年法律第二十六号）第八条の四第一項の規定</span>　<span data-xpath="">同項に規定する上場株式等に係る配当所得等の金額（同法第三十七条の十二の二第一項又は第五項の規定の適用がある場合にあっては、これらの規定の適用後の金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">租税特別措置法第二十八条の四第一項の規定</span>　<span data-xpath="">同項に規定する土地等に係る事業所得等の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">租税特別措置法第三十一条第一項（同法第三十一条の二又は第三十一条の三の規定により適用される場合を含む。以下この号において同じ。）の規定</span>　<span data-xpath="">同項に規定する長期譲渡所得の金額（同法第三十三条の四第一項、第三十四条第一項、第三十四条の二第一項、第三十四条の三第一項、第三十五条第一項、第三十五条の二第一項又は第三十五条の三第一項の規定により控除される金額がある場合にあっては、当該長期譲渡所得の金額から当該控除される金額を控除した金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">租税特別措置法第三十二条第一項（同条第二項において準用する場合を含む。以下この号において同じ。）の規定</span>　<span data-xpath="">同条第一項に規定する短期譲渡所得の金額（同法第三十三条の四第一項、第三十四条第一項、第三十四条の二第一項、第三十四条の三第一項又は第三十五条第一項の規定により控除される金額がある場合にあっては、当該短期譲渡所得の金額から当該控除される金額を控除した金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">租税特別措置法第三十七条の十第一項の規定</span>　<span data-xpath="">同項に規定する一般株式等に係る譲渡所得等の金額（同法第三十七条の十三の三第七項の規定の適用がある場合にあっては、同項の規定の適用後の金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">租税特別措置法第三十七条の十一第一項の規定</span>　<span data-xpath="">同項に規定する上場株式等に係る譲渡所得等の金額（同法第三十七条の十二の二第五項又は第三十七条の十三の三第四項若しくは第七項の規定の適用がある場合にあっては、これらの規定の適用後の金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">租税特別措置法第三十七条の十二第一項の規定</span>　<span data-xpath="">同項に規定する一般株式等の譲渡に係る国内源泉所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">八</span>　<span data-xpath="">租税特別措置法第三十七条の十二第三項の規定</span>　<span data-xpath="">同項に規定する上場株式等の譲渡に係る国内源泉所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">九</span>　<span data-xpath="">租税特別措置法第四十一条の十四第一項の規定</span>　<span data-xpath="">同項に規定する先物取引に係る雑所得等の金額（同法第四十一条の十五第一項の規定の適用がある場合にあっては、同項の規定の適用後の金額）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）第七条第八項後段（同法第十一条第七項又は第十五条第十三項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第八項（同法第十一条第七項又は第十五条第十三項において準用する場合を含む。）に規定する申告不要第三国団体対象配当等に係る利子所得の金額又は配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十一</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第七条第十項後段（同法第十一条第八項又は第十五条第十四項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第十項（同法第十一条第八項又は第十五条第十四項において準用する場合を含む。）に規定する特定対象利子に係る利子所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十二</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第七条第十二項後段（同法第十一条第九項又は第十五条第十五項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第十二項（同法第十一条第九項又は第十五条第十五項において準用する場合を含む。）に規定する特定対象収益分配に係る配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十三</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第七条第十四項後段（同法第十一条第十項又は第十五条第十六項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第十四項（同法第十一条第十項又は第十五条第十六項において準用する場合を含む。）に規定する申告不要特定対象配当等に係る利子所得の金額又は配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十四</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第七条第十六項後段（同法第十一条第十一項又は第十五条第十七項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第十六項（同法第十一条第十一項又は第十五条第十七項において準用する場合を含む。）に規定する特定対象懸賞金等に係る一時所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十五</span>　<span data-xpath="">外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第七条第十八項後段（同法第十一条第十二項又は第十五条第十八項において準用する場合を含む。）の規定</span>　<span data-xpath="">同法第七条第十八項（同法第十一条第十二項又は第十五条第十八項において準用する場合を含む。）に規定する特定対象給付補塡金等に係る雑所得等の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十六</span>　<span data-xpath="">租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号。以下この項において「租税条約等実施特例法」という。）第三条の二第十四項後段の規定</span>　<span data-xpath="">同項に規定する申告不要第三国団体配当等に係る利子所得の金額又は配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十七</span>　<span data-xpath="">租税条約等実施特例法第三条の二第十六項後段の規定</span>　<span data-xpath="">同項に規定する特定利子に係る利子所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十八</span>　<span data-xpath="">租税条約等実施特例法第三条の二第十八項後段の規定</span>　<span data-xpath="">同項に規定する特定収益分配に係る配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">十九</span>　<span data-xpath="">租税条約等実施特例法第三条の二第二十項後段の規定</span>　<span data-xpath="">同項に規定する申告不要特定配当等に係る利子所得の金額又は配当所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二十</span>　<span data-xpath="">租税条約等実施特例法第三条の二第二十二項後段の規定</span>　<span data-xpath="">同項に規定する特定懸賞金等に係る一時所得の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二十一</span>　<span data-xpath="">租税条約等実施特例法第三条の二第二十四項後段の規定</span>　<span data-xpath="">同項に規定する特定給付補塡金等に係る雑所得等の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">前項各号に掲げる規定の適用がある場合における法第六条の二第一項第二号及び第四号の所得税の額の合計額は、当該合計額に当該各号に掲げる規定を適用して計算した場合の所得税の額を加算した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">次の各号に掲げる規定の適用がある場合における法第六条の二第一項第二号及び第四号の配当控除の額は、当該配当控除の額に当該各号に掲げる規定により控除される金額を加算した額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">租税特別措置法第四十一条の二の二第一項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">租税特別措置法第四十一条の三の三第一項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">前各項に定めるもののほか、財産の所在及び財産債務調書の書式その他財産債務調書の提出に係る手続に関し必要な事項は、財務省令で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（財産債務に係る過少申告加算税又は無申告加算税の特例の対象となる所得の範囲等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条の三</span>　<span data-xpath="">法第六条の三第一項に規定する財産又は債務に関して生ずる所得で政令で定めるものは、次に掲げる所得とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">財産（法第六条の三第一項に規定する財産をいう。以下この条において同じ。）から生ずる所得税法第二十三条第一項に規定する利子所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">財産から生ずる所得税法第二十四条第一項に規定する配当所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">財産の貸付けによる所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">財産の譲渡による所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">債務の免除による所得</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">前各号に掲げるもののほか、財産又は債務に基因して生ずる所得で財務省令で定めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第十一条第二項の規定は、法第六条の三第一項において準用する法第六条第一項の規定を適用する場合（次項から第五項までの規定の適用がある場合を除く。）について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第十一条第三項の規定は、法第六条の三第一項において準用する法第六条第一項又は法第六条の三第二項において準用する法第六条第三項の規定の適用がある場合において、税額の計算の基礎となるべき事実で法第六条の三第一項又は第二項の規定の適用がある財産又は債務以外の財産又は債務に係る事実（隠蔽仮装されていない事実に係るものに限る。）があるとき（次項又は第五項の規定の適用がある場合を除く。）について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第十一条第四項の規定は、法第六条の三第一項において準用する法第六条第一項の規定の適用があり、かつ、法第六条の三第二項において準用する法第六条第三項の規定の適用がある場合（次項の規定の適用がある場合を除く。）について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">法第六条第一項又は第三項（同条第七項第二号の規定により読み替えて適用する場合を含む。）の規定の適用があり、かつ、法第六条の三第一項又は第二項の規定の適用がある場合には、まず、百分の十加算特例適用国外財産に係る事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額（第一号に掲げる事実があるときは、百分の十加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同項の規定により納付すべき税額から同号に定める税額を控除した税額）を第十一条第七項第六号に規定する百分の十加算特例適用対象税額（以下この項において「百分の十加算特例適用対象税額」という。）とし、次に、百分の五加算特例適用国外財産に係る事実、法第六条の三第二項の規定の適用がある財産又は債務に係る事実（隠蔽仮装されていない事実に係るものに限る。以下この項において「百分の五加算特例適用財産債務に係る事実」という。）及び百分の十加算特例適用国外財産に係る事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額から当該百分の十加算特例適用対象税額を控除した税額（第一号に掲げる事実があるときは、百分の五加算特例適用国外財産に係る事実、百分の五加算特例適用財産債務に係る事実、百分の十加算特例適用国外財産に係る事実及び同号に掲げる事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき同項の規定により納付すべき税額から当該百分の十加算特例適用対象税額及び同号に定める税額の合計額を控除した税額）を法第六条第三項（同条第七項第二号の規定により読み替えて適用する場合（同号の規定により読み替えられた同条第三項の規定により同項の過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額に百分の五の割合を乗じて計算した金額を加算する場合に該当する場合に限る。）及び法第六条の三第二項において準用する場合を含む。）に規定する過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額（以下この項において「百分の五加算特例適用対象税額」という。）とし、次に、過少申告加算税等基礎税額（次の各号に掲げる事実があるときは、当該各号に定める税額の合計額を控除した税額）から当該百分の五加算特例適用対象税額及び当該百分の十加算特例適用対象税額を控除した税額を法第六条第一項（法第六条の三第一項において準用する場合を含む。）に規定する過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">税額の計算の基礎となるべき事実で法第六条第一項又は第三項（同条第七項第二号の規定により読み替えて適用する場合を含む。）の規定の適用がある国外財産及び法第六条の三第一項又は第二項の規定の適用がある財産又は債務に係るもの以外の事実（隠蔽仮装されていない事実に係るものに限る。以下この号において「特例適用国外財産及び財産債務に係るもの以外の事実」という。）</span>　<span data-xpath="">当該特例適用国外財産及び財産債務に係るもの以外の事実のみに基づいて修正申告等があったものとした場合における当該修正申告等に基づき国税通則法第三十五条第二項の規定により納付すべき税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">隠蔽仮装された事実</span>　<span data-xpath="">当該隠蔽仮装された事実に基づく税額として第二項において準用する第十一条第二項第二号の規定に準じて計算した税額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（死亡した者に係る修正申告等の場合の財産債務に係る過少申告加算税又は無申告加算税の特例の規定が適用される場合における財産債務調書等の取扱い）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条の四</span>　<span data-xpath="">第十二条の規定は、法第六条の三第一項において準用する法第六条第一項又は法第六条の三第二項において準用する法第六条第三項の規定の適用がある場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第四章　雑則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（提出物件の留置き、返還等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">国税通則法施行令（昭和三十七年政令第百三十五号）第三十条の三の規定は、法第七条第三項の規定により物件を留め置く場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、法の施行の日（平成十年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一〇年一一月二〇日政令第三六九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十年十二月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一一年九月一六日政令第二六七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十一年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一一年九月二〇日政令第二七二号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十一年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年六月七日政令第三〇七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十三年一月六日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一四年一二月一八日政令第三八五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十五年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年二月一八日政令第二四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一七年三月三一日政令第一〇〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成十七年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年八月三日政令第二三三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、改正法の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（罰則の適用に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六十四条</span>　<span data-xpath="">施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年八月三日政令第二三五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成十九年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令の一部改正に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三十五条</span>　<span data-xpath="">第七十七条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令第七条第一項の規定は、施行日以後にされる内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（平成九年法律第百十号）第三条第二項第一号に掲げる国外送金について適用し、施行日前にされた同号に掲げる国外送金については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四十一条</span>　<span data-xpath="">この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年九月二〇日政令第二九二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年四月三〇日政令第一六三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十年十月一日から施行する。</span><span data-xpath="">ただし、第八条第一項の改正規定及び次項の規定は、平成二十一年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令第八条第一項の規定は、平成二十一年四月一日以後にされる内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項に規定する国外送金等について適用し、同日前にされた同項に規定する国外送金等については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年七月二五日政令第二三七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年九月一九日政令第二九七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二二年三月一日政令第一九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、法の施行の日（平成二十二年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年六月三〇日政令第二〇〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十六年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年一二月二日政令第三八五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十五年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年一二月二六日政令第四二一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、改正法施行日（平成二十四年七月九日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二三年一二月二六日政令第四二三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十四年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二四年三月三一日政令第一〇六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十六年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二五年三月三〇日政令第一一五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十六年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二六年三月三一日政令第一四八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十七年一月一日から施行する。</span><span data-xpath="">ただし、第九条の改正規定及び次項の規定は、平成二十六年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（光ディスク等の提出に係る税務署長の承認に関する手続に関する経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令第九条第四項（同条第一項の申請書に係る部分に限る。）の規定は、平成二十六年四月一日以後に提出する同条第一項の申請書について適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二六年五月一四日政令第一七九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、行政手続における特定の個人を識別するための番号の利用等に関する法律附則第一条第四号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年三月三一日政令第一四九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十八年一月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第三条の改正規定、第三条の三の改正規定、第五条の改正規定、第六条の改正規定、第九条の三の改正規定及び第九条の四の改正規定並びに次条及び附則第三条の規定</span>　<span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）附則第三号に掲げる規定の施行の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第四条第一項第四号の改正規定及び附則第四条の規定</span>　<span data-xpath="">金融商品取引法等の一部を改正する法律（平成二十六年法律第四十四号）の施行の日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融機関の営業所等の長による預金等の口座に係る氏名等の確認に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（以下「新令」という。）第三条の規定は、前条第一号に定める日以後に行う新令第三条の確認について適用し、同日前に行った改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（以下「旧令」という。）第三条の確認については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融商品取引業者等の営業所等の長による国内証券口座に係る氏名等の確認に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">新令第三条の三の規定は、附則第一条第一号に定める日以後に行う新令第三条の三の確認について適用し、同日前に行った旧令第三条の三の確認については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外送金等に係る告知書の提出義務のない公共法人等の範囲等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">新令第四条第一項（第四号に係る部分に限る。）の規定は、附則第一条第二号に定める日以後に所得税法等の一部を改正する法律（平成二十七年法律第九号。以下「改正法」という。）第十一条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項に規定する告知書を提出する場合について適用し、同日前に改正法第十一条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項に規定する告知書を提出した場合については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年三月三一日政令第一五五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成二十七年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年三月三一日政令第一六二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十八年四月一日から施行する。</span><span data-xpath="">ただし、第十一条第二項の改正規定、第十二条第二項の改正規定及び第十二条の三第四項第二号の改正規定は、平成二十九年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令第三条及び第三条の三の規定は、この政令の施行の日以後に行うこれらの規定の確認について適用し、同日前に行った改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令第三条又は第三条の三の確認については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年五月二五日政令第二二六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、所得税法等の一部を改正する法律（平成二十八年法律第十五号。次条第二項及び附則第四条第二項において「改正法」という。）附則第一条第五号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年三月三一日政令第一二五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、令和二年四月一日から施行する。</span><span data-xpath="">ただし、第十二条の二第五項第三号の改正規定は、同年七月一日又は土地基本法等の一部を改正する法律（令和二年法律第十二号）附則第一項第一号に掲げる規定の施行の日のいずれか遅い日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融機関の営業所等の長による預金等の口座に係る氏名等の確認に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（以下「新令」という。）第三条の規定は、この政令の施行の日（以下「施行日」という。）以後に行う同条の確認について適用し、施行日前に行った改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（以下「旧令」という。）第三条の確認については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（金融商品取引業者等の営業所等の長による国内証券口座に係る氏名等の確認に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">新令第三条の三の規定は、施行日以後に行う同条の確認について適用し、施行日前に行った旧令第三条の三の確認については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外送金等に係る告知書の提出に係る住民票の写しその他の書類の提示等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">新令第五条第二項及び第五項並びに第六条第一項及び第三項の規定は、施行日以後に告知書（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項に規定する告知書をいう。以下この条において同じ。）を提出する場合について適用し、施行日前に告知書を提出した場合については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">新令第五条第四項の規定は、施行日以後に告知書を提出する場合について適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外証券移管等に係る告知書の提出に係る住民票の写しその他の書類の提示等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">新令第九条の三第三項及び第四項並びに第九条の四第一項及び第三項の規定は、施行日以後に告知書（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条の二第一項に規定する告知書をいう。以下この条において同じ。）を提出する場合について適用し、施行日前に告知書を提出した場合については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">新令第九条の三第二項の規定は、施行日以後に告知書を提出する場合について適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（国外財産に係る過少申告加算税又は無申告加算税の特例の対象となる所得の範囲等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">新令第十一条第三項から第七項までの規定は、令和二年分以後の所得税又は施行日以後に相続若しくは遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。以下同じ。）により取得する国外財産（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第二条第十四号に規定する国外財産をいう。以下この条及び次条第二項において同じ。）に係る相続税について適用し、令和元年分（平成三十一年一月一日から令和元年十二月三十一日までの期間に係る年分をいう。以下同じ。）以前の所得税又は施行日前に相続若しくは遺贈により取得した国外財産に係る相続税については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（死亡した者に係る修正申告等の場合の国外財産に係る過少申告加算税又は無申告加算税の特例の規定が適用される場合における国外財産調書等の取扱いに関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">新令第十二条第一項（第二号に係る部分に限る。）の規定は、令和二年分以後の所得税について適用し、令和元年分以前の所得税については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">新令第十二条第二項及び第三項の規定は、令和二年分以後の所得税又は施行日以後に相続若しくは遺贈により取得する国外財産に係る相続税について適用し、令和元年分以前の所得税又は施行日前に相続若しくは遺贈により取得した国外財産に係る相続税については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（財産債務に係る過少申告加算税又は無申告加算税の特例の対象となる所得の範囲等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">新令第十二条の三第三項から第五項までの規定は、令和二年分以後の所得税又は施行日以後に相続若しくは遺贈により取得する財産に係る相続税について適用し、令和元年分以前の所得税又は施行日前に相続若しくは遺贈により取得した財産に係る相続税については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年三月三一日政令第一二三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和四年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年三月三一日政令第一五五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和五年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和五年三月三一日政令第一四九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和六年一月一日から施行する。</span><span data-xpath="">ただし、第九条（見出しを含む。）の改正規定、第九条の五の見出しの改正規定及び第十二条の二第五項の改正規定は、令和五年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年三月三〇日政令第一五三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和六年六月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年一〇月三〇日政令第三三一号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、改正法施行日（令和六年十一月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和七年一月一七日政令第六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、改正法附則第一条第二号に掲げる規定の施行の日（令和七年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和七年三月三一日政令第一二八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和七年四月一日から施行する。</span><span data-xpath="">ただし、第四条第一項第四号の改正規定は、金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律（令和六年法律第三十二号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

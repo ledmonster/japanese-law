@@ -1,0 +1,2278 @@
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+
+<title>衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行規則</title>
+
+
+
+<style type="text/css">
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+  header h1 {
+    width: 300px;
+    height: 34px;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      height: 34px;
+      vertical-align: middle;
+      text-decoration: none;
+      color: #000; }
+      
+      header h1 a img {
+        margin-right: 12px;
+        vertical-align: middle; }
+
+  header h1 {
+    width: 260px;
+    height: 37px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10px;
+    left: 30px; }
+    header h1 a {
+      font-size: 1.125rem;
+      font-weight: 500;
+      text-decoration: none;
+      color: #000;
+      line-height: 37px;
+      display: block; }
+      header h1 a img {
+        margin: 0;
+        margin-right: 12px;
+        vertical-align: middle; }
+        
+        
+        
+    header #hamburgerMenu {
+      position: fixed;
+      top: 0px;
+      width: 85%;
+      height: 100%;
+      background: #FFF;
+      display: none; }
+      header #hamburgerMenu.active {
+      display: block; }
+      header #hamburgerMenu h1 {
+        display: block;
+        position: relative;
+        left: 0px;
+        width: 100%; }
+        header #hamburgerMenu h1 img {
+          margin-left: 20px;
+          vertical-align: middle; }
+        header #hamburgerMenu h1 #btnHamburgerMenuClosed {
+			position: absolute;
+			top: 5px;
+			right: 10px;
+        }
+      header #hamburgerMenu ul {
+        position: relative;
+        width: auto;
+        text-align: left; }
+        header #hamburgerMenu ul li {
+          margin: 5px 0 5px 15px; 
+          margin:top right bottom left;
+        }
+          header #hamburgerMenu ul li a {
+            
+			padding: 8px 5px 8px 10px;
+			background: url(../img/arrow_gray_link.png) left 10px no-repeat;
+			display: block;
+			color: #000;
+			text-decoration: none;
+            
+            }
+
+
+@media screen and (max-width: 1024px) {
+        }
+
+@media screen and (max-width: 769px) {
+}
+
+@media screen and (max-width: 359px) {
+  header h1 span {
+    display: none; } }
+    
+    
+header  button#btnHamburgerMenu {
+	width: 37px;
+	height: 37px;
+	background: url("../img/icon/icon_menu_black.png") center center no-repeat;
+	display: none;
+	text-indent: -9999px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+	header button#btnHamburgerMenu {
+		display: block;
+	}
+	
+	
+	
+	header h1 {
+		top: 10px;
+		left: 60px;
+	}
+	header h1 a br {
+		display: none;
+	}
+
+}
+
+#bgBody {
+	width: 100%;
+	height: 100%;
+	background: #000;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 530;
+	display: none;
+	opacity: 0;
+}
+#bgBody.active {
+    display: block;
+}
+
+#hamburgerMenu {
+	z-index: 540;
+}
+
+#hamburgerMenu #subLink {
+	width: calc(100% - 20px);
+	padding: 12px 25px;
+	background: #F5F6F8;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
+      }
+      #hamburgerMenu #subLink .helpLink {
+        padding: 8px 5px 8px 25px;
+        background: url(../img/icon/icon_faq.png) left 10px no-repeat;
+        display: block;
+        color: #000;
+        text-decoration: none; }
+
+
+  button.moreList {
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #636974;
+    text-align: center;}
+    button.moreList:hover {
+      background: #C2CEE7; }
+    button.moreList::after {
+      width: 18px;
+      height: 10px;
+      content: '';
+      background: url(../img/arrow_gray_down.png) left top no-repeat;
+      background-size: contain;
+      display: inline-block; }
+    button.moreList.active::after {
+      background: url(../img/arrow_gray_up.png) left top no-repeat; }
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400; }
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold; }
+
+* {
+  box-sizing: border-box; }
+
+header {
+  width: 100%;
+  min-width: 1200px;
+  height: 67px;
+  background: #fff;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 500; }
+
+@media screen and (max-width: 1024px) {
+  header {
+    min-width: auto;
+    height: 52px; } }
+
+nav#pNavi {
+  padding-bottom: 25px;
+  text-align: left; }
+  nav#pNavi section#outlineGraph {
+    margin: 0 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineGraph.active {
+      display: block; }
+  nav#pNavi section#outlineList {
+    margin: 0 12px;
+    padding: 25px 12px 12px 12px;
+    border: 1px solid #D7D7D7;
+    border-radius: 5px;
+    display: none; }
+    nav#pNavi section#outlineList.active {
+      display: block; }
+    nav#pNavi section#outlineList p {
+      padding-bottom: 12px; }
+      nav#pNavi section#outlineList p.label {
+        font-size: 0.75rem;
+        text-align: right; }
+    nav#pNavi section#outlineList ul li {
+      padding-left: 12px;
+      font-size: 0.875rem; }
+      nav#pNavi section#outlineList ul li:nth-child(odd) {
+        background: url(../img/icon/icon_outline_list.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li.active {
+        background: url(../img/icon/icon_outline_point.png) left 5px no-repeat; }
+      nav#pNavi section#outlineList ul li ul {
+        margin-bottom: 12px; }
+        nav#pNavi section#outlineList ul li ul li {
+          margin-bottom: 0;
+          padding-left: 0;
+          font-size: 0.75rem; }
+          nav#pNavi section#outlineList ul li ul li:first-child {
+            background: none; }
+  nav#pNavi ul#tocCheckbox, nav#pNavi ul#pOutline {
+    width: 220px;
+    margin: 0 auto;
+    font-size: 0; }
+    nav#pNavi ul#tocCheckbox li, nav#pNavi ul#pOutline li {
+      font-size: 0.875rem;
+      display: inline-block; }
+      nav#pNavi ul#tocCheckbox li button, nav#pNavi ul#pOutline li button {
+        width: 100px;
+        margin: 0 5px;
+        display: inline-block; }
+        nav#pNavi ul#tocCheckbox li button:hover, nav#pNavi ul#pOutline li button:hover {
+          background: #C2CEE7; }
+  nav#pNavi ul#tocCheckbox {
+    margin-bottom: 25px; }
+    nav#pNavi ul#tocCheckbox li button {
+      padding: 8px;
+      border: 1px solid #D7D7D7; }
+  nav#pNavi ul#pOutline {
+    height: 40px;
+    padding: 0;
+    position: relative;
+    line-height: 0.875rem; }
+    nav#pNavi ul#pOutline li button {
+      padding: 8px;
+      border-top: 1px solid #D7D7D7;
+      border-left: 1px solid #D7D7D7;
+      border-right: 1px solid #D7D7D7;
+      position: absolute;
+      top: 0; }
+      nav#pNavi ul#pOutline li button.list {
+        left: 0; }
+      nav#pNavi ul#pOutline li button.outline {
+        right: 0; }
+      nav#pNavi ul#pOutline li button.active {
+        background: #1042A4;
+        color: #fff;
+        border-top: none; }
+      nav#pNavi div.tableOfContents2 a {
+        text-decoration: none;
+        color: #636974; }
+        nav#pNavi div.tableOfContents2 a[href] {
+          color: #000; }
+          nav#pNavi div.tableOfContents2 a[href]:hover {
+            color: #CA241E; }
+
+footer {
+  padding: 30px;
+  background: #F5F6F8;
+  color: #707070;
+  font-size: 0.75rem; }
+
+#popuUpPage.document footer {
+  margin-left: 310px; }
+  #popuUpPage.document footer.allwidth {
+    margin-left: 0; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage.document footer {
+    margin-left: 0; } }
+
+@media print {
+  #contentsLaw {
+    width: 100% !important;
+    border: none !important; }
+  #innerDocument {
+    width: 100% !important; }
+  #toTop {
+    display: none; }
+  .document #leftNaviSide,
+  .document #relationLinkSide,
+  .document .lawDownload,
+  .document header,
+  .document nav,
+  .document footer,
+  .document button {
+    display: none !important; } }
+
+nav#spDocument {
+  display: none; }
+
+@media screen and (max-width: 1024px) {
+  nav#spDocument {
+    width: 100%;
+    padding: 12px 0;
+    background: #F5F6F8;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 500;
+    display: block; }
+    nav#spDocument #fDownloadFileSet {
+      margin: 0 12px 25px 12px;
+      padding: 12px;
+      text-align: left;
+      background: #fff;
+      display: none; }
+      nav#spDocument #fDownloadFileSet.active {
+        display: block; }
+      nav#spDocument #fDownloadFileSet ul li {
+        margin-bottom: 25px; }
+      nav#spDocument #fDownloadFileSet #fDownloadClose {
+        width: 30px;
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px; }
+    nav#spDocument div#spaceOfdocumentBtn {
+      width: 80px;
+      position: relative;
+      margin-left: 3%;
+      display: inline-block; }
+    nav#spDocument button.footNav {
+      width: 46px;
+      height: 46px;
+      margin-left: 3%;
+      text-indent: -9999px;
+      vertical-align: bottom; }
+    nav#spDocument #fDownloadBtn {
+      background: url(../img/icon/spnav/sp_menu04_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fDownloadBtn.active {
+        background: url(../img/icon/spnav/sp_menu04_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fTocOutlineBtn {
+      background: url(../img/icon/spnav/sp_menu02_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fTocOutlineBtn.active {
+        background: url(../img/icon/spnav/sp_menu02_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fDocumentBtn {
+      width: 80px;
+      height: 80px;
+      background: #F5F6F8 url(../img/icon/spnav/sp_menu01_off.png) center center no-repeat;
+      background-size: 60px auto;
+      position: absolute;
+      bottom: -17px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      border-radius: 50%; }
+      nav#spDocument #fDocumentBtn.active {
+        background: #F5F6F8 url(../img/icon/spnav/sp_menu01_on.png) center center no-repeat;
+        background-size: 60px auto; }
+    nav#spDocument #fRelationLinkBtn {
+      background: url(../img/icon/spnav/sp_menu03_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fRelationLinkBtn.active {
+        background: url(../img/icon/spnav/sp_menu03_on.png) center center no-repeat;
+        background-size: 46px auto; }
+    nav#spDocument #fSearchBtn {
+      background: url(../img/icon/spnav/sp_menu05_off.png) center center no-repeat;
+      background-size: 46px auto; }
+      nav#spDocument #fSearchBtn.active {
+        background: url(../img/icon/spnav/sp_menu05_on.png) center center no-repeat;
+        background-size: 46px auto; } }
+
+html {
+  height: 100%;
+  font-size: 100%; }
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  color: #323232;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "メイリオ", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "Helvetica Neue", sans-serif;
+  font-weight: 500; }
+
+h2:not(.popuUpPage) {
+  background-color: #fff;
+  border-top: 1px solid #D7D7D7;
+  border-bottom: 1px solid #D7D7D7;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 2rem; }
+  h2:not(.popuUpPage) span, h2:not(.popuUpPage) a {
+    padding: 25px 80px 20px 80px;
+    text-decoration: none;
+    color: #323232;
+    display: block; }
+    h2:not(.popuUpPage) span:hover, h2:not(.popuUpPage) a:hover {
+      color: #323232; }
+
+a {
+  color: #1042A4; }
+  a:hover {
+    color: #CA241E; }
+
+img {
+  vertical-align: bottom; }
+
+p {
+  padding-bottom: 25px; }
+  p:last-child {
+    padding-bottom: 0; }
+
+ol {
+  list-style: none; }
+
+section {
+  padding-bottom: 50px; }
+  section:last-child {
+    padding-bottom: 0; }
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  font-size: 1rem; }
+  button:focus {
+    outline-color: #3b99fc;
+    outline-offset: 0px;
+    outline-style: auto;
+    outline-width: 5px; }
+
+_:-ms-lang(x):focus, button:focus {
+  outline: thin dotted invert; }
+
+label {
+  cursor: pointer; }
+
+#contentsWrap {
+  min-width: 1200px;
+  margin: 25px 0 40px 30px;
+  display: flex;
+  position: relative; }
+
+@media screen and (max-width: 1024px) {
+  #contentsWrap {
+    margin: 20px 0; } }
+
+#popuUpPage #contentsWrap {
+  min-width: auto;
+  margin: 0;
+  border-top: 1px solid #D7D7D7; }
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: calc(100% - 310px);
+    float: none;
+    padding: 25px 50px 25px 70px;
+    border-right: 1px solid #D7D7D7;
+    position: relative; }
+    #popuUpPage #contentsWrap #contentsLaw.allOpen {
+      width: calc(100% - 620px); }
+    #popuUpPage #contentsWrap #contentsLaw.allClosed {
+      width: 100%; }
+    #popuUpPage #contentsWrap #contentsLaw ul.lawDownload {
+      position: fixed;
+      top: 160px;
+      right: 311px; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload.openBtn {
+        right: 0; }
+      #popuUpPage #contentsWrap #contentsLaw ul.lawDownload li {
+        margin-bottom: 12px; }
+    #popuUpPage #contentsWrap #contentsLaw button.openClose {
+      width: 40px;
+      height: 40px;
+      border-top: 1px solid #D7D7D7;
+      border-bottom: 1px solid #D7D7D7;
+      position: fixed;
+      top: 100px; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_left.png) 12px 13px no-repeat;
+        border-right: 1px solid #D7D7D7;
+        border-radius: 0 5px 5px 0;
+        left: 310px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_toc.png) 3px 7px no-repeat;
+          left: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_toc.png) 3px 7px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#tocOutlineBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_left.png) 12px 13px no-repeat; }
+      #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn {
+        text-indent: -9999px;
+        background: #F5F6F8 url(../img/arrow_gray_right.png) 12px 13px no-repeat;
+        border-left: 1px solid #D7D7D7;
+        border-radius: 5px 0 0 5px;
+        right: 311px; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn {
+          background: #F5F6F8 url(../img/icon/icon_relation.png) 3px 6px no-repeat;
+          right: 0; }
+          #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn.openBtn:hover {
+            background: #C2CEE7 url(../img/icon/icon_relation.png) 3px 6px no-repeat; }
+        #popuUpPage #contentsWrap #contentsLaw button.openClose#relationLinkBtn:hover {
+          background: #C2CEE7 url(../img/arrow_gray_right.png) 12px 13px no-repeat; }
+
+@media screen and (max-width: 1024px) {
+  #popuUpPage #contentsWrap #contentsLaw {
+    width: 100%;
+    border-right: none;
+    padding: 25px 5px 25px 25px;
+    display: none; }
+    #popuUpPage #contentsWrap #contentsLaw.active {
+      width: 100%;
+      display: block; } }
+
+#leftNaviSide {
+  width: 310px;
+  padding-top: 25px;
+  background: #fff;
+  text-align: center;
+  border-right: 1px solid #D7D7D7;
+  display: none; }
+  #leftNaviSide.active {
+    display: block; }
+  #leftNaviSide #tocOutlineWrap {
+    width: 309px;
+    height: calc(100% - 70px);
+    background: #fff;
+    overflow: auto;
+    padding-top: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    -webkit-overflow-scrolling: touch !important; }
+  #leftNaviSide ul {
+    font-size: 0; }
+    #leftNaviSide ul li {
+      font-size: 1rem;
+      text-align: left; }
+    #leftNaviSide ul#dayOfPromulgation {
+      margin: 0 0 10px 12px; }
+      #leftNaviSide ul#dayOfPromulgation li {
+        font-size: 0.75rem;
+        text-align: left; }
+    #leftNaviSide .labelLaw {
+      width: 120px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 15px;
+      margin-left: 12px; }
+      #leftNaviSide .labelLaw h3 {
+        padding: 1px 8px;
+        text-align: left;
+        width: 120px;
+        height: 23px;
+        border: 1px solid #1042A4;
+        background: #FFFFFF;
+        color: #000000;
+        display: inline-block; 
+        border-left-width: 15px; }
+        #leftNaviSide .labelLaw h3.authFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #A44210;
+          font-size: 85%; }
+        #leftNaviSide .labelLaw h3.enforcementFlag {
+          margin-top: 2px;
+          margin-bottom: 2px;
+          border-color: #4F71B3; }
+    #leftNaviSide ul#tocTab {
+      margin: 15px 25px 25px 25px;
+      border-bottom: 1px solid #D7D7D7; }
+      #leftNaviSide ul#tocTab li {
+        font-size: 0.875rem;
+        display: inline-block; }
+        #leftNaviSide ul#tocTab li button {
+          width: 100px;
+          margin: 0 5px;
+          line-height: 37px;
+          display: inline-block;
+          border-radius: 5px 5px 0 0; }
+          #leftNaviSide ul#tocTab li button#tableOfContents {
+            background: #F5F6F8 url(../img/icon/icon_tabe_of_contents.png) 12px 10px no-repeat; }
+          #leftNaviSide ul#tocTab li button#outline {
+            background: #F5F6F8 url(../img/icon/icon_outline.png) 12px 8px no-repeat; }
+          #leftNaviSide ul#tocTab li button.active#tableOfContents {
+            background: #1042A4 url(../img/icon/icon_tabe_of_contents_ov.png) 12px 10px no-repeat;
+            color: #fff; }
+          #leftNaviSide ul#tocTab li button.active#outline {
+            background: #1042A4 url(../img/icon/icon_outline_ov.png) 12px 8px no-repeat;
+            color: #fff; }
+
+#relationLinkSide {
+  margin-right: 1px;
+  height: calc(100% - 200px);
+  width: 310px;
+  overflow: auto;
+  padding: 20px 25px 12px 25px;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  display: none; }
+  #relationLinkSide.active {
+    display: block; }
+  #relationLinkSide h3 {
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #F5F6F8; }
+  #relationLinkSide ul li {
+    padding-bottom: 25px; }
+    #relationLinkSide ul li a {
+      font-size: 1.125rem; }
+      #relationLinkSide ul li a span {
+        font-size: 0.75rem; }
+
+@media screen and (max-width: 1024px) {
+  #leftNaviSide {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    display: none; }
+    #leftNaviSide.active {
+      display: block; }
+  #leftNaviSide #tocOutlineWrap,
+  #relationLinkSide {
+    padding-top: 50px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #D7D7D7;
+    position: static !important; }
+  #leftNaviSide #tocOutlineWrap {
+    height: auto !important;
+    overflow: visible;
+    border: none; }
+    #leftNaviSide #tocOutlineWrap #searchKeyword {
+      display: none; }
+  #relationLinkSide {
+    margin-top: 20px;
+    border: none;
+    display: none; }
+    #relationLinkSide.active {
+      display: block; } }
+
+table {
+/*  width: 100%; */
+  border-collapse: collapse; }
+  table tr th {
+    text-align: left;
+    font-weight: normal; }
+
+#sNavi {
+  padding: 15px 0 25px 0;
+  text-align: right; }
+  #sNavi ul li {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 20px;
+    display: inline-block; }
+    #sNavi ul li#iconBeginner {
+      padding-left: 30px;
+      background: url(../img/icon/icon_help.png) left center no-repeat;
+      background-size: 30px auto; }
+    #sNavi ul li a {
+      color: #1042A4; }
+      #sNavi ul li a:hover {
+        color: #CA241E; }
+
+@media screen and (max-width: 1024px) {
+  #sNavi ul li {
+    margin-right: 12px; }
+    #sNavi ul li a {
+      font-size: 0.75rem; } }
+
+#innerDocument {
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  
+  }
+
+@media screen and (max-width: 1024px) {
+  #innerDocument {
+    display: none; }
+    #innerDocument.active {
+      padding-top: 10px;
+      display: block; } }
+
+#innerDocument section {
+  padding-bottom: 10px;
+  display: none; }
+  #innerDocument section.active {
+    display: block; }
+  #innerDocument section h3, #innerDocument section h4, #innerDocument section dt {
+    font-weight: 600; }
+  #innerDocument section.table {
+    padding-bottom: 25px; }
+    #innerDocument section.table h3 {
+/*      margin-left: -1rem;*/
+      margin-bottom: 5px;
+      padding-right: 2rem; }
+    #innerDocument section.table table {
+      width: auto;
+      border-collapse: collapse;
+      border-right: 1px solid #636974;
+      border-top: 1px solid #636974; }
+      #innerDocument section.table table tr th {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+      #innerDocument section.table table tr td {
+        padding: 5px;
+        border-left: 1px solid #636974;
+        border-bottom: 1px solid #636974; }
+        #innerDocument section.table table tr td p {
+          padding: 0; }
+  #innerDocument section h4 {
+    text-indent: 2rem; }
+  #innerDocument section ol, #innerDocument section ul {
+    /*margin-left: -1rem; */}
+    #innerDocument section ol li, #innerDocument section ul li {
+      padding-left: 1rem;
+      /*text-indent: -1rem; */}
+      #innerDocument section ol li ol, #innerDocument section ol li ul, #innerDocument section ul li ol, #innerDocument section ul li ul {
+        margin-left: 0; }
+      #innerDocument section ol li .number, #innerDocument section ul li .number {
+        padding-right: 1rem;
+        font-weight: 600; }
+  #innerDocument section dl {
+    margin-bottom: 5px;
+    display: none; }
+    #innerDocument section dl.active {
+      display: block; }
+    #innerDocument section dl dt {
+      /*margin-left: -1rem;*/
+      padding-right: 2rem;
+      display: inline-block;
+      float: left; }
+    #innerDocument section dl dd {
+      display: inline; }
+
+#toTop _:-ms-lang(x), #toTop button {
+  color: #fff; }
+  #toTop _:-ms-lang(x):focus, #toTop button:focus {
+    outline: thin dotted #000; }
+
+.circleBtn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 20px;
+  cursor: pointer;
+  z-index: 100;
+  display: inline-block; }
+  .circleBtn#toTop {
+    right: 20px;
+    background: #636974; }
+  .circleBtn:hover {
+    opacity: 1; }
+  .circleBtn button {
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    color: #fff; }
+    .circleBtn button:hover {
+      color: #fff; }
+
+@media screen and (max-width: 1024px) {
+  .circleBtn {
+    width: 60px;
+    height: 60px;
+    bottom: 75px; }
+    .circleBtn#toTop {
+      right: 5px; }
+      .circleBtn#toTop.active {
+        display: none; }
+    .circleBtn button {
+      width: 60px;
+      height: 60px; }
+      .circleBtn button img {
+        width: 50%;
+        height: auto; } }
+
+#searchKeyword2 {
+  width: 100%;
+  padding: 12px !important;
+  position: absolute;
+  left: 0;
+  bottom: 45px;
+  z-index: 500;
+  display: none; }
+  #searchKeyword2.active {
+    display: block; }
+  #searchKeyword2 h2 {
+    text-align: left; }
+  #searchKeyword2 #searchKeywordBtn2 button {
+    width: auto !important;
+    height: auto !important;
+    margin: 5px 10px 5px 20px !important;
+    text-indent: 0 !important; }
+  #searchKeyword2 #delInfoBtn2 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 550; }
+
+#searchKeyword,
+#searchKeyword2 {
+  margin-bottom: 25px;
+  padding: 12px 5px;
+  background: #e9f0f7; }
+  #searchKeyword h2,
+  #searchKeyword2 h2 {
+    margin-bottom: 12px;
+    background: none;
+    font-size: 0.875rem;
+    color: #1F72DB;
+    line-height: 1.125rem;
+    border-top: none;
+    border-bottom: none; }
+    #searchKeyword h2:before,
+    #searchKeyword2 h2:before {
+      content: url(../img/icon/icon_hilight.png);
+      display: inline-block;
+      width: 16px;
+      height: 18px; }
+  #searchKeyword ul,
+  #searchKeyword2 ul {
+    margin-bottom: 12px;
+    text-align: left; }
+    #searchKeyword ul li,
+    #searchKeyword2 ul li {
+      display: inline-block; }
+  #searchKeyword #searchKeywordBtn,
+  #searchKeyword2 #searchKeywordBtn2 {
+    font-size: 0; }
+    #searchKeyword #searchKeywordBtn button,
+    #searchKeyword2 #searchKeywordBtn2 button {
+      margin: 5px;
+      min-height: 26px;
+      background: #1F72DB;
+      font-size: 0.75rem;
+      color: #fff;
+      border-radius: 13px; }
+      #searchKeyword #searchKeywordBtn button#prev,
+      #searchKeyword2 #searchKeywordBtn2 button#prev {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_left.png);
+        background-repeat: no-repeat;
+        background-position: 10px 8px; }
+      #searchKeyword #searchKeywordBtn button#next,
+      #searchKeyword2 #searchKeywordBtn2 button#next {
+        padding: 0 25px;
+        background-image: url(../img/arrow_white_right.png);
+        background-repeat: no-repeat;
+        background-position: right 10px top 8px; }
+      #searchKeyword #searchKeywordBtn button:hover,
+      #searchKeyword2 #searchKeywordBtn2 button:hover {
+        background: #36aae7; }
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table; }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  zoom: 1; }
+
+.attention {
+  color: #CA241E !important; }
+
+.annotation {
+  font-size: 0.75rem !important;
+  line-height: 1rem !important;
+  text-indent: -1em;
+  margin-left: 1em; }
+
+.searchLabel {
+  background: #C2CEE7; }
+
+.searchLabel.active {
+  background: #1042A4;
+  color: #fff; }
+
+.mBottom {
+  margin-bottom: 25px; }
+
+#innerDocument section.active.SupplProvision div._div_SupplProvisionLabel {
+	margin-bottom: 10px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+
+#innerDocument section.active table.Table {
+	margin-left: 1em;
+}
+#innerDocument section.active div._div_ArticleTitle table.Table {
+	margin-left: 0em;
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<main id="contentsLaw" class="active">
+<div id="innerDocument" class="active">
+
+
+
+
+<div style="margin-bottom: 12px;">
+<div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十九年内閣府令第四十一号<div class="_shokanBox"></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+<span data-xpath="">衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+</div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+<span data-xpath="">衛星リモートセンシング記録の適正な取扱いの確保に関する法律（平成二十八年法律第七十七号）の規定に基づき、及び同法を実施するため、衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この府令において使用する用語は、衛星リモートセンシング記録の適正な取扱いの確保に関する法律（以下「法」という。）において使用する用語の例によるほか、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">光学センサー</span>　<span data-xpath="">紫外、可視光、近赤外又は中間赤外領域の電磁波を検出するセンサーをいう。</span><span data-xpath="">ただし、ハイパースペクトルセンサーを除く。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">ＳＡＲセンサー</span>　<span data-xpath="">電波領域の電磁波を検出するセンサーのうち、電波を観測対象に照射し、散乱された電波を受信した後にレンジ圧縮処理（受信信号と送信信号から得られる参照信号とで相関処理を行うことにより、レンジ方向（電磁波の照射方向をいう。）の対象物判別精度を向上させる処理をいう。以下同じ。）及びアジマス圧縮処理（受信信号に合成開口処理（地球周回人工衛星の飛行に伴う受信信号のドップラー効果の利用により大開口センサーと同様の対象物判別精度を得る処理をいう。）を行うことで、アジマス方向（地球周回人工衛星の進行方向をいう。）の対象物判別精度を向上させる処理をいう。以下同じ。）を施して画像を得るものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">ハイパースペクトルセンサー</span>　<span data-xpath="">紫外、可視光、近赤外及び中間赤外領域で四十九以上の波長帯の電磁波を検出するセンサーをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">熱赤外センサー</span>　<span data-xpath="">熱赤外領域の電磁波を検出するセンサーをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">生データ</span>　<span data-xpath="">次に掲げる電磁的記録をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">光学センサー、ハイパースペクトルセンサー又は熱赤外センサーからの検出情報電磁的記録に、ラジオメトリック処理（センサー感度特性（経年変化を含む。）を補正するための処理をいい、光学センサー及びハイパースペクトルセンサーにあっては、太陽の位置及び角度の影響並びに大気の条件による放射量のゆがみを補正するための処理を含む。以下同じ。）及びジオメトリック処理（地球周回人工衛星の移動、地球の自転及び湾曲、センサーの素子配列並びに観測時の地球周回人工衛星センサーの位置、姿勢、振動及び熱による画像の幾何学的なゆがみを補正するための処理をいう。以下同じ。）がされていないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">ＳＡＲセンサーからの検出情報電磁的記録に、レンジ圧縮処理、アジマス圧縮処理及びジオメトリック処理がされていないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">標準データ</span>　<span data-xpath="">次に掲げる電磁的記録をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">前号イの検出情報電磁的記録に、ラジオメトリック処理又はジオメトリック処理がされたもの。</span><span data-xpath="">ただし、次に掲げるものを除く。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">メタデータ（地球周回人工衛星名、センサー名、記録日時、記録時の地球周回人工衛星位置、観測モード、ポインティング角その他の地球周回人工衛星の概要の情報をいう。ロ（１）において同じ。）が付随していないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">被写体の輪郭抽出その他の高度な情報処理を行うことにより、ラジオメトリック処理又はジオメトリック処理がされたものの状態に復元することができなくなったもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">前号ロの検出情報電磁的記録に、レンジ圧縮処理、アジマス圧縮処理又はジオメトリック処理がされたもの。</span><span data-xpath="">ただし、次に掲げるものを除く。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">メタデータが付随していないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">被写体の輪郭抽出その他の高度な情報処理を行うことにより、レンジ圧縮処理、アジマス圧縮処理又はジオメトリック処理がされたものの状態に復元することができなくなったもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">コンステレーション衛星リモートセンシング装置</span>　<span data-xpath="">次条に掲げるセンサーの区分が同一であり、かつ、構造及び性能が類似のもので、一体的に運用する複数の衛星リモートセンシング装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">八</span>　<span data-xpath="">遠隔取扱い装置</span>　<span data-xpath="">操作用無線設備等、受信設備及び衛星リモートセンシング記録を取り扱う施設設備以外の場所で電気通信回線を通じて、衛星リモートセンシング装置の使用及び衛星リモートセンシング記録の取扱いを行うことができる装置をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第二条第二号の内閣府令で定める基準）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">法第二条第二号の内閣府令で定める基準は、次の各号に掲げるセンサーの区分に応じ、それぞれ当該各号に定めるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">光学センサー</span>　<span data-xpath="">対象物判別精度が二メートル以下のものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">ＳＡＲセンサー</span>　<span data-xpath="">対象物判別精度が三メートル以下のものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">ハイパースペクトルセンサー</span>　<span data-xpath="">対象物判別精度が十メートル以下のもので、かつ、検出できる波長帯が四十九を超えるものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">熱赤外センサー</span>　<span data-xpath="">対象物判別精度が五メートル以下のものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第二条第六号の内閣府令で定める基準）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第二条第六号の内閣府令で定める基準は、次の表の上欄に掲げる電磁的記録の区分に応じ、それぞれ同表の下欄に定めるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_shokanBoxParent">
+<table class="Table" style="margin-left: 1em;">
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区分</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">基準</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　生データ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+<span data-xpath="">イ　光学センサーにより記録されたものにあっては、対象物判別精度が二メートル以下であって、記録されてから五年以内のものであること。</span><br><span data-xpath="">ロ　ＳＡＲセンサーにより記録されたものにあっては、対象物判別精度が三メートル以下であって、記録されてから五年以内のものであること。</span><br><span data-xpath="">ハ　ハイパースペクトルセンサーにより記録されたものにあっては、対象物判別精度が十メートル以下かつ検出できる波長帯が四十九を超え、かつ、記録されてから五年以内のものであること。</span><br><span data-xpath="">ニ　熱赤外センサーにより記録されたものにあっては、対象物判別精度が五メートル以下であって、記録されてから五年以内のものであること。</span>
+</div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　標準データ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+<span data-xpath="">イ　光学センサーにより記録されたものにあっては、対象物判別精度が二十五センチメートル未満であって、記録されてから五年以内のものであること。</span><br><span data-xpath="">ロ　ＳＡＲセンサーにより記録されたものにあっては、対象物判別精度が二十四センチメートル未満であって、記録されてから五年以内のものであること。</span><br><span data-xpath="">ハ　ハイパースペクトルセンサーにより記録されたものにあっては、対象物判別精度が五メートル以下であって、検出できる波長帯が四十九を超え、かつ、記録されてから五年以内のものであること。</span><br><span data-xpath="">ニ　熱赤外センサーにより記録されたものにあっては、対象物判別精度が五メートル以下であって、記録されてから五年以内のものであること。</span>
+</div></td>
+</tr>
+</table>
+<div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定にかかわらず、法第十九条第一項の規定に基づく提供の禁止の命令の対象となる衛星リモートセンシング記録に係る法第二条第六号の内閣府令で定める基準は、内閣総理大臣が告示で定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（許可の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第四条第一項の許可を受けようとする者は、様式第一（当該許可の申請に係る衛星リモートセンシング装置がコンステレーション衛星リモートセンシング装置の一部である場合には、様式第一の二）による申請書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書には、次に掲げる書類を添えなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">申請者に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">申請者が個人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">住民票の写し又はこれに代わる書類（本籍（外国人にあっては、住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十五に規定する国籍等）の記載のあるものに限る。以下同じ。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第五条第一号から第四号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（３）</span>　<span data-xpath="">使用人（第五条に規定する使用人をいう。以下この条において同じ。）及び死亡時代理人に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ａ</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ｂ</span>　<span data-xpath="">当該使用人にあっては法第五条第一号から第四号まで、当該死亡時代理人にあっては法第五条第一号から第六号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">申請者が法人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">定款及び登記事項証明書又はこれらに準ずるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第五条第一号から第三号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（３）</span>　<span data-xpath="">法第五条第五号の役員（第三項第一号において単に「役員」という。）及び使用人に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ａ</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ｂ</span>　<span data-xpath="">法第五条第一号から第四号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">申請者以外の者が操作用無線設備等の管理を行う場合には、当該管理を行う者に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">当該管理を行う者が個人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第五条第一号から第四号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該管理を行う者が法人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">定款及び登記事項証明書又はこれらに準ずるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第五条第一号から第三号までのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">申請者以外の者が受信設備の管理を行う場合には、当該管理を行う者に係る法第二十一条第四項の認定証の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">地球周回人工衛星に搭載された制御装置によって衛星リモートセンシング装置の地上放射等電磁波を検出する機能を作動させる時間、検出情報電磁的記録を地上に送信する時間、それらの送信の際に用いる通信の方法及び対象物判別精度の決定その他の衛星リモートセンシング装置の操作を行うために必要な指令を自動的に計画し、判断し、又は管理し、当該指令に基づく信号を当該衛星リモートセンシング装置に送信する機能（人工的な方法による学習、推論、判断等の知的な機能を含む。）を有する場合にあっては、当該機能の説明が記載された書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">その他内閣総理大臣が必要と認める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第四条第二項第八号の内閣府令で定める事項は、次に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">衛星リモートセンシング装置の使用に係る業務を行う役員又は使用人の氏名及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">主要出資者（出資の総額の百分の十以上の出資を有している出資者をいう。以下同じ。）の氏名又は名称、出資比率及び国籍</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">操作用無線設備等、受信設備、衛星リモートセンシング記録を取り扱う施設設備及び遠隔取扱い装置の関係を示す系統図及びこれらの配置図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">衛星リモートセンシング記録の利用の目的及び方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">法第八条第一項及び第二項に定める不正な衛星リモートセンシング装置の使用を防止するための措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第五条第四号の内閣府令で定めるもの）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第四条の二</span>　<span data-xpath="">法第五条第四号の内閣府令で定めるものは、精神の機能の障害により衛星リモートセンシング装置の使用を適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（使用人）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第五条第五号及び第六号の内閣府令で定める使用人は、申請者の使用人であって、当該申請者の衛星リモートセンシング装置の使用に係る業務に関する権限及び責任を有する者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第六条第一号の内閣府令で定める基準）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第六条</span>　<span data-xpath="">法第六条第一号の内閣府令で定める基準は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">申請者以外の者が衛星リモートセンシング装置の使用を行うことを防止するため、次に掲げる措置を適切に行うことができると認められるものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">法第八条に定める不正な衛星リモートセンシング装置の使用を防止するための措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">法第十五条に定める終了措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">操作用無線設備等及び受信設備が次の国又は地域に所在しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">輸出貿易管理令（昭和二十四年政令第三百七十八号。以下「輸出令」という。）別表第三の二又は別表第四に掲げる地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">国際連合の総会又は安全保障理事会の決議において国際社会の平和及び安全を脅かす事態の発生に責任を有するとされた国又は地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">法第九条の機能停止を適切に行うことができると認められるものであること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第六条第二号等の内閣府令で定める措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第六条第二号及び第二十条の内閣府令で定める措置は、次の表の上欄に掲げる衛星リモートセンシング記録の区分に応じ、それぞれ同表の下欄に定めるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_shokanBoxParent">
+<table class="Table" style="margin-left: 1em;">
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">衛星リモートセンシング記録の区分</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">措置</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　生データ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+<span data-xpath="">イ　組織的安全管理措置</span><br><span data-xpath="">（一）　衛星リモートセンシング記録の安全管理に係る基本方針を定めていること。</span><br><span data-xpath="">（二）　衛星リモートセンシング記録を取り扱う者（衛星リモートセンシング記録の取扱い業務の全部又は一部を他の者に委託する場合には、当該業務の委託に係る契約において委託を受けた者を含む。以下この項において同じ。）の責任及び権限並びに業務を明確にしていること。</span><br><span data-xpath="">（三）　衛星リモートセンシング記録の漏えい、滅失又は毀損発生時における事務処理体制が整備されていること。</span><br><span data-xpath="">（四）　安全管理措置に関する規程の策定及び実施並びにその運用の評価及び改善を行っていること。</span><br><span data-xpath="">（五）　衛星リモートセンシング記録の取扱い業務の全部又は一部を他の者に委託する場合には、当該業務の委託に係る契約において委託を受けた者に対する必要かつ適切な監督を行うこと。</span><br><span data-xpath="">ロ　人的安全管理措置</span><br><span data-xpath="">（一）　衛星リモートセンシング記録を取り扱う者が、法第五条第一号から第四号まで及び法第二十一条第三項第一号イからニまでのいずれにも該当しない者であることを確認していること。</span><br><span data-xpath="">（二）　衛星リモートセンシング記録を取り扱う者が、その業務上取り扱う衛星リモートセンシング記録についての情報その他の特別の非公開情報（その業務上知り得た公表されていない情報をいう。）を、当該業務の適切な運営の確保その他必要と認められる目的以外の目的のために利用しないことを確保するための措置を講じていること。</span><br><span data-xpath="">（三）　衛星リモートセンシング記録を取り扱う者に対する必要な教育及び訓練を行っていること。</span><br><span data-xpath="">ハ　物理的安全管理措置</span><br><span data-xpath="">（一）　衛星リモートセンシング記録を取り扱う施設設備及び遠隔取扱い装置を明確にしていること。</span><br><span data-xpath="">（二）　衛星リモートセンシング記録を取り扱う施設設備への立入り及び機器の持込みを制限する措置を講じていること。</span><br><span data-xpath="">（三）　衛星リモートセンシング記録を取り扱う機器には、その盗難、紛失その他の事故を防止するため、必要な措置を講じていること。</span><br><span data-xpath="">ニ　技術的安全管理措置</span><br><span data-xpath="">（一）　衛星リモートセンシング記録を取り扱う施設設備及び遠隔取扱い装置に、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）を防止するため、適切な措置が講じられていること。</span><br><span data-xpath="">（二）　可搬記憶媒体（電子計算機又はその周辺機器に挿入し、又は接続して情報を保存することができる媒体又は機器のうち、可搬型のものをいう。）の電子計算機又はその周辺機器への接続の制限に関する措置を講じていること。</span><br><span data-xpath="">（三）　衛星リモートセンシング記録の取り扱う施設設備及び遠隔取扱い装置の動作を記録していること。</span><br><span data-xpath="">（四）　衛星リモートセンシング記録を移送又は電気通信により送信するときは、暗号化その他の衛星リモートセンシング記録を適切に保護するために必要な措置を講じていること。</span><br><span data-xpath="">（五）　衛星リモートセンシング記録を加工するときは、当該加工を適切に行うために必要な措置を講じていること。</span>
+</div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　標準データ</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+<span data-xpath="">イ　組織的安全管理措置</span><br><span data-xpath="">生データの項イと同じ。</span><br><span data-xpath="">ロ　人的安全管理措置</span><br><span data-xpath="">生データの項ロと同じ。</span><br><span data-xpath="">ハ　技術的安全管理措置</span><br><span data-xpath="">生データの項ニと同じ。</span>
+</div></td>
+</tr>
+</table>
+<div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">衛星リモートセンシング装置使用者及び衛星リモートセンシング記録保有者は、衛星リモートセンシング記録の取扱い業務の全部又は一部を電気通信回線を通じて外部に保存するサービスを利用して管理する場合は、当該サービスを提供する事業者（以下この項において「サービス事業者」という。）とのサービスの利用に係る契約において、次の各号に掲げる事項を明確に定めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">前項に定める措置に相当する措置が講じられること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">衛星リモートセンシング記録を次の国又は地域に所在する電子計算機に保存しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">輸出令別表第三の二又は別表第四に掲げる地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">国際連合の総会又は安全保障理事会の決議において国際社会の平和及び安全を脅かす事態の発生に責任を有するとされた国又は地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">契約の解除又は満了に伴い、衛星リモートセンシング記録の消去、返却その他の必要な措置が講じられること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">サービス事業者がその業務の全部又は一部を他の者に委託する場合には、当該業務の委託に係る契約において委託を受けた者が前三号に掲げる事項を遵守する旨その他の委託を受けた者が当該業務を適正かつ確実に遂行するための措置を講ずる旨の条件を付すこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">前二項の措置は、法第十八条第三項の公益上の必要により、又は人命の救助、災害の救援その他非常の事態への対応のため緊急の必要により提供される衛星リモートセンシング記録については適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（許可証の交付）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第八条</span>　<span data-xpath="">内閣総理大臣は、法第四条第一項の許可をしたときは、申請者に対し、その旨を通知するとともに、様式第二による許可証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（変更の許可の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第九条</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第四条第二項第二号から第八号までに掲げる事項を変更しようとするときは、様式第三（当該許可の申請に係る衛星リモートセンシング装置がコンステレーション衛星リモートセンシング装置の一部である場合には、様式第一の二）による申請書に、第四条第二項に掲げる書類のうち当該変更事項に係る書類及び当該衛星リモートセンシング装置に係る前条の許可証を添えて、内閣総理大臣の変更の許可を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">内閣総理大臣は、法第七条第一項の許可をしたときは、申請者に対し、その旨を通知するとともに、許可証を書き換えて交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第七条第一項ただし書の内閣府令で定める軽微な変更は、次の各号のいずれかに該当する場合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">法第四条第二項第四号に掲げる事項の変更であって、次に掲げる以外のもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">操作用無線設備等の場所の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">操作用無線設備等の追加</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法第四条第二項第五号に掲げる事項の変更であって、次に掲げる以外のもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">受信設備の場所の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">受信設備の追加</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">法第四条第二項第六号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">法第四条第二項第七号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">第四条第三項第一号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">第四条第三項第二号に掲げる主要出資者の異動（主要出資者であった者が主要出資者でなくなること又は主要出資者でなかった者が主要出資者になることをいう。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">第四条第三項第三号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">八</span>　<span data-xpath="">前各号に掲げるもののほか、法第四条第二項第二号から第八号までに掲げる事項の実質的な変更を伴わないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第七条第二項の規定による届出をしようとするときは、様式第四による届出書に、変更事項に係る書類及び当該衛星リモートセンシング装置に係る前条の許可証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第八条第一項等の内閣府令で定める措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十条</span>　<span data-xpath="">法第八条第一項及び第二項の内閣府令で定める措置は、次の各号のいずれかとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">対応変換符号又は対応記録変換符号を用いなければ復元することができないようにすること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">周波数を複数具備し使い分けて通信すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">衛星リモートセンシング装置を使用する権限を有する者のみが操作用無線設備を操作できる措置を講じること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">第七条第一項及び第二項の規定は、法第八条第五項の変換符号等の安全管理のために必要かつ適切なものとして内閣府令で定める措置について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第十条第三項の内閣府令で定める措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第十条第三項の内閣府令で定める措置は、次の各号のいずれかとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">法第十条第二項の受信設備に向けて検出情報電磁的記録の送信を行わないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">記録変換符号を変更すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（故障時等の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十二条</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第十一条の規定による届出をしようとするときは、様式第五による届出書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（帳簿の記載事項等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十三条</span>　<span data-xpath="">法第十二条第一項の内閣府令で定める事項は、次に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">衛星リモートセンシング装置の操作を行うための信号を送信した日時、その内容及び当該信号の送信に用いた操作用無線設備等の場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">検出情報電磁的記録を記録した日時、対象範囲及びこれらを識別するための文字、番号、記号その他の符号（以下「識別符号」という。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">検出情報電磁的記録を地上に送信した日時及びその受信に用いた受信設備の場所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">衛星リモートセンシング記録の加工、複写又は消去の状況</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">衛星リモートセンシング記録を他の者に提供する場合にあっては、当該衛星リモートセンシング記録の識別符号、区分及び提供日時並びにその提供の相手方の氏名又は名称及びその者が法第二十一条第四項の認定証の交付を受けている者である場合は、その番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第十二条第一項の帳簿に係る電磁的記録の作成を行う場合は、作成された電磁的記録を当該衛星リモートセンシング装置使用者の使用に係る電子計算機に備えられたファイルに記録する方法又は磁気ディスク、シー・ディー・ロムその他これらに準ずる方法により一定の事項を確実に記録しておくことができる物（以下「磁気ディスク等」という。）をもって調製する方法により行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、衛星リモートセンシング装置ごとに、衛星リモートセンシング装置の操作を行うための信号の送信、検出情報電磁的記録の記録、検出情報電磁的記録の地上への送信、検出情報電磁的記録の加工若しくは消去又は衛星リモートセンシング記録の提供を行うごとに、遅滞なく、第一項各号に掲げる事項を帳簿に記載し、その記載の日から五年間保存しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（承継の認可の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十四条</span>　<span data-xpath="">法第十三条第一項の認可を受けようとする者は、様式第六による申請書に、次に掲げる書類及び譲渡人に係る第八条の許可証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">譲渡及び譲受けの価格が記載された書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">譲受人に係る第四条第二項第一号に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">譲受人が法第六条第三号に掲げる基準に適合する旨を誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">譲渡及び譲受けに関する契約書の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">譲受人が法人である場合は、最近の損益計算書、貸借対照表及び事業報告書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">譲渡人又は譲受人が法人である場合は、譲渡又は譲受けに関する株主総会若しくは社員総会の決議録又は無限責任社員若しくは総社員の同意書又は譲渡若しくは譲受けに関する意思の決定を証する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第十三条第二項の規定による届出をしようとするときは、様式第七による届出書に、前項各号に掲げる書類及び譲渡人に係る第八条の許可証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第十三条第三項の認可を受けようとする者は、様式第八による申請書に、次に掲げる書類及び被承継者に係る第八条の許可証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">合併の方法及び条件が記載された書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">合併後存続する法人又は合併により設立される法人に係る第四条第二項第一号ロに掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">合併後存続する法人又は合併により設立される法人が法第六条第三号に掲げる基準に適合する旨を誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">合併契約書の写し及び合併比率説明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">合併により法人を設立する場合には、当該法人に関し、事業を経営するために必要な資金の総額、内訳及び調達方法が記載された資金計画書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">合併後存続する法人が現に衛星リモートセンシング装置の使用に係る事業を経営していないときは、最近の貸借対照表、損益計算書及び事業報告書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">合併に関する株主総会若しくは社員総会の決議録又は無限責任社員若しくは総社員の同意書又は合併に関する意思の決定を証する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">法第十三条第四項の認可を受けようとする者は、様式第九による申請書に、次に掲げる書類及び被承継者に係る第八条の許可証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">分割の方法及び条件が記載された書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">分割により衛星リモートセンシング装置の使用に係る事業を承継する法人に係る第四条第二項第一号ロに掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">分割により衛星リモートセンシング装置の使用に係る事業を承継する法人が法第六条第三号に掲げる基準に適合する旨を誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">分割契約書（新設分割の場合にあっては、分割計画書）の写し及び分割比率説明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">分割により法人を設立する場合には、当該法人に関し、事業を経営するために必要な資金の総額、内訳及び調達方法が記載された資金計画書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">吸収分割により衛星リモートセンシング装置の使用に係る事業を承継する法人が現に衛星リモートセンシング装置の使用に係る事業を経営していないときは、最近の貸借対照表、損益計算書及び事業報告書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">七</span>　<span data-xpath="">分割に関する株主総会若しくは社員総会の決議録又は無限責任社員若しくは総社員の同意書又は分割に関する意思の決定を証する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">５</span>　<span data-xpath="">内閣総理大臣は、法第十三条第一項、第三項又は第四項の認可をしたときは、申請者に対し、書面によりその旨を通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（死亡の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十五条</span>　<span data-xpath="">相続人は、法第十四条第一項の規定による届出をするときは、様式第十による届出書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（終了措置を講じた旨の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十六条</span>　<span data-xpath="">衛星リモートセンシング装置使用者は、法第十五条第二項の規定による届出をするときは、様式第十一による届出書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第十五条第二項第一号等の内閣府令で定める措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十七条</span>　<span data-xpath="">法第十五条第二項第一号の内閣府令で定める措置は、次の各号のいずれかとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">操作用無線設備から当該措置に係る衛星リモートセンシング装置にその地上放射等電磁波を検出する機能を停止する信号を送信すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">操作用無線設備から当該措置に係る衛星リモートセンシング装置に電源を供給しない信号を送信すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">法第十五条第二項第二号の内閣府令で定める措置は、操作用無線設備から当該措置に係る衛星リモートセンシング装置に再開信号を受信するまでその地上放射等電磁波を検出する機能を停止する信号を送信するとともに当該再開信号及びその作成方法に関する情報を内閣総理大臣に届け出る措置とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（解散の届出）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十八条</span>　<span data-xpath="">清算人又は破産管財人は、法第十六条第一項の規定による届出をするときは、様式第十二による届出書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（許可の取消し等を行う場合の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第十九条</span>　<span data-xpath="">内閣総理大臣は、法第十七条第一項の規定に基づき、法第四条第一項の許可を取り消し、又は一年以内の期間を定めて衛星リモートセンシング装置の使用の停止を命ずるときは、その旨を書面により当該衛星リモートセンシング装置使用者に通知し、当該衛星リモートセンシング装置に係る第八条の許可証の返納を求めるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（衛星リモートセンシング記録の提供の方法等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十条</span>　<span data-xpath="">法第十八条第一項の衛星リモートセンシング記録の提供の相手方以外の者が当該衛星リモートセンシング記録を取得して利用することを防止するために必要かつ適切なものとして内閣府令で定める方法は、次の各号のいずれかの方法とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">暗号その他その内容を容易に復元することができない通信の方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">磁気ディスク等に衛星リモートセンシング記録を暗号化した上で記録し、当該磁気ディスク等により提供する方法</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">衛星リモートセンシング記録保有者は、法第十八条第一項の規定により衛星リモートセンシング記録を提供するときは、あらかじめ、当該提供の相手方に対し、法第二十一条第四項の認定証を提示させるとともに、第二十二条に定める衛星リモートセンシング記録の区分を明示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">衛星リモートセンシング記録保有者は、法第十八条第二項の規定により同項に定める衛星リモートセンシング装置使用者に当該衛星リモートセンシング記録を提供するときは、あらかじめ、その氏名又は名称並びに当該衛星リモートセンシング装置の名称及び種類を確認するとともに、第二十二条に定める衛星リモートセンシング記録の区分を明示するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">前項の規定は、法第十八条第二項の規定により特定取扱機関に衛星リモートセンシング記録を提供するときについて準用する。</span><span data-xpath="">この場合において、「その氏名又は名称並びに当該衛星リモートセンシング装置の名称及び種類」とあるのは、「その名称」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（緊急の必要により衛星リモートセンシング記録を提供する場合の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">衛星リモートセンシング記録保有者は、災害（災害対策基本法（昭和三十三年法律第二百二十三号）第二条第一号の災害をいう。）が発生し、又は発生するおそれがある場合において、人命の救助、災害の救援その他非常の事態への対応（国際的な協力の下に対応する場合を含む。）のため緊急の必要により、衛星リモートセンシング記録を提供したときは、遅滞なく、次に掲げる事項を記載した書面を内閣総理大臣に提出するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">当該事態の内容</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">当該衛星リモートセンシング記録の提供の経緯</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該衛星リモートセンシング記録の区分</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">当該衛星リモートセンシング記録の範囲及び期間</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">提供の相手方（当該相手方から更に提供された相手方を含む。）の氏名又は名称</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の書面を提出する場合には、同項第一号及び第二号に掲げる事項を明らかにする書類その他の必要な書類を添えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（衛星リモートセンシング記録の区分）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">法第二十一条第一項の内閣府令で定める衛星リモートセンシング記録の区分は、次の表のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div class="_shokanBoxParent">
+<table class="Table" style="margin-left: 1em;">
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">衛星リモートセンシング記録の区分</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">衛星リモートセンシング記録の内容</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">光学センサーにより記録されたものであって、生データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ＳＡＲセンサーにより記録されたものであって、生データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ハイパースペクトルセンサーにより記録されたものであって、生データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">四</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">熱赤外センサーにより記録されたものであって、生データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">五</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">光学センサーにより記録されたものであって、標準データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">六</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ＳＡＲセンサーにより記録されたものであって、標準データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">七</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ハイパースペクトルセンサーにより記録されたものであって、標準データであるもの</span></div></td>
+</tr>
+<tr class="TableRow">
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">八</span></div></td>
+<td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">熱赤外センサーにより記録されたものであって、標準データであるもの</span></div></td>
+</tr>
+</table>
+<div class="_shokanBox"></div>
+<div class="_inyoBox"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（認定の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条</span>　<span data-xpath="">法第二十一条第一項の認定を受けようとする者は、様式第十三による申請書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の申請書には、次に掲げる書類を添えなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">申請者に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">申請者が個人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第二十一条第三項第一号イからニまでのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（３）</span>　<span data-xpath="">使用人（第二十四条に規定する使用人をいう。以下この条において同じ。）に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ａ</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ｂ</span>　<span data-xpath="">当該使用人が法第二十一条第三項第一号イからニまでのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">申請者が法人である場合は、次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（１）</span>　<span data-xpath="">定款及び登記事項証明書又はこれらに準ずるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（２）</span>　<span data-xpath="">法第二十一条第三項第一号イからハまでのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+<span style="font-weight: bold;">（３）</span>　<span data-xpath="">法第二十一条第三項第一号ホの役員（第三項第一号において単に「役員」という。）及び使用人に係る次に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ａ</span>　<span data-xpath="">住民票の写し又はこれに代わる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 5em; text-indent: -1em;" class="_div_Subitem3Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ｂ</span>　<span data-xpath="">法第二十一条第三項第一号イからニまでのいずれにも該当しない者であることを誓約する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">申請者以外の者が受信設備の管理を行う場合には、当該管理を行う者に係る第八条の許可証の写し又は法第二十一条第四項の認定証の写し</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">その他内閣総理大臣が必要と認める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第二十一条第二項第六号の内閣府令で定める事項は、次に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">衛星リモートセンシング記録の取扱いに係る業務を行う役員又は使用人の氏名及び住所</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">主要出資者の氏名又は名称、出資比率及び国籍</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">受信設備、衛星リモートセンシング記録を取り扱う施設設備及び遠隔取扱い装置の関係を示す系統図及びこれらの配置図</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第二十一条第三項第一号ニの内閣府令で定めるもの）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十三条の二</span>　<span data-xpath="">法第二十一条第三項第一号ニの内閣府令で定めるものは、精神の機能の障害により衛星リモートセンシング記録の取扱いを適正に行うに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（使用人）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十四条</span>　<span data-xpath="">法第二十一条第三項第一号ホ及びヘの内閣府令で定める使用人は、申請者の使用人であって、当該申請者の衛星リモートセンシング記録の取扱いに係る業務に関する権限及び責任を有する者とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（法第二十一条第三項第二号の内閣府令で定める基準）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十五条</span>　<span data-xpath="">法第二十一条第三項第二号の内閣府令で定める基準は、次のとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">衛星リモートセンシング記録の利用の目的が国際社会の平和の確保等に支障を及ぼすおそれがないと認められること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">衛星リモートセンシング記録の利用の目的に応じて必要となる衛星リモートセンシング記録の分析又は加工の能力を有していると認められること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第七条に定める措置が講じられていること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">衛星リモートセンシング記録を取り扱う場所が次に掲げる国又は地域に所在しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">輸出令別表第三の二又は別表第四に掲げる地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">国際連合の総会又は安全保障理事会の決議において国際社会の平和及び安全を脅かす事態の発生に責任を有するとされた国又は地域</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">受信設備が前号に掲げる国又は地域に所在しないこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">前各号に掲げるもののほか、衛星リモートセンシング記録を取り扱うことについて、国際社会の平和の確保等に支障を及ぼすおそれがないと認められること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（認定証の交付）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十六条</span>　<span data-xpath="">内閣総理大臣は、法第二十一条第一項の認定をしたときは、申請者に対し、その旨を通知するとともに、様式第十四による認定証を交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前項の認定証の有効期間は、認定を受けた日から起算して五年とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第二十一条第一項の認定を受けた者は、第一項の規定により交付を受けた認定証を内閣総理大臣に返納することができる。</span><span data-xpath="">この場合において、当該認定は、その効力を失う。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（認定の更新の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十七条</span>　<span data-xpath="">前条第一項の認定の更新の申請をしようとする者は、有効期間満了の日の三十日前までに、様式第十五による申請書に第二十三条第二項各号に掲げる書類及び法第二十一条第四項の認定証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">前三条の規定は、前項の認定の更新に準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（認定証の再交付の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十八条</span>　<span data-xpath="">法第二十一条第五項の規定により認定証の再交付を受けようとする者は、様式第十六による申請書を内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（変更の認定の申請等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二十九条</span>　<span data-xpath="">法第二十一条第一項の認定を受けた者は、同条第二項第三号から第六号までに掲げる事項を変更しようとするときは、様式第十七による申請書に、第二十三条第二項に掲げる書類のうち当該変更事項に係る書類及び法第二十一条第四項の認定証を添えて、内閣総理大臣による変更の認定を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">内閣総理大臣は、法第二十二条第一項の認定をしたときは、申請者に対し、その旨を通知するとともに、認定証を書き換えて交付するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第二十二条第一項ただし書の内閣府令で定める軽微な変更は、次の各号のいずれかに該当する場合とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">法第二十一条第二項第四号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">法第二十一条第二項第五号に掲げる事項の変更であって、次に掲げるもの以外のもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">イ</span>　<span data-xpath="">受信設備の場所の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+<span style="font-weight: bold;">ロ</span>　<span data-xpath="">受信設備の追加</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">第二十三条第三項第一号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">第二十三条第三項第二号に掲げる主要出資者の異動（主要出資者であった者が主要出資者でなくなること又は主要出資者でなかった者が主要出資者になることをいう。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">第二十三条第三項第三号に掲げる事項の変更</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">六</span>　<span data-xpath="">前号に掲げるもののほか、法第二十一条第二項第三号から第六号までに掲げる事項の実質的な変更を伴わないもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">４</span>　<span data-xpath="">法第二十一条第一項の認定を受けた者は、法第二十二条第二項の規定により届出をしようとするときは、様式第十八による届出書に、変更事項に係る書類及び法第二十一条第四項の認定証の写しを添えて、内閣総理大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（帳簿の記載事項等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十条</span>　<span data-xpath="">法第二十三条第一項の内閣府令で定める事項は、次に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">一</span>　<span data-xpath="">衛星リモートセンシング記録の提供を受け、又は提供を行う場合における衛星リモートセンシング記録の識別符号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">二</span>　<span data-xpath="">衛星リモートセンシング記録の区分</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">三</span>　<span data-xpath="">当該提供を受け、又は当該提供を行った日時</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">四</span>　<span data-xpath="">当該提供を受け、又は当該提供を行った相手方の氏名又は名称及びその者が法第二十一条第四項の認定証の交付を受けている者である場合は、その番号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+<span style="font-weight: bold;">五</span>　<span data-xpath="">衛星リモートセンシング記録の加工、複写又は消去の状況</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十一条第一項の認定を受けた者は、法第二十三条第一項の帳簿に係る電磁的記録の作成を行う場合は、作成された電磁的記録を当該法第二十一条第一項の認定を受けた者の使用に係る電子計算機に備えられたファイルに記録する方法又は磁気ディスク等をもって調製する方法により行わなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">法第二十一条第一項の認定を受けた者は、衛星リモートセンシング記録の提供を受け、若しくは提供を行い、又は衛星リモートセンシング記録の加工、複写若しくは消去を行うごとに、遅滞なく、第一項各号に掲げる事項を帳簿に記載し、その記載の日から五年間保存しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（認定の取消し等を行う場合の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十一条</span>　<span data-xpath="">内閣総理大臣は、法第二十五条第一項の規定に基づき、法第二十一条第一項の認定を受けた者の認定を取り消し、又は一年以内の期間を定めてその認定の効力を停止したときは、その旨を書面により当該認定を受けた者に通知するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（立入検査をする者の身分証明書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十二条</span>　<span data-xpath="">法第二十七条第二項の職員の身分を示す証明書は、様式第十九によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（書面の用語等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第三十三条</span>　<span data-xpath="">この府令に規定する申請書、届出書及び第二十一条第一項の書面は、日本語で作成しなければならない。</span><span data-xpath="">ただし、住所、氏名又は名称及び連絡先については、外国語で記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">２</span>　<span data-xpath="">この府令に規定する申請書、届出書及び第二十一条第一項の書面に添える書類は、日本語又は英語で記載されたものに限る。</span><span data-xpath="">ただし、英語で記載されたものであるときは、その日本語による翻訳文を提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span style="font-weight: bold;">３</span>　<span data-xpath="">特別の事情により、前項の書類が同項に定める言語で提出することができない場合には、同項の規定にかかわらず、その日本語による翻訳文を添えて提出することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第一条</span>　<span data-xpath="">この府令は、法の施行の日から施行する。</span><span data-xpath="">ただし、次条の規定は、法附則第一条第二号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+<span data-xpath="">（準備行為）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+<span style="font-weight: bold;">第二条</span>　<span data-xpath="">法附則第二条に規定する許可又は認定を受けようとする者は、この府令の施行前においても、第四条、第二十三条及び第三十三条の規定の例により、その申請を行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和元年六月二七日内閣府令第一五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和元年九月一三日内閣府令第二八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行の日（令和元年九月十四日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和二年一二月二八日内閣府令第八四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和四年二月二二日内閣府令第八号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+<span data-xpath="">附　則</span>　（令和七年五月三〇日内閣府令第五〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div></section></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第一（第四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078432.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第一の二（第四条関係、第九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078433.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第二（第八条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078434.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第三（第九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078435.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第四（第九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078436.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第五（第十二条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000060337.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第六（第十四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041393.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第七（第十四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041394.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第八（第十四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041395.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第九（第十四条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041396.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十（第十五条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041397.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十一（第十六条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000060338.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十二（第十八条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041399.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十三（第二十三条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078437.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十四（第二十六条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078438.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十五（第二十七条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078439.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十六（第二十八条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041403.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十七（第二十九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078440.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十八（第二十九条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000078441.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">様式第十九（第三十二条関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+<div class="_inyoBox" id="_inyo_"></div>
+</div>
+<div>
+          <a href="/./pict/2FH00000041406.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+        </div></section>
+
+
+
+
+
+</div>
+</main>
+
+</body>
+</html>

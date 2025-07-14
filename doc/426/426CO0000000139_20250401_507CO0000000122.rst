@@ -1,0 +1,626 @@
+.. _426CO0000000139_20250401_507CO0000000122:
+
+:orphan:
+
+==================
+地方法人税法施行令
+==================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十六年政令第百三十九号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">地方法人税法施行令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">内閣は、地方法人税法（平成二十六年法律第十一号）第三条第三項において準用する法人税法（昭和四十年法律第三十四号）第四条の七第十一号並びに地方法人税法第十二条第一項から第三項まで、第十五条第一項第一号から第三号まで、第二十二条第二項及び第六項、第二十八条第三項、第四項第二号イ（２）及び第七項、第二十九条第一項及び第四項第三号並びに第三十二条の規定に基づき、この政令を制定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令において「内国法人」、「外国法人」、「通算子法人」、「通算法人」、「通算完全支配関係」、「恒久的施設」、「地方法人税中間申告書」、「地方法人税確定申告書」、「修正申告書」、「中間納付額」、「更正」、「附帯税」、「充当」、「還付加算金」又は「課税事業年度」とは、それぞれ地方法人税法（以下「法」という。）第二条第一号、第二号、第七号から第九号まで、第十一号、第十四号、第十五号若しくは第十七号から第二十二号まで又は第七条第一項に規定する内国法人、外国法人、通算子法人、通算法人、通算完全支配関係、恒久的施設、地方法人税中間申告書、地方法人税確定申告書、修正申告書、中間納付額、更正、附帯税、充当、還付加算金又は課税事業年度をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法人課税信託の受託者等に関する通則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">法人税法施行令（昭和四十年政令第九十七号）第十四条の六第一項から第五項まで及び第七項から第十一項までの規定は、法第三条第二項の規定を適用する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">受託法人（法第三条第三項において準用する法人税法第四条の三に規定する受託法人をいう。）に対する法及びこの政令の規定の適用については、法第十九条の三第二項及び第二十四条の五第二項中「次に」とあるのは、「第三条第三項において準用する法人税法第四条の三に規定する受託法人以外の法人のうち次に」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（外国税額の控除限度額の計算）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">法第十二条第一項に規定する政令で定めるところにより計算した金額は、同項の内国法人の当該課税事業年度の法第九条に規定する課税標準法人税額につき法第十条の規定を適用して計算した地方法人税の額（当該課税事業年度の基準法人税額（法第六条第一項に規定する基準法人税額をいう。以下この項及び第五項において同じ。）のうちに租税特別措置法（昭和三十二年法律第二十六号）第四十二条の十四第一項（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号）第十七条の四の二第一項の規定により読み替えて適用する場合を含む。）若しくは第四項又は第三章第五節若しくは第五節の二の規定（以下この項において「税額加算規定」という。）により加算された金額がある場合には、当該基準法人税額から当該加算された金額を控除した金額を当該課税事業年度の基準法人税額とみなして法第九条及び第十条の規定を適用して計算した金額）から、法人税法第六十七条の規定及び税額加算規定の適用がないものとして同法第六十九条の二、法第十二条の二並びに租税特別措置法第六十六条の七第四項及び第十項並びに第六十六条の九の三第三項及び第九項の規定を適用した場合に法第十二条の二並びに租税特別措置法第六十六条の七第十項及び第六十六条の九の三第九項の規定により控除をされるべき金額の合計額を控除した金額に、当該課税事業年度に係る法人税法施行令第百四十二条第二項から第五項までの規定を適用して計算した同条第一項に規定する割合を乗じて計算した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十二条第二項に規定する政令で定める金額は、同項の恒久的施設を有する外国法人の当該課税事業年度の法第六条第一項第二号イ（１）に掲げる国内源泉所得に係る所得の金額につき法人税法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条から第百四十四条の二の三まで並びに租税特別措置法第四十二条の十二の六第六項及び第七項の規定を除く。）により計算した法人税の額（附帯税の額を除く。）を法第九条に規定する課税標準法人税額として法第十条の規定を適用して計算した地方法人税の額（当該課税事業年度の当該法人税の額のうちに租税特別措置法第三章第五節又は第五節の二の規定（以下この項において「税額加算規定」という。）により加算された金額がある場合には、当該法人税の額から当該加算された金額を控除した金額を当該課税事業年度の法人税の額とみなして法第九条及び第十条の規定を適用して計算した金額）から、税額加算規定の適用がないものとして法人税法第百四十四条の二の二及び法第十二条の二の規定を適用した場合に同条の規定により控除をされるべき金額を控除した金額（次項において「地方法人税額」という。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十二条第二項に規定する政令で定めるところにより計算した金額は、地方法人税額に、当該課税事業年度に係る法人税法施行令第百九十四条第二項から第四項までの規定を適用して計算した同条第一項に規定する割合を乗じて計算した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">法第十二条第四項に規定する政令で定めるところにより計算した金額は、同項の通算法人の通算課税事業年度（同項に規定する通算課税事業年度をいう。以下この条において同じ。）の調整前控除限度額から当該通算課税事業年度の控除限度調整額を控除した金額（当該調整前控除限度額が零を下回る場合には、零）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">前項に規定する調整前控除限度額とは、次に掲げる金額の合計額に当該通算課税事業年度に係る法人税法施行令第百四十八条第三項から第八項までの規定を適用して計算した同条第二項に規定する割合を乗じて計算した金額（次項において「調整前控除限度額」という。）をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">前項の通算法人の当該通算課税事業年度の法第九条に規定する課税標準法人税額につき法第十条の規定を適用して計算した地方法人税の額（当該通算課税事業年度の基準法人税額のうちに租税特別措置法第四十二条の四第八項第六号ロ若しくは第七号（これらの規定を同条第十八項において準用する場合を含む。）、第四十二条の十四第一項（東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第十七条の四の二第一項の規定により読み替えて適用する場合を含む。）若しくは第四項又は第三章第五節若しくは第五節の二の規定（以下この項において「税額加算規定」という。）により加算された金額がある場合には、当該基準法人税額から当該加算された金額を控除した金額を当該通算課税事業年度の基準法人税額とみなして法第九条及び第十条の規定を適用して計算した金額）から、法人税法第六十七条の規定及び税額加算規定の適用がないものとして同法第六十九条の二、法第十二条の二並びに租税特別措置法第六十六条の七第四項及び第十項並びに第六十六条の九の三第三項及び第九項の規定を適用した場合に法第十二条の二並びに租税特別措置法第六十六条の七第十項及び第六十六条の九の三第九項の規定により控除をされるべき金額の合計額を控除した金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前項の通算法人の当該通算課税事業年度終了の日において当該通算法人との間に通算完全支配関係がある他の通算法人（次項及び第七項において「他の通算法人」という。）の当該終了の日に終了する課税事業年度（以下この号及び次項において「他の課税事業年度」という。）の法第九条に規定する課税標準法人税額につき法第十条の規定を適用して計算した地方法人税の額（当該他の課税事業年度の基準法人税額のうちに税額加算規定により加算された金額がある場合には、当該基準法人税額から当該加算された金額を控除した金額を当該他の課税事業年度の基準法人税額とみなして法第九条及び第十条の規定を適用して計算した金額）から、法人税法第六十七条の規定及び税額加算規定の適用がないものとして同法第六十九条の二、法第十二条の二並びに租税特別措置法第六十六条の七第四項及び第十項並びに第六十六条の九の三第三項及び第九項の規定を適用した場合に法第十二条の二並びに租税特別措置法第六十六条の七第十項及び第六十六条の九の三第九項の規定により控除をされるべき金額の合計額を控除した金額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第四項に規定する控除限度調整額とは、第一号に掲げる金額に第二号に掲げる金額のうちに同号イに掲げる金額の占める割合を乗じて計算した金額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">他の通算法人の他の課税事業年度の調整前控除限度額が零を下回る場合のその下回る額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">次に掲げる金額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">第四項の通算法人の当該通算課税事業年度の調整前控除限度額（零を超えるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">他の通算法人の他の課税事業年度の調整前控除限度額（零を超えるものに限る。）の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">通算法人（通算法人であった内国法人を含む。）は、当該通算法人の通算課税事業年度後において、当該通算課税事業年度の法第十九条第一項の規定による申告書に添付された書類に地方法人税額（第五項第一号に掲げる金額をいう。以下この項において同じ。）として記載された金額と当該通算課税事業年度の地方法人税額とが異なることとなった場合には、他の通算法人に対し、その異なることとなった地方法人税額を通知しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（分配時調整外国税相当額の控除）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法第十二条の二第一項の規定により各課税事業年度の法第十一条に規定する所得地方法人税額から控除する金額は、当該課税事業年度における法人税法施行令第百四十九条第二項各号に定める分配時調整外国税相当額のうち当該課税事業年度の法第六条第一項第一号に定める基準法人税額（当該課税事業年度の所得に対する法人税の額の計算上租税特別措置法第四十二条の十二の六第六項若しくは第七項の規定により控除された金額又は同法第四十二条の十四第一項若しくは第四項（同法第四十二条の十二の六第六項及び第七項に係る部分に限る。）の規定により加算された金額がある場合には、当該基準法人税額から当該控除された金額を控除した金額に当該加算された金額を加算した金額）を超える金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十二条の二第二項の規定により各課税事業年度の法第六条第一項第二号に定める基準法人税額に対する地方法人税の額から控除する金額は、当該課税事業年度における法人税法施行令第二百一条の二第二項各号に定める分配時調整外国税相当額のうち法第十二条の二第二項に規定する法人税の額を超える金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第十二条の二第二項に規定する政令で定める金額は、同項の恒久的施設を有する外国法人の当該課税事業年度の法第六条第一項第二号イ（１）に掲げる国内源泉所得に係る所得の金額につき法人税法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条から第百四十四条の二の三まで並びに租税特別措置法第四十二条の十二の六第六項及び第七項の規定を除く。）により計算した法人税の額（附帯税の額を除く。）を法第九条に規定する課税標準法人税額として法第十条の規定を適用して計算した地方法人税の額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（仮決算をした場合の中間申告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">法第十七条第一項第一号に規定する期間（通算子法人にあっては、同条第四項第一号に規定する期間）に係る同条第一項第二号に掲げる地方法人税の額の計算については、第三条第七項中「法第十九条第一項の規定による申告書」とあるのは、「地方法人税中間申告書」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（通算法人の災害等による申告書の提出期限の延長）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">国税通則法（昭和三十七年法律第六十六号）第十一条の規定により通算法人の法第十六条第一項の規定による申告書の提出期限が延長された場合には、他の通算法人についても、その延長された申告書に係る国税通則法施行令（昭和三十七年政令第百三十五号）第三条第一項から第三項までの規定により指定された期日まで、国税通則法第十一条の規定により法第十六条第一項の規定による申告書（その延長された申告書に係る同項に規定する六月経過日の前日に終了する当該他の通算法人の同項第一号に規定する中間期間に係るものに限る。以下この項において同じ。）の提出期限が延長されたものとみなす。</span><span data-xpath="">ただし、当該指定された期日が当該他の通算法人の同条第一項の規定による申告書の提出期限前の日である場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">国税通則法第十一条の規定により通算法人の法第十九条第一項の規定による申告書の提出期限が延長された場合には、他の通算法人についても、その延長された申告書に係る国税通則法施行令第三条第一項から第三項までの規定により指定された期日まで、国税通則法第十一条の規定により法第十九条第一項の規定による申告書（その延長された申告書に係る課税事業年度終了の日に終了する当該他の通算法人の課税事業年度に係るものに限る。以下この項において同じ。）の提出期限が延長されたものとみなす。</span><span data-xpath="">ただし、当該指定された期日が当該他の通算法人の同条第一項の規定による申告書の提出期限前の日である場合は、この限りでない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織による申告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法第十九条の三第二項第一号に規定する政令で定める金額は、銀行等保有株式取得機構がその会員から銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第四十一条第一項及び第三項の規定により納付された同条第一項の当初拠出金の額及び同条第三項の売却時拠出金の額の合計額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第十九条の三第三項に規定する政令で定める法令は、法人税法、租税特別措置法その他の地方法人税の申告に関する法令（法（これに基づく命令を含む。）及び国税通則法を除く。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（外国税額の還付の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">税務署長は、法第十九条第一項第三号に掲げる金額の記載がある地方法人税確定申告書の提出があった場合には、当該金額が過大であると認められる事由がある場合を除き、遅滞なく、法第二十二条第一項の規定による還付又は充当の手続をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（還付すべき外国税額の充当の順序）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法第二十二条第一項の規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合には、次の各号の順序により充当するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第二十二条第一項の地方法人税確定申告書に係る課税事業年度の法第六条第一項第一号に定める基準法人税額に対する地方法人税で修正申告書の提出又は更正により納付すべきもの（当該還付金が法第十九条第一項第三号に掲げる金額に係るものである場合には、中間納付額を除く。）があるときは、当該地方法人税に充当する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号の充当をしてもなお還付すべき金額があるときは、その他の未納の国税及び滞納処分費に充当する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（中間納付額の還付の手続）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">税務署長は、法第十九条第一項第五号に掲げる金額の記載がある地方法人税確定申告書の提出があった場合には、当該金額が過大であると認められる事由がある場合を除き、遅滞なく、法第二十二条の二第一項又は第二項の規定による還付又は充当の手続をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（還付すべき中間納付額の充当の順序）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">法第二十二条の二第一項又は第二項の規定による還付金（これに係る還付加算金を含む。次項において同じ。）を未納の国税及び滞納処分費に充当する場合には、次の各号の順序により充当するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該還付金の計算の基礎とされた中間納付額に係る課税事業年度の法第六条第一項第一号又は第二号に定める基準法人税額に対する地方法人税で修正申告書の提出又は更正により納付すべきもの（中間納付額を除く。）があるときは、当該地方法人税に充当する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号の充当をしてもなお還付すべき金額がある場合において、同号に規定する中間納付額で未納のものがあるときは、当該未納の中間納付額に充当する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前二号の充当をしてもなお還付すべき金額があるときは、その他の未納の国税及び滞納処分費に充当する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">その課税事業年度の法第六条第一項第一号に定める基準法人税額に対する地方法人税に係る法第二十二条第一項の規定による還付金（これに係る還付加算金を含む。以下この項において同じ。）と法第二十二条の二第一項又は第二項の規定による還付金とがある場合において、これらの還付金をその課税事業年度の同号に定める基準法人税額に対する地方法人税で未納のものに充当するときは、次の各号に掲げる場合の区分に応じ当該各号に定める還付金からまず充当するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第九条第一号に規定する地方法人税に充当する場合</span>　<span data-xpath="">法第二十二条第一項の規定による還付金</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">中間納付額に充当する場合</span>　<span data-xpath="">法第二十二条の二第一項又は第二項の規定による還付金</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（中間納付額に係る延滞税の還付金額及び還付加算金の額の計算）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">法第二十二条の二第二項に規定する政令で定めるところにより計算した金額は、第一号に掲げる金額から第二号に掲げる金額を控除した残額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第二十二条の二第一項に規定する地方法人税中間申告書に係る中間納付額について納付された延滞税の額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該中間納付額（法第二十二条の二第一項の規定による還付金をもって充当をされる部分の金額を除く。）のうち次に定める順序により当該中間納付額に係る課税事業年度の地方法人税確定申告書に記載された法第十九条第一項第二号に掲げる金額（前条第一項第一号の充当をされる地方法人税がある場合には、当該地方法人税の額を加算した金額）に達するまで順次求めた各中間納付額につき国税に関する法律の規定により計算される延滞税の額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">当該中間納付額のうち確定の日を異にするものについては、その確定の日の早いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の早いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十二条の二第一項の規定による還付金について還付加算金の額を計算する場合には、同項に規定する地方法人税中間申告書に係る中間納付額（当該還付金をもって充当をされる部分の金額を除く。）のうち次に定める順序により当該還付金の額（当該還付金をもって前条第一項第一号又は第二号の充当をする場合には、当該充当をする還付金の額を控除した金額）に達するまで順次遡って求めた各中間納付額を法第二十二条の二第三項に規定する還付をすべき中間納付額として、同項の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該中間納付額のうち確定の日を異にするものについては、その確定の日の遅いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の遅いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（欠損金の繰戻しによる法人税の還付があった場合の還付の通知）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">税務署長は、法第二十三条第一項の内国法人又は外国法人に対して法人税法第八十条第十項（同法第百四十四条の十三第十三項において準用する場合を含む。）の規定により同法第八十条第一項に規定する還付所得事業年度、同法第百四十四条の十三第一項第一号に規定する還付所得事業年度、同項第二号に規定する還付所得事業年度又は同条第二項に規定する還付所得事業年度に該当する課税事業年度に係る法人税を還付する場合には、当該内国法人又は外国法人に対し、当該課税事業年度の法第二十三条第一項に規定する確定地方法人税額のうち同項の規定により還付すべきこととなる金額を通知する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織による申告）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条の二</span>　<span data-xpath="">法第二十四条の五第二項第一号に規定する政令で定める金額は、銀行等保有株式取得機構がその会員から銀行等の株式等の保有の制限等に関する法律第四十一条第一項及び第三項の規定により納付された同条第一項の当初拠出金の額及び同条第三項の売却時拠出金の額の合計額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十四条の五第三項に規定する政令で定める法令は、法人税法その他の地方法人税の申告に関する法令（法（これに基づく命令を含む。）及び国税通則法を除く。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（更正等により還付すべき外国税額の充当の順序）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">第九条の規定は、法第二十七条の二第一項の規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（更正等又は決定による中間納付額に係る延滞税の還付金額及び還付加算金の額の計算等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">法第二十八条第三項に規定する政令で定めるところにより計算した金額は、第一号に掲げる金額から第二号に掲げる金額を控除した残額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第二十八条第一項又は第二項に規定する地方法人税中間申告書に係る中間納付額について納付された延滞税の額の合計額（当該延滞税のうちに既に法第二十二条の二第二項又は第二十八条第三項の規定により還付されるべきこととなったものがある場合には、その還付されるべきこととなった延滞税の額を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該中間納付額（法第二十二条の二第一項又は第二十八条第一項若しくは第二項の規定による還付金をもって充当をされる部分の金額を除く。）のうち次に定める順序により当該還付の基因となる決定（国税通則法第二十五条の規定による決定をいう。）又は更正等（同項に規定する更正等をいう。）に係る法第十九条第一項第二号に掲げる金額（第四項において準用する第十一条第一項第一号の充当をされる地方法人税がある場合には、当該地方法人税の額を加算した金額）に達するまで順次求めた各中間納付額につき国税に関する法律の規定により計算される延滞税の額の合計額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">当該中間納付額のうち確定の日を異にするものについては、その確定の日の早いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の早いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十八条第四項第二号イ（２）に規定する政令で定める理由は、国税通則法第五十八条第五項に規定する政令で定める理由とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">法第二十八条第一項又は第二項の規定による還付金について還付加算金の額を計算する場合には、これらの規定に規定する地方法人税中間申告書に係る中間納付額（既に法第二十二条の二第三項の還付加算金の額の計算の基礎とされた部分の金額があり、又は法第二十八条第一項若しくは第二項の規定による還付金をもって充当をされる部分の金額がある場合には、これらの金額を除く。以下この項において同じ。）のうち次に定める順序により当該還付金の額（当該還付金をもって次項において準用する第十一条第一項第一号又は第二号の充当をする場合には、当該充当をする還付金の額を控除した金額）に達するまで順次遡って求めた各中間納付額を法第二十八条第四項に規定する還付すべき中間納付額として、同項の規定を適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">当該中間納付額のうち確定の日を異にするものについては、その確定の日の遅いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">確定の日を同じくする中間納付額のうち納付の日を異にするものについては、その納付の日の遅いものを先順位とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第十一条の規定は、法第二十八条第一項から第三項までの規定による還付金（これに係る還付加算金を含む。）を未納の国税及び滞納処分費に充当する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（仮装経理に基づく過大申告の場合の更正に伴う還付特例対象地方法人税額等の範囲）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">法第二十九条第一項に規定する政令で定める金額は、当該課税事業年度の法第六条第一項第一号に定める基準法人税額に対する地方法人税の額のうち内国法人が提出した地方法人税確定申告書に記載された法第十九条第一項第二号に掲げる金額として納付されたものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法第二十九条第四項第三号に規定する政令で定める事実は、次に掲げる事実とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">特別清算開始の決定があったこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">法人税法施行令第二十四条の二第一項に規定する事実</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">法令の規定による整理手続によらない負債の整理に関する計画の決定又は契約の締結で、第三者が関与する協議によるものとして財務省令で定めるものがあったこと（前号に掲げるものを除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十六年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（旧規定の適用がある場合における地方法人税の個別帰属額の計算等の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">次の各号に掲げる規定の適用がある場合における法第十五条第一項に規定する加算調整額は、当該加算調整額に当該各号に掲げる規定に規定する加算した金額のうち同項の連結親法人又は各連結子法人に帰せられる金額の百分の十・三に相当する金額を加算した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">所得税法等の一部を改正する法律（平成十九年法律第六号。以下この条において「平成十九年改正法」という。）附則第百十三条、第百十四条第六項、第百十五条又は第百十六条の規定（以下この号において「改正法附則規定」という。）によりなお従前の例によることとされる場合における平成十九年改正法第十二条の規定による改正前の租税特別措置法第六十八条の十一第六項、第六十八条の十二第六項、第六十八条の十四第六項又は第六十八条の十五第六項の規定（以下この号において「旧連結規定」という。）及び旧連結賃借資産税額控除規定（改正法附則規定に類する規定によりなお従前の例によることとされる場合における旧連結規定に類する賃借した資産を事業の用に供しなくなった場合の法人税額に関する規定をいう。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">経済社会の構造の変化に対応した税制の構築を図るための所得税法等の一部を改正する法律（平成二十三年法律第百十四号。以下この条において「平成二十三年改正法」という。）附則第七十五条第一項の規定によりなお従前の例によることとされる場合における平成二十三年改正法第十九条の規定による改正前の租税特別措置法第六十八条の十二第七項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">次の各号に掲げる規定の適用がある場合における法第十六条第一項第一号に規定する地方法人税額は、当該地方法人税額から当該各号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">平成十九年改正法附則第八十九条、第九十条第六項、第九十一条又は第九十二条の規定（以下この号において「改正法附則規定」という。）によりなお従前の例によることとされる場合における平成十九年改正法第十二条の規定による改正前の租税特別措置法第四十二条の六第六項、第四十二条の七第六項、第四十二条の十第六項又は第四十二条の十一第六項の規定（以下この号において「旧単体規定」という。）及び旧単体賃借資産税額控除規定（改正法附則規定に類する規定によりなお従前の例によることとされる場合における旧単体規定に類する賃借した資産を事業の用に供しなくなった場合の法人税額に関する規定をいう。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">平成二十三年改正法附則第五十八条の規定によりなお従前の例によることとされる場合における平成二十三年改正法第十九条の規定による改正前の租税特別措置法第四十二条の七第七項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前項各号に掲げる規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項各号に掲げる規定の適用がある場合における法第二十三条第一項に規定する基準法人税額に対する地方法人税の額は、当該基準法人税額に対する地方法人税の額から当該各号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第二項各号に掲げる規定の適用がある場合における法第二十九条第二項に規定する所得基準法人税額に対する地方法人税の額は、当該所得基準法人税額に対する地方法人税の額から当該各号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">第二項第一号に掲げる規定の適用がある場合における第三条の規定の適用については、同条第一項中「又は」とあるのは「若しくは」と、「（以下」とあるのは「又は附則第二条第二項第一号に掲げる規定（以下」と、同条第二項中「又は第五節の二の規定」とあるのは「若しくは第五節の二の規定又は附則第二条第二項第一号に掲げる規定」と、同条第五項第一号中「又は」とあるのは「若しくは」と、「（以下」とあるのは「又は附則第二条第二項第一号に掲げる規定（以下」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年三月三一日政令第一四三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十七年四月一日から施行する。</span><span data-xpath="">ただし、第一条の改正規定、第三条第一項の改正規定（「第三項において「平成二十二年改正法」を「第五項において「平成二十二年改正法」に、「第三項において「平成二十三年改正法」を「第五項において「平成二十三年改正法」に改める部分、「第三項において「平成二十四年改正法」を「第五項において「平成二十四年改正法」に改める部分及び「第八項」を「第五項」に改める部分に限る。）、同条第三項の改正規定（「第十二条第三項」を「第十二条第四項」に改める部分及び「第六項」を「第五項」に改める部分に限る。）、同項を同条第五項とし、同条第二項の次に二項を加える改正規定、第八条の改正規定及び附則第二条の改正規定（同条第三項に係る部分を除く。）は、平成二十八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この政令の施行の日から平成二十八年三月三十一日までの間における改正後の地方法人税法施行令第三条第一項の規定の適用については、同項中「及び第五項」とあるのは、「及び第三項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年三月三一日政令第一四七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、平成二十八年四月一日から施行する。</span><span data-xpath="">ただし、附則第二条第一項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に限る。）、同条第二項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に限る。）、同条第三項及び第四項の改正規定、同条第五項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に限る。）、同条第六項の改正規定並びに同条第七項の改正規定（「百分の四・四」を「百分の十・三」に改める部分に限る。）並びに次条及び附則第三条の規定は、令和元年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（旧規定の適用がある場合における地方法人税の個別帰属額の計算等の特例に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">改正後の地方法人税法施行令（以下「新令」という。）附則第二条第一項の規定は、連結親法人又はその各連結子法人の令和元年十月一日以後に開始する課税事業年度又は当該課税事業年度終了の日の属する連結事業年度（法人税法（昭和四十年法律第三十四号）第十五条の二に規定する連結事業年度をいう。以下この項において同じ。）の所得税法等の一部を改正する法律（平成二十八年法律第十五号。以下「改正法」という。）第三条の規定による改正後の地方法人税法（以下「新法」という。）第十五条第一項に規定する加算調整額について適用し、連結親法人又はその各連結子法人の同月一日前に開始した課税事業年度又は当該課税事業年度終了の日の属する連結事業年度の改正法第三条の規定による改正前の地方法人税法（以下この条において「旧法」という。）第十五条第一項に規定する加算調整額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">新令附則第二条第二項の規定は、法人の令和元年十月一日以後に開始する新法第十六条第一項第一号に規定する前課税事業年度の同号に規定する地方法人税額について適用し、法人の同日前に開始した旧法第十六条第一項第一号に規定する前課税事業年度の同号に規定する地方法人税額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">新令附則第二条第三項の規定は、法人（法人税法第二条第八号に規定する人格のない社団等を含む。以下この条において同じ。）の令和元年十月一日以後に開始する新法第二十三条第一項本文に規定する課税事業年度の同項に規定する基準法人税額に対する地方法人税の額について適用し、法人の同日前に開始した旧法第二十三条第一項本文に規定する課税事業年度の同項に規定する基準法人税額に対する地方法人税の額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">新令附則第二条第四項の規定は、法人の令和元年十月一日以後に開始する新法第二十九条第二項の各課税事業年度の同項に規定する所得基準法人税額に対する地方法人税の額について適用し、法人の同日前に開始した旧法第二十九条第二項の各課税事業年度の同項に規定する所得基準法人税額に対する地方法人税の額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">新令附則第二条第五項の規定は、内国法人の令和元年十月一日以後に開始する課税事業年度の新令第三条第一項に規定する地方法人税の額について適用し、内国法人の同日前に開始した課税事業年度の改正前の地方法人税法施行令（以下この条において「旧令」という。）第三条第一項に規定する地方法人税の額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">新令附則第二条第六項の規定は、外国法人の令和元年十月一日以後に開始する課税事業年度の新令第三条第三項に規定する地方法人税の額について適用し、外国法人の同日前に開始した課税事業年度の旧令第三条第三項に規定する地方法人税の額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">新令附則第二条第七項の規定は、連結親法人の令和元年十月一日以後に開始する課税事業年度の新令第三条第五項に規定する地方法人税の額について適用し、連結親法人の同日前に開始した課税事業年度の旧令第三条第五項に規定する地方法人税の額については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地方法人税の個別帰属額の計算等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">改正法附則第三十条第二項に規定する法人税の額への加算に関する特例を定めている規定として政令で定める規定は、次の各号に掲げる規定とし、同項に規定する附則の規定として政令で定める規定は、当該各号に定める規定とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">所得税法等の一部を改正する法律（平成二十七年法律第九号。以下「平成二十七年改正法」という。）附則第八十四条第四項の規定によりなお従前の例によることとされる場合における平成二十七年改正法第八条の規定による改正前の租税特別措置法（昭和三十二年法律第二十六号）第六十八条の九第十一項の規定</span>　<span data-xpath="">平成二十七年改正法附則第八十四条第四項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">改正法附則第百十条第二項の規定によりなお従前の例によることとされる場合における改正法第十条の規定による改正前の租税特別措置法（以下「旧租税特別措置法」という。）第六十八条の十五第五項の規定</span>　<span data-xpath="">改正法附則第百十条第二項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">令和元年十月一日以後に開始する新法第十六条第一項第一号に規定する前課税事業年度において次の各号に掲げる規定の適用がある場合における同条の規定の適用については、当該前課税事業年度の同項第一号に規定する地方法人税額は、当該各号に定める規定にかかわらず、当該地方法人税額から当該各号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">平成二十七年改正法附則第七十三条第一項の規定によりなお従前の例によることとされる場合における平成二十七年改正法第八条の規定による改正前の租税特別措置法第四十二条の四第十一項の規定</span>　<span data-xpath="">平成二十七年改正法附則第七十三条第一項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">改正法附則第八十八条第二項又は第八十九条第二項の規定によりなお従前の例によることとされる場合における旧租税特別措置法第四十二条の十第五項又は第四十二条の十一第五項の規定</span>　<span data-xpath="">改正法附則第八十八条第二項又は第八十九条第二項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前項第一号に掲げる規定</span>　<span data-xpath="">同号に定める規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">改正法附則第百九条第二項又は第百十条第二項の規定によりなお従前の例によることとされる場合における旧租税特別措置法第六十八条の十四第五項又は第六十八条の十五第五項の規定</span>　<span data-xpath="">改正法附則第百九条第二項又は第百十条第二項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">令和元年十月一日以後に開始する新法第二十三条第一項本文に規定する課税事業年度において前項各号に掲げる規定の適用がある場合における同条の規定の適用については、当該課税事業年度の同条第一項に規定する基準法人税額に対する地方法人税の額は、当該各号に定める規定にかかわらず、当該基準法人税額に対する地方法人税の額から当該各号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">令和元年十月一日以後に開始する新法第二十九条第二項の各課税事業年度において第二項第一号又は第二号に掲げる規定の適用がある場合における同条の規定の適用については、当該各課税事業年度の同条第二項に規定する所得基準法人税額に対する地方法人税の額は、第二項第一号又は第二号に定める規定にかかわらず、当該所得基準法人税額に対する地方法人税の額から同項第一号又は第二号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">令和元年十月一日以後に開始する課税事業年度において第二項第一号又は第二号に掲げる規定の適用がある場合における新令第三条第一項の規定の適用については、同項に規定する地方法人税の額は、第二項第一号又は第二号に定める規定にかかわらず、当該地方法人税の額から同項第一号又は第二号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">令和元年十月一日以後に開始する課税事業年度において第二項第三号又は第四号に掲げる規定の適用がある場合における新令第三条第五項の規定の適用については、同項に規定する地方法人税の額は、第二項第三号又は第四号に定める規定にかかわらず、当該地方法人税の額から同項第三号又は第四号に掲げる規定により加算された金額の百分の十・三に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年一一月二八日政令第三五七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年三月三一日政令第一〇七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この政令は、平成二十九年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">内国法人の所得税法等の一部を改正する等の法律（平成二十九年法律第四号。以下「改正法」という。）第二条の規定による改正後の法人税法（昭和四十年法律第三十四号）第八十条第一項に規定する還付所得事業年度に該当する課税事業年度のうちに令和元年十月一日前に開始した課税事業年度に該当するものがある場合において、当該課税事業年度につき次の各号に掲げる規定の適用があるときは、改正法第三条の規定による改正後の地方法人税法第二十三条の規定の適用については、当該課税事業年度の同条第一項に規定する基準法人税額に対する地方法人税の額は、当該基準法人税額に対する地方法人税の額から当該各号に掲げる規定により加算された金額の百分の四・四に相当する金額を控除した金額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">所得税法等の一部を改正する法律（平成二十八年法律第十五号。以下「平成二十八年改正法」という。）附則第八十八条第二項の規定によりなお従前の例によることとされる場合における平成二十八年改正法第十条の規定による改正前の租税特別措置法（昭和三十二年法律第二十六号。以下「平成二十八年旧措置法」という。）第四十二条の十第五項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">平成二十八年改正法附則第八十九条第二項の規定によりなお従前の例によることとされる場合における平成二十八年旧措置法第四十二条の十一第五項の規定</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年三月三一日政令第一三三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成三十年四月一日から施行する。</span><span data-xpath="">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第一条の改正規定、第三条第一項の改正規定（「法第十条」を「法第十条及び第十二条の二」に改める部分及び「及び第十条」を「、第十条及び第十二条の二」に改める部分に限る。）、同条第三項の改正規定、同条第五項の改正規定（「法第十条」を「法第十条及び第十二条の二」に改める部分及び「及び第十条」を「、第十条及び第十二条の二」に改める部分に限る。）、同条の次に一条を加える改正規定及び第四条の改正規定</span>　<span data-xpath="">令和二年一月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第二条第二項の改正規定、第四条の次に一条を加える改正規定及び第九条第一項第二号の改正規定</span>　<span data-xpath="">令和二年四月一日</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三一年三月二九日政令第九七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、平成三十一年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年三月三一日政令第一一三号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、令和二年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年六月二六日政令第二〇七号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、令和四年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（法人税法施行令等の一部改正に伴う経過措置の原則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">別段の定めがあるものを除き、第一条の規定による改正後の法人税法施行令（以下「新法人税法施行令」という。）、第二条の規定による改正後の地方法人税法施行令、第三条の規定による改正後の租税特別措置法施行令（以下「新租税特別措置法施行令」という。）、第四条の規定による改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（以下「新震災特例法施行令」という。）、第九条の規定による改正後の国税通則法施行令及び第二十四条の規定による改正後の法人税法施行令等の一部を改正する政令の規定は、法人（人格のない社団等を含む。以下附則第二十二条までにおいて同じ。）のこの政令の施行の日（以下「施行日」という。）以後に開始する事業年度（所得税法等の一部を改正する法律（令和二年法律第八号。以下「改正法」という。）附則第十四条第一項に規定する旧事業年度（以下「旧事業年度」という。）を除く。）の所得に対する法人税及び施行日以後に開始する課税事業年度（旧事業年度を除く。）の基準法人税額に対する地方法人税について適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">別段の定めがあるものを除き、法人の施行日前に開始した事業年度（旧事業年度を含む。）の所得に対する法人税及び連結法人（改正法第三条の規定（改正法附則第一条第五号ロに掲げる改正規定に限る。附則第七条第二項において同じ。）による改正前の法人税法（昭和四十年法律第三十四号。以下「旧法人税法」という。）第二条第十二号の七の二に規定する連結法人をいう。以下附則第三十九条までにおいて同じ。）の連結親法人事業年度（旧法人税法第十五条の二第一項に規定する連結親法人事業年度をいう。）が施行日前に開始した連結事業年度（同項に規定する連結事業年度をいう。以下附則第三十八条までにおいて同じ。）の連結所得（旧法人税法第二条第十八号の四に規定する連結所得をいう。以下附則第三十八条までにおいて同じ。）に対する法人税並びに法人の施行日前に開始した課税事業年度（旧事業年度を含む。）の基準法人税額に対する地方法人税については、改正法附則第十四条第二項の規定によりなおその効力を有するものとされる旧法人税法、改正法第四条の規定（改正法附則第一条第五号ハに掲げる改正規定に限る。附則第四十四条において同じ。）による改正前の地方法人税法（平成二十六年法律第十一号。以下「旧地方法人税法」という。）、改正法第十三条の規定（改正法附則第一条第五号ヘに掲げる改正規定に限る。）による改正前の国税通則法（昭和三十七年法律第六十六号）、改正法第十六条の規定による改正前の租税特別措置法（昭和三十二年法律第二十六号。以下「旧租税特別措置法」という。）、改正法第十七条の規定（改正法附則第一条第五号ヌに掲げる改正規定に限る。）による改正前の外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）、改正法第十八条の規定（改正法附則第一条第五号ルに掲げる改正規定に限る。）による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）、改正法第二十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号。以下「旧震災特例法」という。）及び改正法第三十条の規定（改正法附則第一条第五号ネに掲げる改正規定に限る。）による改正前の所得税法等の一部を改正する法律（平成三十年法律第七号。以下「旧平成三十年改正法」という。）の規定に基づく第一条の規定による改正前の法人税法施行令（以下「旧法人税法施行令」という。）、第二条の規定による改正前の地方法人税法施行令、第三条の規定による改正前の租税特別措置法施行令（以下「旧租税特別措置法施行令」という。）、第四条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（以下「旧震災特例法施行令」という。）、第九条の規定による改正前の国税通則法施行令、第十一条の規定による改正前の外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令、第十三条の規定による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令、第十六条の規定による改正前の法人税法施行令の一部を改正する政令及び第二十四条の規定による改正前の法人税法施行令等の一部を改正する政令の規定は、なおその効力を有する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年三月三一日政令第一一九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この政令は、令和三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年三月三一日政令第一三〇号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和三年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和五年六月一六日政令第二〇九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和六年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和七年三月三一日政令第一二二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この政令は、令和七年四月一日から施行する。</span><span data-xpath="">ただし、第十三条の二第二項の改正規定は、令和八年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

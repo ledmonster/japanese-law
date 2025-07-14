@@ -1,0 +1,696 @@
+.. _428M60000008031_20240307_506M60000008014:
+
+:orphan:
+
+================================
+第二種指定電気通信設備接続料規則
+================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十八年総務省令第三十一号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">第二種指定電気通信設備接続料規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">電気通信事業法（昭和五十九年法律第八十六号）の規定に基づき、及び同法を施行するため、第二種指定電気通信設備接続料規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="TOC" class="active TOC"><div class="_div_TOCLabel _shokanBoxParent">
+    <span data-xpath="">目次</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［1］／ChapterTitle［1］">第一章　総則<span data-xpath="">（第一条―第三条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［2］／ChapterTitle［1］">第二章　法定機能の内容等<span data-xpath="">（第四条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［3］／ChapterTitle［1］">第三章　原価及び利潤の算定<span data-xpath="">（第五条―第十条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［4］／ChapterTitle［1］">第四章　接続料設定<span data-xpath="">（第十一条―第十五条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［5］／ChapterTitle［1］">第五章　複数事業者による接続料設定<span data-xpath="">（第十六条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCChapter _shokanBoxParent" style="margin-left: 1em;">
+    <div class="TOCChapterTitle xpathTarget xpath：／Law［1］／LawBody［1］／TOC［1］／TOCChapter［6］／ChapterTitle［1］">第六章　接続料の計算等<span data-xpath="">（第十七条）</span>
+    </div>
+    <div class="_shokanBox"><div class="_inyoBox"></div></div>
+    </div>
+    <div class="_div_TOCSupplProvision _shokanBoxParent" style="margin-left: 1em;">
+    <span data-xpath="">附則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第一章　総則</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（目的）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、第二種指定電気通信設備との接続に関し当該第二種指定電気通信設備を設置する電気通信事業者（以下「事業者」という。）が取得すべき金額（以下「接続料」という。）に関して、電気通信事業法（以下「法」という。）第三十四条第三項第一号ロの総務省令で定める機能（以下「法定機能」という。）、法定機能ごとの適正な原価及び適正な利潤の算定方法並びに精算に関する事項を定め、もって法定機能ごとの接続料が、適正かつ明確に定められ、能率的な経営の下における適正な原価に適正な利潤を加えたものであることを確保することを目的とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（用語）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この省令において使用する用語は、法、電気通信事業法施行規則（昭和六十年郵政省令第二十五号）、電気通信事業会計規則（昭和六十年郵政省令第二十六号）及び第二種指定電気通信設備接続会計規則（平成二十三年総務省令第二十四号。以下「接続会計規則」という。）において使用する用語の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第二種指定中継交換機</span>　<span data-xpath="">主として音声伝送役務の提供に用いられる第二種指定中継系交換設備をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第二種指定設備管理運営費</span>　<span data-xpath="">第二種指定電気通信設備の管理運営に必要な費用の総額をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">実績原価方式</span>　<span data-xpath="">法第三十四条第六項の規定により整理された会計（以下「二種接続会計」という。）及び通信量等の実績値を基礎として算定された原価、利潤及び需要に基づき接続料を算定する方式をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">将来原価方式</span>　<span data-xpath="">二種接続会計及び通信量等の実績値を基礎として算定された原価、利潤及び需要の、接続料が適用される事業年度に係る予測値に基づき当該接続料を算定する方式をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（遵守義務）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">事業者は、法定機能ごとの接続料に関してこの省令の定めるところによらなければならない。</span><span data-xpath="">ただし、特別の理由がある場合には、総務大臣の承認を受けて、この省令の規定によらないことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第二章　法定機能の内容等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">法定機能は、次の表の上欄に掲げる場合の区分に応じ、それぞれ同表の中欄及び下欄に掲げるとおりとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">機能の区分</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">内容</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　次項に掲げる場合以外の場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">イ　音声伝送交換機能</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二種指定中継交換機により音声その他の音響の伝送交換を行う機能</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ロ　データ伝送交換機能</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二種指定電気通信設備にその電気通信設備を接続する他の電気通信事業者（以下「他事業者」という。）が設置する当該電気通信設備と第二種指定電気通信設備をＧＰＲＳトンネリングプロトコルが用いられる通信方式を用いて接続した上で、当該他事業者が設置する電気通信設備と特定移動端末設備との間で専ら符号又は影像の伝送交換を行う機能（無線設備規則（昭和二十五年電波監理委員会規則第十八号）第四十九条の六の四又は第四十九条の六の五で定める条件に適合する無線設備であって、拡散符号速度が一の搬送波当たり毎秒一・二二八八メガチップのものを使用した符号又は影像の伝送交換を行うものを除く。）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ハ　番号ポータビリティ転送機能</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">番号ポータビリティにより、電気通信役務の提供を受ける電気通信事業者を変更した利用者に係る特定移動端末設備へ着信する通信を第二種指定中継交換機を介して他事業者との相互接続点に転送する機能</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">ニ　ショートメッセージ伝送交換機能</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">特定移動端末設備間において電気通信番号を使用して行われる文字の伝送交換を行う機能</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　事業者が音声伝送役務の提供に用いられる第二種指定端末系無線基地局を設置していない場合</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">前項ロに掲げる機能</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">前項ロに掲げる内容</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の表一の項ロに掲げる機能は、接続料を算定するために次に掲げる部分に区分するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">次号及び第三号に掲げる部分以外のもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">事業者が設置するその一端が特定移動端末設備に接続される伝送路設備に関する情報の管理及び端末の認証その他これらに付随するもの（次号に掲げる機能を除く。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">ＳＩＭカード（携帯電話、携帯電話・ＰＨＳアクセスサービス（ＰＨＳに係るものを除く。）、三・九―四世代移動通信アクセスサービス及びＢＷＡアクセスサービスの電気通信役務を提供する電気通信事業者との間で当該電気通信役務の提供を内容とする契約を締結している者を特定するための情報を記録した電磁的記録媒体（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものに係る記録媒体をいう。）をいう。以下同じ。）の提供に係るもの（事業者が現にＳＩＭカードの提供を行っている場合に限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第三章　原価及び利潤の算定</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（原価及び利潤の算定に用いる費用及び資産）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">事業者は、接続会計規則別表第三の移動電気通信役務収支表に整理された費用及び接続会計規則別表第二の役務別固定資産帰属明細表に整理された資産に基づいて、接続料の原価及び利潤を算定しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（接続料の原価及び利潤）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">接続料の原価は、法定機能ごとに、当該法定機能に係る第二種指定設備管理運営費とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">接続料の利潤は、法定機能ごとに、当該法定機能に係る第八条から第十条までの規定に基づき計算される他人資本費用、自己資本費用及び利益対応税の合計額とする。</span><span data-xpath="">この場合において、算定の基礎として用いる資産、負債及び純資産の額は、貸借対照表（接続会計規則第四条の規定により読み替えて準用する電気通信事業会計規則第五条第一項前段の規定に基づき作成する貸借対照表をいう。以下同じ。）に計上された期首及び期末の額の合計を二で除したものを用いるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">接続料の原価及び利潤の算定期間は、次の各号に掲げる接続料の算定方式の区分に応じ、当該各号に定める期間とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">実績原価方式</span>　<span data-xpath="">一年</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">将来原価方式</span>　<span data-xpath="">三年</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（第二種指定設備管理運営費の算定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">法定機能に係る第二種指定設備管理運営費は、当該法定機能の区分ごとに、当該法定機能に対応した第二種指定電気通信設備及びこれの附属設備並びにこれらを設置する土地及び施設（以下「対象設備等」という。）に係る費用の額を基礎として算定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の費用は、当該費用を用いて算定する接続料に係る次の各号に掲げる算定方式の区分に応じ、当該各号に定める費用の額を基礎として算定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">実績原価方式</span>　<span data-xpath="">接続会計規則別表第三の移動電気通信役務収支表に記載された費用の額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">将来原価方式</span>　<span data-xpath="">接続会計規則別表第三の移動電気通信役務収支表に記載された費用の額を基礎として、合理的な将来の予測に基づき算定された額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（他人資本費用）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">法定機能に係る他人資本費用の額は、次に掲げる式により計算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">他人資本費用＝当該法定機能に係るレートベース×他人資本比率×他人資本利子率</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">法定機能に係るレートベースの額は、次に掲げる式により計算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">当該法定機能に係るレートベース＝対象設備等の正味固定資産価額＋繰延資産＋投資その他の資産＋貯蔵品＋運転資本</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">前項の対象設備等の正味固定資産価額は、当該正味固定資産価額を用いて算定する接続料に係る次の各号に掲げる算定方式の区分に応じ、当該各号に定める額とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">実績原価方式</span>　<span data-xpath="">接続会計規則別表第二の役務別固定資産帰属明細表の帳簿価額を基礎として算定された額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">将来原価方式</span>　<span data-xpath="">接続会計規則別表第二の役務別固定資産帰属明細表の帳簿価額を基礎として、合理的な将来の予測に基づき算定された額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第二項の繰延資産、投資その他の資産及び貯蔵品の額は、貸借対照表に記載された繰延資産、投資その他の資産及び貯蔵品の額のうち、第二種指定電気通信設備の管理運営に不可欠であり、かつ、収益の見込まれないものを基礎として算定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">第二項の運転資本の額は、次に掲げる式により計算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">運転資本＝対象設備等の第二種指定設備管理運営費（減価償却費、固定資産除却損及び租税公課相当額を除く。）×（法定機能の提供から当該法定機能に係る接続料の収納までの平均的な日数／三百六十五日）</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第一項の他人資本比率は、負債の額が負債資本合計の額に占める割合の実績値を基礎として算定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">第一項の他人資本利子率は、社債、借入金及びリース債務（以下「有利子負債」という。）に対する利子率並びに有利子負債以外の負債に対する利子相当率を、有利子負債及び有利子負債以外の負債が負債の合計に占める比率により加重平均したものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">８</span>　<span data-xpath="">前項の有利子負債に対する利子率は、有利子負債の額に対する営業外費用のうち有利子負債に係るものの額の比率の実績値を基礎として算定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">９</span>　<span data-xpath="">第七項の有利子負債以外の負債に対する利子相当率は、当該負債の性質及び安全な資産に対する資金運用を行う場合に合理的に期待し得る利回りを勘案した値として総務大臣が別に告示する値とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（自己資本費用）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">法定機能に係る自己資本費用の額は、次に掲げる式により計算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">自己資本費用＝当該法定機能に係るレートベース×自己資本比率×自己資本利益率</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の自己資本比率は、一から前条第一項の他人資本比率を差し引いたものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の自己資本利益率は、次に掲げる式により計算される期待自己資本利益率の過去三年間（リスク（通常の予測を超えて発生し得る危険をいう。以下この条において同じ。）の低い金融商品の平均金利が、主要企業平均自己資本利益率に比して高い年度を除く。）の平均値を基礎とした合理的な値とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">期待自己資本利益率＝リスクの低い金融商品の平均金利＋β×（主要企業の平均自己資本利益率－リスクの低い金融商品の平均金利）</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">前項のβは、移動電気通信事業（その一端が移動端末設備と接続される伝送路設備を用いて電気通信役務を提供する電気通信事業をいう。）に係るリスク及び事業者の財務状況に係るリスクを勘案したものとして総務大臣が別に定める値又は一のいずれか低い方の値とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（利益対応税）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">法定機能に係る利益対応税の額は、次に掲げる式により計算する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">利益対応税＝（自己資本費用＋当該法定機能に係るレートベース×他人資本比率×有利子負債以外の負債比率×利子相当率）×利益対応税率</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の他人資本比率は、第八条第一項の他人資本比率とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の有利子負債以外の負債比率は、有利子負債以外の負債の額が負債の額に占める比率の実績値を基礎として算定する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第一項の利益対応税率は、法人税、事業税及びその他所得に課される税の税率の合計を基礎として算定された値とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第四章　接続料設定</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（接続料設定の原則）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">接続料は、法定機能ごとに、当該法定機能に係る接続料の原価及び利潤の合計額を当該接続料の原価及び利潤の算定期間に係る需要で除すことにより定めなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の需要は、当該需要を用いて算定する接続料に係る次の各号に掲げる算定方式の区分に応じ、当該各号に定める値とする。</span><span data-xpath="">ただし、当該接続料に対応する設備等に関し、他の電気通信事業者との間で事業者が電気通信事業法施行規則第二十三条の九の五第一項第十二号の二に規定する方式を採用するときは、第二種指定電気通信設備と当該他の電気通信事業者の電気通信設備との間の通信量等を含む。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">実績原価方式</span>　<span data-xpath="">接続料を算定する機能ごとの通信量等の実績値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">将来原価方式</span>　<span data-xpath="">接続料を算定する機能ごとの通信量等の合理的な将来の予測値</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">接続料の体系は、当該接続料に係る第二種指定設備管理運営費の発生の態様を考慮し、回線容量、通信回数、通信時間等を単位とし、社会的経済的にみて合理的なものとなるように設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">接続料の水準は、当該接続料が事業者と他事業者との間に不当な競争を引き起こさないものとなるように設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（音声伝送交換機能の接続料）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">第四条第一項の表一の項イに掲げる機能の接続料は、通信時間を単位として実績原価方式に基づき設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（データ伝送交換機能の接続料）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の接続料は、次の各号に掲げる部分の区分に応じ、当該各号に定めるものを単位として設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第四条第二項第一号に掲げる部分</span>　<span data-xpath="">回線容量</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第四条第二項第二号に掲げる部分</span>　<span data-xpath="">回線数</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">第四条第二項第三号に掲げる部分</span>　<span data-xpath="">ＳＩＭカードの枚数</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の同条第二項第一号及び第二号に掲げる部分（以下「将来原価方式対象機能」という。）の接続料は、将来原価方式を用いて算定する接続料及び実績原価方式を用いて算定する接続料を設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">将来原価方式対象機能の将来原価方式を用いて算定する接続料（以下「予測接続料」という。）は、三事業年度分を、適用される事業年度ごとに区分して、設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">将来原価方式対象機能の実績原価方式を用いて算定する接続料（以下「精算接続料」という。）は、専ら第十七条第四項の規定による精算に用いるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の同条第二項第三号に掲げる部分の接続料は、実績原価方式に基づき設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の同条第二項第三号に掲げる部分の接続料の原価及び利潤は、前章の規定にかかわらず、次に掲げる方法により算定することができる。</span><span data-xpath="">この場合において、第二条第二項第三号の規定の適用については、「法第三十四条第六項の規定により整理された会計（以下「二種接続会計」という。）及び通信量等」とあるのは、「ＳＩＭカードの調達費用、ＳＩＭカードの管理及び他事業者への提供に要する費用、法第三十四条第六項の規定により整理された会計（以下「二種接続会計」という。）及び通信量等」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">接続料の原価は、ＳＩＭカードの調達費用に、ＳＩＭカードの管理及び他事業者への提供に要する費用として合理的に算定したものを加えたものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">接続料の利潤は、次に掲げる式により計算した運転資本に、第四条第一項の表一の項ロに掲げる機能の同条第二項第一号に掲げる部分の実績原価方式による接続料の算定に用いた利潤を当該算定に係るレートベースで除したものを乗じたものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: initial;" class="_div_ListSentence _shokanBoxParent">
+    <span data-xpath=""><div style="display:inline-block;text-indent:0;">運転資本＝前号の調達費用×（ＳＩＭカードの提供からこれに係る接続料の収納までの平均的な日数／三百六十五日）</div></span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">７</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の同条第二項第三号に掲げる部分の接続料の原価及び利潤を前章又は前項の規定により算定した場合は、その次の算定においても同様の算定方法によるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（番号ポータビリティ転送機能の接続料）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">第四条第一項の表一の項ハに掲げる機能の接続料は、通信時間を単位として、実績原価方式に基づき設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（ショートメッセージ伝送交換機能の接続料）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">第四条第一項の表一の項ニに掲げる機能の接続料は、通信回数を単位として、実績原価方式に基づき設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第五章　複数事業者による接続料設定</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">二以上の事業者が法定機能の全部又は一部をそれらの第二種指定電気通信設備により実現する場合には、当該二以上の事業者は、当該全部又は一部の法定機能に係る接続料を算定する一の事業者を明らかにして総務大臣の承認を共同して受けた上で当該接続料を設定しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の承認を受けた二以上の事業者のうち同項の一の事業者に関する次の表の上欄に掲げる規定の適用については、これらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第五条</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">接続会計規則別表第三</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの接続会計規則別表第三</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">整理された資産</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">整理された資産並びに第十六条第一項の承認を共同して受けた他の事業者（以下「共同設定者」という。）の接続会計規則別表第三の移動電気通信役務収支表に整理された費用及び接続会計規則別表第二の役務別固定資産帰属明細表に整理された資産</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第六条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">貸借対照表（</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの貸借対照表（</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">計上された</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">計上された額及び共同設定者の貸借対照表に計上された額を合算した額を基礎として算定された額の</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第七条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">接続会計規則別表第三</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの接続会計規則別表第三</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載された費用</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">記載された費用及び共同設定者の同表の移動電気通信役務収支表に記載された費用</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><div style="display:inline-block;text-indent:0;">当該法定機能に係るレートベース＝対象設備等の正味固定資産価額＋繰延資産＋投資その他の資産＋貯蔵品＋運転資本</div></span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><div style="display:inline-block;text-indent:0;">当該法定機能に係るレートベース＝対象設備等の正味固定資産価額＋繰延資産＋投資その他の資産＋貯蔵品＋自らの運転資本＋共同設定者の運転資本</div></span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条第三項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">接続会計規則別表第二</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの接続会計規則別表第二</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">帳簿価額</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">帳簿価額及び共同設定者の同表の役務別固定資産帰属明細表の帳簿価額</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条第四項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二種指定電気通信設備</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの第二種指定電気通信設備及び共同設定者の第二種指定電気通信設備</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条第五項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">運転資本の額</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの運転資本の額及び共同設定者の運転資本の額</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">次に</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">それぞれ次に</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">対象設備等</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">対象設備等（自らの運転資本の額の計算にあっては自らの設置する対象設備等をいい、共同設定者の運転資本の額の計算にあっては共同設定者の設置する対象設備等をいう。）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第八条第八項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">営業外費用</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">営業外費用（自らの営業外費用と共同設定者の営業外費用を合算したものをいう。）</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十条第四項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">法人税、事業税及びその他所得に課される税の税率の合計</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">自らの法人税、事業税及びその他所得に課される税の税率の合計並びに共同設定者の法人税、事業税及びその他所得に課される税の税率の合計</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十三条第六項第二号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">計算した運転資本</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">計算した自らの運転資本</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><div style="display:inline-block;text-indent:0;">運転資本＝前号の調達費用×（ＳＩＭカードの提供からこれに係る接続料の収納までの平均的な日数／三百六十五日）</div></span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath=""><div style="display:inline-block;text-indent:0;">自らの運転資本＝前号の調達費用×（自らのＳＩＭカードの提供からこれに係る接続料の収納までの平均的な日数／三百六十五日）</div></span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の承認を受けた二以上の事業者のうち同項の一の事業者以外の事業者は、同項の全部又は一部の法定機能に係る接続料について、前二章の規定にかかわらず、当該一の事業者の設定した接続料と同額として設定するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Chapter"><div style="margin-left: 3em; font-weight: bold;" class="ChapterTitle followingChapter _div_ChapterTitle _shokanBoxParent">
+    <div class="ChapterTitle">第六章　接続料の計算等</div>
+    <div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十七条</span>　<span data-xpath="">事業者は、法第三十四条第六項の規定により毎事業年度の会計を整理したとき（前条第一項の承認を受けた二以上の事業者にあっては、当該二以上の事業者のうち自ら以外の事業者が整理したときを含む。）に、その結果等及び通信量等の実績値に基づき接続料を計算するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">事業者は、前項の規定に基づき接続料（将来原価方式対象機能に係るものを除く。以下この項において同じ。）を計算し、その結果に基づき接続料を変更したときは、法定機能ごとに、接続料の変更前後の差額に当該法定機能に対する需要の実績値を乗じて得た金額を、当該接続料の原価及び利潤の算定に当たり基礎となる二種接続会計の事業年度（以下「基礎事業年度」という。）の翌年度の期首まで遡及して、他事業者と精算するものとする。</span><span data-xpath="">ただし、当該法定機能に係る接続料の急激な変動があると認められる場合にあっては、当該金額を、基礎事業年度の期首まで遡及して、他事業者と精算するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第四条第一項の表一の項ロに掲げる機能の同条第二項第三号に掲げる部分の接続料の原価及び利潤を第十三条第六項の規定に基づき算定する場合においては、当該接続料について、前項の規定は適用しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">事業者は、第一項の規定に基づき、精算接続料を計算し、その結果に基づき精算接続料を変更したときは、当該精算接続料と当該精算接続料の基礎事業年度に適用された予測接続料との差額に当該基礎事業年度に係る需要の実績値を乗じて得た金額を、他事業者と精算するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、電気通信事業法等の一部を改正する法律（平成二十七年法律第二十六号）の施行の日（平成二十八年五月二十一日）から施行する。</span><span data-xpath="">ただし、次項及び附則第三項の規定は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（準備行為）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第二種指定電気通信設備を設置する電気通信事業者（以下「第二種指定事業者」という。）は、この省令の公布の際現に電気通信事業法（以下「法」という。）第三十四条第二項の規定により届け出ている接続約款について、この省令の定めるところに合致させるため、この省令の施行の日（以下「施行日」という。）前においても同項の規定に基づく変更の届出をすることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">総務大臣は、施行日前においても第三条ただし書の規定に基づく承認を行うことができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第二種指定事業者は、施行日までに附則第二項の規定による届出をしない場合は、この省令の公布の際現に法第三十四条第二項の規定により届け出ている接続約款について、この省令の規定に合致させるため、施行日から三月以内に同項の規定に基づく変更の届出をしなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">この省令の施行の際現に法第三十四条第二項の規定により届け出ている接続約款は、前項の変更届出があるまでの間は、この省令の規定に合致しているものとみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年二月一五日総務省令第五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">改正後の第二種指定電気通信設備接続料規則の規定は、原価及び利潤の算定期間の開始日が平成二十七年四月一日以降である接続料の算定から適用し、原価及び利潤の算定期間の開始日が平成二十七年三月三十一日以前である接続料の算定については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（検討）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">総務大臣は、この省令の施行後三年を目途として、この省令による改正後の第二種指定電気通信設備接続料規則第九条第四項の規定の実施状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年九月二八日総務省令第六八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">改正後の第二種指定電気通信設備接続料規則（以下「新接続料規則」という。）の規定は、原価及び利潤の算定期間の開始日が平成二十八年四月一日以降である接続料の算定から適用し、原価及び利潤の算定期間の開始日が平成二十八年三月三十一日以前である接続料の算定については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">前項の規定にかかわらず、新接続料規則第四条第二項第三号に掲げる区分に係る接続料については、新接続料規則の規定は、平成三十年四月一日以降の接続料から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年五月一四日総務省令第五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律（平成三十年法律第二十四号。以下「改正法」という。）附則第一条第二号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年九月二七日総務省令第四五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この省令は、令和元年十二月二十四日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年一月二七日総務省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この省令は、公布の日から施行し、第一条の規定による改正後の電気通信事業法施行規則第二十三条の九の三第二項の規定は、令和二年四月一日から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第二条の規定による改正後の第二種指定電気通信設備接続料規則（以下「新接続料規則」という。）の規定は、基礎事業年度（新接続料規則第十七条第二項に規定する基礎事業年度をいう。以下同じ。）が平成三十年度以降である接続料の算定から適用し、基礎事業年度が平成二十九年度以前である接続料の算定については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">平成三十年度及び令和元年度を基礎事業年度とする精算接続料（新接続料規則第十三条第四項に規定する精算接続料をいう。以下同じ。）に関する新接続料規則第十七条第四項の適用については、「その結果に基づき精算接続料を変更したときは、当該精算接続料と当該精算接続料の基礎事業年度に適用された予測接続料との差額に当該基礎事業年度に係る需要の実績値を乗じて得た金額を」とあるのは、「その結果に基づき接続料を変更したときは、当該精算接続料と当該精算接続料の基礎事業年度に適用された接続料との差額に需要の実績値を乗じて得た金額を、当該精算接続料の基礎事業年度の翌年度の期首まで遡及して、他事業者と精算するものとする。ただし、接続料の急激な変動があると認められる場合にあっては、当該金額を、当該精算接続料の基礎事業年度の期首まで遡及して」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年三月七日総務省令第一四号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

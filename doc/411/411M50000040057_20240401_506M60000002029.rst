@@ -1,0 +1,465 @@
+.. _411M50000040057_20240401_506M60000002029:
+
+:orphan:
+
+====================================
+特定金融会社等の開示に関する内閣府令
+====================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成十一年大蔵省令第五十七号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">特定金融会社等の開示に関する内閣府令</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">金融業者の貸付業務のための社債の発行等に関する法律（平成十一年法律第三十二号）の施行に伴い、及び証券取引法（昭和二十三年法律第二十五号）の規定に基づき、特定金融会社等の開示に関する省令を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（趣旨）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">特定金融会社等は、金融商品取引法の規定により有価証券届出書、発行登録書、発行登録追補書類、有価証券報告書又は半期報告書を提出するためこれらの書類を作成するときは、企業内容等の開示に関する内閣府令（昭和四十八年大蔵省令第五号。以下「開示府令」という。）に定める事項のほか、この府令に定める事項をこの府令の定めるところにより記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（定義）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">特定金融会社等</span>　<span data-xpath="">金融業者の貸付業務のための社債の発行等に関する法律（以下「社債法」という。）第二条第三項に規定する特定金融会社等をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">有価証券届出書</span>　<span data-xpath="">金融商品取引法第二条第七項に規定する有価証券届出書のうち、同法第五条第一項（同法第二十七条において準用する場合を含む。以下同じ。）の規定によるものをいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">発行登録書</span>　<span data-xpath="">金融商品取引法第二十三条の三第一項に規定する発行登録書をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">発行登録追補書類</span>　<span data-xpath="">金融商品取引法第二十三条の八第一項に規定する発行登録追補書類をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">有価証券報告書</span>　<span data-xpath="">金融商品取引法第二十四条第一項（同法第二十七条において準用する場合を含む。以下同じ。）に規定する有価証券報告書をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">半期報告書</span>　<span data-xpath="">金融商品取引法第二十四条の五第一項（同法第二十七条において準用する場合を含む。以下同じ。）に規定する半期報告書をいう。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貸付金残高の内訳等の有価証券届出書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">金融商品取引法第五条第一項の規定により有価証券届出書を提出しようとする特定金融会社等（以下「届出書提出特定金融会社等」という。）のうち次の各号に掲げる事項を記載した有価証券報告書又は半期報告書を提出していない者は、当該有価証券届出書に、当該有価証券届出書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等に係る次の各号に掲げる事項を、当該各号に定める様式により記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">貸付金の種別残高内訳</span>　<span data-xpath="">別紙様式第一号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">資金調達内訳</span>　<span data-xpath="">別紙様式第二号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">業種別貸付金残高内訳</span>　<span data-xpath="">別紙様式第三号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">担保別貸付金残高内訳</span>　<span data-xpath="">別紙様式第四号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">期間別貸付金残高内訳</span>　<span data-xpath="">別紙様式第五号</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により同項に規定する事項を有価証券届出書に記載しようとする届出書提出特定金融会社等は、次の各号に掲げる有価証券届出書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第二号様式</span>　<span data-xpath="">同様式の第二部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第二号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第二号の三様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">開示府令第二号の四様式</span>　<span data-xpath="">同様式の第二部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">開示府令第二号の五様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">開示府令第二号の六様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">開示府令第二号の七様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貸付金残高の内訳等の発行登録書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">金融商品取引法第二十三条の三第一項の規定により発行登録書を提出しようとする特定金融会社等（以下「発行登録書提出特定金融会社等」という。）のうち前条第一項各号に掲げる事項を記載した有価証券報告書又は半期報告書を提出していない者は、当該発行登録書に、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録書提出特定金融会社等に係る同項各号に掲げる事項を、当該各号に定める様式により記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により同項に規定する事項を発行登録書に記載しようとする発行登録書提出特定金融会社等は、次の各号に掲げる発行登録書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第十一号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第十一号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第十一号の二の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貸付金残高の内訳等の発行登録追補書類における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">金融商品取引法第二十三条の八第一項の規定により発行登録追補書類を提出しようとする特定金融会社等（以下「発行登録特定金融会社等」という。）のうち第三条第一項各号に掲げる事項を記載した有価証券報告書又は半期報告書を提出していない者は、当該発行登録追補書類に、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等に係る同項各号に掲げる事項を、当該各号に定める様式により記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により同項に規定する事項を発行登録追補書類に記載しようとする発行登録特定金融会社等は、次の各号に掲げる発行登録追補書類の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第十二号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第十二号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貸付金残高の内訳等の有価証券報告書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">金融商品取引法第二十四条第一項又は第三項の規定により有価証券報告書を提出すべき特定金融会社等（以下「報告書提出特定金融会社等」という。）は、当該有価証券報告書に、当該有価証券報告書に係る事業年度終了の日における当該報告書提出特定金融会社等に係る第三条第一項各号に掲げる事項を、当該各号に定める様式により記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により同項に規定する事項を有価証券報告書に記載しようとする報告書提出特定金融会社等は、次の各号に掲げる有価証券報告書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第三号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第三号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第四号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（貸付金残高の内訳等の半期報告書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">金融商品取引法第二十四条の五第一項の規定により半期報告書を提出すべき特定金融会社等（以下「半期報告書提出特定金融会社等」という。）は、当該半期報告書に、当該半期報告書に係る事業年度の開始の日から六月を経過する日における当該半期報告書提出特定金融会社等に係る第三条第一項各号に掲げる事項を、当該各号に定める様式により記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定により同項に規定する事項を半期報告書に記載しようとする半期報告書提出特定金融会社等は、次の各号に掲げる半期報告書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第四号の三様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の２</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第五号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の３</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第五号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の２</span>　<span data-xpath="">経営成績等の概要</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（不良債権の状況の有価証券届出書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">届出書提出特定金融会社等のうち特定金融会社等の会計の整理に関する内閣府令（平成十一年総理府令・大蔵省令第三十二号。以下「会計府令」という。）第九条第一項の規定により同項各号に該当する貸付金（以下「不良債権」という。）に関する事項（以下「不良債権の状況」という。）を注記した財務諸表（貸借対照表、損益計算書、株主資本等変動計算書、キャッシュ・フロー計算書及び附属明細表をいう。以下同じ。）を記載した有価証券報告書又は会計府令第二十一条第二項の規定により不良債権の状況を注記した第一種中間財務諸表（中間貸借対照表、中間損益計算書及び中間キャッシュ・フロー計算書であって金融商品取引法第二十四条の五第一項の表の第一号の中欄に掲げる事項を記載した半期報告書に含まれるものをいう。以下同じ。）若しくは第二種中間財務諸表（中間貸借対照表、中間損益計算書、中間株主資本等変動計算書及び中間キャッシュ・フロー計算書であって同表の第二号又は第三号の中欄に掲げる事項を記載した半期報告書に含まれるものをいう。以下同じ。）若しくは会計府令第二十三条第三項の規定により不良債権の状況を注記した第一種中間連結財務諸表（中間連結貸借対照表、中間連結損益計算書、中間連結包括利益計算書及び中間連結キャッシュ・フロー計算書であって同表の第一号の中欄に掲げる事項を記載した半期報告書に含まれるものをいう。以下同じ。）を記載した半期報告書を提出していない者は、有価証券届出書に、当該有価証券届出書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等に係る不良債権の状況を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項に規定する不良債権の状況の記載に当たっては、次の各号に掲げる場合の区分に応じ、当該各号に定める事項を記載するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">不良債権がある場合</span>　<span data-xpath="">当該不良債権の金額</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">不良債権がない場合</span>　<span data-xpath="">その旨</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定により同項に規定する不良債権の状況を有価証券届出書に記載しようとする届出書提出特定金融会社等は、次の各号に掲げる有価証券届出書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第二号様式</span>　<span data-xpath="">同様式の第二部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第二号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第二号の三様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">開示府令第二号の四様式</span>　<span data-xpath="">同様式の第二部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">開示府令第二号の五様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">開示府令第二号の六様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">七</span>　<span data-xpath="">開示府令第二号の七様式</span>　<span data-xpath="">同様式の第三部</span>　<span data-xpath="">企業情報の第２</span>　<span data-xpath="">事業の状況の４</span>　<span data-xpath="">経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（不良債権の状況の発行登録書における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">発行登録書提出特定金融会社等のうち会計府令第九条第一項の規定により不良債権の状況を注記した財務諸表を記載した有価証券報告書又は会計府令第二十一条第二項の規定により不良債権の状況を注記した第一種中間財務諸表若しくは第二種中間財務諸表若しくは会計府令第二十三条第三項の規定により不良債権の状況を注記した第一種中間連結財務諸表を記載した半期報告書を提出していない者は、発行登録書に、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録書提出特定金融会社等に係る不良債権の状況を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前条第二項の規定は、前項の規定により同項に規定する不良債権の状況を発行登録書に記載する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定により同項に規定する不良債権の状況を発行登録書に記載しようとする発行登録書提出特定金融会社等は、次の各号に掲げる発行登録書の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第十一号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第十一号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">開示府令第十一号の二の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（不良債権の状況の発行登録追補書類における開示）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">発行登録特定金融会社等のうち会計府令第九条第一項の規定により不良債権の状況を注記した財務諸表を記載した有価証券報告書又は会計府令第二十一条第二項の規定により不良債権の状況を注記した第一種中間財務諸表若しくは第二種中間財務諸表若しくは会計府令第二十三条第三項の規定により不良債権の状況を注記した第一種中間連結財務諸表を記載した半期報告書を提出していない者は、発行登録追補書類に、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等に係る不良債権の状況を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第八条第二項の規定は、前項の規定により同項に規定する不良債権の状況を発行登録追補書類に記載する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第一項の規定により同項に規定する不良債権の状況を発行登録追補書類に記載しようとする発行登録特定金融会社等は、次の各号に掲げる発行登録追補書類の様式の区分に応じ、当該各号に定める箇所に記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">開示府令第十二号様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第４</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">開示府令第十二号の二様式</span>　<span data-xpath="">同様式の第一部</span>　<span data-xpath="">証券情報の第３</span>　<span data-xpath="">その他の記載事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この省令は、社債法の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（不良債権の状況の開示の特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">報告書提出特定金融会社等は、平成十二年三月三十一日前に終了する事業年度に係る有価証券報告書を提出しようとするときは、当該有価証券報告書に、当該事業年度終了の日における当該報告書提出特定金融会社等に係る不良債権の状況を記載しなければならない。</span><span data-xpath="">ただし、当該不良債権の状況を記載することが困難なときは、当該報告書提出特定金融会社等の貸付金のうち当該不良債権に準ずるものに関する事項を記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第六条第二項及び第八条第二項の規定は、前項の規定により同項に規定する不良債権の状況（同項ただし書に規定する場合にあっては、同項ただし書に規定する不良債権に準ずるものに関する事項）を有価証券報告書に記載する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">半期報告書提出特定金融会社等は、平成十二年三月三十一日前に終了する事業年度に係る半期報告書を提出しようとするときは、当該半期報告書に、当該事業年度の開始の日から六月を経過する日における当該半期報告書提出特定金融会社等に係る不良債権の状況を記載しなければならない。</span><span data-xpath="">ただし、当該不良債権の状況を記載することが困難なときは、当該半期報告書提出特定金融会社等の貸付金のうち当該不良債権に準ずるものに関する事項を記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第七条第二項及び第八条第二項の規定は、前項の規定により同項に規定する不良債権の状況（同項ただし書に規定する場合にあっては、同項ただし書に規定する不良債権に準ずるものに関する事項）を半期報告書に記載する場合について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（不良債権の状況の開示に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">第八条第一項の規定の適用については、平成十一年十二月三十一日までに当該有価証券届出書を提出する場合であって、当該有価証券届出書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等の不良債権の状況を記載することが困難なときは、同項の規定にかかわらず、当該有価証券届出書の提出日の属する事業年度の直前事業年度終了の日における当該届出書提出特定金融会社等の不良債権の状況又は当該有価証券届出書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その日の属する事業年度又はその直前事業年度）の直前事業年度終了の日における当該届出書提出特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">第九条第一項の規定の適用については、平成十一年十二月三十一日までに発行登録書を提出する場合であって、当該発行登録書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録書提出特定金融会社等の不良債権の状況を記載することが困難なときは、同項の規定にかかわらず、当該発行登録書の提出日の属する事業年度の直前事業年度終了の日における当該発行登録書提出特定金融会社等の不良債権の状況又は当該発行登録書の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その日の属する事業年度又はその直前事業年度）の直前事業年度終了の日における当該発行登録書提出特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">第十条第一項の規定の適用については、平成十一年十二月三十一日までに発行登録書を提出する場合であって、当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その直前事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等の不良債権の状況を記載することが困難なときは、同項の規定にかかわらず、当該発行登録追補書類の提出日の属する事業年度の直前事業年度終了の日における当該発行登録特定金融会社等の不良債権の状況又は当該発行登録追補書類の提出日の属する事業年度（その日が事業年度開始後三月以内の日である場合には、その日の属する事業年度又はその直前事業年度）の直前事業年度終了の日における当該発行登録特定金融会社等の貸付金のうち不良債権に準ずるものに関する事項を不良債権の状況に準じて記載することができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年六月二六日総理府令第六五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この府令は、平成十二年七月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一二年一〇月一〇日総理府令第一一六号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一八年四月二六日内閣府令第五五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この府令は、会社法の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成一九年九月五日内閣府令第六七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、証券取引法等の一部を改正する法律の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二〇年三月三一日内閣府令第一五号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この府令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section class="active Paragraph"><div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">第二条の規定による改正後の特定金融会社等の開示に関する内閣府令第七条の規定は、平成二十年四月一日以後に開始する事業年度から適用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年六月二四日内閣府令第一四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この府令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年三月二七日内閣府令第二九号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この府令は、令和六年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定金融会社等の開示に関する内閣府令の一部改正に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">改正法附則第二条第一項若しくは第三項若しくは第三条第一項又はこの附則の規定によりなお従前の例によることとされる場合における第十七条の規定による改正後の特定金融会社等の開示に関する内閣府令の規定の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（罰則に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十九条</span>　<span data-xpath="">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別紙様式第１号（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2JH00000240648.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別紙様式第２号（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2JH00000240651.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別紙様式第３号（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2JH00000240652.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別紙様式第４号（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2JH00000240653.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section><section id="" class="active AppdxStyle"><div style="font-weight:600;" class="_div_AppdxStyleTitle _shokanBoxParent">別紙様式第５号（第３条第１項、第４条第１項、第５条第１項、第６条第１項、第７条第１項関係）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div>
+              <a href="/./pict/2JH00000240654.pdf" target="_blank" style="margin-left:2em;" class="fig_pdf_icon"></a>
+            </div></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    

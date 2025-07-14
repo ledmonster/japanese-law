@@ -1,0 +1,1026 @@
+.. _426M6000000A003_20250617_507M60004008005:
+
+:orphan:
+
+==========================================================================
+行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則
+==========================================================================
+
+.. raw:: html
+    
+    
+    <main id="contentsLaw" class="active">
+    <div id="innerDocument" class="active">
+    
+    
+    
+    
+    <div style="margin-bottom: 12px;">
+    <div id="lawTitleNo" style="font-size: 1.067rem; font-weight: bold;" class="_shokanBoxParent">平成二十六年内閣府・総務省令第三号<div class="_shokanBox"></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="lawTitle" style="margin-left: 3rem; font-size: 1.5rem; font-weight: bold; line-height: 1.25em;" class="_shokanBoxParent">
+    <span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    </div><section id="EnactStatement" class="active EnactStatement"><div class="_div_EnactStatement _shokanBoxParent" style="text-indent: 1em;">
+    <span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第十六条（行政手続における特定の個人を識別するための番号の利用等に関する法律施行令（平成二十六年政令第百五十五号）第三条第二項において準用する場合を含む。）並びに同令第十二条第一項及び第二項（同令第三条第七項において準用する場合を含む。）、第十三条第三項、第十九条、第二十二条、第二十三条第三号並びに第二十五条第三号の規定に基づき、行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則を次のように定める。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="MainProvision" class="active MainProvision"><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（写真の表示等により個人番号提供者を確認できる書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律施行令（以下「令」という。）第十二条第一項第二号の主務省令で定める書類は、次に掲げるいずれかの書類とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">運転免許証、運転経歴証明書（交付年月日が平成二十四年四月一日以降のものに限る。）、旅券、身体障害者手帳、精神障害者保健福祉手帳、療育手帳、在留カード又は特別永住者証明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署から発行され、又は発給された書類その他これに類する書類であって、令第十二条第一項第一号に掲げる書類に記載された氏名及び出生の年月日又は住所（以下「個人識別事項」という。）が記載され、かつ、写真の表示その他の当該書類に施された措置によって、当該書類の提示を行う者が当該個人識別事項により識別される特定の個人と同一の者であることを確認することができるものとして個人番号利用事務実施者（行政手続における特定の個人を識別するための番号の利用等に関する法律（以下「法」という。）第九条第三項の規定により情報提供用個人識別符号を利用する者を除く。以下同じ。）が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（個人番号の提供を行う者が国外転出者である場合の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条の二</span>　<span data-xpath="">個人番号利用事務実施者又は個人番号関係事務実施者（以下「個人番号利用事務等実施者」という。）は、個人番号の提供を行う者が国外転出者（住民基本台帳法（昭和四十二年法律第八十一号）第十七条第三号に規定する国外転出者をいう。以下同じ。）である者である場合には、令第十二条第一項第一号に掲げる書類の提示を受けることに代えて、次に掲げるいずれかの措置をとらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第十四条第二項の規定により地方公共団体情報システム機構（以下「機構」という。）から個人番号の提供を行う者に係る機構保存本人確認情報（同項に規定する機構保存本人確認情報をいう。次条第一項第一号及び第九条第五項第一号において同じ。）に記録されている個人番号及び機構保存附票本人確認情報（法第十四条第二項に規定する機構保存附票本人確認情報をいう。第九条第五項第一号において同じ。）の提供を受けること（個人番号利用事務実施者が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">都道府県知事保存本人確認情報（住民基本台帳法第三十条の六第四項に規定する都道府県知事保存本人確認情報をいう。以下同じ。）に記録されている個人番号の提供を行う者の個人番号及び都道府県知事保存附票本人確認情報（同法第三十条の四十一第四項に規定する都道府県知事保存附票本人確認情報をいう。以下同じ。）に記録されている当該者の氏名及び出生の年月日を確認すること（当該都道府県知事保存本人確認情報及び当該都道府県知事保存附票本人確認情報を保存する都道府県知事が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">住民基本台帳法第三十条の十五第二項の規定により都道府県知事から個人番号の提供を行う者に係る都道府県知事保存本人確認情報に記録されている個人番号の提供を受けるとともに、同法第三十条の四十四の六第二項の規定により都道府県知事から当該者に係る都道府県知事保存附票本人確認情報の提供を受けること（当該都道府県知事以外の当該都道府県の執行機関が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">提供を受ける個人番号並びに当該個人番号に係る氏名及び出生の年月日について、過去に本人若しくはその代理人若しくは法第十四条第二項の規定により機構からその提供を受け、又は都道府県知事保存本人確認情報に記録されている当該個人番号及び都道府県知事保存附票本人確認情報に記録されている当該氏名及び出生の年月日を確認して特定個人情報ファイルを作成している場合には、当該特定個人情報ファイルに記録されている個人番号並びに氏名及び出生の年月日を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">官公署又は個人番号利用事務等実施者から発行され、又は発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの（個人番号の提供を行う者の個人番号並びに氏名及び出生の年月日の記載があるものに限る。）の提示を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">個人番号利用事務等実施者は、個人番号の提供を行う者が国外転出者である者である場合には、令第十二条第一項第二号に掲げる書類の提示を受けることに代えて、次に掲げるいずれかの書類（個人番号の提供を行う者の戸籍の附票に記載された氏名及び出生の年月日の記載があるものに限る。）の提示を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">前条第一号に掲げるいずれかの書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署から発行され、又は発給された書類その他これに類する書類であって、写真の表示その他の当該書類に施された措置によって、当該書類の提示を行う者が当該氏名及び出生の年月日により識別される特定の個人と同一の者であることを確認することができるものとして個人番号利用事務実施者が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（住民票の写し等の提示を受けることが困難であると認められる場合等の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">個人番号利用事務等実施者は、令第十二条第一項第一号に掲げる書類の提示を受けることが困難であると認められる場合（個人番号の提供を行う者が国外転出者である場合を除く。）には、これに代えて、次に掲げるいずれかの措置をとらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第十四条第二項の規定により機構から個人番号の提供を行う者に係る機構保存本人確認情報の提供を受けること（個人番号利用事務実施者が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">都道府県知事保存本人確認情報に記録されている個人番号の提供を行う者の個人番号及び個人識別事項を確認すること（当該都道府県知事保存本人確認情報を保存する都道府県知事が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">住民基本台帳法第三十条の十五第二項の規定により都道府県知事から個人番号の提供を行う者に係る都道府県知事保存本人確認情報の提供を受けること（当該都道府県知事以外の当該都道府県の執行機関が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">住民基本台帳に記録されている個人番号の提供を行う者の個人番号及び個人識別事項を確認すること（当該住民基本台帳を備える市町村（特別区を含む。以下同じ。）の長が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">提供を受ける個人番号及び当該個人番号に係る個人識別事項について、過去に本人若しくはその代理人若しくは法第十四条第二項の規定により機構からその提供を受け、又は都道府県知事保存本人確認情報若しくは住民基本台帳に記録されている当該個人番号及び個人識別事項を確認して特定個人情報ファイルを作成している場合（以下「本人確認の上特定個人情報ファイルを作成している場合」という。）には、当該特定個人情報ファイルに記録されている個人番号及び個人識別事項を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">官公署又は個人番号利用事務等実施者から発行され、又は発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの（個人番号の提供を行う者の個人番号及び個人識別事項の記載があるものに限る。）の提示を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">税務署長は、次の各号に掲げるときは、所得税法（昭和四十年法律第三十三号）第二百二十九条又は消費税法（昭和六十三年法律第百八号）第九条第四項若しくは第五十七条第一項（同項第一号に係る部分に限る。）に規定する届出書の提出において、過去に法第十六条の規定により本人確認の措置を講じている者について、前項第一号に掲げる措置（国外転出者にあっては、前条第一項第一号に掲げる措置。第四項及び第六項において同じ。）をとることにより令第十二条第一項第一号に掲げる書類の提示を受けることに代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">所得税法第百四十三条の承認を受けている居住者又は同法第百六十六条において準用する同法第百四十三条の承認を受けている非居住者から同法第二条第一項第四十号に規定する青色申告書の提出を受けるとき（当該申告書に同法第百二十二条第一項第一号若しくは第二号又は第百二十三条第二項第六号若しくは第七号に掲げる金額の記載がある場合及び同法第百二十四条又は第百二十五条の規定により相続人から当該申告書の提出を受ける場合を除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">消費税法第二条第一項第三号に規定する個人事業者から同法第四十二条の二に規定する中間申告書又は同法第四十五条第一項に規定する申告書の提出を受けるとき（当該申告書に同項第五号に掲げる不足額の記載がある場合及び同条第二項又は第三項の規定により相続人から当該申告書の提出を受ける場合を除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">個人番号利用事務等実施者は、令第十二条第一項第二号又は前条第二項に掲げる書類の提示を受けることが困難であると認められる場合には、これに代えて、次に掲げる書類のうち二以上の書類（個人番号の提供を行う者の個人識別事項（国外転出者にあっては、氏名及び出生の年月日。以下同じ。）の記載があるものに限る。）の提示を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">健康保険法（大正十一年法律第七十号）第五十一条の三第一項に規定する書面、船員保険法（昭和十四年法律第七十三号）第二十八条の二第一項に規定する書面、国民健康保険法（昭和三十三年法律第百九十二号）第九条第二項（同法第二十二条において準用する場合を含む。）に規定する書面、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第五十四条第三項に規定する書面、防衛省の職員の給与等に関する法律（昭和二十七年法律第二百六十六号）第二十二条第六項に規定する書面、国家公務員共済組合法（昭和三十三年法律第百二十八号）第五十三条の二第一項（私立学校教職員共済法（昭和二十八年法律第二百四十五号）第二十五条において同項の規定を読み替えて準用する場合を含む。）に規定する書面若しくは地方公務員等共済組合法（昭和三十七年法律第百五十二号）第五十五条の二第一項に規定する書面、介護保険の被保険者証、健康保険日雇特例被保険者手帳又は児童扶養手当証書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署又は個人番号利用事務等実施者から発行され、又は発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">個人番号利用事務実施者である財務大臣、国税庁長官、都道府県知事又は市町村長（特別区の区長を含む。以下同じ。）（法令の規定により法別表二十四の項、二十五の項、三十六の項、五十七の項又は百三十三の項の下欄に掲げる事務（以下この項及び第九条第二項において「租税に関する事務」という。）の全部又は一部を行うこととされている者がある場合にあっては、その者を含む。以下この項及び第九条第二項において「財務大臣等」という。）は、租税に関する事務の処理に関して個人番号の提供を受ける場合には、次に掲げるいずれかの措置をとることにより当該提供を行う者が令第十二条第一項第一号に掲げる書類（当該提供を行う者が国外転出者である場合にあっては、住民基本台帳法第二十条第一項に規定する戸籍の附票の写し。第六項及び第九条第四項において同じ。）に記載されている個人識別事項又は第一項各号に掲げる措置により確認される個人識別事項により識別される特定の個人と同一の者であることを確認することをもって、前項の規定による書類の提示を受けることに代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">前項第一号に掲げるいずれかの書類の提示を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">当該提供に係る租税に関する法律の規定に基づき提出される書類（次号及び第五号において「申告書等」という。）に添付された書類であって、当該提供を行う者に対し一に限り発行され、若しくは発給されたもの又は官公署から発行され、若しくは発給されたものに記載されている当該提供を行う者の個人識別事項を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">当該提供に係る申告書等又は当該申告書等と同時に財務大臣等に提出される国税通則法（昭和三十七年法律第六十六号）第三十四条の二第一項の規定による口座振替納付の依頼に係る書面若しくは地方自治法施行令（昭和二十二年政令第十六号）第百五十五条の規定による口座振替納付の請求に係る書面に記載されている預金口座又は貯金口座に係る名義人の氏名並びに金融機関及びその店舗並びに預金又は貯金の種別及び口座番号を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">租税に関する法律の規定に基づく調査において確認した当該提供を行う者に係る事項その他の当該提供を行う者しか知り得ない事項を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">前各号に掲げる措置をとることが困難であると認められる場合であって、当該提供に係る申告書等に還付を受けるべき金額の記載がないときは、過去に法第十六条の規定により本人確認の措置を講じた上で受理している申告書等に記載されている純損失の金額、雑損失の金額その他当該提供を行う者が当該提供に係る申告書等を作成するに当たって必要となる事項又は考慮すべき事情（以下この号において「事項等」という。）であって財務大臣等が適当と認める事項等を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">個人番号利用事務等実施者は、本人確認の上特定個人情報ファイルを作成している場合（国外転出者にあっては、提供を受ける個人番号並びに当該個人番号に係る氏名及び出生の年月日について、過去に本人若しくはその代理人若しくは法第十四条第二項の規定により機構からその提供を受け、又は都道府県知事保存本人確認情報に記録されている当該個人番号並びに都道府県知事保存附票本人確認情報に記録されている当該氏名及び出生の年月日を確認して特定個人情報ファイルを作成している場合。第九条第三項及び第五項第五号において同じ。）であって、個人番号利用事務又は個人番号関係事務（第九条第三項において「個人番号利用事務等」という。）を処理するに当たって当該特定個人情報ファイルに記録されている個人番号その他の事項を確認するため電話により本人から個人番号の提供を受けるときは、令第十二条第一項第二号に掲げる書類の提示を受けることに代えて、本人しか知り得ない事項その他の個人番号利用事務実施者が適当と認める事項の申告を受けることにより、当該提供を行う者が当該特定個人情報ファイルに記録されている者と同一の者であることを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">個人番号利用事務等実施者は、本人から個人番号の提供を受ける場合であって、その者と雇用関係にあることその他の事情を勘案し、その者が令第十二条第一項第一号に掲げる書類に記載されている個人識別事項又は第一項各号に掲げる措置により確認される個人識別事項により識別される特定の個人と同一の者であることが明らかであると個人番号利用事務実施者が認める場合には、令第十二条第一項第二号に掲げる書類の提示を受けることを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織を使用して個人番号の提供を受ける場合の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">個人番号利用事務等実施者は、その使用に係る電子計算機と個人番号の提供を行う者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して本人から個人番号の提供を受ける場合には、次に掲げるいずれかの措置をとらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">機構により電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名をいう。第二号ハ及び第十条第二号において同じ。）が行われた当該提供を行う者の個人番号及び個人識別事項に係る情報であって内閣総理大臣及び総務大臣（第二十一条の二、第二十一条の四第二項及び第二十一条の五第二項において「主務大臣」という。）が定めるもの（次号において「署名券面情報」という。）の送信を受けること（次号に規定するものを除く。）並びに第二号ハに掲げる措置をとること（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。次号及び第二号ハにおいて「公的個人認証法」という。）第十七条第四項に規定する署名検証者又は同条第五項に規定する署名確認者（第二号ハにおいて「署名検証者等」という。）が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一の二</span>　<span data-xpath="">次に掲げる機能を有するプログラム（情報処理の促進に関する法律（昭和四十五年法律第九十号）第二条第二項に規定するプログラムをいう。）であって個人番号利用事務実施者が適当と認めるものを用いて署名券面情報の送信を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">当該提供を行う者が電子利用者証明（公的個人認証法第二条第二項に規定する電子利用者証明をいう。）を行う機能</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">イの電子利用者証明に関して個人番号カード用利用者証明用電子証明書（公的個人認証法第二十二条第一項に規定する個人番号カード用利用者証明用電子証明書をいう。）を当該提供を行う者の使用に係る電子計算機から電気通信回線を通じて利用者証明検証者（公的個人認証法第三十六条第二項に規定する利用者証明検証者をいう。）の使用に係る電子計算機に送信する機能</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">ロの個人番号カード用利用者証明用電子証明書が記録された個人番号カードを用いて当該提供を行う者の使用に係る電子計算機に入力される署名券面情報をロの利用者証明検証者の使用に係る電子計算機に送信する機能</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">ハの署名券面情報の送信を暗号化して行う機能</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">次のイ又はロに掲げる措置及びハ又はニに掲げる措置をとること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">前条第一項第一号から第五号まで（国外転出者にあっては、第一条の二第一項第一号から第四号まで）に掲げるいずれかの措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">官公署若しくは個人番号利用事務等実施者から発行され、若しくは発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの（当該提供を行う者の個人番号及び個人識別事項が記載されているものに限る。）若しくはその写しの提出を受けること又は個人番号利用事務実施者が適当と認める方法により当該書類に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。以下同じ。）の送信を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">署名用電子証明書（公的個人認証法第三条第一項に規定する署名用電子証明書をいう。以下この号及び第十条第二号において同じ。）及び当該署名用電子証明書により確認される電子署名が行われた当該提供に係る情報の送信を受けること（署名検証者等が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ニ</span>　<span data-xpath="">ハに掲げるもののほか、個人番号利用事務実施者が適当と認める方法により、当該電子情報処理組織に電気通信回線で接続した電子計算機を使用する者が当該提供を行う者であることを確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（交付市町村長等が個人番号カードの交付又は引渡しを行う場合の本人確認書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">令第十三条の二第二号の主務省令で定める書類は、次に掲げるいずれかの書類とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">次に掲げるいずれかの措置その他法第十七条第一項の規定により個人番号カードを交付する市町村長又は同条第二項若しくは第四項の規定により交付市町村長に代わって同条第一項第二号の措置をとる領事官若しくは市町村長（以下「交付市町村長等」という。）が適当と認める措置をとる場合には、第一条第一号に掲げるいずれかの書類又は出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第十八条の二第三項に規定する一時庇護許可書（以下「一時庇護許可書」という。）若しくは同法第六十一条の二の四第二項に規定する仮滞在許可書（以下「仮滞在許可書」という。）のうち交付市町村長等が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">当該書類に係る暗証番号の入力を求めること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">当該書類に組み込まれた半導体集積回路（半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）第二条第一項に規定する半導体集積回路をいう。）に記録された写真を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ハ</span>　<span data-xpath="">個人番号カードの交付を受けようとする者（以下「交付申請者」という。）又は交付申請者と同一の世帯に属する者に係る住民票の記載事項その他の交付市町村長等が適当と認める事項の申告を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号の措置をとることが困難であると認められる場合には、第一条第一号に掲げるいずれかの書類又は一時庇護許可書若しくは仮滞在許可書のうち交付市町村長等が適当と認める二以上の書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前二号に掲げる書類の提示を受けることが困難であると認められる場合には、次に掲げる書類（ロに掲げる書類に相当する電磁的記録の作成がされている場合における当該電磁的記録に記録された事項が表示された移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第二号ロに規定する移動端末設備をいう。以下この号及び第五号イにおいて同じ。）の映像面であって、交付市町村長等が適当と認めるもの（表示された事項に係る電磁的記録が不正に作られた電磁的記録でないことを確認するため、当該移動端末設備の操作を求めることその他の交付市町村長等が適当と認める措置をとる場合に限る。）（以下「映像面」という。）の提示を受けた場合にあっては、イに掲げる書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">第一条第一号に掲げるいずれかの書類又は一時庇護許可書若しくは仮滞在許可書のうち交付市町村長等が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">イに掲げるもののほか、官公署から発行され、又は発給された書類その他これに類する書類であって、交付市町村長等が適当と認めるもの（交付申請者に係る住民票（国外転出者にあっては、戸籍の附票）に記載されている個人識別事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">前三号に掲げる書類の提示を受けることが困難であると認められる場合には、個人番号カードの交付の申請について、交付申請者が本人であること及び当該申請が交付申請者の意思に基づくものであることを確認するため、郵便その他交付市町村長等が適当と認める方法により交付申請者に対して文書で照会したその回答書（以下この条及び第十三条において単に「回答書」という。）（交付市町村長等がやむを得ない理由があると認める場合を除き、その取扱いにおいて転送をしない郵便物又はこれに準ずるものとして送付されたものに限る。以下この条及び第十三条において同じ。）及び次に掲げるいずれかの書類（前号ロに掲げる書類に相当する電磁的記録の作成がされている場合における当該電磁的記録に記録された事項が表示された映像面の提示を受けた場合にあっては、回答書及び前号ロに掲げる書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">前号イに掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">イに掲げる書類の提示を受けることが困難であると認められる場合には、官公署から発行され、又は発給された書類その他これに類する書類であって、交付市町村長等が適当と認める二以上の書類（交付申請者に係る住民票に記載されている個人識別事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">前各号に掲げる書類の提示を受けることが困難であると認められる場合であって、次に掲げる措置をとるときは、回答書及び第三号ロに掲げる書類（第三号ロに掲げる書類に相当する電磁的記録の作成がされている場合における当該電磁的記録に記録された事項が表示された映像面の提示を受けた場合にあっては、回答書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">次の（１）から（３）までに掲げるいずれかの書類又は当該書類に相当する電磁的記録の作成がされている場合における当該電磁的記録に記録された事項が表示された映像面（交付申請者又は交付申請者と同一の世帯に属する者に係る住民票に記載されている氏名及び住所の記載並びに領収日付の押印又は発行年月日の記載があるもので、その日が法第十七条第一項第二号に掲げる措置をとる日前三月以内であるものに限る。）の提示を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（１）</span>　<span data-xpath="">国税又は地方税の領収証書又は納税証明書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（２）</span>　<span data-xpath="">所得税法第七十四条第二項に規定する社会保険料の領収証書</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 4em; text-indent: -1em;" class="_div_Subitem2Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">（３）</span>　<span data-xpath="">公共料金（日本国内において供給される電気、ガス及び水道水その他これらに準ずるものに係る料金をいう。）の領収証書又は検針票</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">交付申請者又は交付申請者と同一の世帯に属する者に係る住民票の記載事項その他の交付市町村長等が適当と認める事項の申告を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">法第十六条の二第三項の申出をしようとする交付申請者（令第十三条第三項第一号に該当する者に限る。）が、その者に係る出生の届出（戸籍法（昭和二十二年法律第二百二十四号）第四十九条第一項の届出をいう。）と同時に、その者に係る交付申請書を提出した場合には、前各号の規定にかかわらず、官公署から発行され、又は発給された書類その他これに類する書類であって、交付市町村長等が適当と認める書類（交付申請者に係る住民票に記載されている個人識別事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第五条</span>　<span data-xpath="">削除</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（本人の代理人として個人番号の提供をすることを証明する書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第六条</span>　<span data-xpath="">令第十二条第二項第一号の主務省令で定める書類は、次に掲げるいずれかの書類とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">本人の代理人として個人番号の提供をする者が法定代理人である場合には、戸籍謄本その他その資格を証明する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">本人の代理人として個人番号の提供をする者が法定代理人以外の者である場合には、委任状</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">前二号に掲げる書類の提示を受けることが困難であると認められる場合には、官公署又は個人番号利用事務等実施者から本人に対し一に限り発行され、又は発給された書類その他の本人の代理人として個人番号の提供をすることを証明するものとして個人番号利用事務実施者が適当と認める書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">個人番号利用事務等実施者は、本人の代理人から個人番号の提供を受ける場合であって当該代理人が法人であるときは、令第十二条第二項第一号に掲げる書類に代えて、前項各号に掲げるいずれかの書類であって当該法人の商号又は名称及び本店又は主たる事務所の所在地が記載されたものの提示を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（写真の表示等により代理人である個人番号提供者を確認できる書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第七条</span>　<span data-xpath="">令第十二条第二項第二号の主務省令で定める書類は、次に掲げるいずれかの書類とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">個人番号カード又は第一条第一号に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署から発行され、又は発給された書類その他これに類する書類であって、令第十二条第二項第一号に掲げる書類に記載された個人識別事項が記載され、かつ、写真の表示その他の当該書類に施された措置によって、当該書類の提示を行う者が当該個人識別事項により識別される特定の個人と同一の者であることを確認することができるものとして個人番号利用事務実施者が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">個人番号利用事務等実施者は、本人の代理人から個人番号の提供を受ける場合であって当該代理人が法人であるときは、令第十二条第二項第二号に掲げる書類に代えて、登記事項証明書その他の官公署から発行され、又は発給された書類及び現に個人番号の提供を行う者と当該法人との関係を証する書類その他これらに類する書類であって個人番号利用事務実施者が適当と認めるもの（当該法人の商号又は名称及び本店又は主たる事務所の所在地の記載があるものに限る。）の提示を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（代理人から提示を受ける本人の個人番号及び個人識別事項が記載された書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第八条</span>　<span data-xpath="">令第十二条第二項第三号の主務省令で定める書類は、本人に係る個人番号カード若しくは同条第一項第一号に掲げる書類又はこれらの写しとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（代理人である個人番号提供者を確認できる書類等の提示を受けることが困難であると認められる場合等の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第九条</span>　<span data-xpath="">個人番号利用事務等実施者は、令第十二条第二項第二号に掲げる書類の提示を受けることが困難であると認められる場合には、これに代えて、次に掲げる書類のうち二以上の書類（代理人の個人識別事項の記載があるものに限る。）の提示を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第二条第三項第一号に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署又は個人番号利用事務等実施者から発行され、又は発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">財務大臣等は、租税に関する事務の処理に関して、本人の代理人であって税理士法（昭和二十六年法律第二百三十七号）第二条第一項の事務を行う者から個人番号の提供を受ける場合には、令第十二条第二項第一号に掲げる書類又は第六条第二項の書類に記載された当該代理人の個人識別事項又は商号若しくは名称及び本店若しくは主たる事務所の所在地（以下この項において「個人識別事項等」という。）について、同法第十九条第一項の税理士名簿若しくは同法第四十八条の十第二項の税理士法人の名簿又は税理士法施行規則（昭和二十六年大蔵省令第五十五号）第二十六条第一項の書面に記録されている当該個人識別事項等を確認することをもって、第七条第二項又は前項の規定による書類の提示を受けることに代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">個人番号利用事務等実施者は、本人確認の上特定個人情報ファイルを作成している場合であって、個人番号利用事務等を処理するに当たって当該特定個人情報ファイルに記録されている個人番号その他の事項を確認するため電話により本人の代理人から個人番号の提供を受けるときは、令第十二条第二項第一号又は第二号に掲げる書類の提示を受けることに代えて、本人及び代理人しか知り得ない事項その他の個人番号利用事務実施者が適当と認める事項の申告を受けることにより、当該提供を行う者が当該特定個人情報ファイルに記録されている者の代理人であることを確認しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">個人番号利用事務等実施者は、本人の代理人から個人番号の提供を受ける場合であって、その者と雇用関係にあることその他の事情を勘案し、その者が令第十二条第二項第一号に掲げる書類に記載されている個人識別事項により識別される特定の個人と同一の者であることが明らかであると個人番号利用事務実施者が認める場合には、令第十二条第二項第二号又は第七条第二項に掲げる書類の提示を受けることを要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">５</span>　<span data-xpath="">個人番号利用事務等実施者は、本人が国外転出者である場合又は令第十二条第二項第三号に掲げる書類の提示を受けることが困難であると認められる場合には、これに代えて、次に掲げるいずれかの措置をとらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">法第十四条第二項の規定により機構から本人に係る機構保存本人確認情報（国外転出者にあっては、本人に係る機構保存本人確認情報に記録されている個人番号及び機構保存附票本人確認情報）の提供を受けること（個人番号利用事務実施者が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">都道府県知事保存本人確認情報に記録されている本人の個人番号及び個人識別事項（国外転出者にあっては、都道府県知事保存本人確認情報に記録されている当該個人番号及び都道府県知事保存附票本人確認情報に記録されている当該個人識別事項）を確認すること（当該都道府県知事保存本人確認情報（国外転出者にあっては、当該都道府県知事保存本人確認情報及び当該都道府県知事保存附票本人確認情報）を保存する都道府県知事が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">住民基本台帳法第三十条の十五第二項の規定により都道府県知事から本人に係る都道府県知事保存本人確認情報の提供を受けること（国外転出者にあっては、本人に係る都道府県知事保存本人確認情報に記録されている個人番号の提供を受けるとともに、同法第三十条の四十四の六第二項の規定により都道府県知事から当該者に係る都道府県知事保存附票本人確認情報の提供を受けること。）（当該都道府県知事以外の当該都道府県の執行機関が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">住民基本台帳に記録されている本人の個人番号及び個人識別事項を確認すること（当該住民基本台帳を備える市町村の長が個人番号の提供を受ける場合に限る。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">五</span>　<span data-xpath="">本人確認の上特定個人情報ファイルを作成している場合には、当該特定個人情報ファイルに記録されている個人番号及び個人識別事項を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">六</span>　<span data-xpath="">官公署又は個人番号利用事務等実施者から発行され、又は発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの（本人の個人番号及び個人識別事項の記載があるものに限る。）の提示を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">６</span>　<span data-xpath="">税務署長は、次の各号に掲げるときは、所得税法第二百二十九条又は消費税法第九条第四項若しくは第五十七条第一項（同項第一号に係る部分に限る。）に規定する届出書の提出において、過去に法第十六条の規定により本人確認の措置を講じている者について、前項第一号に掲げる措置をとることにより令第十二条第二項第三号に掲げる書類の提示を受けることに代えることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">所得税法第百四十三条の承認を受けている居住者の代理人又は同法第百六十六条において準用する同法第百四十三条の承認を受けている非居住者の代理人から同法第二条第一項第四十号に規定する青色申告書の提出を受けるとき（当該申告書に同法第百二十二条第一項第一号若しくは第二号又は第百二十三条第二項第六号若しくは第七号に掲げる金額の記載がある場合及び同法第百二十四条又は第百二十五条の規定による当該申告書の提出を相続人の代理人から受ける場合を除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">消費税法第二条第一項第三号に規定する個人事業者の代理人から同法第四十二条の二に規定する中間申告書又は同法第四十五条第一項に規定する申告書の提出を受けるとき（当該申告書に同項第五号に掲げる不足額の記載がある場合及び同条第二項又は第三項の規定による当該申告書の提出を相続人の代理人から受ける場合を除く。）。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（電子情報処理組織を使用して本人の代理人から個人番号の提供を受ける場合の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十条</span>　<span data-xpath="">個人番号利用事務等実施者は、その使用に係る電子計算機と個人番号の提供を行う者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して本人の代理人から個人番号の提供を受ける場合には、次に掲げる措置をとらなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">本人及び代理人の個人識別事項並びに本人の代理人として個人番号の提供を行うことを証明する情報の送信を受けることその他の個人番号利用事務実施者が適当と認める方法により、当該提供を行う者が本人の代理人として当該提供を行うことを確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">代理人に係る署名用電子証明書及び当該署名用電子証明書により確認される電子署名が行われた当該提供に係る情報の送信を受けることその他の個人番号利用事務実施者が適当と認める方法により、当該電子情報処理組織に電気通信回線で接続した電子計算機を使用する者が当該提供を行う者であることを確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">次に掲げるいずれかの措置により、本人の個人番号及び個人識別事項を確認すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">イ</span>　<span data-xpath="">前条第五項第一号から第五号までに掲げるいずれかの措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 3em; text-indent: -1em;" class="_div_Subitem1Sentence _shokanBoxParent">
+    <span style="font-weight: bold;">ロ</span>　<span data-xpath="">官公署若しくは個人番号利用事務等実施者から発行され、若しくは発給された書類その他これに類する書類であって個人番号利用事務実施者が適当と認めるもの（本人の個人番号及び個人識別事項の記載があるものに限る。）若しくはその写しの提出を受けること又は個人番号利用事務実施者が適当と認める方法により当該書類に係る電磁的記録の送信を受けること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（書面の送付により個人番号の提供を受ける場合の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十一条</span>　<span data-xpath="">個人番号利用事務等実施者は、個人番号が記載された書面の送付により個人番号の提供を受ける場合には、法第十六条、令第十二条第一項若しくは第二項又は第一条の二第一項（第五号に係る部分に限る。）若しくは第二項、第二条第一項（第六号に係る部分に限る。）、第三項若しくは第四項、第六条第二項、第七条第二項若しくは第九条第一項若しくは第五項第六号の規定により提示を受けることとされている書類又はその写しの提出を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">第一条の二第一項及び第二条第一項の規定は前項の規定による令第十二条第一項第一号に掲げる書類又はその写しの提出を受けることについて、第一条の二第二項、第二条第三項及び第四項の規定は前項の規定による令第十二条第一項第二号に掲げる書類又はその写しの提出を受けることについて、第九条第一項及び第二項の規定は前項の規定による令第十二条第二項第二号に掲げる書類又はその写しの提出を受けることについて、第九条第五項の規定は前項の規定による令第十二条第二項第三号に掲げる書類又はその写しの提出を受けることについて、それぞれ準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（個人番号指定請求書の提出を受ける場合の本人確認の措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十二条</span>　<span data-xpath="">令第三条第二項において準用する法第十六条の規定による個人番号指定請求書（令第三条第一項に規定する個人番号指定請求書をいう。以下同じ。）の提出を受ける市町村長が行う本人確認の措置については、第一条、第二条第一項（第一号から第三号まで、第五号及び第六号を除く。）及び第三項、第三条（第二号ロを除く。）並びに第十七条第一項の規定を準用する。</span><span data-xpath="">この場合において、第一条第一号中「特別永住者証明書」とあるのは「特別永住者証明書のうち個人番号指定請求書（令第三条第一項に規定する個人番号指定請求書をいう。以下同じ。）の提出を受ける市町村長（特別区の区長を含む。以下同じ。）が適当と認めるもの」と、同条第二号中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、第二条第三項中「二以上」とあるのは「二以上（当該書類の提示を受けるとともに当該書類の提示を行う者又はその者と同一の世帯に属する者に係る住民票の記載事項について申告を受けることその他の個人番号指定請求書の提出を受ける市町村長が適当と認める措置をとることにより当該書類の提示を行う者が当該書類に記載された個人識別事項により識別される特定の個人と同一の者であることを確認することができる場合には、一以上）」と、同項第一号中「児童扶養手当証書」とあるのは「児童扶養手当証書のうち個人番号指定請求書の提出を受ける市町村長が適当と認める書類」と、同項第二号中「個人番号利用事務実施者が」とあるのは「個人番号指定請求書の提出を受ける市町村長が」と、第三条第一号の二中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、同条第二号イ中「前条第一項第一号から第五号まで（国外転出者にあっては、第一条の二第一項第一号から第四号まで）に掲げるいずれかの」とあるのは「第十二条第一項において準用する前条第一項第四号に掲げる」と、同号ニ中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">令第三条第七項において準用する令第十二条第二項の規定による個人番号指定請求書の提出を受ける市町村長が行う本人確認の措置については、第六条から第八条まで、第九条第一項及び第五項（第一号から第三号まで、第五号及び第六号を除く。）、第十条（第三号ロを除く。）並びに第十七条第一項の規定を準用する。</span><span data-xpath="">この場合において、第六条第一項第三号中「個人番号利用事務実施者」とあるのは「個人番号指定請求書（令第三条第一項に規定する個人番号指定請求書をいう。以下同じ。）の提出を受ける市町村長」と、第七条第一項第一号中「書類」とあるのは「書類のうち個人番号指定請求書の提出を受ける市町村長が適当と認めるもの」と、同項第二号中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、同条第二項中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、第九条第一項中「二以上」とあるのは「二以上（当該書類の提示を受けるとともに当該書類の提示を行う者又はその者と同一の世帯に属する者に係る住民票の記載事項について申告を受けることその他の個人番号指定請求書の提出を受ける市町村長が適当と認める措置をとることにより当該書類の提示を行う者が当該書類に記載された個人識別事項により識別される特定の個人と同一の者であることを確認することができる場合には、一以上）」と、同項第一号中「書類」とあるのは「書類のうち個人番号指定請求書の提出を受ける市町村長が適当と認めるもの」と、同項第二号中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、第十条第一号及び第二号中「個人番号利用事務実施者」とあるのは「個人番号指定請求書の提出を受ける市町村長」と、同条第三号イ中「前条第五項第一号から第五号までに掲げるいずれかの」とあるのは「第十二条第二項において準用する前条第五項第四号に掲げる」と読み替えるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">個人番号指定請求書の提出を受ける市町村長は、個人番号指定請求書の送付によりその提出を受ける場合には、令第三条第二項において準用する法第十六条、令第十二条第一項若しくは第三条第七項において準用する令第十二条第二項又は第一項において準用する第二条第三項若しくは前項において準用する第六条第二項、第七条第二項若しくは第九条第一項の規定により提示を受けることとされている書類又はその写しの提出を受けなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">第一項において準用する第二条第一項（第一号から第三号まで、第五号及び第六号を除く。）の規定は前項の規定による令第十二条第一項第一号に掲げる書類又はその写しの提出を受けることについて、第一項において読み替えて準用する第二条第三項の規定は前項の規定による令第十二条第一項第二号に掲げる書類又はその写しの提出を受けることについて、第二項において読み替えて準用する第九条第一項の規定は前項の規定による令第十二条第二項第二号に掲げる書類又はその写しの提出を受けることについて、第二項において準用する第九条第五項（第一号から第三号まで、第五号及び第六号を除く。）の規定は前項の規定による令第十二条第二項第三号に掲げる書類又はその写しの提出を受けることについて、それぞれ準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（交付申請者の代理人から提示を受ける書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十三条</span>　<span data-xpath="">令第十三条第七項後段の主務省令で定める書類は、回答書とする。</span><span data-xpath="">ただし、交付申請者の代理人として個人番号カードの交付を受ける者が法定代理人である場合には、交付市町村長等が必要と認める場合に限るものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（交付申請者の代理人として個人番号カードの交付を受けることを証明する書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十四条</span>　<span data-xpath="">令第十三条第七項第一号の主務省令で定める書類は、次に掲げるいずれかの書類とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">交付申請者の代理人として個人番号カードの交付を受ける者が法定代理人である場合には、戸籍謄本その他その資格を証明する書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">交付申請者の代理人として個人番号カードの交付を受ける者が法定代理人以外の者である場合には、交付申請者の指定の事実を確認するに足る資料</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（写真の表示等により交付申請者の代理人を確認できる書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十五条</span>　<span data-xpath="">令第十三条第七項第二号の主務省令で定める書類は、第四条第一号から第三号までに掲げるいずれかの書類とする。</span><span data-xpath="">ただし、個人番号カードの交付を受けている者が代理人として個人番号カードの交付を受ける場合においては、同条中第一号から第三号までの規定の適用については、これらの規定中「いずれかの書類」とあるのは、「いずれかの書類、個人番号カード」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（代理人から提示を受ける交付申請者の個人識別事項の記載等がされた書類）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十六条</span>　<span data-xpath="">令第十三条第七項第三号の主務省令で定める書類は、次に掲げる書類のうち二以上の書類とする。</span><span data-xpath="">ただし、当該書類には、第一号に掲げる一以上の書類を含むものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第一条第一号に掲げるいずれかの書類又は一時庇護許可書若しくは仮滞在許可書のうち交付市町村長等が適当と認めるもの</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">前号に掲げるもののほか、官公署から発行され、又は発給された書類その他これに類する書類であって交付市町村長等が適当と認めるもの（交付申請者の個人識別事項が記載され、及び交付申請者の写真が表示されたものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">交付市町村長等は、前項に掲げる書類の提示を受けることが困難であると認められる場合には、次に掲げる書類の提示を受けるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">前項第一号に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第二条第三項第一号に掲げる書類その他の交付市町村長等が適当と認める書類（交付申請者の個人識別事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">交付市町村長等は、前二項に掲げる書類の提示を受けることが困難であると認められる場合には、次に掲げる書類の提示を受けるものとする。</span><span data-xpath="">ただし、交付申請者が特定年齢未満申請者であるときは、第一号に掲げる書類の提示を要しない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">第一項第二号に掲げる書類</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">第二条第三項第一号に掲げる書類その他の交付市町村長等が適当と認める二以上の書類（交付申請者の個人識別事項の記載があるものに限る。）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">４</span>　<span data-xpath="">令第十三条第四項ただし書の主務省令で定める書類は、官公署から発行され、又は発給された書類その他これに類する書類であって、交付市町村長等が適当と認める書類（交付申請者に係る住民票に記載されている個人識別事項の記載があるものに限る。）とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（訳文の添付）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十七条</span>　<span data-xpath="">個人番号利用事務等実施者は、法、令又はこの命令の規定により個人番号の提供を行う者から提示又は提出を受けることとされている書類が外国語により作成されている場合には、翻訳者を明らかにした訳文の添付を求めることができる。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">前項の規定は、交付市町村長等が交付申請者から提示を受けることとされている書類について準用する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定個人情報を提供することができる住民基本台帳法の規定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十八条</span>　<span data-xpath="">令第十九条の主務省令で定める住民基本台帳法の規定は、同法第十二条の四第三項若しくは第四項（同法第三十条の五十一の規定により読み替えて適用する場合を含む。）、第十二条の五、第十三条、第十四条第二項、第十五条の四第五項において準用する第十二条第五項（同法第三十条の五十一の規定により読み替えて適用する場合を含む。）、第二十二条第二項、第二十四条の二第三項若しくは第六項、第三十条の八、第三十条の十第一項第三号、第三十条の十一第一項第三号、第三十条の十二第一項第三号、第三十条の十三、第三十条の十四、第三十条の十五第二項、第三十条の十五の二第三項、第三十条の二十第一項、第三十条の三十五又は第三十四条第一項若しくは第二項の規定とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（特定個人情報を提供することができる地方税法の規定）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第十九条</span>　<span data-xpath="">令第二十一条の主務省令で定める地方税法（昭和二十五年法律第二百二十六号）の規定は、同法第八条第一項若しくは第二項（同法第八条の二第三項（同法第八条の三第二項において準用する場合を含む。）において準用する場合を含む。）、第八条の二第一項若しくは第二項、第八条の三第一項若しくは第三項、第十九条の六、第二十条の三第一項、第二十条の四第一項、第四十一条第三項、第四十六条第一項から第三項まで、第五十三条第六十二項若しくは第六十三項、第五十五条の三、第五十八条第四項若しくは第六項、第六十三条、第七十二条の二十五第二項（同条第六項（同法第七十二条の二十八第二項又は第七十二条の二十九第二項において準用する場合を含む。）、同法第七十二条の二十八第二項又は第七十二条の二十九第二項において準用する場合を含む。）、第四項（同法第七十二条の二十五第七項（同法第七十二条の二十八第二項又は第七十二条の二十九第二項において準用する場合を含む。）、第七十二条の二十八第二項又は第七十二条の二十九第二項において準用する場合を含む。）若しくは第五項（同法第七十二条の二十八第二項又は第七十二条の二十九第二項若しくは第六項において準用する場合を含む。）、第七十二条の三十九の三、第七十二条の四十、第七十二条の四十八の二第二項、第四項、第六項、第八項若しくは第十二項、第七十二条の四十九の二、第七十二条の五十第三項、第七十二条の五十四第三項、第七十二条の五十七の三、第七十二条の九十四、第七十三条の十八第四項、第七十三条の二十一第三項若しくは第四項、第七十三条の二十二、第七十三条の二十三、第七十四条の十九、第百四十四条の八第四項、第百四十四条の九第二項若しくは第九項、第百四十四条の三十四第四項、第百四十四条の三十五第四項、第三百二十一条の七の十四、第三百二十一条の十四第四項若しくは第六項、第三百二十一条の十五第一項若しくは第三項、第三百四十九条の四第六項若しくは第七項、第三百五十四条の二（同法第七百四十五条第一項において読み替えて準用する場合を含む。）、第三百八十九条第一項若しくは第四項（同法第四百十七条第三項において準用する場合を含む。）、第三百九十九条（同法第四百十七条第四項において準用する場合を含む。）、第四百一条第四号若しくは第五号、第四百十七条第二項、第四百十九条第一項、第四百二十一条、第四百七十九条、第六百五条、第七百一条の五十五、第七百三十九条の五第三項若しくは第五項、同条第八項において準用する同条第二項、第三項、第五項若しくは第七項、第七百四十二条、第七百四十三条第一項若しくは第二項又は第七百四十四条の規定とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地方税法等の規定により提供される特定個人情報の安全を確保するために必要な措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十条</span>　<span data-xpath="">令第二十二条第三号の主務省令で定める措置は、次に掲げる措置とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">令第二十二条第一号に規定する記録に係る特定の個人を識別すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">特定個人情報の提供を受ける者に対し、特定個人情報を提供する者の名称、特定個人情報の提供の日時及び提供を受ける特定個人情報の項目を記録し、当該記録に係る特定の個人を識別するとともに、当該記録を令第二十九条に規定する期間保存するよう求めること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">国税庁長官又は都道府県知事若しくは市町村長の使用に係る電子計算機を相互に電気通信回線で接続した電子情報処理組織を使用して特定個人情報を提供する場合には、情報通信の技術の利用における安全性及び信頼性を確保するために必要な基準として内閣総理大臣が定める基準に従って行うこと。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">四</span>　<span data-xpath="">前三号に掲げるもののほか、特定個人情報の安全を確保するために必要な措置として内閣総理大臣が定める措置</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（社債、株式等の振替に関する法律の規定により提供される特定個人情報の安全を確保するために必要な措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条</span>　<span data-xpath="">令第二十四条第三号の主務省令で定める措置は、次に掲げる措置とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">令第二十四条第一号に規定する記録に係る特定の個人を識別すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">特定個人情報の提供を受ける者に対し、その使用に係る電子計算機に特定個人情報を提供する者の名称、特定個人情報の提供の日時及び提供を受ける特定個人情報の項目を記録し、当該記録に係る特定の個人を識別するとともに、当該記録を令第二十九条に規定する期間保存するよう求めること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">三</span>　<span data-xpath="">情報通信の技術の利用における安全性及び信頼性を確保するために必要な基準として内閣総理大臣が定める基準に従って特定個人情報を提供すること。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（中期計画の認可の申請）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条の二</span>　<span data-xpath="">機構は、法第三十八条の九第一項の規定により中期計画の認可を受けようとするときは、当該中期計画の最初の事業年度開始の日の三十日前までに、当該中期計画を記載した申請書を主務大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">機構は、法第三十八条の九第一項後段の規定により中期計画の変更の認可を受けようとするときは、変更しようとする事項及びその理由を記載した申請書を主務大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（中期計画の記載事項）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条の三</span>　<span data-xpath="">機構に係る法第三十八条の九第二項第三号に規定する主務省令で定める個人番号カード関係事務に係る業務運営に関する事項は、次に掲げるものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">一</span>　<span data-xpath="">人事に関する計画</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div id="" style="margin-left: 2em; text-indent: -1em;" class="_div_ItemSentence _shokanBoxParent">
+    <span style="font-weight: bold;">二</span>　<span data-xpath="">その他中期目標を達成するために必要な事項</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（年度計画の記載事項等）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条の四</span>　<span data-xpath="">機構に係る法第三十八条の十に規定する年度計画には、中期計画に定めた事項に関し、当該事業年度において実施すべき事項を記載しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">機構は、法第三十八条の十後段の規定により年度計画の変更をしたときは、変更した事項及びその理由を記載した届出書を主務大臣に提出しなければならない。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（業務実績等報告書）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十一条の五</span>　<span data-xpath="">機構に係る法第三十八条の十一第二項の報告書には、当該報告書が次の表の上欄に掲げる報告書のいずれに該当するかに応じ、同表の下欄に掲げる事項を記載しなければならない。</span><span data-xpath="">その際、機構は、当該報告書が同条第一項の評価の根拠となる情報を提供するために作成されるものであることに留意しつつ、機構の事務及び事業の性質、内容等に応じて区分して同欄に掲げる事項を記載するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">一　事業年度における業務の実績及び当該実績について自ら評価を行った結果を明らかにした報告書</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　当該事業年度における業務の実績。なお、当該業務の実績は、当該業務が法第三十八条の八第二項第二号に掲げる事項に係るものである場合には次のイからニまで、同項第三号及び第四号に掲げる事項に係るものである場合には次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期計画及び年度計画の実施状況</span><br><span data-xpath="">ロ　当該事業年度における業務運営の状況</span><br><span data-xpath="">ハ　当該業務に係る指標がある場合には、当該指標及び当該事業年度の属する中期目標の期間における当該事業年度以前の毎年度の当該指標の数値</span><br><span data-xpath="">ニ　当該事業年度の属する中期目標の期間における当該事業年度以前の毎年度の当該業務に係る人員に関する情報</span><br><span data-xpath="">二　当該業務が法第三十八条の八第二項第二号から第四号までに掲げる事項に係るものである場合には、前号に掲げる業務の実績について機構が評価を行った結果。なお、当該評価を行った結果は、次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期目標に定めた項目ごとの評定及び当該評定を付した理由</span><br><span data-xpath="">ロ　業務運営上の課題が検出された場合には、当該課題及び当該課題に対する改善方策</span><br><span data-xpath="">ハ　過去の報告書に記載された改善方策のうちその実施が完了した旨の記載がないものがある場合には、その実施状況</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">二　中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績及び当該実績について自ら評価を行った結果を明らかにする報告書</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　中期目標の期間の終了時に見込まれる中期目標の期間における業務の実績。なお、当該業務の実績は、当該業務が法第三十八条の八第二項第二号に掲げる事項に係るものである場合には次のイからニまで、同項第三号及び第四号に掲げる事項に係るものである場合には次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期目標及び中期計画の実施状況</span><br><span data-xpath="">ロ　当該期間における業務運営の状況</span><br><span data-xpath="">ハ　当該業務に係る指標がある場合には、当該指標及び当該期間における毎年度の当該指標の数値</span><br><span data-xpath="">ニ　当該期間における毎年度の当該業務に係る人員に関する情報</span><br><span data-xpath="">二　当該業務が法第三十八条の八第二項第二号から第四号までに掲げる事項に係るものである場合には、前号に掲げる業務の実績について機構が評価を行った結果。なお、当該評価を行った結果は、次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期目標に定めた項目ごとの評定及び当該評定を付した理由</span><br><span data-xpath="">ロ　業務運営上の課題が検出された場合には、当該課題及び当該課題に対する改善方策</span><br><span data-xpath="">ハ　過去の報告書に記載された改善方策のうちその実施が完了した旨の記載がないものがある場合には、その実施状況</span>
+    </div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">三　中期目標の期間における業務の実績及び当該実績について自ら評価を行った結果を明らかにする報告書</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div>
+    <span data-xpath="">一　中期目標の期間における業務の実績。なお、当該業務の実績は、当該業務が法第三十八条の八第二項第二号に掲げる事項に係るものである場合には次のイからニまで、同項第三号及び第四号に掲げる事項に係るものである場合には次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期目標及び中期計画の実施状況</span><br><span data-xpath="">ロ　当該期間における業務運営の状況</span><br><span data-xpath="">ハ　当該業務に係る指標がある場合には、当該指標及び当該期間における毎年度の当該指標の数値</span><br><span data-xpath="">ニ　当該期間における毎年度の当該業務に係る人員に関する情報</span><br><span data-xpath="">二　当該業務が法第三十八条の八第二項第二号から第四号までに掲げる事項に係るものである場合には、前号に掲げる業務の実績について機構が評価を行った結果。なお、当該評価を行った結果は、次のイからハまでに掲げる事項を明らかにしたものでなければならない。</span><br><span data-xpath="">イ　中期目標に定めた項目ごとの評定及び当該評定を付した理由</span><br><span data-xpath="">ロ　業務運営上の課題が検出された場合には、当該課題及び当該課題に対する改善方策</span><br><span data-xpath="">ハ　過去の報告書に記載された改善方策のうちその実施が完了した旨の記載がないものがある場合には、その実施状況</span>
+    </div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">機構は、前項に規定する報告書を主務大臣に提出したときは、速やかに、当該報告書をインターネットの利用その他の適切な方法により公表するものとする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（指定都市の区及び総合区に対するこの命令の適用）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二十二条</span>　<span data-xpath="">地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市についてこの命令の規定を適用する場合には、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div class="_shokanBoxParent">
+    <table class="Table" style="margin-left: 1em;">
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四条第一号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">法第十七条第一項の規定により個人番号カードを交付する市町村長又は同条第二項若しくは第四項の規定により交付市町村長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第四十三条第二項の規定により読み替えて適用する法第十七条第一項の規定により個人番号カードを交付する市長又は令第四十三条第二項の規定により読み替えて適用する法第十七条第二項若しくは第四項の規定により住所地区長若しくは附票管理区長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市長等</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第四条第二号から第六号まで、第十三条並びに第十六条第一項及び第四項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市長等</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十二条第一項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長が行う</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長（総合区長を含む。以下同じ。）が行う</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長（特別区の区長を含む。以下同じ。）</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長」</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長」</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二条第三項中</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第二条第一項第四号中「備える市町村（特別区を含む。以下同じ。）の長」とあるのは「作成した区長（総合区長を含む。）」と、同条第三項中</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長が適当</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長が適当</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長が」</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長が」</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十二条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十条第一号</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">同条第五項第四号中「備える市町村の長」とあるのは「作成した区長（総合区長を含む。）」と、第十条第一号</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十二条第三項及び附則第二条第三項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">市町村長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">区長</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十六条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等は</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第四十三条第二項の規定により読み替えて適用する法第十七条第一項の措置をとるものとされた住所地区長若しくは附票管理区長又は令第四十三条第二項の規定により読み替えて適用する法第十七条第二項若しくは第四項の規定により住所地区長若しくは附票管理区長に代わって同条第一項第二号の措置をとる領事官若しくは市町村長（次項及び第十七条第二項において「住所地区長等」という。）は</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等が</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市長等が</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black none 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十六条第三項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等は</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">住所地区長等は</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black none 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"> </td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等が</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市長等が</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">第十七条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">交付市町村長等</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">住所地区長等</span></div></td>
+    </tr>
+    <tr class="TableRow">
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">附則第二条第二項</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">法第十七条第一項の規定により個人番号カードを交付する市町村長又は同条第二項若しくは第四項の規定により交付市町村長</span></div></td>
+    <td style="border-top: black solid 1px; border-bottom: black solid 1px; border-left: black solid 1px; border-right: black solid 1px;" class="col-pad"><div><span data-xpath="">令第四十三条第二項の規定により読み替えて適用する法第十七条第一項の規定により個人番号カードを交付する市長及び同項の措置をとるものとされた住所地区長若しくは附票管理区長又は令第四十三条第二項の規定により読み替えて適用する法第十七条第二項若しくは第四項の規定により住所地区長若しくは附票管理区長</span></div></td>
+    </tr>
+    </table>
+    <div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この命令は、法の施行の日から施行する。</span><span data-xpath="">ただし、第一条から第十一条まで、第十三条から第十八条（住民基本台帳法第三十条の十三、第三十条の十四及び第三十条の十五第二項に係る部分に限る。）まで及び第二十二条（同条の表第十二条第一項の項から第十二条第三項及び附則第二条第三項の項までに係る部分を除く。）並びに次条第一項及び第二項の規定は、法附則第一条第四号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（住民基本台帳法の一部改正に伴う法第十六条の主務省令で定める書類等に関する経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第二十条第一項の規定によりなお従前の例によることとされた住民基本台帳カード（当該住民基本台帳カードの交付を受けている者の写真が表示されたものに限る。次項及び第三項において「住民基本台帳カード」という。）の交付を受けている者から個人番号の提供を受ける個人番号利用事務等実施者についての第一条及び第七条第一項の規定の適用については、第一条第一号中「運転免許証」とあるのは「行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第二十条第一項の規定によりなお従前の例によることとされた住民基本台帳カード、運転免許証」と、第七条第一項第一号中「第一条」とあるのは「附則第二条第一項の規定により読み替えて適用する第一条」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">２</span>　<span data-xpath="">住民基本台帳カードの交付を受けている者に対して法第十七条第一項の規定により個人番号カードを交付する市町村長又は同条第二項若しくは第四項の規定により交付市町村長に代わって同条第一項第二号の措置をとるものとされた領事官若しくは市町村長についての第四条、第十五条及び第十六条第一項の規定の適用については、第四条第一号中「第一条」とあるのは「行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第二十条第一項の規定によりなお従前の例によることとされた住民基本台帳カード（以下「住民基本台帳カード」という。）、第一条」と、同条第二号及び第三号イ中「第一条」とあるのは「住民基本台帳カード、第一条」と、第十五条中「第四条」とあるのは「附則第二条第二項の規定により読み替えて適用する第四条」と、第十六条第一項第一号中「第一条」とあるのは「住民基本台帳カード、第一条」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">３</span>　<span data-xpath="">住民基本台帳カードの交付を受けている者から個人番号指定請求書の提出を受ける市町村長についての第十二条第一項及び第二項の規定の適用については、同条第一項中「特別永住者証明書」」とあるのは「運転免許証」とあるのは「行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第二十条第一項の規定によりなお従前の例によることとされた住民基本台帳カード、運転免許証」と、「特別永住者証明書」」と、同条第二項中「第七条第一項第一号中」とあるのは「第七条第一項第一号中「又は」とあるのは「、行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律（平成二十五年法律第二十八号）第二十条第一項の規定によりなお従前の例によることとされた住民基本台帳カード又は」と、」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地方消費税の譲渡割に関する特定個人情報の提供に係る特例）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第三条</span>　<span data-xpath="">地方税法附則第九条の四の規定の適用がある場合には、第十九条の規定の適用については、同条中「又は第七百四十四条」とあるのは、「、第七百四十四条又は附則第九条の十三第一項若しくは第二項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（地方税法の一部改正に伴う経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第四条</span>　<span data-xpath="">地方税法の一部を改正する法律（平成二十五年法律第三号）附則第一条第三号に掲げる規定の施行の日前における第十九条の規定の適用については、同条中「第五十三条第四十項若しくは第四十一項」とあるのは「第五十三条第四十六項若しくは第四十七項」と、「、第七十二条の二十五第二項」とあるのは「、第六十五条の二第一項から第三項まで、第七十二条の二十五第二項」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年九月一八日内閣府・総務省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年一二月二一日内閣府・総務省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二七年一二月二四日内閣府・総務省令第五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（平成二十八年一月一日）から施行する。</span><span data-xpath="">ただし、第二十二条の改正規定は、地方自治法の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二八年三月三一日内閣府・総務省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令中第十九条の改正規定は平成二十八年四月一日から、第一条第三項の改正規定は平成三十一年十月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年三月三一日内閣府・総務省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年一二月八日内閣府・総務省令第七号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この命令は、平成三十年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「法」という。）附則第一条第四号に掲げる規定の施行の日前に所得税法（昭和四十年法律第三十三号）第二百二十九条又は消費税法（昭和六十三年法律第百八号）第九条第四項若しくは第五十七条第一項（同項第一号に係る部分に限る。）に規定する届出書を提出した者（所得税法の一部を改正する法律（昭和二十五年法律第七十一号）の施行の日前において、同法による改正後の所得税法（昭和二十二年法律第二十七号）第六十六条の二の規定を適用することとしたならば、同条に規定する申告をしなければならない者を含む。）のうち、法附則第一条第四号に掲げる規定の施行の日以後の所得税法第二条第一項第三十七号に規定する確定申告書又は消費税法第二条第一項第十七号に規定する確定申告書等若しくは第四十二条の二に規定する中間申告書の提出において、法第十六条の規定により本人確認の措置を講じている者は、この命令による改正後の行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則第三条第二項柱書及び第九条第六項柱書に規定する法第十六条に規定する本人確認の措置を講じている者とみなす。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成二九年一二月二八日内閣府・総務省令第九号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、平成三十年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三〇年三月三一日内閣府・総務省令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、平成三十年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（平成三一年三月二九日内閣府・総務省令第二号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、平成三十一年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年五月三一日内閣府・総務省令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（令和元年法律第十六号）附則第一条第二号に掲げる規定の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和元年六月一二日内閣府・総務省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令（令和元年政令第二十五号）の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和二年五月一一日内閣府・総務省令第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（令和元年法律第十六号）附則第一条第六号に掲げる規定及び同条第十号に掲げる規定（同法第四条中行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第十七条第四項の改正規定に限る。）の施行の日（令和二年五月二十五日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年八月二七日内閣府・総務省令第一一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第一条</span>　<span data-xpath="">この命令は、令和三年九月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section><section id="" class="active Article"><div style="margin-left: 1em; font-weight: bold;" class="_div_ArticleCaption _shokanBoxParent">
+    <span data-xpath="">（中期計画の認可申請に係る経過措置）</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" id="" class="_div_ArticleTitle _shokanBoxParent">
+    <span style="font-weight: bold;">第二条</span>　<span data-xpath="">この命令の施行日を含む事業年度を最初の事業年度とする中期計画に係るこの命令による改正後の行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則第二十一条の二第一項の規定の適用については、「当該中期計画の最初の事業年度開始の日の三十日前までに」とあるのは「令和三年九月一日以後最初の中期目標の指示を受けた後遅滞なく」とする。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和三年一一月三〇日デジタル庁・総務省令第一号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、令和四年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年二月二五日デジタル庁・総務省令第三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、年金制度の機能強化のための国民年金法等の一部を改正する法律の施行の日（令和四年四月一日）から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年三月三一日デジタル庁・総務省令第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、令和四年四月一日から施行する。</span><span data-xpath="">ただし、第十九条の改正規定中「第七十三条の十八第三項」を「第七十三条の十八第四項」に改める部分は、令和五年四月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和四年一二月二八日デジタル庁・総務省令第一三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、令和五年二月六日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和五年三月三一日デジタル庁・総務省令第四号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、令和五年四月一日から施行する。</span><span data-xpath="">ただし、第十九条の改正規定（「第七十二条の二十九第二項」を「第七十二条の二十九第二項若しくは第六項」に改める部分を除く。）は、令和六年一月一日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年五月二〇日デジタル庁・総務省令第六号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年五月二四日デジタル庁・総務省令第一〇号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、令和六年五月二十七日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年七月一日デジタル庁・総務省令第一三号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、特別児童扶養手当等の支給に関する法律施行令の一部を改正する政令の施行の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和六年九月一三日デジタル庁・総務省令第一八号）　抄<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div id="" style="margin-left: 1em; font-weight: bold;" class="_div_ParagraphCaption _shokanBoxParent">
+    <span data-xpath="">（施行期日）</span><div class="_shokanBox"></div>
+    <div class="_inyoBox"></div>
+    </div>
+    <div style="margin-left: 1em; text-indent: -1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span style="font-weight: bold;">１</span>　<span data-xpath="">この命令は、行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和六年十二月二日）から施行する。</span><span data-xpath="">ただし、第一条中行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則第十八条の改正規定は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section><section id="" class="active SupplProvision"><div class="_div_SupplProvisionLabel SupplProvisionLabel _shokanBoxParent" style="margin-bottom: 10px; margin-left: 3em; font-weight: bold;">
+    <span data-xpath="">附　則</span>　（令和七年六月一七日デジタル庁・総務省令第五号）<div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div>
+    <section class="active Paragraph"><div style="text-indent: 1em;" class="_div_ParagraphSentence _shokanBoxParent">
+    <span data-xpath="">この命令は、公布の日から施行する。</span><div class="_shokanBox" id="_shokan_"><div class="_shokanBtnIcons"></div></div>
+    <div class="_inyoBox" id="_inyo_"></div>
+    </div></section></section>
+    
+    
+    
+    
+    
+    </div>
+    </main>
+    
+    
